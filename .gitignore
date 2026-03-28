@@ -6,15 +6,11 @@
 .pub-cache/
 .pub/
 build/
-*.iml
 
-# Android
-android/local.properties
+# Android - keep local.properties template in git for CI reference
+# android/local.properties  <-- intentionally NOT excluded (template only)
 android/.gradle
 android/captures/
-android/gradlew
-android/gradlew.bat
-android/gradle/
 android/key.properties
 **/*.jks
 
@@ -30,9 +26,3 @@ android/key.properties
 
 # Coverage
 coverage/
-
-# Symbols
-app.*.symbols
-
-# Obfuscation
-app.*.map.json
