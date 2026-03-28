@@ -9,7 +9,6 @@ import '../services/progress_service.dart';
 import '../services/content_service.dart';
 import '../theme/app_theme.dart';
 import '../widgets/language_toggle.dart';
-import 'lesson_screen.dart';
 
 
 class GlossaryScreen extends StatefulWidget {

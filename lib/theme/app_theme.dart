@@ -57,7 +57,7 @@ class AppTheme {
         secondary: rougeFrance,
         tertiary: or,
         surface: cardColor,
-        background: bgColor,
+        background: bgColor,  // ignore: deprecated_member_use
         error: errorColor,
       ),
       textTheme: textTheme,
