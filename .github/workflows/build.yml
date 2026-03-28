@@ -1,0 +1,78 @@
+name: 🇫🇷 Build France Pour Tous APK
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+  workflow_dispatch:
+
+jobs:
+  build-apk:
+    name: Build Flutter Android APK
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: ☕ Set up Java 17
+        uses: actions/setup-java@v4
+        with:
+          java-version: '17'
+          distribution: 'temurin'
+
+      - name: 🦋 Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.22.0'
+          channel: 'stable'
+          cache: true
+
+      - name: 📦 Install dependencies
+        run: flutter pub get
+
+      - name: 🔍 Analyze code
+        run: flutter analyze --no-fatal-infos
+
+      - name: 🏗️ Build Debug APK
+        run: flutter build apk --debug --split-per-abi
+
+      - name: 🏗️ Build Release APK (unsigned)
+        run: flutter build apk --release --no-shrink
+
+      - name: 📤 Upload Debug APKs
+        uses: actions/upload-artifact@v4
+        with:
+          name: france-pour-tous-debug-apks
+          path: build/app/outputs/flutter-apk/*debug*.apk
+          retention-days: 30
+
+      - name: 📤 Upload Release APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: france-pour-tous-release
+          path: build/app/outputs/flutter-apk/app-release.apk
+          retention-days: 90
+
+      - name: 🚀 Create GitHub Release
+        if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{ github.run_number }}
+          name: "🇫🇷 France Pour Tous — v${{ github.run_number }}"
+          body: |
+            ## 📱 France Pour Tous — Application bilingue FR/RU
+            ### Nouveautés de cette version
+            - Application d'acculturation pour russophones
+            - 10 modules × 5 leçons avec quiz interactifs
+            - Toggle FR/RU instantané
+            - Dashboard de progression
+            - Glossaire thématique
+            - Section Urgences & Liens utiles
+          files: |
+            build/app/outputs/flutter-apk/app-release.apk
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
