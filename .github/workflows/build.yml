@@ -12,7 +12,8 @@ jobs:
     name: Build Flutter Android APK
     runs-on: ubuntu-latest
     permissions:
-        contents: write   
+      contents: write
+
     steps:
       - name: 📥 Checkout repository
         uses: actions/checkout@v4

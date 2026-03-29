@@ -3,276 +3,289 @@
     "module_id": 1,
     "lesson_id": 5,
     "module_icon": "🏛️",
-    "lesson_icon": "🇪🇺",
-    "estimated_minutes": 12,
+    "lesson_icon": "🌍",
+    "estimated_minutes": 10,
     "difficulty": "intermédiaire",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "Élysée — La France dans le monde",
+        "url": "https://www.elysee.fr/politique-etrangere"
+      },
+      {
+        "label": "Europa.eu — Construction européenne",
+        "url": "https://european-union.europa.eu/principles-countries-history_fr"
+      },
+      {
+        "label": "OIF — Francophonie mondiale",
+        "url": "https://www.francophonie.org"
+      },
+      {
+        "label": "INSEE — La France en chiffres 2024",
+        "url": "https://www.insee.fr/fr/statistiques/chiffres-cles"
+      }
     ]
   },
   "fr": {
-    "module_title": "Module 1",
+    "module_title": "Les Racines de la France",
     "lesson_title": "La France dans l'Europe et le monde",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : La France dans l'Europe et le monde. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "De la Ve République à aujourd'hui : puissance et identité",
+    "intro": "Depuis 1958, la France a réussi une transformation remarquable : de pays dévasté par deux guerres mondiales à membre fondateur de l'Union européenne, puissance nucléaire et membre permanent du Conseil de Sécurité de l'ONU. Mais elle reste aussi une nation profondément attachée à son identité, à son modèle social et à sa «grandeur» — ce mot que de Gaulle aimait tant.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**La France dans l'Europe et le monde** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "La Ve République : de de Gaulle à aujourd'hui",
+        "body": "La **Ve République** naît en 1958 sous de Gaulle et produit une stabilité politique inédite : seulement 8 présidents en 65 ans, contre 22 gouvernements en 12 ans sous la IVe. De Gaulle (1958–1969) forge la «grandeur française» : force de frappe nucléaire indépendante, refus de la domination américaine, reconnaissance de la Chine communiste (1964), sortie du commandement OTAN.\n\nL'après-de Gaulle voit se succéder : **Pompidou** (1969–1974, industrialisation) ; **Giscard d'Estaing** (1974–1981, libéralisation des mœurs : IVG, divorce par consentement mutuel, majorité à 18 ans) ; **Mitterrand** (1981–1995, abolition de la peine de mort, décentralisation, quinquennat à terme) ; **Chirac** (1995–2007, refus de la guerre en Irak 2003) ; **Sarkozy** (2007–2012, réintégration de l'OTAN) ; **Hollande** (2012–2017, mariage pour tous) ; **Macron** (2017–, réforme des retraites controversée).\n\n**Mai 1968** mérite une mention particulière : cette révolte étudiante et ouvrière (10 millions de grévistes, la France paralysée) a révolutionné les mœurs sans changer le régime. Contraceptifs légaux, droits des femmes, libération sexuelle, remise en cause des hiérarchies — Mai 68 transforme la société française bien plus que les révolutions précédentes n'avaient transformé la politique."
       },
       {
-        "theme": "Région",
+        "theme": "Géographie",
         "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
+        "title": "La France et son rayonnement mondial",
+        "body": "La **Francophonie** est l'une des grandes forces géopolitiques françaises. Le français est parlé par **320 millions de personnes** dans le monde (2023), sur les 5 continents. L'**Organisation Internationale de la Francophonie** (OIF) regroupe 93 États membres et observateurs. Le français est langue officielle de 29 pays — et langue de travail de l'ONU, de l'Union Africaine, des Jeux Olympiques.\n\nLa France possède également la **2e zone économique exclusive maritime** du monde après les États-Unis : 11 millions de km² d'océans, grâce à ses territoires d'outre-mer dispersés aux quatre coins du globe. La Polynésie française, la Nouvelle-Calédonie, Wallis-et-Futuna dans le Pacifique ; Saint-Pierre-et-Miquelon près du Canada ; les Terres Australes et Antarctiques Françaises. Ces territoires lui confèrent une présence géostratégique unique.\n\n**Paris** reste l'une des 3 villes mondiales avec New York et Londres — siège de l'UNESCO, de l'OCDE, de la CCI, de l'Interpol. La Tour Eiffel, symbole mondial de la France, reçoit **7 millions de visiteurs par an** — le monument le plus visité d'Europe. La France est le **1er pays touristique du monde** avec environ 100 millions de visiteurs annuels."
       },
       {
-        "theme": "Politique & Social",
+        "theme": "Politique",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "La France en Europe : du Plan Marshall à l'Union européenne",
+        "body": "La France est l'un des **pères fondateurs de l'Europe**. Avec l'Allemagne, elle forme le moteur franco-allemand de la construction européenne. La **Déclaration Schuman** (9 mai 1950 — fête de l'Europe) propose la mise en commun des industries du charbon et de l'acier pour rendre la guerre «non seulement impensable, mais matériellement impossible». C'est l'acte de naissance de ce qui deviendra l'Union européenne.\n\nLa France est membre fondateur de la **CECA** (1951), de la **CEE** (Traité de Rome, 1957) et de l'**Euro** (monnaie unique adoptée en 1999, billets et pièces en 2002). Elle siège en permanence au **Conseil de Sécurité de l'ONU**, possède l'**arme nucléaire** (la force de frappe, 290 ogives en 2023) et est membre de l'OTAN depuis sa réintégration en 2009.\n\nLa relation franco-allemande est la **clé de voûte de l'Europe**. Le **Traité de l'Élysée** (1963, de Gaulle-Adenauer) puis le **Traité d'Aix-la-Chapelle** (2019, Macron-Merkel) institutionnalisent une coopération qui aurait paru impossible après trois guerres en 70 ans. Cette réconciliation est souvent citée comme le plus grand succès diplomatique du XXe siècle."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Vie quotidienne",
+        "icon": "🏠",
+        "title": "La France d'aujourd'hui : tensions et mutations",
+        "body": "La France actuelle est une société profondément transformée depuis 1945 mais travaillée par des tensions persistantes. La **désindustrialisation** a transformé des régions entières (Nord, Lorraine) — les «Périphéries» dont parle le géographe Christophe Guilluy — qui se sentent abandonnées par les élites parisiennes. Ce sentiment nourrit la montée des partis populistes (extrême droite, extrême gauche).\n\nLe mouvement des **Gilets Jaunes** (2018–2019) a cristallisé ces tensions : partis d'une protestation contre la taxe sur le carburant, ces mouvements des «France périphérique» ont envahi les ronds-points et les Champs-Élysées pendant des semaines. Ils révèlent un fossé croissant entre Paris et la France profonde, entre gagnants et perdants de la mondialisation.\n\nLa **question migratoire** et l'**intégration** sont les sujets politiques les plus brûlants : 10% de la population est de nationalité étrangère ou née étrangère. La France a accueilli des vagues migratoires importantes (Espagnols, Italiens, Polonais, Portugais au XXe siècle ; Maghrébins, Africains subsahariens depuis les années 1960). La laïcité et le «modèle républicain» d'intégration (assimilation plutôt que multiculturalisme) sont au cœur des débats."
       },
       {
-        "theme": "Culture artistique",
+        "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "title": "La culture française dans le monde : influence et exception",
+        "body": "La France mène depuis les années 1980 une politique d'**exception culturelle** : la culture n'est pas un bien commercial comme les autres, elle doit être protégée des lois du marché. Cette position, défendue avec acharnement dans les négociations commerciales internationales (Uruguay Round 1994, accords de libre-échange), justifie les quotas de films et de musique françaises dans les médias.\n\nLe **cinéma français** reste l'un des plus créatifs et primés du monde malgré la concurrence américaine : des réalisateurs comme Luc Besson, Jacques Audiard, Céline Sciamma, Xavier Dolan (Québec) sont reconnus mondialement. La **bande dessinée franco-belge** (Tintin, Astérix, Lucky Luke) est un patrimoine culturel mondial — Astérix est traduit en 111 langues, Tintin en 70.\n\nLe **luxe français** est la première industrie exportatrice : le groupe **LVMH** (Louis Vuitton Moët Hennessy) est la première capitalisation boursière européenne, dépassant 400 milliards €. Chanel, Hermès, Dior, Cartier, L'Oréal — ces marques françaises incarnent un art de vivre qui fascine le monde entier. L'**artisanat d'art** (couture haute, joaillerie, parfumerie, cristallerie) forme un écosystème de **millions d'emplois** qualifiés protégés par des labels comme «Entreprise du Patrimoine Vivant»."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "title": "La gastronomie française aujourd'hui : tradition et réinvention",
+        "body": "La gastronomie française est paradoxalement plus vivante que jamais tout en étant sous pression. D'un côté, la France compte le plus grand nombre de **restaurants étoilés Michelin** au monde (avec le Japon et l'Italie — le guide couvrant maintenant les grandes métropoles mondiales), et des chefs comme **Guy Savoy**, **Alain Ducasse** ou **Hélène Darroze** sont des ambassadeurs culturels à part entière.\n\nDe l'autre, **McDonald's** est un succès phénoménal en France — numéro 2 mondial du groupe après les États-Unis par le chiffre d'affaires. Les Français consomment 1,5 milliard de baguettes par an mais aussi des pizzas, des sushis, des kebabs. La **street food** et les food trucks sont devenus une tendance majeure même à Paris.\n\nLa **baguette**, classée au patrimoine UNESCO depuis **2022**, illustre cette tension : comment protéger une tradition tout en vivant dans la modernité ? La loi interdit aux boulangers de fermer plus de deux semaines consécutives en été pour assurer l'approvisionnement en pain des quartiers. L'**apéritif** reste un rituel social sacré : entre 18h et 20h, partager un verre de vin, de pastis ou de kir avec des amis ou collègues est un moment de lien social irremplaçable que même le télétravail n'a pas réussi à effacer."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à La France dans l'Europe et le monde :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**Les Français ont une relation particulière avec leur langue.** Faire l'effort de parler quelques mots de français — même maladroitement — est toujours très apprécié. Un simple «Bonjour, parlez-vous anglais ?» avant de passer à l'anglais fait une différence énorme dans l'accueil que vous recevrez.\n\nÀ l'inverse, commencer directement en anglais sans demander, surtout dans une petite ville ou un village, peut être perçu comme de l'arrogance. Le français est une langue de fierté nationale — en faire l'effort, c'est montrer du respect pour la culture que vous découvrez."
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
+        "term": "La Ve République",
+        "definition": "Régime politique français depuis 1958, caractérisé par un fort pouvoir présidentiel instauré par de Gaulle pour mettre fin à l'instabilité gouvernementale."
       },
       {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
+        "term": "La Francophonie",
+        "definition": "Ensemble des pays et peuples utilisant le français, regroupés au sein de l'Organisation Internationale de la Francophonie (93 membres)."
       },
       {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "term": "L'exception culturelle",
+        "definition": "Principe français selon lequel la culture n'est pas une marchandise et doit être protégée des lois du marché — notamment dans les négociations commerciales internationales."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "Les Gilets Jaunes",
+        "definition": "Mouvement de protestation sociale né en 2018, parti des périphéries françaises contre la hausse du carburant, révélant le fossé entre Paris et la France des ronds-points."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
+        "term": "La force de frappe",
+        "definition": "Arsenal nucléaire indépendant de la France, créé sous de Gaulle pour garantir l'autonomie stratégique vis-à-vis des États-Unis et de l'URSS — doctrine de «dissuasion nucléaire»."
       },
       {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "LVMH",
+        "definition": "Groupe de luxe français (Louis Vuitton Moët Hennessy), première capitalisation boursière européenne, regroupant 75 maisons de mode, vins, parfums et montres."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «La France dans l'Europe et le monde» dans la République française ?",
+        "question": "Quel événement majeur de mai 1968 a profondément transformé la société française ?",
         "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
+          "Un coup d'État militaire manqué",
+          "Une révolution étudiante et ouvrière de 10 millions de grévistes qui a changé les mœurs",
+          "L'entrée de la France dans l'OTAN",
+          "La création du Parti socialiste"
         ],
         "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
+        "explanation": "Mai 68 est une révolte étudiante et ouvrière (10 millions de grévistes) qui paralyse la France pendant plusieurs semaines. Sans changer le régime politique, elle révolutionne les mœurs : contraception, droits des femmes, libération sexuelle, remise en cause des autorités. De Gaulle, réélu triomphalement en juin, meurt en 1970."
       },
       {
-        "question": "En France, la laïcité signifie que...",
+        "question": "Combien de personnes parlent français dans le monde aujourd'hui ?",
         "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
-        ],
-        "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
-      },
-      {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "120 millions",
+          "220 millions",
+          "320 millions",
+          "420 millions"
         ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
+        "explanation": "Environ 320 millions de personnes parlent français en 2023, réparties sur les 5 continents. C'est la 5e langue mondiale par nombre de locuteurs. L'Organisation Internationale de la Francophonie compte 93 États membres et observateurs."
       },
       {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
+        "question": "Qu'est-ce que la «Déclaration Schuman» du 9 mai 1950 ?",
         "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
-        ],
-        "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
-      },
-      {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
-        "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
+          "La capitulation allemande de la Seconde Guerre mondiale",
+          "La création de la CECA, acte fondateur de ce qui deviendra l'Union européenne",
+          "La création de l'OTAN par les démocraties occidentales",
+          "L'accord de paix franco-allemand après la Première Guerre mondiale"
         ],
         "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "La Déclaration Schuman du 9 mai 1950 propose la mise en commun des industries du charbon et de l'acier franco-allemandes pour rendre la guerre «matériellement impossible». C'est l'acte fondateur de la construction européenne. Le 9 mai est devenu la Fête de l'Europe."
+      },
+      {
+        "question": "Quel groupe de luxe français est la première capitalisation boursière d'Europe ?",
+        "options": [
+          "Chanel",
+          "Hermès",
+          "LVMH",
+          "L'Oréal"
+        ],
+        "correct_index": 2,
+        "explanation": "LVMH (Louis Vuitton Moët Hennessy), dirigé par Bernard Arnault, est la première capitalisation boursière européenne (plus de 400 milliards €). Il regroupe 75 maisons de luxe : Louis Vuitton, Christian Dior, Givenchy, Moët & Chandon, Hennessy, Bulgari, etc."
+      },
+      {
+        "question": "Quel aliment français a été classé au Patrimoine de l'UNESCO en 2022 ?",
+        "options": [
+          "Le camembert de Normandie",
+          "Le vin de Bordeaux",
+          "La baguette de pain",
+          "Le foie gras"
+        ],
+        "correct_index": 2,
+        "explanation": "La baguette de pain française a été inscrite au patrimoine culturel immatériel de l'UNESCO en 2022. La France produit 1,5 milliard de baguettes par an. La loi oblige même les boulangers à ne pas fermer plus de deux semaines consécutives en été pour assurer l'approvisionnement des quartiers."
       }
     ]
   },
   "ru": {
-    "module_title": "Модуль 1",
+    "module_title": "Корни Франции",
     "lesson_title": "Франция в Европе и мире",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Франция в Европе и мире. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_subtitle": "От V Республики до наших дней: держава и идентичность",
+    "intro": "С 1958 года Франция совершила замечательное преобразование: из страны, опустошённой двумя мировыми войнами, — в страну-основательницу Европейского союза, ядерную державу и постоянного члена Совета Безопасности ООН. Но она остаётся и нацией, глубоко привязанной к своей идентичности, социальной модели и «величию» — слову, которое де Голль так любил.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Франция в Европе и мире** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "V Республика: от де Голля до наших дней",
+        "body": "**V Республика** родилась в 1958 году при де Голле и обеспечила невиданную прежде политическую стабильность: всего 8 президентов за 65 лет против 22 правительств за 12 лет при IV Республике. Де Голль (1958–1969) выстраивал «французское величие»: независимые ядерные силы сдерживания, отказ от американского господства, признание коммунистического Китая (1964), выход из командной структуры НАТО.\n\nПосле де Голля сменяли друг друга: **Помпиду** (1969–1974, индустриализация); **Жискар д'Эстен** (1974–1981, либерализация нравов: легализация аборта, развод по взаимному согласию, снижение возраста совершеннолетия до 18 лет); **Миттеран** (1981–1995, отмена смертной казни, децентрализация); **Ширак** (1995–2007, отказ от участия в войне в Ираке 2003 года); **Саркози** (2007–2012, возвращение в НАТО); **Олланд** (2012–2017, однополые браки); **Макрон** (2017–, спорная пенсионная реформа).\n\n**Май 1968 года** заслуживает особого упоминания: студенческое и рабочее восстание (10 миллионов забастовщиков, парализованная Франция) революционизировало нравы, не изменив режима. Легализация контрацептивов, права женщин, сексуальное освобождение, оспаривание иерархий — Май 68 преобразил французское общество значительно сильнее, чем предшествующие революции изменяли политику."
       },
       {
-        "theme": "Регион",
+        "theme": "География",
         "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
+        "title": "Франция и её мировое влияние",
+        "body": "**Франкофония** — одна из главных геополитических сил Франции. Французским языком владеют **320 миллионов человек** по всему миру (2023), на пяти континентах. **Международная организация Франкофонии** (МОФ) объединяет 93 государства-члена и наблюдателя. Французский — официальный язык 29 стран и рабочий язык ООН, Африканского союза, Олимпийских игр.\n\nФранции принадлежит также **2-я по величине исключительная экономическая зона** в мире после США: 11 миллионов км² океанов благодаря заморским территориям, разбросанным по всему миру. Французская Полинезия, Новая Каледония, Уоллис и Футуна в Тихом океане; Сен-Пьер и Микелон вблизи Канады; Французские Южные и Антарктические территории. Эти территории обеспечивают Франции уникальное геостратегическое присутствие.\n\n**Париж** остаётся одним из трёх мировых городов наряду с Нью-Йорком и Лондоном — резиденция ЮНЕСКО, ОЭСР, МТП, Интерпола. Эйфелева башня, мировой символ Франции, принимает **7 миллионов посетителей в год** — самый посещаемый памятник Европы. Франция — **1-я туристическая страна мира** с примерно 100 миллионами ежегодных туристов."
       },
       {
-        "theme": "Политика и общество",
+        "theme": "Политика",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Франция в Европе: от плана Маршалла до Евросоюза",
+        "body": "Франция — одна из **стран-основательниц Европы**. Вместе с Германией она образует франко-германский мотор европейского строительства. **Декларация Шумана** (9 мая 1950 года — День Европы) предлагает объединить угольную и сталелитейную промышленность, чтобы сделать войну «не только немыслимой, но и материально невозможной». Это акт рождения того, что станет Европейским союзом.\n\nФранция — страна-основательница **ЕОУС** (1951), **ЕЭС** (Римский договор, 1957) и **Евро** (единая валюта введена в 1999 году, банкноты и монеты — в 2002-м). Она является постоянным членом **Совета Безопасности ООН**, обладает **ядерным оружием** (290 боеголовок в 2023 году) и входит в НАТО с момента возвращения в альянс в 2009 году.\n\nФранко-германские отношения — **краеугольный камень Европы**. **Елисейский договор** (1963, де Голль — Аденауэр) и затем **Ахенский договор** (2019, Макрон — Меркель) институционализируют сотрудничество, которое казалось невозможным после трёх войн за 70 лет. Это примирение часто называют величайшим дипломатическим успехом XX века."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Повседневная жизнь",
+        "icon": "🏠",
+        "title": "Сегодняшняя Франция: напряжения и трансформации",
+        "body": "Современная Франция — глубоко изменившееся с 1945 года общество, раздираемое устойчивыми противоречиями. **Деиндустриализация** преобразила целые регионы (Север, Лотарингия) — «Периферии», о которых говорит географ Кристоф Гийю, — чувствующие себя брошенными парижскими элитами. Это ощущение питает рост популистских партий (крайние правые, крайние левые).\n\nДвижение **«Жёлтых жилетов»** (2018–2019) кристаллизовало эти противоречия: начавшись как протест против налога на топливо, движение «периферийной Франции» захватило круговые развязки и Елисейские поля на несколько недель. Оно обнажило растущую пропасть между Парижем и глубинной Францией, между победителями и проигравшими в процессе глобализации.\n\n**Миграционный вопрос** и **интеграция** — самые острые политические темы: 10% населения имеют иностранное гражданство или родились за рубежом. Франция принимала значительные волны миграции (испанцы, итальянцы, поляки, португальцы в XX веке; выходцы из Магриба, стран Африки к югу от Сахары с 1960-х). Светскость и республиканская модель интеграции (ассимиляция, а не мультикультурализм) находятся в центре споров."
       },
       {
-        "theme": "Художественная культура",
+        "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "title": "Французская культура в мире: влияние и исключение",
+        "body": "С 1980-х годов Франция проводит политику **«культурного исключения»**: культура — не обычный товар, она должна быть защищена от законов рынка. Эта позиция, яростно отстаиваемая на международных торговых переговорах (Уругвайский раунд 1994 года, соглашения о свободной торговле), оправдывает квоты на французские фильмы и музыку в СМИ.\n\n**Французское кино** остаётся одним из самых творческих и награждаемых в мире, несмотря на американскую конкуренцию: режиссёры Люк Бессон, Жак Одиар, Селин Сьяма, Ксавье Долан (Квебек) признаны во всём мире. **Франко-бельгийский комикс** (Тентен, Астерикс, Лаки Люк) — мировое культурное достояние: Астерикс переведён на 111 языков, Тентен — на 70.\n\n**Французский люкс** — ведущая экспортная отрасль: группа **LVMH** (Louis Vuitton Moët Hennessy) — крупнейшая по рыночной капитализации компания Европы (более 400 млрд €). Chanel, Hermès, Dior, Cartier, L'Oréal — эти французские марки воплощают искусство жизни, восхищающее весь мир. **Художественные ремёсла** (haute couture, ювелирное дело, парфюмерия, хрустальное производство) образуют экосистему **миллионов квалифицированных рабочих мест**, защищённых такими знаками качества, как «Предприятие живого наследия»."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "title": "Французская гастрономия сегодня: традиция и обновление",
+        "body": "Французская гастрономия парадоксально живее, чем когда-либо, и одновременно испытывает давление. С одной стороны, Франция входит в число лидеров по количеству **ресторанов со звёздами «Мишлен»** в мире (наряду с Японией и Италией), а такие шефы, как **Ги Савуа**, **Ален Дюкасс** или **Элен Даррозе**, — настоящие культурные послы.\n\nС другой стороны, **McDonald's** во Франции — феноменальный успех: страна занимает 2-е место в мире по обороту сети после США. Французы потребляют 1,5 миллиарда багетов в год, но также пиццу, суши, кебабы. **Уличная еда** и фуд-траки стали крупной тенденцией даже в Париже.\n\n**Багет**, внесённая в список ЮНЕСКО с **2022 года**, воплощает это противоречие: как защитить традицию, живя в современности? Закон запрещает пекарям закрываться более чем на две недели подряд летом, чтобы обеспечить жителей хлебом. **Аперитив** остаётся священным социальным ритуалом: с 18 до 20 часов выпить бокал вина, пастиса или кира с друзьями или коллегами — это момент социальной связи, который даже удалённая работа не смогла вытеснить."
       }
     ],
     "conseil_ami": {
       "title": "Дружеский совет 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Франция в Европе и мире»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**У французов особые отношения со своим языком.** Усилие заговорить по-французски — пусть неловко — всегда очень ценится. Простое «Bonjour, parlez-vous anglais?» перед переходом на английский кардинально меняет то, как вас примут.\n\nНапротив, начать сразу по-английски без вопроса, особенно в небольшом городе или деревне, может быть воспринято как высокомерие. Французский — язык национальной гордости. Прилагать усилие — значит проявлять уважение к культуре, которую вы открываете для себя."
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "La Ve République / V Республика",
+        "definition": "Политический строй Франции с 1958 года, отличающийся сильной президентской властью, введённой де Голлем для преодоления правительственной нестабильности."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "La Francophonie / Франкофония",
+        "definition": "Совокупность стран и народов, использующих французский язык, объединённых в рамках Международной организации Франкофонии (93 члена)."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "L'exception culturelle / Культурное исключение",
+        "definition": "Французский принцип, согласно которому культура не является товаром и должна быть защищена от рыночных законов — особенно на международных торговых переговорах."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "Les Gilets Jaunes / «Жёлтые жилеты»",
+        "definition": "Движение социального протеста, возникшее в 2018 году на периферии Франции против повышения цен на топливо, обнажившее разрыв между Парижем и «Францией круговых развязок»."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "La force de frappe / Ядерные силы сдерживания",
+        "definition": "Независимый ядерный арсенал Франции, созданный при де Голле для обеспечения стратегической автономии от США и СССР по доктрине «ядерного сдерживания»."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "LVMH",
+        "definition": "Французская люксовая группа (Louis Vuitton Moët Hennessy), крупнейшая по рыночной капитализации компания Европы, объединяющая 75 домов моды, вин, парфюмерии и часов."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Франция в Европе и мире» во Французской республике?",
+        "question": "Какое крупное событие мая 1968 года глубоко изменило французское общество?",
         "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
+          "Неудавшийся военный переворот",
+          "Студенческое и рабочее восстание 10 миллионов забастовщиков, изменившее нравы",
+          "Вступление Франции в НАТО",
+          "Создание Социалистической партии"
         ],
         "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
+        "explanation": "Май 68 — студенческое и рабочее восстание (10 миллионов забастовщиков), парализовавшее Францию на несколько недель. Не изменив политического строя, оно революционизировало нравы: контрацепция, права женщин, сексуальное освобождение, оспаривание авторитетов. Де Голль, блестяще переизбранный в июне, умер в 1970 году."
       },
       {
-        "question": "Светскость во Франции означает, что...",
+        "question": "Сколько человек говорят по-французски в мире сегодня?",
         "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
-        ],
-        "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
-      },
-      {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "120 миллионов",
+          "220 миллионов",
+          "320 миллионов",
+          "420 миллионов"
         ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
+        "explanation": "Около 320 миллионов человек говорят по-французски в 2023 году на пяти континентах. Это 5-й язык мира по числу носителей. Международная организация Франкофонии насчитывает 93 государства-члена и наблюдателя."
       },
       {
-        "question": "Членом-основателем какой международной организации является Франция?",
+        "question": "Что представляет собой «Декларация Шумана» от 9 мая 1950 года?",
         "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
-        ],
-        "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
-      },
-      {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
-        "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
+          "Капитуляция Германии во Второй мировой войне",
+          "Создание ЕОУС — акт рождения того, что станет Европейским союзом",
+          "Создание НАТО западными демократиями",
+          "Мирное соглашение между Францией и Германией после Первой мировой войны"
         ],
         "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "Декларация Шумана от 9 мая 1950 года предлагает объединить французскую и немецкую угольную и сталелитейную промышленность, чтобы сделать войну «материально невозможной». Это акт рождения европейского строительства. 9 мая стало Днём Европы."
+      },
+      {
+        "question": "Какая французская люксовая группа является крупнейшей компанией Европы по рыночной капитализации?",
+        "options": [
+          "Chanel",
+          "Hermès",
+          "LVMH",
+          "L'Oréal"
+        ],
+        "correct_index": 2,
+        "explanation": "LVMH (Louis Vuitton Moët Hennessy), возглавляемый Бернаром Арно, — крупнейшая компания Европы по рыночной капитализации (более 400 млрд €). Объединяет 75 люксовых домов: Louis Vuitton, Christian Dior, Givenchy, Moët & Chandon, Hennessy, Bulgari и др."
+      },
+      {
+        "question": "Какой французский продукт питания был внесён в список наследия ЮНЕСКО в 2022 году?",
+        "options": [
+          "Нормандский камамбер",
+          "Бордоское вино",
+          "Французский багет",
+          "Фуа-гра"
+        ],
+        "correct_index": 2,
+        "explanation": "Французский багет был внесён в список нематериального культурного наследия ЮНЕСКО в 2022 году. Франция производит 1,5 миллиарда багетов в год. Закон даже обязывает пекарей не закрываться более чем на две последовательные недели летом, чтобы обеспечить жителей хлебом."
       }
     ]
   }

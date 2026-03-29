@@ -3,276 +3,289 @@
     "module_id": 1,
     "lesson_id": 2,
     "module_icon": "🏛️",
-    "lesson_icon": "⚔️",
-    "estimated_minutes": 12,
+    "lesson_icon": "👑",
+    "estimated_minutes": 10,
     "difficulty": "intermédiaire",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "BnF — Histoire de France médiévale",
+        "url": "https://gallica.bnf.fr/html/und/histoire-de-france"
+      },
+      {
+        "label": "Château de Versailles — Histoire officielle",
+        "url": "https://www.chateauversailles.fr/decouvrir/histoire"
+      },
+      {
+        "label": "Musée du Louvre — Art royal français",
+        "url": "https://www.louvre.fr/decouvrir/les-collections"
+      },
+      {
+        "label": "France Mémoire — Les grandes dates",
+        "url": "https://www.france-memoire.fr"
+      }
     ]
   },
   "fr": {
-    "module_title": "Module 1",
+    "module_title": "Les Racines de la France",
     "lesson_title": "De Clovis à la Révolution",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : De Clovis à la Révolution. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "Treize siècles de monarchie qui ont façonné la France",
+    "intro": "Avant que la République naisse dans le sang et la ferveur révolutionnaire de 1789, la France a vécu treize siècles sous la monarchie. Ces siècles ne sont pas de l'histoire morte : ils ont forgé la langue, le territoire, les institutions et même le goût des Français. Comprendre la monarchie, c'est comprendre pourquoi les Français sont à la fois si attachés à l'État et si prompts à se révolter contre lui.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**De Clovis à la Révolution** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "Des Francs au Roi-Soleil : 13 siècles de monarchie",
+        "body": "En **496 après J.-C.**, Clovis, roi des Francs, se convertit au christianisme et est baptisé à Reims — un acte fondateur qui unit l'Église et la royauté pour des siècles. La cathédrale de Reims deviendra le lieu de sacre de presque tous les rois de France, créant un lien mystique entre la couronne et Dieu.\n\nLe Moyen Âge voit s'affirmer la dynastie des **Capétiens** (987–1328), qui consolident progressivement le pouvoir royal contre les grands féodaux. **Philippe II Auguste** (1180–1223) triple le territoire royal. **Saint Louis** (Louis IX, 1226–1270) incarne le roi idéal médiéval — juste, pieux, rendant la justice sous un chêne à Vincennes. Sa croisade et sa mort à Tunis en feront un saint.\n\nLe XVIIe siècle atteint le sommet de la monarchie avec **Louis XIV** (1638–1715), le «Roi-Soleil». Régnant 72 ans — le règne le plus long de l'histoire européenne — il impose l'absolutisme : «L'État, c'est moi». Il fait construire le **château de Versailles** (60 000 travailleurs, 20 ans de chantier) comme symbole de sa gloire, y installe toute la noblesse pour mieux la contrôler, et fait du français une langue de prestige international. Son règne laisse cependant la France épuisée financièrement — ce qui sera une des causes profondes de la Révolution."
       },
       {
-        "theme": "Région",
+        "theme": "Géographie",
         "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
+        "title": "La construction du territoire français",
+        "body": "Le territoire de la France actuelle ne s'est pas formé d'un coup. C'est le résultat de **treize siècles d'expansion progressive** — par guerres, mariages royaux, traités et achats. Chaque roi a ajouté ou perdu des terres.\n\nAu Xe siècle, le roi de France ne contrôle directement qu'une petite zone autour de Paris (l'Île-de-France). Le reste appartient à des vassaux puissants : le duc de Normandie possède même l'Angleterre après 1066 (Guillaume le Conquérant). Progressivement, les rois capétiens «mangent» ces territoires : la Normandie récupérée en 1204, la Provence en 1481, la Bretagne en 1532, l'Alsace en 1648, la Lorraine en 1766, la Corse achetée à Gênes en 1768 — un an avant la naissance de Napoléon !\n\nParis s'impose comme capitale définitive sous **Philippe Auguste**, qui fait fortifier la ville et bâtir le Louvre comme forteresse. La langue française — le francien, dialecte de l'Île-de-France — s'impose progressivement sur les langues régionales : l'**Ordonnance de Villers-Cotterêts** (1539) de François Ier impose le français (et non le latin) dans tous les actes officiels du royaume. C'est l'acte de naissance du français comme langue nationale."
       },
       {
-        "theme": "Politique & Social",
+        "theme": "Politique",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "Le droit divin et ses limites : vers la crise",
+        "body": "La monarchie française reposait sur le **droit divin** : le roi tenait son pouvoir de Dieu, non du peuple. Il était sacré à Reims avec l'huile sainte — la Sainte Ampoule — censée descendre du ciel. Ce fondement mystique le rendait inattaquable en théorie.\n\nMais la pratique était plus complexe. Les **Parlements** (cours de justice) pouvaient refuser d'enregistrer les édits royaux. Les États généraux — assemblée des trois ordres : clergé, noblesse, tiers état — pouvaient être convoqués en cas de crise. Ils ne l'avaient pas été depuis **1614** quand Louis XVI les convoque en mai **1789**, face à la banqueroute de l'État. Ce sera l'étincelle de la Révolution.\n\nLa société d'Ancien Régime reposait sur **trois ordres** figés :\n- Le **clergé** (1er ordre) : exempté d'impôts, propriétaire de 10% des terres, perçoit la dîme\n- La **noblesse** (2e ordre) : exempté d'impôts, titulaire des charges militaires et administratives\n- Le **tiers état** (3e ordre) : 97% de la population, supporte l'essentiel des impôts\n\nCette inégalité criante, combinée à la faillite financière de l'État (due en partie aux guerres et à l'aide à la Révolution américaine), aux idées des philosophes des Lumières (Voltaire, Rousseau, Montesquieu) et à de mauvaises récoltes créant la famine, rend l'explosion sociale inévitable."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Vie quotidienne",
+        "icon": "🏠",
+        "title": "La vie sous la monarchie : des millions de paysans oubliés",
+        "body": "Versailles et ses fastes cachent une réalité sombre : en 1789, **85% des Français sont paysans**. Leur vie est dominée par trois maîtres : le seigneur (qui perçoit des redevances féodales), le curé (qui perçoit la dîme, un dixième de la récolte) et les impôts royaux. Une mauvaise récolte suffit à provoquer la famine.\n\nLe peuple des villes — artisans, compagnons, marchands — est soumis au système des **corporations** qui réglementent chaque métier. Il faut des années d'apprentissage pour devenir maître artisan, et les corporations protègent jalousement leurs monopoles. La **bourgeoisie** montante (marchands enrichis, avocats, médecins) est frustrée de se voir exclue du pouvoir politique malgré sa richesse croissante.\n\nL'**espérance de vie** n'excède pas 30 ans en moyenne (tirée vers le bas par la mortalité infantile très élevée). Les épidémies de peste, typhus et choléra frappent régulièrement. La médecine est encore largement dominée par la saignée et les remèdes ésotériques. Pourtant, le XVIIIe siècle voit les premières avancées : la **variole** recule grâce aux premières inoculations. L'esprit des Lumières souffle aussi sur la médecine, l'agronomie et les techniques."
       },
       {
-        "theme": "Culture artistique",
+        "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "title": "La Renaissance et le classicisme français",
+        "body": "Sous **François Ier** (1494–1547), la France ouvre grand ses portes à la Renaissance italienne. Le roi invite **Léonard de Vinci** à sa cour de Fontainebleau — c'est ainsi que La Joconde (Mona Lisa) se retrouve en France, où elle est restée. Les châteaux de la **Loire** (Chambord, Chenonceau, Amboise) naissent de cette rencontre entre architecture médiévale et Renaissance italienne.\n\nLe **classicisme français** du XVIIe siècle sous Louis XIV atteint des sommets : Molière invente la comédie moderne (*L'Avare, Le Bourgeois Gentilhomme*), **Racine** porte la tragédie à son apogée (*Phèdre, Andromaque*), **La Fontaine** écrit ses *Fables* pour les enfants du Roi. L'Académie française, fondée par Richelieu en **1635**, fixe la langue et publie son premier dictionnaire en 1694 — elle continue d'exister aujourd'hui.\n\nL'architecture royale laisse des chefs-d'œuvre permanents : le **Louvre** agrandi par plusieurs rois devient un palais fastueux avant d'être transformé en musée pendant la Révolution. Les **jardins à la française** de Le Nôtre (Versailles, les Tuileries) influencent les jardins royaux de toute l'Europe. La **tapisserie des Gobelins** et la **manufacture de Sèvres** (porcelaine) fondées par Louis XIV font du luxe français une marque internationale — déjà !"
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "title": "La cuisine royale : naissance de la gastronomie française",
+        "body": "C'est sous la monarchie que la **cuisine française** acquiert ses lettres de noblesse mondiales. La cour de Versailles est le creuset de la gastronomie : Louis XIV mangeait avec un appétit prodigieux (témoins époustouflés par ses repas pantagruéliques), et la compétition entre les grands seigneurs pour avoir le meilleur cuisinier pousse l'art culinaire vers des sommets.\n\nLe **service à la française** — où tous les plats sont servis simultanément sur la table — cède progressivement la place au **service à la russe** (XIXe siècle), où les plats sont servis successivement, le mode que nous connaissons aujourd'hui. Les **sauces** deviennent la signature de la cuisine française : béchamel (attribuée au marquis de Béchamel, maître d'hôtel de Louis XIV), sauce hollandaise, velouté. La **pâtisserie** se sophistique : les macarons, les éclairs, les mille-feuilles apparaissent dans les cuisines royales.\n\nLe **boulanger** acquiert un statut particulier : le pain blanc (fait de farine pure) est le symbole du luxe royal, tandis que le peuple mange du pain bis. «Qu'ils mangent de la brioche !» — phrase apocryphe attribuée à Marie-Antoinette — cristallise le gouffre entre la cour et le peuple. Le manque de pain sera l'une des premières causes de la prise de la Bastille : les femmes marcheront sur Versailles le 5 octobre 1789 en criant «Du pain !»"
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à De Clovis à la Révolution :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**Les Français ont une relation complexe avec leur histoire royale.** D'un côté, ils sont républicains dans l'âme et fiers d'avoir «coupé la tête au roi». De l'autre, ils adorent Versailles, la noblesse, les châteaux et regardent avec fascination les familles royales étrangères.\n\nSi vous visitez des sites historiques en France, n'hésitez pas à demander des explications aux Français — ils sont généralement très fiers de leur patrimoine et heureux de le partager. Évitez en revanche de comparer la France à d'autres pays de manière défavorable devant des Français — cela peut créer une réaction de fermeture. Montrez votre curiosité sincère, et vous ouvrirez toutes les portes."
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
+        "term": "La féodalité",
+        "definition": "Système médiéval où des seigneurs locaux gouvernent leurs terres en échange de loyauté au roi — avec des serfs attachés à la terre."
       },
       {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
+        "term": "L'absolutisme",
+        "definition": "Système politique où le roi détient tous les pouvoirs sans contrôle : législatif, exécutif, judiciaire."
       },
       {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "term": "Les Lumières",
+        "definition": "Courant philosophique du XVIIIe siècle (Voltaire, Rousseau, Montesquieu) qui défend la raison, la liberté et l'égalité contre l'obscurantisme."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "Le tiers état",
+        "definition": "Le 3e ordre de la société d'Ancien Régime : tout le monde sauf le clergé et la noblesse — soit 97% de la population."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
+        "term": "La dîme",
+        "definition": "Impôt religieux représentant un dixième des récoltes, prélevé par l'Église sur les paysans jusqu'à la Révolution."
       },
       {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "L'Académie française",
+        "definition": "Institution fondée en 1635 par Richelieu, chargée de normaliser et protéger la langue française — ses 40 membres sont surnommés «les Immortels»."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «De Clovis à la Révolution» dans la République française ?",
+        "question": "Où les rois de France étaient-ils traditionnellement sacrés (couronnés) ?",
         "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
-        ],
-        "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
-      },
-      {
-        "question": "En France, la laïcité signifie que...",
-        "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
-        ],
-        "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
-      },
-      {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "À Paris, à Notre-Dame",
+          "À Versailles, dans la Galerie des Glaces",
+          "À Reims, dans la cathédrale",
+          "À Lyon, comme capitale des Gaules"
         ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
+        "explanation": "La cathédrale de Reims est le lieu de sacre quasi exclusif des rois de France depuis Clovis. Le sacre comprenait l'onction avec la Sainte Ampoule (huile sainte) et la remise des insignes royaux. 33 rois y furent couronnés."
       },
       {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
+        "question": "Quel roi a fait construire le château de Versailles et régné 72 ans ?",
         "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
-        ],
-        "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
-      },
-      {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
-        "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
+          "Louis XIII",
+          "Louis XIV — le Roi-Soleil",
+          "Louis XV",
+          "Louis XVI"
         ],
         "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "Louis XIV (1638–1715) a régné 72 ans — le plus long règne de l'histoire européenne. Il fit construire Versailles pour y installer la noblesse et la contrôler, tout en affirmant : «L'État, c'est moi»."
+      },
+      {
+        "question": "Quel texte de 1539 impose le français dans tous les actes officiels du royaume ?",
+        "options": [
+          "L'Édit de Nantes",
+          "L'Ordonnance de Villers-Cotterêts",
+          "La Déclaration des Droits de l'Homme",
+          "Le Code civil de Napoléon"
+        ],
+        "correct_index": 1,
+        "explanation": "L'Ordonnance de Villers-Cotterêts (1539), signée par François Ier, impose l'usage du français (au lieu du latin) dans tous les actes judiciaires et administratifs. C'est l'acte fondateur du français comme langue nationale officielle."
+      },
+      {
+        "question": "Quelle proportion de la population française était paysanne en 1789 ?",
+        "options": [
+          "Environ 20%",
+          "Environ 50%",
+          "Environ 70%",
+          "Environ 85%"
+        ],
+        "correct_index": 3,
+        "explanation": "En 1789, environ 85% des Français étaient paysans, vivant sous le joug de trois maîtres : le seigneur (redevances féodales), l'Église (dîme) et le roi (impôts). C'est cette majorité silencieuse qui allait faire la Révolution."
+      },
+      {
+        "question": "Quel peintre célèbre François Ier a invité à sa cour, apportant ainsi La Joconde en France ?",
+        "options": [
+          "Michel-Ange",
+          "Raphaël",
+          "Léonard de Vinci",
+          "Botticelli"
+        ],
+        "correct_index": 2,
+        "explanation": "Léonard de Vinci passa les trois dernières années de sa vie (1516–1519) au château du Clos Lucé, près d'Amboise, invité par François Ier. Il apporta La Joconde avec lui, et c'est ainsi qu'elle est restée en France — aujourd'hui exposée au Louvre."
       }
     ]
   },
   "ru": {
-    "module_title": "Модуль 1",
+    "module_title": "Корни Франции",
     "lesson_title": "От Хлодвига до Революции",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: От Хлодвига до Революции. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_subtitle": "Тринадцать веков монархии, сформировавших Францию",
+    "intro": "Прежде чем Республика родилась в огне и энтузиазме революции 1789 года, Франция прожила тринадцать веков под властью монархии. Эти века — не мёртвая история: они выковали язык, территорию, институты и даже вкусы французов. Понять монархию — значит понять, почему французы одновременно так привязаны к государству и так быстро поднимаются против него.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**От Хлодвига до Революции** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "От франков до Короля-Солнца: 13 веков монархии",
+        "body": "В **496 году н.э.** Хлодвиг, король франков, принял христианство и крестился в Реймсе — основополагающий акт, объединивший Церковь и королевскую власть на многие века. Реймсский собор станет местом коронации почти всех королей Франции, создав мистическую связь между короной и Богом.\n\nВ Средние века укрепляется династия **Капетингов** (987–1328), постепенно консолидирующая королевскую власть над крупными феодалами. **Филипп II Август** (1180–1223) утроил королевскую территорию. **Людовик Святой** (Людовик IX, 1226–1270) воплощал идеал средневекового короля — справедливого, набожного, творящего суд под дубом в Венсене. Его крестовый поход и смерть в Тунисе сделают его святым.\n\nXVII век достигает вершины монархии с **Людовиком XIV** (1638–1715), «Королём-Солнцем». Правив 72 года — самое долгое царствование в европейской истории — он утвердил абсолютизм: «Государство — это я». Он построил **Версальский дворец** (60 000 рабочих, 20 лет строительства) как символ своей славы, поселил туда всю знать, чтобы лучше её контролировать, и сделал французский язык языком международного престижа. Его царствование, однако, оставило Францию финансово истощённой — что станет одной из глубинных причин Революции."
       },
       {
-        "theme": "Регион",
+        "theme": "География",
         "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
+        "title": "Строительство французской территории",
+        "body": "Территория современной Франции сложилась не сразу. Это результат **тринадцати веков постепенного расширения** — войнами, королевскими браками, договорами и покупками. Каждый король что-то добавлял или терял.\n\nВ X веке король Франции непосредственно контролировал лишь небольшую зону вокруг Парижа (Иль-де-Франс). Остальное принадлежало могущественным вассалам: герцог Нормандии владел даже Англией после 1066 года (Вильгельм Завоеватель). Постепенно капетингские короли «поглощали» эти территории: Нормандия вернулась в 1204 году, Прованс — в 1481-м, Бретань — в 1532-м, Эльзас — в 1648-м, Лотарингия — в 1766-м, Корсика куплена у Генуи в 1768 году — за год до рождения Наполеона!\n\nПариж окончательно утвердился как столица при **Филиппе Августе**, укрепившем город и построившем Лувр как крепость. Французский язык — франсьен, диалект Иль-де-Франса — постепенно вытеснял региональные языки. **Ордонанс Виллер-Котре** (1539) Франциска I ввёл французский (а не латынь) во всех официальных актах королевства. Это свидетельство о рождении французского языка как национального."
       },
       {
-        "theme": "Политика и общество",
+        "theme": "Политика",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Божественное право и его пределы: к кризису",
+        "body": "Французская монархия основывалась на **божественном праве**: король получал власть от Бога, а не от народа. Его помазывали в Реймсе священным елеем — Святой Ампулой — якобы сошедшей с небес. Этот мистический фундамент делал его теоретически неуязвимым.\n\nНо практика была сложнее. **Парламенты** (судебные инстанции) могли отказываться регистрировать королевские эдикты. Генеральные штаты — собрание трёх сословий: духовенства, дворянства и третьего сословия — могли созываться в кризисных ситуациях. Их не собирали с **1614 года**, когда Людовик XVI созвал их в мае **1789 года** перед угрозой государственного банкротства. Это станет искрой Революции.\n\nОбщество Старого порядка строилось на **трёх сословиях**:\n- **Духовенство** (1-е сословие): освобождено от налогов, владеет 10% земель, взимает десятину\n- **Дворянство** (2-е сословие): освобождено от налогов, занимает военные и административные должности\n- **Третье сословие** (3-е сословие): 97% населения, несёт основное налоговое бремя\n\nЭто вопиющее неравенство в сочетании с финансовым крахом государства, идеями философов Просвещения (Вольтер, Руссо, Монтескьё) и неурожаями, вызвавшими голод, делали социальный взрыв неизбежным."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Повседневная жизнь",
+        "icon": "🏠",
+        "title": "Жизнь при монархии: миллионы забытых крестьян",
+        "body": "За версальской роскошью скрывалась мрачная реальность: в 1789 году **85% французов были крестьянами**. Их жизнью управляли три господина: сеньор (взимавший феодальные оброки), кюре (взимавший десятину — десятую часть урожая) и королевские налоги. Одного плохого урожая хватало, чтобы вызвать голод.\n\nГородской люд — ремесленники, подмастерья, торговцы — подчинялся системе **цехов**, регулировавших каждое ремесло. Требовались годы ученичества, чтобы стать мастером, а цехи ревностно охраняли свои монополии. Нарождавшаяся **буржуазия** (разбогатевшие торговцы, адвокаты, врачи) была разочарована тем, что несмотря на растущее богатство оставалась отстранённой от политической власти.\n\n**Средняя продолжительность жизни** не превышала 30 лет (из-за очень высокой детской смертности). Эпидемии чумы, тифа и холеры регулярно опустошали страну. Медицина ещё во многом определялась кровопусканием и эзотерическими средствами. Тем не менее XVIII век принёс первые прорывы: **оспа** отступала благодаря первым прививкам. Дух Просвещения проникал и в медицину, агрономию и технику."
       },
       {
-        "theme": "Художественная культура",
+        "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "title": "Ренессанс и французский классицизм",
+        "body": "При **Франциске I** (1494–1547) Франция распахнула двери итальянскому Ренессансу. Король пригласил **Леонардо да Винчи** ко двору в Фонтенбло — именно поэтому Джоконда (Мона Лиза) оказалась во Франции и осталась там. Замки **Луары** (Шамбор, Шенонсо, Амбуаз) выросли из этой встречи средневековой архитектуры с итальянским Ренессансом.\n\n**Французский классицизм** XVII века при Людовике XIV достиг вершин: Мольер создал современную комедию (*Скупой, Мещанин во дворянстве*), **Расин** довёл трагедию до совершенства (*Федра, Андромаха*), **Лафонтен** написал свои *Басни* для королевских детей. Французская академия, основанная Ришельё в **1635 году**, кодифицировала язык и в 1694 году опубликовала первый словарь — она существует по сей день.\n\nКоролевская архитектура оставила вечные шедевры: **Лувр**, расширенный несколькими королями, стал роскошным дворцом, прежде чем был превращён в музей во время Революции. **Французские сады** Ленотра (Версаль, Тюильри) повлияли на королевские сады всей Европы. **Мануфактура Гобеленов** и **Севрская фарфоровая мануфактура**, основанные Людовиком XIV, сделали французскую роскошь международным брендом — уже тогда!"
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "title": "Королевская кухня: рождение французской гастрономии",
+        "body": "Именно при монархии **французская кухня** приобрела мировую известность. Версальский двор стал её колыбелью: Людовик XIV ел с легендарным аппетитом (свидетели были потрясены его пантагрюэлевскими трапезами), а соперничество между вельможами за лучшего повара подталкивало кулинарное искусство к новым высотам.\n\n**Французский сервис** — когда все блюда подаются одновременно — постепенно уступил место **русскому сервису** (XIX век), при котором блюда подаются последовательно, что и принято сегодня. **Соусы** стали визитной карточкой французской кухни: бешамель (приписывается маркизу де Бешамелю, дворецкому Людовика XIV), голландский соус, велуте. **Кондитерское дело** усложнялось: макароны, эклеры, мильфёй появились в королевских кухнях.\n\n**Пекарь** приобрёл особый статус: белый хлеб (из чистой муки) был символом королевской роскоши, тогда как народ ел ржаной. «Пусть едят пирожные!» — апокрифическая фраза, приписываемая Марии-Антуанетте, — кристаллизует пропасть между двором и народом. Нехватка хлеба стала одной из первых причин взятия Бастилии: 5 октября 1789 года женщины двинулись на Версаль с криками «Хлеба!»"
       }
     ],
     "conseil_ami": {
       "title": "Дружеский совет 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «От Хлодвига до Революции»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**У французов сложные отношения с королевской историей.** С одной стороны, они республиканцы в душе и гордятся тем, что «срубили голову королю». С другой — обожают Версаль, дворянство, замки и с восхищением следят за иностранными королевскими семьями.\n\nПосещая исторические места Франции, не стесняйтесь расспрашивать французов — они, как правило, очень гордятся своим наследием и рады им делиться. Избегайте сравнений Франции с другими странами не в её пользу — это может вызвать реакцию закрытости. Проявите искреннее любопытство, и перед вами откроются все двери."
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "La féodalité / Феодализм",
+        "definition": "Средневековая система, при которой местные сеньоры управляли своими землями в обмен на верность королю — с крепостными крестьянами, прикреплёнными к земле."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "L'absolutisme / Абсолютизм",
+        "definition": "Политическая система, при которой король держит в руках всю власть без какого-либо контроля: законодательную, исполнительную, судебную."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "Les Lumières / Просвещение",
+        "definition": "Философское течение XVIII века (Вольтер, Руссо, Монтескьё), отстаивающее разум, свободу и равенство против мракобесия."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "Le tiers état / Третье сословие",
+        "definition": "3-е сословие общества Старого порядка: все, кроме духовенства и дворянства — то есть 97% населения."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "La dîme / Десятина",
+        "definition": "Религиозный налог — десятая часть урожая, взимавшаяся Церковью с крестьян вплоть до Революции."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "L'Académie française / Французская академия",
+        "definition": "Учреждение, основанное в 1635 году кардиналом Ришельё для нормирования и защиты французского языка. Её 40 членов называются «Бессмертными»."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «От Хлодвига до Революции» во Французской республике?",
+        "question": "Где традиционно короновались (помазывались) короли Франции?",
         "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
-        ],
-        "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
-      },
-      {
-        "question": "Светскость во Франции означает, что...",
-        "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
-        ],
-        "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
-      },
-      {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "В Париже, в Нотр-Дам",
+          "В Версале, в Зеркальной галерее",
+          "В Реймсе, в соборе",
+          "В Лионе, как столице Галлии"
         ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
+        "explanation": "Реймсский собор является почти исключительным местом коронации французских королей, начиная с Хлодвига. Коронация включала помазание Святой Ампулой и вручение королевских регалий. 33 короля были помазаны здесь."
       },
       {
-        "question": "Членом-основателем какой международной организации является Франция?",
+        "question": "Какой король построил Версальский дворец и правил 72 года?",
         "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
-        ],
-        "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
-      },
-      {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
-        "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
+          "Людовик XIII",
+          "Людовик XIV — Король-Солнце",
+          "Людовик XV",
+          "Людовик XVI"
         ],
         "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "Людовик XIV (1638–1715) правил 72 года — самое долгое царствование в европейской истории. Он построил Версаль, чтобы поселить туда знать и контролировать её, провозгласив: «Государство — это я»."
+      },
+      {
+        "question": "Какой документ 1539 года ввёл французский язык во всех официальных актах королевства?",
+        "options": [
+          "Нантский эдикт",
+          "Ордонанс Виллер-Котре",
+          "Декларация прав человека",
+          "Кодекс Наполеона"
+        ],
+        "correct_index": 1,
+        "explanation": "Ордонанс Виллер-Котре (1539), подписанный Франциском I, ввёл употребление французского (вместо латыни) во всех судебных и административных актах. Это свидетельство о рождении французского как официального национального языка."
+      },
+      {
+        "question": "Какая доля французского населения была крестьянами в 1789 году?",
+        "options": [
+          "Около 20%",
+          "Около 50%",
+          "Около 70%",
+          "Около 85%"
+        ],
+        "correct_index": 3,
+        "explanation": "В 1789 году около 85% французов были крестьянами, жившими под властью трёх господ: сеньора (феодальные оброки), Церкви (десятина) и короля (налоги). Именно это молчаливое большинство и совершит Революцию."
+      },
+      {
+        "question": "Какого знаменитого художника Франциск I пригласил ко двору, в результате чего Мона Лиза оказалась во Франции?",
+        "options": [
+          "Микеланджело",
+          "Рафаэль",
+          "Леонардо да Винчи",
+          "Боттичелли"
+        ],
+        "correct_index": 2,
+        "explanation": "Леонардо да Винчи провёл последние три года жизни (1516–1519) в замке Кло-Люсе близ Амбуаза, приглашённый Франциском I. Он привёз с собой Мону Лизу, которая так и осталась во Франции — сегодня она выставлена в Лувре."
       }
     ]
   }

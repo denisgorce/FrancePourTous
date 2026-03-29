@@ -4,229 +4,288 @@
     "lesson_id": 1,
     "module_icon": "🏛️",
     "lesson_icon": "🌱",
-    "estimated_minutes": 15,
+    "estimated_minutes": 10,
     "difficulty": "débutant",
     "sources": [
-      "vie-publique.fr",
-      "culture.gouv.fr",
-      "education.gouv.fr"
+      {
+        "label": "Vie publique — La République française",
+        "url": "https://www.vie-publique.fr/fiches/19563-quest-ce-que-la-republique-francaise"
+      },
+      {
+        "label": "Culture.gouv — Patrimoine gastronomique UNESCO",
+        "url": "https://www.culture.gouv.fr/Regions/Drac-Auvergne-Rhone-Alpes/Ressources/Guides-pratiques/Repas-gastronomique-des-Francais"
+      },
+      {
+        "label": "Élysée — La Constitution et les institutions",
+        "url": "https://www.elysee.fr/la-presidence/la-constitution"
+      },
+      {
+        "label": "INSEE — Chiffres clés de la France",
+        "url": "https://www.insee.fr/fr/statistiques/chiffres-cles"
+      }
     ]
   },
-
   "fr": {
     "module_title": "Les Racines de la France",
     "lesson_title": "Naître Français — L'âme d'un peuple",
     "lesson_subtitle": "Histoire, valeurs et codes fondateurs",
-    "intro": "Comprendre la France, c'est d'abord comprendre pourquoi les Français sont comme ils sont. Ce n'est pas une question de génétique, mais d'histoire : mille ans de batailles, de révolutions, de philosophie et d'art de vivre ont sculpté un peuple unique.",
-
+    "intro": "Comprendre la France, c'est d'abord comprendre pourquoi les Français sont comme ils sont. Ce n'est pas une question de génétique, mais d'histoire : mille ans de batailles, de révolutions, de philosophie et d'art de vivre ont sculpté un peuple unique. Cette leçon pose les bases indispensables — le socle sur lequel tout le reste repose.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
         "title": "Les racines historiques",
-        "body": "La France est l'une des plus vieilles nations d'Europe. Sa conscience nationale remonte au Moyen Âge, lorsque Jeanne d'Arc (1412–1431) incarna pour la première fois l'idée d'une «France» à défendre contre l'Angleterre.\n\nMais la France moderne naît le 14 juillet 1789, quand le peuple de Paris prend la Bastille. En quelques mois, la Révolution française renverse la monarchie absolue et proclame un principe révolutionnaire pour l'époque : tous les hommes naissent libres et égaux. Ce moment fonde l'ADN politique de la France : la République, la laïcité, les droits de l'homme.\n\nAujourd'hui, la France est la Ve République (depuis 1958), avec à sa tête un Président élu pour 5 ans au suffrage universel. Sa devise gravée sur chaque bâtiment officiel : **Liberté, Égalité, Fraternité**."
+        "body": "La France est l'une des plus vieilles nations d'Europe. Sa conscience nationale remonte au Moyen Âge, lorsque Jeanne d'Arc (1412–1431) incarna pour la première fois l'idée d'une «France» à défendre contre l'Angleterre. Avant elle, le territoire que nous appelons France était un patchwork de duchés, comtés et royaumes aux allégeances changeantes.\n\nLa France moderne naît le **14 juillet 1789**, quand le peuple de Paris prend la Bastille. En quelques mois, la Révolution française renverse la monarchie absolue et proclame un principe révolutionnaire pour l'époque : tous les hommes naissent libres et égaux. Ce moment fonde l'ADN politique de la France : la République, la laïcité, les droits de l'homme. La Déclaration des Droits de l'Homme et du Citoyen du 26 août 1789 reste aujourd'hui intégrée au bloc de constitutionnalité.\n\nAujourd'hui, la France est la **Ve République** (depuis 1958), rédigée sous l'égide du général de Gaulle. À sa tête, un Président élu pour 5 ans au suffrage universel direct, avec des pouvoirs exécutifs étendus — une particularité française par rapport aux autres démocraties européennes. Sa devise gravée sur chaque bâtiment officiel : **Liberté, Égalité, Fraternité**."
       },
       {
-        "theme": "Région",
+        "theme": "Géographie",
         "icon": "🗺️",
         "title": "Un pays aux mille visages",
-        "body": "La France métropolitaine s'étend sur 551 500 km² — environ 3 fois plus grande que le Royaume-Uni. Elle compte 13 régions très différentes : la Bretagne avec ses côtes atlantiques et sa culture celtique ; la Provence avec ses lavandes et son soleil méditerranéen ; l'Alsace avec son architecture à colombages et ses influences germaniques ; la Normandie avec ses plages de débarquement et ses pommiers à cidre.\n\nMais la France, c'est aussi l'outre-mer : la Guyane en Amazonie, la Martinique et la Guadeloupe aux Antilles, La Réunion dans l'océan Indien, Mayotte en Afrique. Ces territoires sont partie intégrante de la République française et de l'Union européenne.\n\nParis est la capitale : 2 millions d'habitants intra-muros, 12 millions dans la région Île-de-France. Mais les Français aiment rappeler que «Paris n'est pas la France»."
+        "body": "La France métropolitaine s'étend sur **551 500 km²** — environ 3 fois plus grande que le Royaume-Uni, et pourtant traversable en voiture en une journée. Sa forme hexagonale (les Français disent «l'Hexagone») lui vaut une position géographique exceptionnelle : bordée par l'Atlantique à l'ouest, la Méditerranée au sud, les Alpes et les Pyrénées à l'est et au sud.\n\nElle compte **13 régions métropolitaines** très différentes : la Bretagne avec ses côtes atlantiques et sa culture celtique ; la Provence avec ses lavandes et son soleil méditerranéen ; l'Alsace avec son architecture à colombages et ses influences germaniques ; la Normandie avec ses plages de débarquement et ses pommiers à cidre. Cette diversité est une richesse mais aussi une source de fortes identités régionales parfois en tension avec le centralisme parisien.\n\nMais la France, c'est aussi **l'outre-mer** : la Guyane en Amazonie, la Martinique et la Guadeloupe aux Antilles, La Réunion dans l'océan Indien, Mayotte en Afrique. Ces territoires sont partie intégrante de la République française et de l'Union européenne. La France possède ainsi la **2e zone économique exclusive maritime mondiale**, après les États-Unis. Paris reste la capitale avec 2 millions d'habitants intra-muros et 12 millions en Île-de-France — mais les Français rappellent volontiers que «Paris n'est pas la France»."
       },
       {
-        "theme": "Politique & Social",
+        "theme": "Politique",
         "icon": "⚖️",
-        "title": "L'État et ses valeurs",
-        "body": "La France est une République **laïque** — cela signifie que l'État est strictement séparé de toute religion depuis la loi de 1905. Ni église, ni mosquée, ni synagogue ne peut influencer les lois. Tout citoyen est libre de croire ou de ne pas croire.\n\nLa **laïcité** n'est pas une attaque contre la religion : c'est une protection pour toutes les religions. Chacun pratique librement dans la sphère privée ; dans la sphère publique (école, mairie, hôpital), la neutralité religieuse s'impose.\n\nLa France est aussi un **État social** : la Sécurité Sociale (créée en 1945) garantit à tous l'accès aux soins, à la retraite et aux allocations familiales. C'est un pacte de solidarité nationale financé par les cotisations de tous."
+        "title": "L'État, la République et ses valeurs",
+        "body": "La France est une République **laïque** — l'État est strictement séparé de toute religion depuis la **loi de 1905**. Ni église, ni mosquée, ni synagogue ne peut influencer les lois. Tout citoyen est libre de croire ou de ne pas croire ; mais dans la sphère publique (école, mairie, hôpital), la neutralité religieuse s'impose à tous. Ce principe, incompris de nombreux étrangers, est en réalité une protection pour toutes les religions : aucune ne peut être favorisée ou persécutée par l'État.\n\nLa France est aussi un **État social** : la Sécurité Sociale créée en 1945 garantit à tous l'accès aux soins, à la retraite et aux allocations familiales. Ce pacte de solidarité nationale, financé par les cotisations de tous, est la fierté des Français — et leur première ligne de défense contre l'inquiétude.\n\nLe **Parlement** est bicaméral : l'Assemblée nationale (577 députés élus au suffrage universel direct) et le Sénat (348 sénateurs élus par des grands électeurs). Le Premier ministre, nommé par le Président, dirige le gouvernement. Cette architecture peut créer des situations de **cohabitation** (Président et Premier ministre de partis opposés) — une spécificité française qui fascine les politologues étrangers."
       },
       {
-        "theme": "Économie & Modes de vie",
-        "icon": "💼",
+        "theme": "Vie quotidienne",
+        "icon": "🏠",
         "title": "Vivre en France au quotidien",
-        "body": "La France est la 7e puissance économique mondiale (PIB ~2 800 milliards €). Elle excelle dans l'aéronautique (Airbus, à Toulouse), le luxe (LVMH, Hermès), l'énergie nucléaire (75% de l'électricité), l'agroalimentaire et le tourisme (1er pays au monde avec ~90 millions de visiteurs/an).\n\n**La semaine de travail** est légalement de 35 heures (loi Aubry, 1998). Les salariés ont droit à 5 semaines de congés payés par an. Le SMIC (salaire minimum) est d'environ 1 766 € brut/mois en 2024.\n\n**Pour votre santé** : la Carte Vitale est votre sésame. Elle permet le tiers payant (pas d'avance de frais) chez les médecins conventionnés. Numéros d'urgence : SAMU = **15**, Police = **17**, Pompiers = **18**, Urgence européenne = **112**."
+        "body": "La France est la **7e puissance économique mondiale** (PIB ~2 800 milliards €). Elle excelle dans l'aéronautique (Airbus, à Toulouse), le luxe (LVMH, Hermès, Chanel), l'énergie nucléaire (70% de l'électricité), l'agroalimentaire et le tourisme — 1er pays au monde avec près de **100 millions de visiteurs par an**.\n\nLa **semaine légale de travail** est de 35 heures (loi Aubry, 1998). Les salariés ont droit à **5 semaines de congés payés** par an. Le SMIC (salaire minimum interprofessionnel de croissance) est d'environ **1 766 € brut/mois** en 2024. Ces acquis sociaux sont défendus farouchement par les syndicats — la France est l'un des pays où les grèves restent un outil politique majeur.\n\nPour la santé, la **Carte Vitale** est le sésame du système. Elle permet le tiers payant (pas d'avance de frais) chez les médecins conventionnés. Les soins sont remboursés entre 70% et 100% selon les actes. Les numéros d'urgence à connaître absolument : SAMU = **15**, Police = **17**, Pompiers = **18**, Numéro européen = **112**. Tous sont gratuits, 24h/24, depuis n'importe quel téléphone."
       },
       {
-        "theme": "Culture artistique",
+        "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "La France, pays des arts",
-        "body": "La France est berceau de l'impressionnisme (Monet, Renoir, Cézanne), du cinéma (les frères Lumière inventent le cinématographe à Lyon en 1895), de la Nouvelle Vague (Godard, Truffaut), de la chanson française (Édith Piaf, Jacques Brel, Georges Brassens) et de la philosophie moderne (Descartes, Sartre, Beauvoir).\n\nAujourd'hui, la France finance généreusement la culture : le **CNC** soutient le cinéma, les musées nationaux (Louvre, Orsay, Centre Pompidou) proposent des tarifs réduits pour les moins de 26 ans résidents européens.\n\nLa **télévision publique** (France 2, France 3, Arte, France 5) est financée par une redevance et propose des contenus culturels, des journaux et des documentaires sans publicité le soir."
+        "title": "La France, berceau des arts modernes",
+        "body": "La France est le berceau de l'**impressionnisme** (Monet, Renoir, Cézanne, Degas) — ce mouvement pictural né dans les années 1860 qui révolutionna l'art occidental en privilégiant la lumière et l'instant sur l'académisme. Le **Musée d'Orsay** à Paris en est le temple mondial.\n\nElle invente le **cinéma** : les frères Lumière organisent la première projection publique payante à Paris le 28 décembre 1895. Elle donnera ensuite la **Nouvelle Vague** (Godard, Truffaut, Chabrol) dans les années 1960 — une révolution esthétique qui influença Hollywood et le monde entier. Le **Festival de Cannes**, créé en 1946, reste la vitrine annuelle du cinéma mondial.\n\nEn littérature, la France a produit des monuments de la pensée humaine : Molière, Racine, Voltaire, Rousseau, Hugo, Balzac, Zola, Proust, Sartre, Beauvoir, Camus. Ces auteurs ne sont pas seulement des figures culturelles — leurs idées ont structuré la pensée politique et sociale de l'Europe entière. La France compte **16 prix Nobel de littérature**, plus que tout autre pays. Aujourd'hui, la culture est largement **subventionnée par l'État** : le ministère de la Culture consacre environ 3 milliards € par an au financement des arts, musées, théâtres et patrimoine."
       },
       {
-        "theme": "Culture matérielle",
+        "theme": "Gastronomie & Codes sociaux",
         "icon": "🥖",
-        "title": "La gastronomie et les codes sociaux",
-        "body": "La gastronomie française est classée au **Patrimoine Culturel Immatériel de l'UNESCO** depuis 2010. Ce n'est pas qu'une question de nourriture — c'est un art de vivre : le plaisir de la table, les repas pris ensemble, le temps accordé à bien manger.\n\nUn repas français type comprend : une **entrée** (soupe, salade, charcuterie), un **plat principal** (viande ou poisson avec légumes), un **fromage** (la France en compte plus de 1 000 variétés) et un **dessert**. Le pain accompagne tout — poser son pain sur la table (pas dans l'assiette) est la norme.\n\nLe **déjeuner** (repas du midi) reste sacré : de nombreux Français prennent 1h à 1h30 pour déjeuner, souvent en sortant du bureau. Le **dîner** (repas du soir) se prend vers 19h30–20h en famille ou entre amis."
+        "title": "La table française : un art de vivre",
+        "body": "La gastronomie française est classée au **Patrimoine Culturel Immatériel de l'UNESCO** depuis 2010. Ce n'est pas qu'une question de nourriture — c'est un art de vivre : le plaisir de la table, les repas pris ensemble, le temps accordé à bien manger. Un Français mange en moyenne **34 minutes** pour le déjeuner — bien plus que ses voisins européens.\n\nUn repas français type comprend : une **entrée** (soupe, salade, charcuterie), un **plat principal** (viande ou poisson avec légumes), un **fromage** (la France en compte plus de 1 200 variétés selon le général de Gaulle, qui disait : «Comment voulez-vous gouverner un pays qui a 246 fromages ?») et un **dessert**. Le pain accompagne tout — poser son pain directement sur la table (et non dans l'assiette) est la norme.\n\nLe **déjeuner** (repas du midi) reste sacré : nombreux Français prennent 1 à 1h30 pour déjeuner, souvent en sortant du bureau. Le **dîner** (repas du soir) se prend vers 19h30–20h00. Ne jamais commencer à manger avant que tout le monde soit servi. Attendre le signal «Bon appétit !» avant de saisir ses couverts. Ces règles, jamais explicitées, régissent chaque repas partagé."
       }
     ],
-
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Le «Bonjour» est une règle d'or en France.** Quand vous entrez dans un magasin, chez un médecin, dans un bureau — toujours commencer par «Bonjour». Ne pas le dire est perçu comme une impolitesse grave, presque agressive. Même chose en quittant : dites «Merci, bonne journée !» ou «Au revoir».\n\nContrairement à la Russie où ignorer les inconnus est normal, en France l'absence de salutation dans un espace commercial ou professionnel crée un malaise réel. Ce n'est pas de la fausse politesse — c'est la reconnaissance de l'autre comme personne."
+      "content": "**Le «Bonjour» est une règle d'or en France.** Quand vous entrez dans un magasin, chez un médecin, dans un bureau — toujours commencer par «Bonjour». Ne pas le dire est perçu comme une impolitesse grave, presque agressive. Même chose en quittant : dites «Merci, bonne journée !» ou «Au revoir».\n\nContrairement à la Russie où ignorer les inconnus est tout à fait normal, en France l'absence de salutation dans un espace commercial ou professionnel crée un malaise réel. Les Français ne vous diront peut-être rien, mais ils noteront mentalement ce «manque». Ce n'est pas de la fausse politesse — c'est la reconnaissance de l'autre comme personne, un héritage direct de la philosophie républicaine de l'égalité."
     },
-
     "glossary": [
-      { "term": "La République", "definition": "Régime politique où les dirigeants élus gouvernent au nom du peuple." },
-      { "term": "La laïcité", "definition": "Principe de séparation de l'Église et de l'État, garantissant la liberté de conscience." },
-      { "term": "La Sécurité Sociale", "definition": "Système public de protection sociale créé en 1945 (santé, retraite, famille)." },
-      { "term": "Le SMIC", "definition": "Salaire Minimum Interprofessionnel de Croissance — salaire légal minimum." },
-      { "term": "La Carte Vitale", "definition": "Carte électronique de l'Assurance Maladie permettant le remboursement des soins." },
-      { "term": "Le tiers payant", "definition": "Système permettant de ne pas avancer les frais médicaux — ils sont payés directement par l'Assurance Maladie." }
+      {
+        "term": "La République",
+        "definition": "Régime politique où les dirigeants élus gouvernent au nom du peuple — par opposition à la monarchie."
+      },
+      {
+        "term": "La laïcité",
+        "definition": "Principe de séparation stricte de l'État et des religions, garantissant la liberté de conscience depuis 1905."
+      },
+      {
+        "term": "La Sécurité Sociale",
+        "definition": "Système public de protection sociale créé en 1945 couvrant santé, retraite et allocations familiales."
+      },
+      {
+        "term": "Le SMIC",
+        "definition": "Salaire Minimum Interprofessionnel de Croissance — le salaire légal minimum en dessous duquel aucun employeur ne peut payer."
+      },
+      {
+        "term": "La Carte Vitale",
+        "definition": "Carte électronique verte de l'Assurance Maladie permettant le remboursement automatique des soins."
+      },
+      {
+        "term": "La cohabitation",
+        "definition": "Situation où le Président de la République et le Premier ministre appartiennent à des partis politiques opposés."
+      }
     ],
-
     "quiz": [
       {
         "question": "Quelle date marque la naissance de la République française et est fêtée comme fête nationale ?",
         "options": [
-          "1er janvier 1789",
+          "1er mai 1789",
           "14 juillet 1789",
           "26 août 1789",
           "21 janvier 1793"
         ],
         "correct_index": 1,
-        "explanation": "Le 14 juillet 1789, la prise de la Bastille symbolise la victoire du peuple sur la monarchie absolue. C'est la fête nationale française, célébrée chaque année avec un défilé militaire sur les Champs-Élysées et un feu d'artifice."
+        "explanation": "Le 14 juillet 1789, la prise de la Bastille symbolise la victoire du peuple sur la monarchie absolue. C'est la fête nationale française, célébrée chaque année avec un défilé militaire sur les Champs-Élysées et un feu d'artifice à la Tour Eiffel."
       },
       {
-        "question": "Qu'est-ce que la laïcité en France ?",
+        "question": "Qu'est-ce que la laïcité garantit en France ?",
         "options": [
-          "L'interdiction de toute religion en France",
-          "La religion catholique comme religion d'État",
-          "La séparation de l'État et des religions, garantissant la liberté de conscience",
-          "L'obligation d'être athée dans les lieux publics"
+          "L'interdiction de toute religion",
+          "Le catholicisme comme religion d'État",
+          "La séparation de l'État et des religions, la liberté de conscience",
+          "L'athéisme obligatoire dans les lieux publics"
         ],
         "correct_index": 2,
-        "explanation": "La laïcité (loi de 1905) sépare l'État de la religion. L'État est neutre : il ne favorise ni ne combat aucune religion. Chaque citoyen est libre de croire ou non dans sa vie privée."
+        "explanation": "La laïcité (loi de 1905) sépare l'État de la religion. L'État est neutre : il ne favorise ni ne combat aucune religion. Chaque citoyen est libre de croire ou non dans sa vie privée, mais dans les espaces publics, la neutralité religieuse s'impose."
       },
       {
-        "question": "Quel est le numéro d'urgence du SAMU (aide médicale) en France ?",
-        "options": ["17", "18", "15", "112"],
+        "question": "Quel est le numéro du SAMU (aide médicale urgente) en France ?",
+        "options": [
+          "17",
+          "18",
+          "15",
+          "112"
+        ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU (Service d'Aide Médicale Urgente). Le 17 est la police, le 18 les pompiers, le 112 est le numéro européen d'urgence qui redirige vers le bon service."
+        "explanation": "Le 15 est le SAMU (Service d'Aide Médicale Urgente). Le 17 est la police nationale, le 18 les sapeurs-pompiers, le 112 le numéro européen unique qui redirige automatiquement vers le bon service selon votre localisation."
       },
       {
         "question": "Combien de semaines de congés payés ont légalement les salariés français ?",
-        "options": ["3 semaines", "4 semaines", "5 semaines", "6 semaines"],
+        "options": [
+          "3 semaines",
+          "4 semaines",
+          "5 semaines",
+          "6 semaines"
+        ],
         "correct_index": 2,
-        "explanation": "La loi française garantit 5 semaines (25 jours ouvrés) de congés payés par an à tous les salariés. C'est l'un des droits sociaux les plus généreux d'Europe."
+        "explanation": "La loi française garantit 5 semaines (25 jours ouvrés) de congés payés par an à tous les salariés. C'est l'un des droits sociaux les plus généreux d'Europe, acquis progressivement depuis les congés payés de 1936 (Front Populaire)."
       },
       {
-        "question": "Que doit-on TOUJOURS faire en entrant dans un magasin ou chez un professionnel en France ?",
+        "question": "Pourquoi la gastronomie française est-elle classée à l'UNESCO ?",
         "options": [
-          "Présenter sa carte d'identité",
-          "Dire «Bonjour»",
-          "Attendre qu'on vous adresse la parole",
-          "Enlever son manteau"
+          "Pour ses recettes uniques au monde",
+          "Car c'est un art de vivre : le rituel du repas partagé, pas seulement la nourriture",
+          "Pour la qualité de ses vins",
+          "Car la France a le plus de restaurants étoilés au monde"
         ],
         "correct_index": 1,
-        "explanation": "Le «Bonjour» est une règle sociale fondamentale en France. Ne pas saluer en entrant dans un commerce est perçu comme une impolitesse grave. C'est une marque de reconnaissance de l'autre qui structure les interactions sociales françaises."
+        "explanation": "L'UNESCO a classé en 2010 le «repas gastronomique des Français» comme patrimoine immatériel, car c'est le rituel social du repas — la façon de se réunir, de prendre le temps, de partager — qui est exceptionnel, pas seulement les plats eux-mêmes."
       }
     ]
   },
-
   "ru": {
     "module_title": "Корни Франции",
     "lesson_title": "Стать французом — душа народа",
     "lesson_subtitle": "История, ценности и основополагающие коды",
-    "intro": "Понять Францию — значит прежде всего понять, почему французы именно такие. Это вопрос не генетики, а истории: тысяча лет битв, революций, философии и искусства жить вылепили уникальный народ.",
-
+    "intro": "Понять Францию — значит прежде всего понять, почему французы именно такие. Это вопрос не генетики, а истории: тысяча лет битв, революций, философии и искусства жить вылепили уникальный народ. Этот урок закладывает фундамент — основу, на которой держится всё остальное.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
         "title": "Исторические корни",
-        "body": "Франция — одна из старейших наций Европы. Национальное самосознание восходит к Средним векам, когда Жанна д'Арк (1412–1431) впервые воплотила идею «Франции», которую нужно защищать от Англии.\n\nНо современная Франция рождается 14 июля 1789 года, когда парижане берут штурмом Бастилию. За несколько месяцев Французская революция свергает абсолютную монархию и провозглашает революционный для своего времени принцип: все люди рождаются свободными и равными. Этот момент заложил политическую ДНК Франции: Республика, светскость, права человека.\n\nСегодня Франция — V Республика (с 1958 года), во главе которой стоит Президент, избираемый на 5 лет всеобщим голосованием. Девиз, выбитый на каждом официальном здании: **Свобода, Равенство, Братство**."
+        "body": "Франция — одна из старейших наций Европы. Национальное самосознание восходит к Средним векам, когда Жанна д'Арк (1412–1431) впервые воплотила идею «Франции», которую нужно защищать от Англии. До неё территория, которую мы называем Францией, представляла собой мозаику герцогств, графств и королевств с переменчивыми союзами.\n\nСовременная Франция рождается **14 июля 1789 года**, когда парижане берут штурмом Бастилию. За несколько месяцев Французская революция свергает абсолютную монархию и провозглашает революционный для своего времени принцип: все люди рождаются свободными и равными. Этот момент заложил политическую ДНК Франции: Республика, светскость, права человека. Декларация прав человека и гражданина от 26 августа 1789 года по сей день входит в конституционный блок.\n\nСегодня Франция — **V Республика** (с 1958 года), созданная под руководством генерала де Голля. Во главе — Президент, избираемый на 5 лет всеобщим прямым голосованием, с широкими исполнительными полномочиями — французская особенность по сравнению с другими европейскими демократиями. Девиз, выбитый на каждом официальном здании: **Свобода, Равенство, Братство**."
       },
       {
-        "theme": "Регион",
+        "theme": "География",
         "icon": "🗺️",
         "title": "Страна тысячи лиц",
-        "body": "Метрополия Франции занимает 551 500 км² — примерно в 3 раза больше Великобритании. 13 очень разных регионов: Бретань с атлантическим побережьем и кельтской культурой; Прованс с лавандами и средиземноморским солнцем; Эльзас с фахверковыми домами и германским влиянием; Нормандия с пляжами высадки и яблоневыми садами.\n\nНо Франция — это ещё и заморские территории: Гвиана в Амазонии, Мартиника и Гваделупа на Антилах, Реюньон в Индийском океане, Майотта в Африке. Все они — часть Французской Республики и Европейского союза.\n\nПариж — столица: 2 миллиона жителей в пределах бульваров, 12 миллионов в регионе Иль-де-Франс. Но французы любят напоминать: «Париж — не Франция»."
+        "body": "Метрополия Франции занимает **551 500 км²** — примерно в 3 раза больше Великобритании, но при этом страну можно пересечь на машине за один день. Её шестиугольная форма (французы говорят «l'Hexagone» — Шестигранник) обеспечивает исключительное географическое положение: Атлантический океан на западе, Средиземное море на юге, Альпы и Пиренеи на востоке и юге.\n\nВ стране **13 метропольных регионов**, каждый со своим характером: Бретань с атлантическим побережьем и кельтской культурой; Прованс с лавандами и средиземноморским солнцем; Эльзас с фахверковыми домами и германским влиянием; Нормандия с пляжами высадки союзников и яблоневыми садами. Это разнообразие — богатство, но и источник сильных региональных идентичностей, порой конфликтующих с парижским централизмом.\n\nНо Франция — это ещё и **заморские территории**: Гвиана в Амазонии, Мартиника и Гваделупа на Антилах, Реюньон в Индийском океане, Майотта в Африке. Все они — часть Французской Республики и ЕС. Франция обладает **2-й по величине исключительной экономической зоной в мире** после США. Париж — столица с 2 млн жителей в пределах бульваров и 12 млн в регионе Иль-де-Франс, но французы любят повторять: «Париж — не Франция»."
       },
       {
-        "theme": "Политика и общество",
+        "theme": "Политика",
         "icon": "⚖️",
-        "title": "Государство и его ценности",
-        "body": "Франция — **светская** республика: государство строго отделено от любой религии с 1905 года. Ни церковь, ни мечеть, ни синагога не может влиять на законы. Каждый гражданин свободен верить или не верить.\n\n**Светскость** — это не нападение на религию: это защита для всех религий сразу. Каждый свободно практикует в частной сфере; в публичной (школа, мэрия, больница) религиозный нейтралитет обязателен.\n\nФранция — также **социальное государство**: Система социального страхования (создана в 1945 году) гарантирует всем доступ к медицине, пенсии и семейным пособиям. Это пакт национальной солидарности, финансируемый взносами всех."
+        "title": "Государство, Республика и её ценности",
+        "body": "Франция — **светская** республика: государство строго отделено от любой религии с **1905 года**. Ни церковь, ни мечеть, ни синагога не могут влиять на законы. Каждый гражданин свободен верить или не верить; но в публичной сфере (школа, мэрия, больница) религиозный нейтралитет обязателен для всех. Этот принцип, непонятый многими иностранцами, на самом деле защищает все религии сразу: ни одна не может быть favorizée или преследована государством.\n\nФранция — также **социальное государство**: система социального страхования, созданная в 1945 году, гарантирует всем доступ к медицине, пенсии и семейным пособиям. Этот пакт национальной солидарности, финансируемый взносами всех, — предмет гордости французов и их главная страховка от тревоги за будущее.\n\n**Парламент** двухпалатный: Национальное собрание (577 депутатов, избранных всеобщим прямым голосованием) и Сенат (348 сенаторов, избранных выборщиками). Премьер-министр, назначаемый Президентом, руководит правительством. Эта архитектура иногда создаёт ситуации **сосуществования** (когда Президент и Премьер-министр из противоборствующих партий) — французская особенность, которая восхищает политологов всего мира."
       },
       {
-        "theme": "Экономика и образ жизни",
-        "icon": "💼",
+        "theme": "Повседневная жизнь",
+        "icon": "🏠",
         "title": "Повседневная жизнь во Франции",
-        "body": "Франция — 7-я экономика мира (ВВП ~2 800 млрд €). Она лидирует в авиастроении (Airbus, Тулуза), роскоши (LVMH, Hermès), ядерной энергетике (75% электричества), агропроме и туризме (1-е место в мире: ~90 млн туристов/год).\n\n**Рабочая неделя** законодательно составляет 35 часов (закон Обри, 1998). Работники имеют право на 5 недель оплачиваемого отпуска в год. SMIC (минимальная зарплата) — около 1 766 € брутто/месяц в 2024 году.\n\n**Для вашего здоровья**: Carte Vitale — ваш ключ к системе. Она позволяет получать помощь без предоплаты у врачей-участников системы. Номера экстренных служб: SAMU = **15**, Полиция = **17**, Пожарные = **18**, Единый европейский = **112**."
+        "body": "Франция — **7-я экономика мира** (ВВП ~2 800 млрд €). Она лидирует в авиастроении (Airbus, Тулуза), предметах роскоши (LVMH, Hermès, Chanel), ядерной энергетике (70% электричества), агропроме и туризме — **1-е место в мире** с почти 100 млн туристов в год.\n\n**Законная рабочая неделя** — 35 часов (закон Обри, 1998 год). Работники имеют право на **5 недель оплачиваемого отпуска** в год. SMIC (минимальная зарплата) — около **1 766 € брутто/месяц** в 2024 году. Эти социальные завоевания яростно отстаиваются профсоюзами — Франция остаётся одной из стран, где забастовки являются важным политическим инструментом.\n\nДля здоровья **Carte Vitale** — ваш ключ к системе. Она позволяет получать помощь без предоплаты у врачей, работающих в системе. Расходы возмещаются от 70% до 100% в зависимости от вида помощи. Номера экстренных служб, которые нужно знать обязательно: SAMU = **15**, Полиция = **17**, Пожарные = **18**, Европейский номер = **112**. Все бесплатны, 24/7, с любого телефона."
       },
       {
-        "theme": "Художественная культура",
+        "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Франция — страна искусств",
-        "body": "Франция — родина импрессионизма (Моне, Ренуар, Сезанн), кинематографа (братья Люмьер изобретают синематограф в Лионе в 1895 году), Новой волны (Годар, Трюффо), французской песни (Эдит Пиаф, Жак Брель, Жорж Брассанс) и современной философии (Декарт, Сартр, Бовуар).\n\nСегодня Франция щедро финансирует культуру: **CNC** поддерживает кинематограф, национальные музеи (Лувр, Орсе, Центр Помпиду) предлагают льготные цены для молодёжи до 26 лет.\n\n**Общественное телевидение** (France 2, France 3, Arte, France 5) финансируется за счёт специального взноса и предлагает культурный контент, новости и документальные фильмы без рекламы в вечернее время."
+        "title": "Франция — колыбель современного искусства",
+        "body": "Франция — родина **импрессионизма** (Моне, Ренуар, Сезанн, Дега) — живописного движения, возникшего в 1860-х годах и перевернувшего западное искусство, поставив свет и мгновение выше академической традиции. **Музей д'Орсэ** в Париже — его мировой храм.\n\nОна изобрела **кинематограф**: братья Люмьер провели первый публичный платный показ в Париже 28 декабря 1895 года. Позже страна подарила миру **Новую волну** (Годар, Трюффо, Шаброль) — эстетическую революцию 1960-х, повлиявшую на Голливуд и весь мировой кинематограф. **Каннский фестиваль**, основанный в 1946 году, остаётся ежегодной витриной мирового кино.\n\nВ литературе Франция создала памятники человеческой мысли: Мольер, Расин, Вольтер, Руссо, Гюго, Бальзак, Золя, Пруст, Сартр, Бовуар, Камю. Эти авторы — не просто культурные фигуры: их идеи сформировали политическую и социальную мысль всей Европы. Франция насчитывает **16 лауреатов Нобелевской премии по литературе** — больше, чем любая другая страна. Сегодня культура щедро **субсидируется государством**: Министерство культуры выделяет около 3 млрд € в год на финансирование искусства, музеев, театров и наследия."
       },
       {
-        "theme": "Материальная культура",
+        "theme": "Гастрономия и социальные коды",
         "icon": "🥖",
-        "title": "Гастрономия и социальные коды",
-        "body": "Французская гастрономия включена в список **нематериального культурного наследия ЮНЕСКО** с 2010 года. Это не просто еда — это искусство жить: удовольствие от стола, совместные трапезы, время, отведённое хорошей еде.\n\nТипичный французский обед включает: **закуску** (суп, салат, мясная нарезка), **горячее** (мясо или рыба с гарниром), **сыр** (Франция насчитывает более 1 000 сортов) и **десерт**. Хлеб сопровождает всё — его принято класть прямо на стол, а не в тарелку.\n\n**Обед** (repas du midi) по-прежнему священен: многие французы отводят 1–1,5 часа на полноценный обед, часто выходя из офиса. **Ужин** (dîner) начинается около 19:30–20:00 в семейном кругу или с друзьями."
+        "title": "Французский стол: искусство жить",
+        "body": "Французская гастрономия включена в список **нематериального культурного наследия ЮНЕСКО** с 2010 года. Это не просто еда — это искусство жить: удовольствие от стола, совместные трапезы, время, отведённое хорошей еде. Средний француз тратит на обед **34 минуты** — намного больше, чем его европейские соседи.\n\nТипичный французский обед включает: **закуску** (суп, салат, мясная нарезка), **горячее** (мясо или рыба с гарниром), **сыр** (по словам де Голля: «Как управлять страной, в которой более 246 сортов сыра?» — на самом деле их более 1 200) и **десерт**. Хлеб сопровождает всё — его принято класть прямо на стол, а не в тарелку.\n\n**Обед** (repas du midi) по-прежнему священен: многие французы отводят 1–1,5 часа на полноценную трапезу, нередко выходя из офиса. **Ужин** (dîner) начинается около 19:30–20:00 в семейном кругу или с друзьями. Никогда не начинайте есть, пока все не будут обслужены. Дождитесь сигнала «Bon appétit!» перед тем, как взять столовые приборы. Эти правила, никогда не объясняемые вслух, регулируют каждую совместную трапезу."
       }
     ],
-
     "conseil_ami": {
       "title": "Дружеский совет 🤝",
       "icon": "💡",
-      "content": "**«Bonjour» — золотое правило Франции.** Заходя в магазин, к врачу, в учреждение — всегда начинайте с «Bonjour». Не поздороваться воспринимается как серьёзная грубость, почти агрессия. То же самое при выходе: скажите «Merci, bonne journée !» или «Au revoir».\n\nВ отличие от России, где игнорирование незнакомых в публичных местах — норма, во Франции отсутствие приветствия в торговом или профессиональном пространстве вызывает настоящий дискомфорт. Это не притворная вежливость — это признание другого человека как личности."
+      "content": "**«Bonjour» — золотое правило Франции.** Заходя в магазин, к врачу, в учреждение — всегда начинайте с «Bonjour». Не поздороваться воспринимается как серьёзная грубость, почти агрессия. То же самое при выходе: скажите «Merci, bonne journée!» или «Au revoir».\n\nВ отличие от России, где игнорировать незнакомых в общественных местах совершенно нормально, во Франции отсутствие приветствия в торговом или профессиональном пространстве вызывает настоящий дискомфорт. Французы, возможно, ничего не скажут, но мысленно отметят это «упущение». Это не притворная вежливость — это признание другого человека как личности, прямое наследие республиканской философии равенства."
     },
-
     "glossary": [
-      { "term": "La République / Республика", "definition": "Политический строй, при котором избранные руководители управляют от имени народа." },
-      { "term": "La laïcité / Светскость", "definition": "Принцип разделения церкви и государства, гарантирующий свободу совести." },
-      { "term": "La Sécurité Sociale / Социальное страхование", "definition": "Государственная система социальной защиты, созданная в 1945 году (здоровье, пенсия, семья)." },
-      { "term": "Le SMIC / СМИК", "definition": "Минимальная межотраслевая заработная плата — законный минимум оплаты труда." },
-      { "term": "La Carte Vitale / Карт Виталь", "definition": "Электронная карта медицинского страхования, дающая право на возмещение расходов на лечение." },
-      { "term": "Le tiers payant / Тьер-пеян", "definition": "Система, при которой вы не платите врачу сами — страховая касса платит напрямую." }
+      {
+        "term": "La République / Республика",
+        "definition": "Политический строй, при котором избранные руководители управляют от имени народа — в отличие от монархии."
+      },
+      {
+        "term": "La laïcité / Светскость",
+        "definition": "Принцип строгого разделения государства и религий, гарантирующий свободу совести с 1905 года."
+      },
+      {
+        "term": "La Sécurité Sociale / Соцстрах",
+        "definition": "Государственная система социальной защиты, созданная в 1945 году: здоровье, пенсия, семейные пособия."
+      },
+      {
+        "term": "Le SMIC / СМИК",
+        "definition": "Минимальная межотраслевая заработная плата — законный минимум, ниже которого ни один работодатель не может платить."
+      },
+      {
+        "term": "La Carte Vitale / Карт Виталь",
+        "definition": "Зелёная электронная карта медицинского страхования, обеспечивающая автоматическое возмещение расходов на лечение."
+      },
+      {
+        "term": "La cohabitation / Сосуществование",
+        "definition": "Ситуация, когда Президент Республики и Премьер-министр принадлежат к противоборствующим политическим партиям."
+      }
     ],
-
     "quiz": [
       {
-        "question": "Какая дата отмечается как национальный праздник Франции и ознаменовала рождение Республики?",
+        "question": "Какая дата является национальным праздником Франции и ознаменовала рождение Республики?",
         "options": [
-          "1 января 1789 года",
+          "1 мая 1789 года",
           "14 июля 1789 года",
           "26 августа 1789 года",
           "21 января 1793 года"
         ],
         "correct_index": 1,
-        "explanation": "14 июля 1789 года — взятие Бастилии — символизирует победу народа над абсолютной монархией. Это национальный праздник Франции, ежегодно отмечаемый военным парадом на Елисейских полях и фейерверком."
+        "explanation": "14 июля 1789 года — взятие Бастилии — символизирует победу народа над абсолютной монархией. Ежегодно отмечается военным парадом на Елисейских полях и фейерверком у Эйфелевой башни."
       },
       {
-        "question": "Что такое «светскость» (laïcité) во Франции?",
+        "question": "Что гарантирует светскость (laïcité) во Франции?",
         "options": [
-          "Запрет любой религии во Франции",
+          "Запрет любой религии",
           "Католицизм как государственная религия",
-          "Разделение государства и религий, гарантирующее свободу совести",
-          "Обязанность быть атеистом в общественных местах"
+          "Разделение государства и религий, свободу совести",
+          "Обязательный атеизм в общественных местах"
         ],
         "correct_index": 2,
         "explanation": "Светскость (закон 1905 года) отделяет государство от религии. Государство нейтрально: оно не поддерживает и не преследует ни одну религию. Каждый гражданин свободен верить или не верить в своей частной жизни."
       },
       {
-        "question": "Какой номер телефона скорой медицинской помощи (SAMU) во Франции?",
-        "options": ["17", "18", "15", "112"],
+        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
+        "options": [
+          "17",
+          "18",
+          "15",
+          "112"
+        ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU (скорой медицинской помощи). 17 — полиция, 18 — пожарные, 112 — единый европейский номер экстренных служб."
+        "explanation": "15 — номер SAMU (скорой медицинской помощи). 17 — полиция, 18 — пожарные, 112 — единый европейский номер экстренных служб, перенаправляющий на нужную службу."
       },
       {
         "question": "Сколько недель оплачиваемого отпуска гарантировано французским работникам по закону?",
-        "options": ["3 недели", "4 недели", "5 недель", "6 недель"],
+        "options": [
+          "3 недели",
+          "4 недели",
+          "5 недель",
+          "6 недель"
+        ],
         "correct_index": 2,
-        "explanation": "Французский закон гарантирует 5 недель (25 рабочих дней) оплачиваемого отпуска в год всем наёмным работникам. Это один из самых щедрых социальных прав в Европе."
+        "explanation": "Французский закон гарантирует 5 недель (25 рабочих дней) оплачиваемого отпуска в год всем наёмным работникам — одно из наиболее щедрых социальных прав в Европе."
       },
       {
-        "question": "Что нужно ОБЯЗАТЕЛЬНО сделать, заходя в магазин или к специалисту во Франции?",
+        "question": "Почему французская гастрономия внесена в список ЮНЕСКО?",
         "options": [
-          "Предъявить удостоверение личности",
-          "Сказать «Bonjour»",
-          "Ждать, пока к вам обратятся",
-          "Снять пальто"
+          "За уникальные рецепты",
+          "Как искусство жить: ритуал совместной трапезы, а не только еда",
+          "За качество вин",
+          "За наибольшее число ресторанов со звёздами Мишлен"
         ],
         "correct_index": 1,
-        "explanation": "«Bonjour» — фундаментальное социальное правило Франции. Не поздороваться при входе в магазин воспринимается как серьёзная грубость. Это знак признания другого человека, структурирующий все социальные взаимодействия во Франции."
+        "explanation": "В 2010 году ЮНЕСКО внесло «гастрономическую трапезу французов» в список нематериального наследия, поскольку исключительным является именно социальный ритуал обеда — умение собраться вместе, не торопиться, делиться — а не только блюда."
       }
     ]
   }
