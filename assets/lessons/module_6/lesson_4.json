@@ -4,275 +4,288 @@
     "lesson_id": 4,
     "module_icon": "🏥",
     "lesson_icon": "🏛️",
-    "estimated_minutes": 12,
-    "difficulty": "intermédiaire",
+    "estimated_minutes": 10,
+    "difficulty": "pratique",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "Service-public.fr — Portail officiel des démarches",
+        "url": "https://www.service-public.fr"
+      },
+      {
+        "label": "Administration.gouv.fr — Titres de séjour",
+        "url": "https://administration-etrangers-en-france.interieur.gouv.fr"
+      },
+      {
+        "label": "France Identité — Carte nationale d'identité numérique",
+        "url": "https://france-identite.gouv.fr"
+      },
+      {
+        "label": "DIHAL — Logement et hébergement",
+        "url": "https://www.gouvernement.fr/le-logement-en-france"
+      }
     ]
   },
   "fr": {
     "module_title": "Services Publics et Vie Pratique",
     "lesson_title": "Mairie, Préfecture et Démarches",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : Mairie, Préfecture et Démarches. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "Naviguer dans l'administration française sans se noyer",
+    "intro": "L'administration française a la réputation d'être complexe, et elle l'est — mais elle est aussi de plus en plus numérisée. La plupart des démarches peuvent aujourd'hui être faites en ligne. Comprendre qui fait quoi entre la mairie, la préfecture et les organismes sociaux, savoir quels documents préparer et comment prendre rendez-vous efficacement : autant de savoir-faire qui rendent la vie administrative en France beaucoup plus fluide.",
     "sections": [
       {
-        "theme": "Histoire",
+        "theme": "Contexte historique",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**Mairie, Préfecture et Démarches** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "La bureaucratie française : un héritage napoléonien",
+        "body": "La réputation de la bureaucratie française est mondiale — et historiquement fondée. Napoléon est le grand architecte de l'administration française moderne : il crée les préfectures en 1800, standardise les actes d'état civil, impose le Code civil, instaure le Conseil d'État. L'objectif est d'uniformiser et de contrôler un territoire immense depuis Paris.\n\nCette centralisation laisse des traces profondes : la France est l'un des pays d'Europe avec le plus de fonctionnaires par habitant (~5,6 millions, soit 20% de la population active), l'une des administrations les plus formalistes (chaque acte doit être écrit, signé, tamponné, archivé). Le philosophe Balzac écrit en 1838 : «La bureaucratie est un mécanisme gigantesque actionné par des nains.»\n\nDepuis les années 2010, la **numérisation de l'administration** transforme radicalement la donne. La plateforme **service-public.fr** centralise toutes les démarches. **FranceConnect** permet de s'identifier sur tous les sites gouvernementaux avec un seul identifiant (Ameli, impots.gouv, CAF...). **France Identité** développe la carte nationale d'identité numérique sur smartphone. Objectif affiché du gouvernement : **100% des démarches numérisées** d'ici 2027 — un objectif encore loin de la réalité pour les populations les moins connectées."
       },
       {
-        "theme": "Région",
-        "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
-      },
-      {
-        "theme": "Politique & Social",
+        "theme": "Cadre légal & textes",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "Qui fait quoi : mairie, préfecture, organismes sociaux",
+        "body": "**La mairie** est l'administration de premier contact pour les actes du quotidien :\n— État civil : déclaration de naissance (obligatoire dans les 5 jours), mariage civil, déclaration de décès\n— Carte nationale d'identité et passeport (dépôt du dossier en mairie, quelle que soit la commune)\n— Inscription sur les listes électorales\n— Demande de logement social (HLM) — enregistrement du numéro unique\n— Autorisation d'urbanisme (permis de construire, déclaration préalable de travaux)\n— Accès aux services municipaux : crèche, cantine, bibliothèque, médiathèque\n\n**La préfecture** (et sous-préfecture) gère les relations entre l'État et les résidents :\n— Titres de séjour (première délivrance, renouvellement) — uniquement sur rendez-vous en ligne\n— Naturalisation française — dossier long et exigeant\n— Permis de conduire — en particulier l'échange de permis étrangers\n— Immatriculation des véhicules (désormais entièrement en ligne via **SIV**)\n— Contrôle de légalité des actes des collectivités locales\n\n**Les organismes sociaux** sont autonomes de la mairie et de la préfecture :\n— **CAF** (Caisse d'Allocations Familiales) : prestations familiales, APL, RSA socle\n— **CPAM** (Caisse Primaire d'Assurance Maladie) : Carte Vitale, remboursements santé\n— **CARSAT** (retraite) et **Pôle Emploi** / **France Travail** (chômage, formation)"
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Démarches pratiques",
+        "icon": "📋",
+        "title": "Les 10 démarches les plus fréquentes et comment les faire",
+        "body": "**1. Carte nationale d'identité** : dépôt dossier en mairie (photo, justificatif domicile, acte de naissance) + rendez-vous obligatoire. Délai : 3 à 5 semaines. Gratuite. Valable 10 ans (15 ans si faite après 18 ans). Depuis 2021, les CNI de plus de 10 ans restent valides encore 5 ans (15 ans au total).\n\n**2. Passeport biométrique** : même procédure que CNI. Délai variable (1 à 3 mois en période de forte demande). Coût : 86 € (adulte), 42 € (mineur de + de 15 ans), 17 € (mineur de - de 15 ans). Prendre rendez-vous très en avance avant un voyage.\n\n**3. Titre de séjour** : en ligne sur **administration-etrangers-en-france.interieur.gouv.fr**. Prendre rendez-vous 2 à 3 mois avant l'expiration. Documents : passeport, titre actuel, justificatif de domicile, justificatifs de ressources, photos. Délais très variables selon les préfectures (2 semaines à 6 mois).\n\n**4. APL (Aide Personnalisée au Logement)** : demande en ligne sur **caf.fr**. Documents : bail signé, RIB, avis d'imposition. Délai : 1 à 2 mois. Versement rétroactif dès le mois suivant le dépôt.\n\n**5. Inscription à Pôle Emploi (France Travail)** : en ligne sur **francetravail.fr** dès le lendemain de la fin du contrat. Documents : carte d'identité, attestation Pôle Emploi fournie par l'employeur. La première inscription doit être complétée dans les 12 mois suivant la fin du contrat.\n\n**Conseils généraux** : Utiliser **FranceConnect** pour accéder à tous les services en ligne sans créer de multiples comptes. Toujours garder une copie des dossiers déposés. Pour les démarches complexes, les **Maisons France Services** (présentes dans toutes les communes rurales) offrent un accompagnement gratuit."
       },
       {
-        "theme": "Culture artistique",
-        "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "theme": "Droits & recours",
+        "icon": "🛡️",
+        "title": "Quand l'administration se trompe : vos recours",
+        "body": "L'administration française se trompe parfois — et les voies de recours existent.\n\n**Le recours gracieux** : écrire à l'administration qui a pris la décision contestée pour lui demander de la reconsidérer. Gratuit, à faire dans les 2 mois suivant la décision. Souvent efficace pour les erreurs simples (dossier mal traité, délai dépassé par l'administration).\n\n**Le recours hiérarchique** : écrire au supérieur de l'autorité qui a pris la décision (le préfet de région si c'est le préfet du département, le ministère si c'est le préfet...). À faire en parallèle ou après le recours gracieux.\n\n**Le tribunal administratif** : juridiction compétente pour les litiges avec l'État (refus de titre de séjour, rejet d'une demande de naturalisation, conflit avec la CAF...). Délai pour saisir : 2 mois à compter de la notification de la décision. La procédure est gratuite en première instance (mais un avocat est fortement conseillé).\n\n**Le médiateur de la République** (Défenseur des droits) : saisissable gratuitement en ligne ou dans une Maison France Services pour tout différend avec une administration publique. Son intervention est souvent plus rapide qu'un recours judiciaire.\n\n**Le droit à l'erreur** (loi ESSOC de 2018) : un contribuable de bonne foi qui se trompe dans ses déclarations fiscales ou administratives ne peut plus être sanctionné dès la première erreur — il dispose d'un délai pour régulariser."
       },
       {
-        "theme": "Gastronomie & Codes sociaux",
-        "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "theme": "Impact sur la vie quotidienne",
+        "icon": "🏠",
+        "title": "La fracture numérique et les nouvelles galères administratives",
+        "body": "La numérisation de l'administration résout beaucoup de problèmes — et en crée de nouveaux. La **fracture numérique** touche environ 13 millions de Français : personnes âgées, personnes en situation de handicap, personnes peu alphabétisées ou ne maîtrisant pas le français, personnes sans accès à internet ou à un ordinateur. Pour ces publics, la dématérialisation des services (fin des guichets physiques dans de nombreux organismes) est vécue comme une exclusion supplémentaire.\n\nLes **Maisons France Services** (ex-Maisons de Services au Public) sont la réponse de l'État à ce problème : présentes dans plus de 2 700 points de contact sur le territoire (communes rurales, mairies, gares, préfectures), elles accueillent et accompagnent gratuitement les usagers dans leurs démarches administratives en ligne, toutes institutions confondues (Sécu, CAF, Pôle Emploi, impôts, La Poste...).\n\nLes **délais de l'administration** sont l'une des sources de frustration les plus fréquentes : en 2024, obtenir un rendez-vous en préfecture pour un titre de séjour peut prendre 3 à 6 mois d'attente, avec un système de prise de rendez-vous en ligne saturé en quelques secondes. Les associations d'aide aux étrangers (GISTI, La Cimade, France Terre d'Asile) signalent régulièrement ces dysfonctionnements et peuvent aider à trouver des solutions."
+      },
+      {
+        "theme": "Lexique essentiel",
+        "icon": "📖",
+        "title": "Les mots de l'administration française",
+        "body": "**FranceConnect** : identifiant numérique unique permettant d'accéder à tous les services administratifs en ligne (impôts, CAF, Ameli, Pôle Emploi...) sans créer de multiples comptes.\n\n**L'état civil** : ensemble des actes officiels qui constatent les faits d'état des personnes (naissance, mariage, décès, divorce). Géré par les mairies. Tout acte d'état civil fait foi jusqu'à inscription de faux.\n\n**Le titre de séjour** : document délivré par la préfecture autorisant un ressortissant étranger non-européen à résider légalement en France. Plusieurs types : carte de séjour temporaire (1 an), carte de séjour pluriannuelle (2–4 ans), carte de résident (10 ans).\n\n**Le numéro unique (logement social)** : numéro de demande de logement social, valable au niveau national, remis lors de l'enregistrement de la demande en mairie ou en ligne sur demande-logement-social.gouv.fr.\n\n**La Maison France Services** : point de contact polyvalent gratuit où un agent accompagne les usagers dans leurs démarches administratives pour toutes les institutions (CAF, Sécu, Pôle Emploi, impôts...).\n\n**Le droit à l'erreur** : principe instauré par la loi ESSOC (2018) selon lequel un particulier de bonne foi n'est pas sanctionné pour une première erreur dans ses déclarations — il dispose d'un délai pour régulariser."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à Mairie, Préfecture et Démarches :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**FranceConnect est votre meilleur ami administratif.** Créez votre compte dès votre arrivée (avec votre numéro de Sécurité Sociale ou via La Poste) — il vous évitera de créer un compte sur chaque site administratif et unifiera votre identité numérique. Avec FranceConnect, vous accédez à votre espace impôts, CAF, Ameli, Pôle Emploi depuis une seule connexion.\n\nPour les rendez-vous en préfecture : programmez-les **3 à 4 mois avant** l'expiration de votre titre de séjour, pas 1 mois avant. Les files d'attente virtuelles se remplissent en quelques secondes chaque matin à 8h. Si vous n'arrivez pas à obtenir un rendez-vous, contactez une association d'aide aux étrangers (GISTI, La Cimade) ou le Défenseur des droits — des procédures existent pour les situations d'urgence."
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
+        "term": "FranceConnect",
+        "definition": "Identifiant numérique unique permettant d'accéder à tous les services en ligne de l'administration française (impôts, CAF, Ameli, Pôle Emploi...) sans multiples inscriptions."
       },
       {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
+        "term": "L'état civil",
+        "definition": "Ensemble des actes officiels constatant les faits d'état des personnes (naissance, mariage, décès). Géré par les mairies. Base juridique de l'identité de toute personne en France."
       },
       {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "term": "Le titre de séjour",
+        "definition": "Document préfectoral autorisant un ressortissant non-européen à résider légalement en France. Types : temporaire (1 an), pluriannuel (2–4 ans), résident (10 ans)."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "Le numéro unique (logement social)",
+        "definition": "Numéro national attribué à toute demande de logement social enregistrée en mairie ou en ligne. Permet de suivre sa position sur les listes d'attente dans toute la région."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
+        "term": "La Maison France Services",
+        "definition": "Point d'accueil polyvalent gratuit (2 700+ sur le territoire) accompagnant les usagers dans leurs démarches administratives pour toutes les institutions publiques."
       },
       {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "Le droit à l'erreur",
+        "definition": "Principe instauré par la loi ESSOC (2018) : un particulier de bonne foi n'est pas sanctionné pour une première erreur dans ses déclarations administratives — il peut régulariser sans pénalité."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «Mairie, Préfecture et Démarches» dans la République française ?",
+        "question": "Où doit-on déposer une demande de carte nationale d'identité en France ?",
         "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
+          "À la préfecture uniquement",
+          "À la mairie de sa commune (ou toute mairie équipée)",
+          "Au commissariat de police",
+          "En ligne uniquement sur service-public.fr"
         ],
         "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
+        "explanation": "La demande de carte nationale d'identité se dépose dans n'importe quelle mairie équipée du dispositif de recueil biométrique (pas forcément sa mairie de résidence). Un rendez-vous est obligatoire. La CNI est gratuite, valable 10 ans pour les adultes (ou 15 ans si obtenue après 18 ans). Depuis 2021, les CNI de + de 10 ans bénéficient d'une prorogation automatique de 5 ans."
       },
       {
-        "question": "En France, la laïcité signifie que...",
+        "question": "Qu'est-ce que FranceConnect ?",
         "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
+          "Le Wi-Fi gratuit dans les mairies",
+          "Un identifiant numérique unique pour accéder à tous les services administratifs en ligne",
+          "Un application mobile de prise de rendez-vous en préfecture",
+          "Le réseau intranet des fonctionnaires français"
         ],
         "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
+        "explanation": "FranceConnect est le système d'identification numérique de l'État français : il permet de se connecter à tous les services en ligne administratifs (impôts, CAF, Ameli, Pôle Emploi, service-public.fr...) avec un seul identifiant, créé une fois pour toutes. Cela évite de multiplier les comptes et mots de passe. Accessible via le site france-identite.gouv.fr."
       },
       {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
+        "question": "Combien de temps avant l'expiration d'un titre de séjour faut-il idéalement prendre un rendez-vous en préfecture ?",
         "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "La veille de l'expiration",
+          "1 mois avant",
+          "3 à 4 mois avant",
+          "1 an avant"
         ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
+        "explanation": "Il est fortement conseillé de prendre rendez-vous à la préfecture 3 à 4 mois avant l'expiration du titre de séjour, en raison des délais d'attente très longs (les rendez-vous en ligne se remplissent souvent en quelques secondes dès 8h du matin). En France, le «récépissé» remis lors du dépôt de la demande de renouvellement autorise à rester légalement sur le territoire pendant l'instruction du dossier."
       },
       {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
+        "question": "Qu'est-ce qu'une Maison France Services ?",
         "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
-        ],
-        "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
-      },
-      {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
-        "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
+          "Un service de livraison postale pour les zones rurales",
+          "Un point d'accueil polyvalent gratuit pour accompagner les usagers dans leurs démarches administratives",
+          "Une antenne de la préfecture dans les petites communes",
+          "Un dispositif d'aide aux personnes sans domicile"
         ],
         "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "Les Maisons France Services (2 700+ sur le territoire) sont des points d'accueil polyvalents où un agent accompagne gratuitement les usagers dans leurs démarches en ligne pour toutes les institutions publiques : CAF, Sécurité Sociale, Pôle Emploi, impôts, La Poste, retraites... Très utiles pour les personnes peu à l'aise avec le numérique ou les démarches administratives complexes."
+      },
+      {
+        "question": "Que garantit le «droit à l'erreur» instauré par la loi ESSOC de 2018 ?",
+        "options": [
+          "Le droit de ne pas payer ses impôts la première année",
+          "Qu'un particulier de bonne foi n'est pas sanctionné pour une première erreur dans ses déclarations et dispose d'un délai pour régulariser",
+          "Le droit de contester n'importe quelle décision administrative",
+          "L'exonération automatique des amendes pour les étrangers"
+        ],
+        "correct_index": 1,
+        "explanation": "La loi ESSOC (pour une société de confiance, 2018) instaure le droit à l'erreur : un particulier ou une entreprise qui se trompe pour la première fois de bonne foi dans ses déclarations administratives ou fiscales ne peut pas être sanctionné immédiatement. L'administration doit d'abord lui permettre de régulariser sa situation. Ce droit ne s'applique pas en cas de fraude intentionnelle ou de récidive."
       }
     ]
   },
   "ru": {
     "module_title": "Государственные службы и практическая жизнь",
-    "lesson_title": "Мэрия, префектура и формальности",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Мэрия, префектура и формальности. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_title": "Мэрия, префектура и административные дела",
+    "lesson_subtitle": "Ориентироваться во французской администрации, не утопая в бумагах",
+    "intro": "Французская администрация заслуженно слывёт сложной — но она всё активнее оцифровывается. Большинство дел сегодня можно сделать онлайн. Понимать, кто за что отвечает — мэрия, префектура или социальные организации, — знать, какие документы готовить и как эффективно записаться на приём: всё это навыки, делающие административную жизнь во Франции значительно более плавной.",
     "sections": [
       {
-        "theme": "История",
+        "theme": "Исторический контекст",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Мэрия, префектура и формальности** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "Французская бюрократия: наполеоновское наследие",
+        "body": "Репутация французской бюрократии известна всему миру — и исторически обоснована. Наполеон — главный архитектор современной французской администрации: в 1800 году он создаёт префектуры, стандартизирует акты гражданского состояния, вводит Гражданский кодекс, учреждает Государственный совет. Цель — унифицировать и контролировать огромную территорию из Парижа.\n\nЭта централизация оставляет глубокий след: Франция — одна из европейских стран с наибольшим числом государственных служащих на душу населения (~5,6 млн, то есть 20% занятого населения), с одной из самых формалистичных администраций (каждый акт должен быть написан, подписан, проштампован, заархивирован). Философ Бальзак писал в 1838 году: «Бюрократия — гигантский механизм, приводимый в движение пигмеями».\n\nС 2010-х годов **цифровизация администрации** кардинально меняет ситуацию. Платформа **service-public.fr** централизует все процедуры. **FranceConnect** позволяет идентифицироваться на всех государственных сайтах с одним логином. **France Identité** развивает цифровое удостоверение личности на смартфоне. Заявленная цель правительства — **100% оцифрованных процедур** к 2027 году — ещё далека от реальности для наименее подключённого населения."
       },
       {
-        "theme": "Регион",
-        "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
-      },
-      {
-        "theme": "Политика и общество",
+        "theme": "Правовая база и тексты",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Кто за что отвечает: мэрия, префектура, социальные организации",
+        "body": "**Мэрия** — администрация первого контакта для повседневных актов:\n— Гражданское состояние: регистрация рождения (обязательна в течение 5 дней), гражданский брак, регистрация смерти\n— Национальное удостоверение личности и паспорт (подача досье в любой мэрии)\n— Регистрация в списках избирателей\n— Заявка на социальное жильё (HLM) — регистрация единого номера\n— Разрешения на строительство, декларации о работах\n— Доступ к муниципальным службам: ясли, столовая, библиотека\n\n**Префектура** (и супрефектура) управляет отношениями между государством и резидентами:\n— Вид на жительство (первоначальный, продление) — только по онлайн-записи\n— Французское гражданство — длительное и требовательное досье\n— Водительское удостоверение — в частности, обмен иностранных прав\n— Регистрация транспортных средств (теперь полностью онлайн через **SIV**)\n\n**Социальные организации** независимы от мэрии и префектуры:\n— **CAF** (Касса семейных пособий): семейные выплаты, APL, RSA\n— **CPAM** (Первичная касса страхования болезней): Карта Vitale, возмещение медицинских расходов\n— **CARSAT** (пенсии) и **Pôle Emploi / France Travail** (безработица, профобучение)"
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Практические шаги",
+        "icon": "📋",
+        "title": "10 самых частых процедур и как их пройти",
+        "body": "**1. Национальное удостоверение личности**: подача досье в мэрии (фото, подтверждение проживания, свидетельство о рождении) + обязательная запись. Срок: 3–5 недель. Бесплатно. Действительно 10 лет (15 лет, если получено после 18 лет). С 2021 года удостоверения старше 10 лет остаются действительными ещё 5 лет.\n\n**2. Биометрический паспорт**: та же процедура. Переменный срок (1–3 месяца в периоды высокого спроса). Стоимость: 86 € (взрослый), 42 € (несовершеннолетний 15+), 17 € (несовершеннолетний до 15 лет). Записывайтесь заблаговременно перед поездкой.\n\n**3. Вид на жительство**: онлайн на **administration-etrangers-en-france.interieur.gouv.fr**. Записываться за 2–3 месяца до истечения. Документы: паспорт, действующий вид на жительство, подтверждение проживания, справки о доходах, фото. Сроки ожидания очень разные по префектурам (2 недели — 6 месяцев).\n\n**4. APL (персонализированная жилищная помощь)**: заявка онлайн на **caf.fr**. Документы: договор аренды, реквизиты банка, налоговая справка. Срок: 1–2 месяца. Выплата с обратной силой с месяца, следующего за подачей заявки.\n\n**5. Регистрация в Pôle Emploi (France Travail)**: онлайн на **francetravail.fr** начиная со следующего дня после окончания контракта. Документы: удостоверение личности, справка Pôle Emploi от работодателя.\n\n**Общие советы**: Использовать **FranceConnect** для доступа ко всем онлайн-службам без множества аккаунтов. Всегда сохранять копии поданных досье. Для сложных процедур **Maisons France Services** предлагают бесплатное сопровождение."
       },
       {
-        "theme": "Художественная культура",
-        "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "theme": "Права и средства защиты",
+        "icon": "🛡️",
+        "title": "Когда администрация ошибается: ваши средства защиты",
+        "body": "Французская администрация порой ошибается — и средства защиты существуют.\n\n**Жалоба в порядке, не предусматривающем вышестоящего контроля**: написать в орган, принявший спорное решение, с просьбой его пересмотреть. Бесплатно, в течение 2 месяцев с момента решения. Нередко действенно при простых ошибках (неверно обработанное досье, пропущенный срок).\n\n**Иерархическая жалоба**: написать руководству органа, принявшего решение (префекту региона, если это префект департамента; министерству, если это префект...). Параллельно или после первой жалобы.\n\n**Административный трибунал**: суд по спорам с государством (отказ в виде на жительство, отклонение заявления о натурализации, конфликт с CAF...). Срок подачи: 2 месяца с момента уведомления. Процедура бесплатна в первой инстанции (адвокат настоятельно рекомендуется).\n\n**Медиатор (Защитник прав)**: обратиться бесплатно онлайн или в Maison France Services по любому спору с государственным органом. Часто быстрее судебного обжалования.\n\n**Право на ошибку** (закон ESSOC 2018): добросовестный налогоплательщик, ошибшийся в своих налоговых или административных декларациях, не может быть немедленно наказан в первый раз — ему даётся срок для исправления."
       },
       {
-        "theme": "Гастрономия и социальные коды",
-        "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "theme": "Влияние на повседневную жизнь",
+        "icon": "🏠",
+        "title": "Цифровой разрыв и новые административные трудности",
+        "body": "Оцифровка администрации решает многие проблемы — и создаёт новые. **Цифровой разрыв** затрагивает около 13 млн французов: пожилые, люди с ограниченными возможностями, слабо грамотные или не владеющие французским, люди без доступа в интернет или к компьютеру. Для них демaterialization услуг (ликвидация физических окошек во многих организациях) воспринимается как дополнительное отчуждение.\n\n**Maisons France Services** (бывшие Maisons de Services au Public) — ответ государства: более 2 700 точек контакта по всей стране (сельские коммуны, мэрии, вокзалы, префектуры), где бесплатно сопровождают пользователей во всех их онлайн-процедурах — Sécu, CAF, Pôle Emploi, налоговая, Почта...\n\n**Сроки администрации** — один из самых частых источников разочарования: в 2024 году запись на приём в префектуру для вида на жительство может занимать 3–6 месяцев ожидания, при перегруженной системе онлайн-записи, которая заполняется за несколько секунд. Организации помощи иностранцам (GISTI, La Cimade) регулярно сообщают об этих дисфункциях и могут помочь найти решения."
+      },
+      {
+        "theme": "Основной словарь",
+        "icon": "📖",
+        "title": "Слова французской администрации",
+        "body": "**FranceConnect**: единый цифровой идентификатор для доступа ко всем административным онлайн-службам Франции (налоги, CAF, Ameli, Pôle Emploi...) без множества аккаунтов.\n\n**L'état civil / Гражданское состояние**: совокупность официальных актов, фиксирующих гражданский статус лиц (рождение, брак, смерть, развод). Ведётся мэриями.\n\n**Le titre de séjour / Вид на жительство**: документ префектуры, разрешающий гражданину не-ЕС законно проживать во Франции. Типы: временный (1 год), многолетний (2–4 года), резидентский (10 лет).\n\n**Le numéro unique / Единый номер (социальное жильё)**: национальный номер, присваиваемый каждой заявке на социальное жильё. Позволяет отслеживать позицию в списках ожидания в регионе.\n\n**La Maison France Services**: бесплатная многофункциональная точка приёма (2 700+ по всей стране), сопровождающая пользователей во всех административных процедурах для всех государственных институтов.\n\n**Le droit à l'erreur / Право на ошибку**: принцип закона ESSOC (2018): добросовестный гражданин не наказывается за первую ошибку в административных декларациях — ему предоставляется срок для исправления."
       }
     ],
     "conseil_ami": {
       "title": "Дружеский совет 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Мэрия, префектура и формальности»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**FranceConnect — ваш лучший административный союзник.** Создайте аккаунт сразу по приезде (с номером социального страхования или через Почту Франции) — он избавит вас от необходимости создавать аккаунт на каждом административном сайте и объединит вашу цифровую идентичность. С FranceConnect вы получаете доступ к своему налоговому кабинету, CAF, Ameli, Pôle Emploi — с одним логином.\n\nДля записи в префектуру: планируйте **за 3–4 месяца** до истечения вида на жительство, а не за 1 месяц. Виртуальные очереди заполняются за секунды каждое утро в 8:00. Если запись не получается, обратитесь в организацию помощи иностранцам (GISTI, La Cimade) или к Защитнику прав — при экстренных ситуациях существуют специальные процедуры."
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "FranceConnect",
+        "definition": "Единый цифровой идентификатор для доступа ко всем французским административным онлайн-службам (налоги, CAF, Ameli, Pôle Emploi...) без множества регистраций."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "L'état civil / Гражданское состояние",
+        "definition": "Совокупность официальных актов, фиксирующих гражданский статус лиц (рождение, брак, смерть). Ведётся мэриями. Правовая основа идентичности каждого человека во Франции."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "Le titre de séjour / Вид на жительство",
+        "definition": "Документ префектуры, разрешающий гражданину не-ЕС законно проживать во Франции. Типы: временный (1 год), многолетний (2–4 года), резидентский (10 лет)."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "Le numéro unique / Единый номер",
+        "definition": "Национальный номер, присваиваемый каждой заявке на социальное жильё при регистрации в мэрии или онлайн. Позволяет отслеживать позицию в списках ожидания."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "La Maison France Services",
+        "definition": "Бесплатная многофункциональная точка приёма (2 700+ по стране), сопровождающая пользователей во всех административных процедурах для всех государственных институтов."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "Le droit à l'erreur / Право на ошибку",
+        "definition": "Принцип закона ESSOC (2018): добросовестный гражданин не наказывается за первую ошибку в административных или налоговых декларациях — ему предоставляется срок для исправления без санкций."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Мэрия, префектура и формальности» во Французской республике?",
+        "question": "Где подают заявление на удостоверение личности во Франции?",
         "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
+          "Только в префектуре",
+          "В любой мэрии, оснащённой биометрическим оборудованием",
+          "В комиссариате полиции",
+          "Только онлайн на service-public.fr"
         ],
         "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
+        "explanation": "Заявление на удостоверение личности подаётся в любой мэрии, оснащённой биометрическим устройством (необязательно в мэрии по месту жительства). Запись обязательна. Удостоверение бесплатно, действительно 10 лет для взрослых (15 лет, если получено после 18 лет). С 2021 года удостоверения старше 10 лет получают автоматическую пролонгацию на 5 лет."
       },
       {
-        "question": "Светскость во Франции означает, что...",
+        "question": "Что такое FranceConnect?",
         "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
+          "Бесплатный Wi-Fi в мэриях",
+          "Единый цифровой идентификатор для доступа ко всем административным онлайн-службам",
+          "Мобильное приложение для записи в префектуру",
+          "Интранет-сеть государственных служащих"
         ],
         "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
+        "explanation": "FranceConnect — система цифровой идентификации французского государства: позволяет подключаться ко всем административным онлайн-службам (налоги, CAF, Ameli, Pôle Emploi, service-public.fr...) с одним идентификатором, созданным один раз. Исключает необходимость множества аккаунтов и паролей. Доступно через france-identite.gouv.fr."
       },
       {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
+        "question": "За сколько времени до истечения вида на жительство в идеале записываться в префектуру?",
         "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Накануне истечения",
+          "За 1 месяц",
+          "За 3–4 месяца",
+          "За 1 год"
         ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
+        "explanation": "Настоятельно рекомендуется записываться в префектуру за 3–4 месяца до истечения вида на жительство — из-за очень долгих сроков ожидания (онлайн-запись зачастую заполняется за несколько секунд в 8:00). Во Франции «рецепис», выдаваемый при подаче заявки на продление, разрешает законно оставаться на территории на время рассмотрения досье."
       },
       {
-        "question": "Членом-основателем какой международной организации является Франция?",
+        "question": "Что такое Maison France Services?",
         "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
-        ],
-        "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
-      },
-      {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
-        "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
+          "Служба почтовой доставки в сельских районах",
+          "Бесплатная многофункциональная точка сопровождения пользователей в административных процедурах",
+          "Отделение префектуры в небольших коммунах",
+          "Механизм помощи бездомным"
         ],
         "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "Maisons France Services (2 700+ по стране) — многофункциональные точки приёма, где агент бесплатно сопровождает пользователей в их онлайн-процедурах для всех государственных институтов: CAF, Социальное страхование, Pôle Emploi, налоговая, Почта, пенсии... Особенно полезны для людей с затруднениями в цифровой сфере или сложных административных вопросах."
+      },
+      {
+        "question": "Что гарантирует «право на ошибку», введённое законом ESSOC 2018 года?",
+        "options": [
+          "Право не платить налоги в первый год",
+          "Что добросовестный гражданин не наказывается за первую ошибку в декларациях и получает срок для исправления",
+          "Право оспорить любое административное решение",
+          "Автоматическое освобождение от штрафов для иностранцев"
+        ],
+        "correct_index": 1,
+        "explanation": "Закон ESSOC (2018) вводит право на ошибку: гражданин или компания, впервые ошибившиеся добросовестно в административных или налоговых декларациях, не могут быть немедленно наказаны. Администрация обязана сначала дать им возможность исправить ситуацию. Право не распространяется на умышленное мошенничество или повторные нарушения."
       }
     ]
   }

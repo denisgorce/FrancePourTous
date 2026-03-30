@@ -3,276 +3,289 @@
     "module_id": 10,
     "lesson_id": 1,
     "module_icon": "🌍",
-    "lesson_icon": "🌏",
-    "estimated_minutes": 12,
+    "lesson_icon": "✈️",
+    "estimated_minutes": 10,
     "difficulty": "intermédiaire",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "INSEE — Immigrés et descendants d'immigrés",
+        "url": "https://www.insee.fr/fr/statistiques/3633212"
+      },
+      {
+        "label": "INED — Histoire de l'immigration en France",
+        "url": "https://www.ined.fr/fr/tout-savoir-population/memos-demo/focus/immigration-en-france/"
+      },
+      {
+        "label": "Musée de l'histoire de l'immigration — Palais de la Porte Dorée",
+        "url": "https://www.histoire-immigration.fr"
+      },
+      {
+        "label": "France Terre d'Asile",
+        "url": "https://www.france-terre-asile.org"
+      }
     ]
   },
   "fr": {
     "module_title": "S'Intégrer en France",
     "lesson_title": "La France, Terre d'Immigration",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : La France, Terre d'Immigration. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "Une nation construite par les vagues migratoires",
+    "intro": "La France est l'un des plus vieux pays d'immigration d'Europe — bien avant l'Allemagne, le Royaume-Uni ou les États-Unis. Des Italiens, Polonais et Espagnols du XIXe siècle aux Maghrébins et Africains subsahariens du XXe, chaque vague a enrichi la France et a rencontré la même ambivalence : accueil officiel et méfiance populaire, intégration progressive et résistances culturelles. Comprendre cette histoire, c'est comprendre le débat sur l'immigration qui polarise la politique française depuis 40 ans.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**La France, Terre d'Immigration** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "Deux siècles d'immigration : les vagues successives",
+        "body": "La France recrute massivement des travailleurs étrangers dès le **XIXe siècle** pour alimenter son industrialisation. Les **Belges** s'installent dans le Nord (mines, textile), les **Italiens** dans le Sud-Est (construction, agriculture), les **Polonais** dans les mines du Nord-Pas-de-Calais. En 1931, la France est le premier pays d'immigration au monde en proportion de sa population — avant les États-Unis. Ces premiers immigrants, catholiques et européens, sont intégrés en deux ou trois générations au prix d'une perte progressive de la langue d'origine.\n\nEntre les deux guerres et après 1945, de nouvelles vagues arrivent : les **Espagnols** fuyant Franco, les **Portugais** fuyant Salazar (la plus grande vague des années 1960–1970 : 800 000 personnes), les travailleurs **maghrébins** (Algériens, Marocains, Tunisiens) recrutés pour la reconstruction et les Trente Glorieuses. La guerre d'Algérie crée une catégorie à part : les **harkis** (Algériens ayant combattu aux côtés de la France) rapatriés en 1962 dans des conditions souvent indignes.\n\nDepuis les années 1970 et la crise pétrolière, la France ferme officiellement ses frontières à l'immigration de travail (1974) mais les flux se poursuivent via le **regroupement familial** et les demandes d'asile. Les années 1980–2000 voient arriver des vagues **africaines subsahariennes**, **asiatiques** (Cambodge, Vietnam, Chine) et **européennes de l'Est** après la chute du mur. La France accueille aussi des réfugiés des guerres : Bosnie, Tchétchénie, Irak, Afghanistan, Syrie."
       },
       {
-        "theme": "Région",
-        "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
-      },
-      {
-        "theme": "Politique & Social",
+        "theme": "Cadre légal & textes",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "Le droit de l'immigration : un cadre en perpétuelle évolution",
+        "body": "Le droit de l'immigration français est l'un des plus complexes d'Europe, modifié en moyenne tous les 18 mois depuis 1974. Les textes fondamentaux actuels :\n\nLe **Code de l'entrée et du séjour des étrangers et du droit d'asile** (CESEDA) rassemble l'ensemble des règles. Il distingue plusieurs catégories de séjour : **visiteur**, **étudiant**, **salarié**, **vie privée et familiale**, **compétences et talents**, **réfugié**...\n\nLe **droit d'asile** est garanti par le **préambule de la Constitution de 1946** (qui fait partie du bloc de constitutionnalité) : «Tout homme persécuté en raison de son action en faveur de la liberté a droit d'asile sur le territoire de la République.» La France est signataire de la **Convention de Genève de 1951** sur les réfugiés. L'**OFPRA** (Office Français de Protection des Réfugiés et Apatrides) instruit les demandes d'asile.\n\nLa **loi du 26 janvier 2024** (dite loi Darmanin) est la plus récente réforme majeure : elle durcit les conditions d'accès à certains titres de séjour, crée un titre «talents» fusionné, renforce les expulsions des étrangers délinquants mais instaure aussi une régularisation possible pour les travailleurs sans papiers dans les métiers en tension (mesure censurée partiellement par le Conseil constitutionnel). Cette loi illustre les tensions permanentes du débat politique sur l'immigration."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Démarches pratiques",
+        "icon": "📋",
+        "title": "Arriver en France : les premières démarches",
+        "body": "**Pour un ressortissant hors UE arrivant légalement** en France, les premières semaines sont cruciales :\n\n**1. Le visa long séjour** (délivré par le consulat dans le pays d'origine) est le point de départ. Il existe plusieurs types : **VLS-TS** (Visa Long Séjour valant Titre de Séjour — permet de ne pas repasser en préfecture la 1ère année pour certaines catégories), **visa étudiant**, **visa «passeport talent»**...\n\n**2. La validation du visa à l'OFII** (Office Français de l'Immigration et de l'Intégration) doit être faite dans les **3 mois** suivant l'arrivée — en ligne sur **administration-etrangers-en-france.interieur.gouv.fr**. Cette étape est obligatoire pour activer le titre de séjour et s'inscrire au **Contrat d'Intégration Républicaine** (CIR).\n\n**3. Le Contrat d'Intégration Républicaine (CIR)** : tout étranger admis pour la première fois au séjour (hors UE) doit signer ce contrat avec l'État. Il comprend : formation civique (1 journée sur les valeurs de la République), cours de français si niveau insuffisant (jusqu'à 400 heures), entretien d'accueil avec un conseiller OFII. Ce contrat est obligatoire pour obtenir une carte de résident à terme.\n\n**4. Inscription à la Sécurité Sociale** (CPAM) et demande de **Carte Vitale** : dès que possible sur **ameli.fr**. **Ouverture d'un compte bancaire** : présenter le titre de séjour et un justificatif de domicile. Si une banque refuse, la **Banque de France** peut imposer l'ouverture d'un compte de base (droit au compte)."
       },
       {
-        "theme": "Culture artistique",
-        "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "theme": "Droits & recours",
+        "icon": "🛡️",
+        "title": "Les droits des étrangers en France : ce que peu de gens savent",
+        "body": "Les étrangers en situation régulière en France ont de nombreux droits — souvent méconnus même par leurs titulaires.\n\n**Droit à l'éducation** : tout enfant présent sur le territoire français a droit à l'instruction, quelle que soit sa situation administrative ou celle de ses parents. Les mairies sont tenues d'inscrire les enfants à l'école même sans papiers en règle. Ce droit est absolu et ne peut être refusé.\n\n**Droit aux soins** : toute personne présente en France, même sans titre de séjour, peut bénéficier de l'**Aide Médicale d'État** (AME) pour les soins urgents et les maladies graves — sous condition de résidence de plus de 3 mois. Les urgences hospitalières sont accessibles à tous sans conditions.\n\n**Protection contre l'exploitation** : les étrangers sans papiers victimes d'exploitation au travail (travail forcé, salaire non payé) peuvent déposer plainte sans craindre une mesure d'éloignement dans un premier temps. Des associations (CGT, CIMADE, GISTI) accompagnent ces démarches.\n\n**Droit à un interprète** : lors de toute procédure administrative ou judiciaire, le droit à un interprète est garanti. Cela vaut pour les auditions à la préfecture, les audiences au tribunal, les entretiens à l'OFPRA.\n\n**Recours contre l'éloignement** : toute décision d'expulsion (OQTF — Obligation de Quitter le Territoire Français) peut être contestée devant le **tribunal administratif** dans un délai de 15 jours (ou 30 jours selon les cas). Un avocat commis d'office peut être désigné gratuitement."
       },
       {
-        "theme": "Gastronomie & Codes sociaux",
-        "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "theme": "Impact sur la vie quotidienne",
+        "icon": "🏠",
+        "title": "La France d'aujourd'hui : diversité et tensions",
+        "body": "La France compte aujourd'hui environ **7 millions d'immigrés** (nés étrangers à l'étranger), soit 10,3% de la population — et environ **7 millions de descendants d'immigrés de 1ère génération**. Ces chiffres, régulièrement au cœur du débat politique, doivent être nuancés : la grande majorité des immigrés sont en situation régulière, travaillent, paient des impôts et contribuent au système social.\n\nLes **inégalités persistent** : les études montrent qu'un candidat à l'emploi avec un prénom arabe reçoit en moyenne 2 fois moins de réponses positives qu'un candidat au profil identique avec un prénom français (études de testing du CNRS). Le taux de chômage des immigrés est 2 fois supérieur à celui des non-immigrés. L'accès au logement est plus difficile (discriminations à la location). Ces inégalités alimentent un sentiment d'injustice chez les jeunes des banlieues — souvent français de 2e ou 3e génération, donc pas «immigrés» au sens statistique.\n\nLe **modèle républicain d'intégration** français — qui refuse le multiculturalisme communautaire et mise sur l'assimilation individuelle via l'école, le travail et la laïcité — est régulièrement remis en question. Ses défenseurs soulignent que la France est le pays qui a le plus naturalisé en Europe. Ses critiques pointent que l'égalité formelle ne suffit pas quand les discriminations réelles persistent. Ce débat, fondamental pour l'avenir de la société française, est loin d'être tranché."
+      },
+      {
+        "theme": "Lexique essentiel",
+        "icon": "📖",
+        "title": "Les mots de l'immigration",
+        "body": "**L'immigré** : personne née étrangère à l'étranger et résidant en France. Peut avoir acquis la nationalité française depuis. Ne pas confondre avec «étranger» (personne de nationalité non française, quelle que soit sa naissance).\n\n**Le titre de séjour** : document délivré par la préfecture autorisant un ressortissant non-européen à résider légalement en France. Types : temporaire (1 an), pluriannuel (2–4 ans), résident (10 ans).\n\n**Le Contrat d'Intégration Républicaine (CIR)** : contrat signé à l'arrivée entre l'État et le primo-arrivant, comprenant formation civique et cours de français. Étape obligatoire vers la carte de résident.\n\n**L'OFPRA** : Office Français de Protection des Réfugiés et Apatrides — instruit les demandes d'asile. Sa décision peut être contestée devant la **CNDA** (Cour Nationale du Droit d'Asile).\n\n**L'OQTF** : Obligation de Quitter le Territoire Français — mesure d'éloignement pouvant être contestée devant le tribunal administratif dans un délai de 15 ou 30 jours.\n\n**Le regroupement familial** : procédure permettant à un étranger en situation régulière depuis au moins 18 mois de faire venir son conjoint et ses enfants mineurs. Soumis à conditions de ressources et de logement."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à La France, Terre d'Immigration :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**Signez le Contrat d'Intégration Républicaine (CIR) et suivez tous les modules proposés — même si votre français est excellent.** La formation civique d'une journée donne des informations pratiques très utiles sur la vie en France. Et les cours de français proposés (si nécessaires) sont gratuits et peuvent atteindre un niveau très solide en 400 heures.\n\nUne réalité à connaître : les associations d'aide aux étrangers (CIMADE, France Terre d'Asile, GISTI, SAMU Social) sont des alliés précieux — elles connaissent le droit mieux que beaucoup de préfectures, proposent une aide juridique gratuite ou très peu coûteuse, et ont vu des milliers de situations similaires à la vôtre. Ne restez pas seul face à une procédure complexe."
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
+        "term": "L'immigré",
+        "definition": "Personne née étrangère à l'étranger et résidant en France — peut avoir acquis la nationalité depuis. À distinguer d'«étranger» (nationalité non française) et de «descendant d'immigré» (né en France de parents immigrés)."
       },
       {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
+        "term": "Le titre de séjour",
+        "definition": "Document préfectoral autorisant un ressortissant non-européen à résider légalement en France. Types : temporaire (1 an), pluriannuel (2–4 ans), résident (10 ans)."
       },
       {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "term": "Le CIR (Contrat d'Intégration Républicaine)",
+        "definition": "Contrat signé entre l'État et le primo-arrivant non-européen : formation civique (1 jour) + cours de français si besoin. Obligatoire pour obtenir une carte de résident à terme."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "L'OFPRA",
+        "definition": "Office Français de Protection des Réfugiés et Apatrides — instruit les demandes d'asile. Décisions contestables devant la CNDA (Cour Nationale du Droit d'Asile)."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
+        "term": "L'OQTF",
+        "definition": "Obligation de Quitter le Territoire Français — mesure d'éloignement administrative contestable devant le tribunal administratif dans un délai de 15 ou 30 jours selon les cas."
       },
       {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "Le regroupement familial",
+        "definition": "Procédure permettant à un étranger régulier (depuis ≥18 mois) de faire venir conjoint et enfants mineurs. Conditions de ressources (≥SMIC) et de logement décent obligatoires."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «La France, Terre d'Immigration» dans la République française ?",
+        "question": "En quelle année la France a-t-elle officiellement fermé ses frontières à l'immigration de travail ?",
         "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
+          "1968",
+          "1974",
+          "1981",
+          "1993"
         ],
         "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
+        "explanation": "En 1974, face à la crise pétrolière et à la montée du chômage, le gouvernement Chirac (sous Giscard d'Estaing) suspend officiellement l'immigration de travail. Cette décision ne met pas fin aux flux migratoires mais les déplace : l'immigration se poursuit désormais principalement via le regroupement familial, les demandes d'asile et les étudiants étrangers."
       },
       {
-        "question": "En France, la laïcité signifie que...",
+        "question": "Qu'est-ce que le Contrat d'Intégration Républicaine (CIR) ?",
         "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
+          "Un contrat de travail réservé aux étrangers",
+          "Un contrat signé avec l'État à l'arrivée, incluant formation civique et cours de français",
+          "L'examen de naturalisation française",
+          "Un accord entre la France et le pays d'origine de l'immigrant"
         ],
         "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
+        "explanation": "Le CIR est un contrat signé entre l'État français et tout ressortissant non-européen admis pour la première fois au séjour. Il comprend : une journée de formation civique sur les valeurs de la République, des cours de français si le niveau est insuffisant (jusqu'à 400 heures gratuites), et un entretien d'accueil avec un conseiller OFII. Le respect du CIR est une condition pour obtenir une carte de résident à terme."
       },
       {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
+        "question": "Quel droit fondamental s'applique à tous les enfants présents sur le territoire français, quelle que soit leur situation administrative ?",
         "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Le droit de vote aux élections municipales",
+          "Le droit à l'instruction — les mairies doivent inscrire tous les enfants à l'école",
+          "Le droit à la Sécurité Sociale complète",
+          "Le droit à un logement social"
+        ],
+        "correct_index": 1,
+        "explanation": "Le droit à l'instruction est universel en France : tout enfant présent sur le territoire a droit à l'éducation, quelle que soit sa nationalité ou la situation administrative de ses parents. Les mairies sont légalement tenues d'inscrire tous les enfants à l'école — ce refus constituerait une violation du droit. Ce principe est régulièrement rappelé par le Défenseur des droits."
+      },
+      {
+        "question": "Quelle est la part des immigrés dans la population française aujourd'hui ?",
+        "options": [
+          "Environ 3%",
+          "Environ 10%",
+          "Environ 20%",
+          "Environ 30%"
+        ],
+        "correct_index": 1,
+        "explanation": "Selon l'INSEE, les immigrés (personnes nées étrangères à l'étranger) représentent environ 10,3% de la population française, soit près de 7 millions de personnes. Si l'on ajoute les descendants d'immigrés de 1ère génération (nés en France de deux parents immigrés), on atteint environ 14 millions de personnes, soit 21% de la population."
+      },
+      {
+        "question": "Dans quel délai peut-on contester une OQTF (Obligation de Quitter le Territoire Français) devant le tribunal administratif ?",
+        "options": [
+          "48 heures",
+          "7 jours",
+          "15 à 30 jours selon les cas",
+          "3 mois"
         ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
-      },
-      {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
-        "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
-        ],
-        "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
-      },
-      {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
-        "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
-        ],
-        "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "Une OQTF peut être contestée devant le tribunal administratif dans un délai de 15 jours (OQTF avec délai de départ volontaire de 30 jours) ou 48 heures (OQTF sans délai de départ). Depuis la loi de 2023, un juge unique peut statuer en 96 heures. Un avocat commis d'office peut être désigné gratuitement. Des associations (CIMADE, GISTI) proposent une aide juridique d'urgence."
       }
     ]
   },
   "ru": {
     "module_title": "Интеграция во Франции",
-    "lesson_title": "Франция — земля иммиграции",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Франция — земля иммиграции. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_title": "Франция — страна иммиграции",
+    "lesson_subtitle": "Нация, созданная волнами миграции",
+    "intro": "Франция — одна из старейших стран иммиграции в Европе — задолго до Германии, Великобритании или США. От итальянцев, поляков и испанцев XIX века до магрибинцев и выходцев из Африки к югу от Сахары в XX-м — каждая волна обогащала Францию и встречала одну и ту же двойственность: официальный приём и народную настороженность, постепенную интеграцию и культурное сопротивление. Понять эту историю — значит понять дебаты об иммиграции, раскалывающие французскую политику вот уже 40 лет.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Франция — земля иммиграции** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "Два века иммиграции: последовательные волны",
+        "body": "Франция масштабно привлекает иностранных работников уже в **XIX веке** для обеспечения индустриализации. **Бельгийцы** оседают на севере (шахты, текстиль), **итальянцы** — на юго-востоке (строительство, сельское хозяйство), **поляки** — в шахтах Нор-Па-де-Кале. В 1931 году Франция — первая страна мира по доле иммигрантов в населении, опередив США. Эти первые иммигранты — католики-европейцы — интегрируются за два-три поколения ценой постепенной утраты родного языка.\n\nМежду двумя войнами и после 1945 года приходят новые волны: **испанцы**, бежавшие от Франко, **португальцы**, спасавшиеся от Салазара (крупнейшая волна 1960–1970-х годов: 800 000 человек), **магрибинские** работники (алжирцы, марокканцы, тунисцы), приглашённые для восстановления страны и в эпоху «Тридцати славных лет». Алжирская война создаёт особую категорию: **харки** (алжирцы, воевавшие на стороне Франции), репатриированные в 1962 году в нередко недостойных условиях.\n\nС 1970-х и нефтяного кризиса Франция официально закрывает границы для трудовой иммиграции (1974), но потоки продолжаются через **воссоединение семей** и ходатайства об убежище. В 1980–2000-е приходят волны из **Африки южнее Сахары**, **Азии** (Камбоджа, Вьетнам, Китай) и **Восточной Европы** после падения стены. Франция принимает также беженцев из зон войн: Босния, Чечня, Ирак, Афганистан, Сирия."
       },
       {
-        "theme": "Регион",
-        "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
-      },
-      {
-        "theme": "Политика и общество",
+        "theme": "Правовая база и тексты",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Иммиграционное законодательство: непрерывно меняющаяся база",
+        "body": "Французское иммиграционное законодательство — одно из наиболее сложных в Европе, реформируемое в среднем каждые 18 месяцев с 1974 года. Действующие основополагающие документы:\n\n**Кодекс въезда и пребывания иностранцев и права убежища** (CESEDA) сводит воедино все правила. Он разграничивает несколько категорий пребывания: **гость**, **студент**, **работник**, **частная и семейная жизнь**, **таланты и компетенции**, **беженец**...\n\n**Право убежища** гарантировано **преамбулой Конституции 1946 года** (входящей в конституционный блок): «Каждый, кто подвергается преследованию за свою деятельность в защиту свободы, имеет право убежища на территории Республики». Франция является участницей **Женевской конвенции 1951 года** о беженцах. **OFPRA** (Французское управление по защите беженцев и апатридов) рассматривает ходатайства.\n\n**Закон от 26 января 2024 года** (закон Дарманена) — последняя крупная реформа: ужесточает условия получения ряда видов на жительство, создаёт объединённый статус «таланта», усиливает высылку иностранцев-правонарушителей, но вводит и возможность легализации нелегальных работников в дефицитных профессиях (эта мера частично отменена Конституционным советом). Закон иллюстрирует постоянные противоречия политических дебатов об иммиграции."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Практические шаги",
+        "icon": "📋",
+        "title": "Приехать во Францию: первые шаги",
+        "body": "**Для гражданина страны вне ЕС, приезжающего законным путём**, первые недели имеют решающее значение:\n\n**1. Виза для длительного пребывания** (выдаётся консульством в стране происхождения) — отправная точка. Существует несколько типов: **VLS-TS** (долгосрочная виза, заменяющая вид на жительство — позволяет не обращаться в префектуру в первый год), **студенческая виза**, **виза «талант»**...\n\n**2. Подтверждение визы в OFII** (Французское управление иммиграции и интеграции) — обязательно в течение **3 месяцев** с момента приезда, онлайн на **administration-etrangers-en-france.interieur.gouv.fr**. Этот шаг активирует вид на жительство и регистрацию в программе **Республиканского интеграционного контракта** (CIR).\n\n**3. Республиканский интеграционный контракт (CIR)**: каждый иностранец, впервые получивший вид на жительство (кроме граждан ЕС), обязан подписать этот контракт с государством. Он включает: гражданское обучение (1 день о ценностях Республики), курсы французского языка при недостаточном уровне (до 400 часов), вводное собеседование с консультантом OFII. Контракт обязателен для получения карты резидента в перспективе.\n\n**4. Регистрация в Sécu (CPAM)** и запрос **карты Vitale**: как можно скорее на **ameli.fr**. **Открытие банковского счёта**: предъявить вид на жительство и подтверждение проживания. Если банк отказывает, **Банк Франции** может обязать открыть базовый счёт (право на счёт)."
       },
       {
-        "theme": "Художественная культура",
-        "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "theme": "Права и средства защиты",
+        "icon": "🛡️",
+        "title": "Права иностранцев во Франции: то, что мало кто знает",
+        "body": "Иностранцы с законным статусом во Франции пользуются многочисленными правами, нередко неизвестными даже самим их обладателям.\n\n**Право на образование**: каждый ребёнок, находящийся на французской территории, имеет право на обучение независимо от своего административного статуса или статуса родителей. Мэрии обязаны записывать детей в школу даже без надлежащих документов. Это право абсолютно и не может быть отклонено.\n\n**Право на медицинскую помощь**: любое лицо, находящееся во Франции, даже без вида на жительство, может получить **Государственную медицинскую помощь** (AME) для неотложной помощи и серьёзных заболеваний — при условии проживания более 3 месяцев. Скорая помощь доступна всем без ограничений.\n\n**Защита от эксплуатации**: нелегальные иностранцы — жертвы трудовой эксплуатации (принудительный труд, невыплата зарплаты) — могут подать жалобу, не опасаясь немедленной высылки. Ассоциации (CGT, CIMADE, GISTI) сопровождают в этих шагах.\n\n**Право на переводчика**: при любой административной или судебной процедуре право на переводчика гарантировано. Это распространяется на слушания в префектуре, заседания суда, собеседования в OFPRA.\n\n**Обжалование высылки**: любое решение об удалении (OQTF) может быть оспорено в **административном трибунале** в течение 15 дней (или 30 дней в зависимости от случая). Дежурный адвокат может быть назначен бесплатно."
       },
       {
-        "theme": "Гастрономия и социальные коды",
-        "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "theme": "Влияние на повседневную жизнь",
+        "icon": "🏠",
+        "title": "Сегодняшняя Франция: разнообразие и напряжённость",
+        "body": "Сегодня во Франции насчитывается около **7 миллионов иммигрантов** (родившихся иностранцами за рубежом) — 10,3% населения — и около **7 миллионов потомков иммигрантов первого поколения**. Эти цифры, постоянно в центре политических дебатов, требуют нюансировки: подавляющее большинство иммигрантов пребывают в законном статусе, работают, платят налоги и вносят вклад в социальную систему.\n\n**Неравенства сохраняются**: исследования показывают, что соискатель с арабским именем в среднем получает в 2 раза меньше положительных ответов, чем кандидат с идентичным профилем и французским именем (исследования тестирования CNRS). Уровень безработицы среди иммигрантов вдвое превышает показатель для неиммигрантов. Доступ к жилью сложнее (дискриминация при аренде). Это неравенство питает чувство несправедливости у молодёжи из пригородов — нередко являющейся французами во 2-м или 3-м поколении, то есть не «иммигрантами» в статистическом смысле.\n\n**Французская республиканская модель интеграции** — отвергающая общинный мультикультурализм и делающая ставку на индивидуальную ассимиляцию через школу, труд и светскость — регулярно ставится под сомнение. Её сторонники указывают, что Франция — страна, натурализовавшая наибольшее число людей в Европе. Критики отмечают, что формального равенства недостаточно, когда реальная дискриминация сохраняется. Этот фундаментальный для будущего французского общества вопрос далёк от разрешения."
+      },
+      {
+        "theme": "Основной словарь",
+        "icon": "📖",
+        "title": "Слова об иммиграции",
+        "body": "**L'immigré / Иммигрант**: лицо, родившееся иностранцем за рубежом и проживающее во Франции — может иметь приобретённое впоследствии французское гражданство. Не путать с «иностранцем» (негражданин Франции) и «потомком иммигранта» (рождённый во Франции от родителей-иммигрантов).\n\n**Le titre de séjour / Вид на жительство**: документ префектуры, разрешающий гражданину не-ЕС законно проживать во Франции. Типы: временный (1 год), многолетний (2–4 года), резидентский (10 лет).\n\n**Le CIR / Республиканский интеграционный контракт**: контракт, подписываемый государством с каждым вновь прибывшим гражданином не-ЕС: гражданское обучение (1 день) + курсы французского при необходимости. Обязателен для получения карты резидента.\n\n**L'OFPRA**: Французское управление по защите беженцев и апатридов — рассматривает ходатайства об убежище. Решения обжалуются в CNDA (Национальный суд по праву убежища).\n\n**L'OQTF / OQTF**: Обязательство покинуть французскую территорию — административное решение об удалении, обжалуемое в административном трибунале в течение 15 или 30 дней.\n\n**Le regroupement familial / Воссоединение семьи**: процедура, позволяющая иностранцу в законном статусе (≥18 месяцев) привезти супруга и несовершеннолетних детей. Требует подтверждения доходов (≥СМИК) и достойного жилья."
       }
     ],
     "conseil_ami": {
       "title": "Дружеский совет 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Франция — земля иммиграции»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**Подпишите Республиканский интеграционный контракт (CIR) и пройдите все предлагаемые модули — даже если ваш французский отличен.** Однодневное гражданское обучение даёт очень полезную практическую информацию о жизни во Франции. А предлагаемые курсы французского (при необходимости) бесплатны и могут вывести на весьма высокий уровень за 400 часов.\n\nВажно знать: организации помощи иностранцам (CIMADE, France Terre d'Asile, GISTI, Сосиаль Скоро) — ценные союзники. Они знают право лучше многих сотрудников префектур, предлагают бесплатную или очень доступную юридическую помощь и видели тысячи ситуаций, похожих на вашу. Не оставайтесь один на один со сложной процедурой."
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "L'immigré / Иммигрант",
+        "definition": "Лицо, родившееся иностранцем за рубежом и проживающее во Франции — может иметь приобретённое гражданство. Отличать от «иностранца» (гражданин другой страны) и «потомка иммигранта» (рождённый во Франции)."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "Le titre de séjour / Вид на жительство",
+        "definition": "Документ префектуры, разрешающий гражданину не-ЕС законно проживать во Франции. Типы: временный (1 год), многолетний (2–4 года), резидентский (10 лет)."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "Le CIR / Республиканский интеграционный контракт",
+        "definition": "Контракт, подписываемый государством с каждым вновь прибывшим гражданином не-ЕС: гражданское обучение (1 день) + курсы французского при необходимости. Обязателен для карты резидента."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "L'OFPRA",
+        "definition": "Французское управление по защите беженцев и апатридов — рассматривает ходатайства об убежище. Решения обжалуются в CNDA."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "L'OQTF",
+        "definition": "Обязательство покинуть французскую территорию — административное решение об удалении, обжалуемое в административном трибунале в течение 15 или 30 дней."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "Le regroupement familial / Воссоединение семьи",
+        "definition": "Процедура для иностранца в законном статусе (≥18 мес.) — привезти супруга и несовершеннолетних детей при подтверждённых доходах (≥СМИК) и достойном жилье."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Франция — земля иммиграции» во Французской республике?",
+        "question": "В каком году Франция официально закрыла границы для трудовой иммиграции?",
         "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
+          "1968",
+          "1974",
+          "1981",
+          "1993"
         ],
         "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
+        "explanation": "В 1974 году, столкнувшись с нефтяным кризисом и ростом безработицы, правительство Ширака (при Жискар д'Эстене) официально приостановило трудовую иммиграцию. Это решение не прекратило миграционные потоки, но изменило их характер: иммиграция продолжилась преимущественно через воссоединение семей, ходатайства об убежище и иностранных студентов."
       },
       {
-        "question": "Светскость во Франции означает, что...",
+        "question": "Что такое Республиканский интеграционный контракт (CIR)?",
         "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
+          "Трудовой договор, предназначенный для иностранцев",
+          "Контракт, подписываемый с государством при приезде, включающий гражданское обучение и курсы французского",
+          "Экзамен на французское гражданство",
+          "Соглашение между Францией и страной происхождения иммигранта"
         ],
         "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
+        "explanation": "CIR — контракт, подписываемый французским государством с каждым гражданином не-ЕС, впервые получившим вид на жительство. Включает: однодневное гражданское обучение ценностям Республики, курсы французского при недостаточном уровне (до 400 бесплатных часов) и вводное собеседование с консультантом OFII. Соблюдение CIR — условие для получения карты резидента."
       },
       {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
+        "question": "Какое основополагающее право распространяется на всех детей, находящихся на французской территории, независимо от их административного статуса?",
         "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Право голосовать на муниципальных выборах",
+          "Право на обучение — мэрии обязаны записывать всех детей в школу",
+          "Право на полное социальное страхование",
+          "Право на социальное жильё"
+        ],
+        "correct_index": 1,
+        "explanation": "Право на обучение во Франции универсально: каждый ребёнок на территории страны имеет право на образование независимо от гражданства и административного статуса своих родителей. Мэрии юридически обязаны записывать всех детей в школу — отказ был бы нарушением права. Этот принцип регулярно подтверждается Защитником прав."
+      },
+      {
+        "question": "Какова доля иммигрантов в населении Франции сегодня?",
+        "options": [
+          "Около 3%",
+          "Около 10%",
+          "Около 20%",
+          "Около 30%"
+        ],
+        "correct_index": 1,
+        "explanation": "По данным INSEE, иммигранты (лица, родившиеся иностранцами за рубежом) составляют около 10,3% населения Франции — почти 7 миллионов человек. Если добавить потомков иммигрантов первого поколения (рождённых во Франции от двух родителей-иммигрантов), получится около 14 миллионов человек, то есть 21% населения."
+      },
+      {
+        "question": "В какой срок можно оспорить OQTF (обязательство покинуть территорию) в административном трибунале?",
+        "options": [
+          "48 часов",
+          "7 дней",
+          "15–30 дней в зависимости от случая",
+          "3 месяца"
         ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
-      },
-      {
-        "question": "Членом-основателем какой международной организации является Франция?",
-        "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
-        ],
-        "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
-      },
-      {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
-        "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
-        ],
-        "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "OQTF может быть оспорено в административном трибунале в течение 15 дней (OQTF с добровольным сроком выезда 30 дней) или 48 часов (OQTF без добровольного срока). Дежурный адвокат может быть назначен бесплатно. Ассоциации (CIMADE, GISTI) предлагают срочную юридическую помощь."
       }
     ]
   }

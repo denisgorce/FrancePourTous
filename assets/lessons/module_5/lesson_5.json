@@ -3,276 +3,289 @@
     "module_id": 5,
     "lesson_id": 5,
     "module_icon": "💼",
-    "lesson_icon": "💡",
-    "estimated_minutes": 12,
-    "difficulty": "intermédiaire",
+    "lesson_icon": "🚀",
+    "estimated_minutes": 13,
+    "difficulty": "avancé",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "BPI France — Financer et accompagner les entreprises",
+        "url": "https://www.bpifrance.fr"
+      },
+      {
+        "label": "INPI — Formalités de création d'entreprise",
+        "url": "https://www.inpi.fr/formalites-entreprises"
+      },
+      {
+        "label": "Service-public.fr — Créer une entreprise",
+        "url": "https://www.service-public.fr/professionnels-entreprises/vosdroits/N31283"
+      },
+      {
+        "label": "Station F — Écosystème start-up français",
+        "url": "https://stationf.co"
+      }
     ]
   },
   "fr": {
-    "module_title": "Travailler et Entreprendre",
+    "module_title": "Travailler en France",
     "lesson_title": "Créer son Entreprise en France",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : Créer son Entreprise en France. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "Statuts juridiques, formalités, financement et écosystème entrepreneurial français",
+    "intro": "La France a longtemps été perçue comme un pays hostile à l'entrepreneuriat — trop de charges, trop de bureaucratie, trop de risque social. Cette image s'est pourtant radicalement transformée depuis les années 2010 : la France est aujourd'hui l'un des pays les plus attractifs d'Europe pour les start-ups, avec un écosystème de financement mature, des aides fiscales généreuses et une génération d'entrepreneurs qui a totalement changé le rapport des Français au risque et à la création d'entreprise.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**Créer son Entreprise en France** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "De la boutique artisanale à la French Tech : histoire de l'entrepreneuriat français",
+        "body": "L'histoire de l'entrepreneuriat français est ambiguë. La France a produit des dynasties entrepreneuriales extraordinaires — les Michelin (pneumatiques depuis 1889), les Hermès (sellerie depuis 1837), les Peugeot (outils puis vélos puis automobiles depuis 1810) — mais dans une culture générale de méfiance envers le commerce et la réussite financière héritée d'une tradition aristocratique et intellectuelle.\n\nLe tournant vient dans les années **1980** avec les premières **lois Madelin** facilitant la création d'entreprises, puis dans les années **2000** avec la montée d'internet. La création du statut d'**auto-entrepreneur** en **2009** (sous Sarkozy, inspiré du modèle américain du «sole proprietorship») est une révolution : en quelques jours et quelques clics, n'importe qui peut créer une activité indépendante. Le succès est immédiat : plus de **2 millions d'auto-entrepreneurs** en quelques années.\n\nLe mouvement **French Tech** lancé par le gouvernement Hollande en **2013** transforme l'image de la France entrepreneuriale : des licornes (start-ups valorisées à plus d'un milliard de dollars) émergent — **BlaBlaCar**, **Doctolib**, **Back Market**, **Contentsquare**, **Alan**, **Mirakl**. En **2023**, la France est le pays européen ayant le plus grand nombre de licornes (30+), dépassant l'Allemagne et rivalisant avec le Royaume-Uni."
       },
       {
-        "theme": "Région",
+        "theme": "Géographie",
         "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
+        "title": "Les écosystèmes entrepreneuriaux en France",
+        "body": "L'écosystème entrepreneurial français est géographiquement diversifié, même si Paris reste dominant. **Station F**, inauguré en 2017 dans une halle Freyssinet réhabilitée (Paris 13e), est le **plus grand campus de start-ups du monde** : 34 000 m², 1 000 start-ups hébergées, 50 programmes d'accompagnement de grandes entreprises mondiales (Facebook, Microsoft, Google, LVMH, BNP...). Ce symbole du dynamisme de la French Tech attire des entrepreneurs du monde entier.\n\nMais l'entrepreneuriat se développe aussi en régions : **Bordeaux** (Bordeaux Unitec, Darwin Ecosystème), **Lyon** (Axel'One, incubateur industriel), **Nantes** (La Cantine numérique, quartier de la Création), **Toulouse** (Aerospace Valley pour les start-ups aéronautiques), **Grenoble** (BioValley pour les biotechs). Les **French Tech régionales** (labels accordés à des métropoles ayant des écosystèmes solides) illustrent cette décentralisation entrepreneuriale.\n\n**La question du financement** est géographiquement très concentrée : plus de **80% des fonds de capital-risque** français s'investissent en Île-de-France. Un entrepreneur provincial qui veut lever des fonds importants doit souvent «monter à Paris» pour rencontrer les investisseurs — ou convaincre des fonds étrangers (américains, britanniques) qui ont développé une présence en France depuis 2018."
       },
       {
-        "theme": "Politique & Social",
+        "theme": "Politique",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "Les statuts juridiques et les aides à la création",
+        "body": "Créer une entreprise en France implique de choisir un **statut juridique** adapté. Les principaux statuts :\n\n**L'auto-entrepreneur / micro-entreprise** : le plus simple. Création en 24h en ligne sur *guichet-entreprises.fr*. Pas de capital minimum. Charges sociales calculées directement sur le chiffre d'affaires (environ 12-22% selon l'activité). Plafond de CA : 77 700€ pour les services, 188 700€ pour les ventes de marchandises. Idéal pour débuter, tester une activité, ou exercer en parallèle d'un emploi salarié.\n\n**La SASU/SAS** (Société par Actions Simplifiée / à associé Unique) : le statut préféré des start-ups. Capital minimum symbolique (1€), grande souplesse de fonctionnement, possibilité de lever des fonds par émission d'actions. Le dirigeant a le statut d'«assimilé-salarié» — il cotise au régime général et bénéficie de la même protection sociale qu'un salarié.\n\n**La SARL/EURL** (Société à Responsabilité Limitée / Entreprise Unipersonnelle) : la structure classique des PME. Capital minimum de 1€. Le gérant a le statut de «travailleur non-salarié» (TNS) — ses cotisations sociales sont moins élevées que le régime général, mais la protection maladie et retraite est aussi moindre.\n\n**Les aides** sont nombreuses : l'**ACRE** (Aide à la Création ou à la Reprise d'une Entreprise) offre une exonération partielle de charges sociales la première année. Le **dispositif JEI** (Jeune Entreprise Innovante) offre des exonérations fiscales et sociales pour les start-ups R&D. Le **Crédit Impôt Recherche (CIR)** rembourse 30% des dépenses de R&D — un avantage fiscal exceptionnel qui attire les centres de R&D étrangers en France."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Vie quotidienne",
+        "icon": "🏠",
+        "title": "Les démarches pratiques de création et de gestion",
+        "body": "Depuis la réforme de **2023**, toutes les formalités de création, modification et cessation d'entreprise se font sur le **Guichet Unique Entreprises** (*entreprendre.service-public.fr*) — un portail centralisé remplaçant les anciens CFE (Centres de Formalités des Entreprises) éparpillés. La création d'une micro-entreprise prend **15 minutes** en ligne ; la création d'une SAS ou SARL demande quelques jours (rédaction des statuts, dépôt du capital, immatriculation).\n\nLe **numéro SIRET** (Système d'Identification du Répertoire des Établissements) est l'identifiant de toute entreprise française — 14 chiffres, attribués par l'INSEE à chaque création. Les premières 9 chiffres (SIREN) identifient l'entreprise, les 5 suivants (NIC) identifient l'établissement. Ce numéro est obligatoire sur toutes les factures, tous les documents commerciaux.\n\nLa **comptabilité** est obligatoire pour toutes les entreprises, sous des formes variables selon le statut. Un micro-entrepreneur peut tenir une simple comptabilité de trésorerie (recettes/dépenses). Une SAS ou SARL doit tenir une comptabilité complète et déposer ses comptes annuels au **Greffe du Tribunal de Commerce**. Le recours à un **expert-comptable** est très répandu en France — et souvent rentable, les erreurs fiscales pouvant coûter cher. Les **Centres de Gestion Agréés (CGA)** offrent un accompagnement comptable moins onéreux pour les petites structures."
       },
       {
-        "theme": "Culture artistique",
+        "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "title": "La culture entrepreneuriale française : entre ambition et rapport à l'échec",
+        "body": "L'une des grandes transformations culturelles de la France ces vingt dernières années est le **changement du rapport à l'échec entrepreneurial**. Autrefois, faire faillite en France marquait un entrepreneur au fer rouge — difficultés à emprunter, stigmate social, parfois poursuites personnelles. Aujourd'hui, la **loi PACTE** de 2019 a considérablement allégé les procédures de liquidation, et une culture «fail fast, learn faster» importée de la Silicon Valley gagne du terrain dans les milieux entrepreneuriaux français.\n\nLes **grandes figures de l'entrepreneuriat français** contemporain sont devenues des icônes culturelles : **Xavier Niel** (fondateur d'Iliad/Free, investisseur dans Station F), **Bernard Arnault** (LVMH), **François-Henri Pinault** (Kering), les fondateurs de **BlaBlaCar** (Nicolas Brusson, Frédéric Mazzella). Ces entrepreneurs sont régulièrement célébrés dans les médias — une nouveauté dans un pays où la réussite financière était longtemps vue avec méfiance.\n\nLes **grandes écoles** restent cependant le principal vivier d'entrepreneurs : une étude a montré que plus de 40% des fondateurs de start-ups françaises levant plus de 10 millions d'euros sont issus de HEC, de Polytechnique ou de Sciences Po. Ce «déterminisme scolaire» persistant est une tension permanente entre le mythe du «garage startup» à l'américaine et la réalité très élitiste de l'entrepreneuriat français à grande échelle."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "title": "La culture start-up et les nouveaux codes du travail indépendant",
+        "body": "L'essor des **start-ups** et du **travail indépendant** a introduit de nouveaux codes dans le monde professionnel français. Dans une start-up parisienne, le tutoiement est universel (même avec le PDG), le dress code est décontracté (hoodie et baskets), les horaires sont flexibles, et la «culture d'entreprise» est cultivée comme un actif stratégique.\n\nLes **espaces de coworking** (WeWork, Morning, Startway, espaces Makesense...) ont explosé : environ **3 500 espaces** en France, principalement dans les grandes villes. Ils sont devenus les bureaux de substitution des indépendants, freelances et startuppers qui ne veulent pas — ou ne peuvent pas — s'offrir un bureau fixe. Ces espaces créent de nouvelles formes de sociabilité professionnelle et de réseautage informel.\n\n**Le freelance** a ses propres codes sociaux : la **facturation** est une compétence à part entière (un freelance qui facture mal — trop tard, sans relances, sans pénalités de retard — peut se retrouver en difficulté de trésorerie). La **visibilité en ligne** (LinkedIn, site personnel, portfolio) est devenue indispensable. Et le «**réseautage**» (networking) — conférences, meetups, communautés en ligne — est le principal moteur de développement de la clientèle. En France, le réseau reste aussi central pour l'entrepreneur indépendant que pour le salarié en CDI."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à Créer son Entreprise en France :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**Pour un ressortissant étranger qui souhaite créer une entreprise en France, quelques points spécifiques sont à connaître.**\n\nD'abord, **la nationalité n'est pas un obstacle** pour créer une entreprise en France — un étranger en situation régulière (avec un titre de séjour valide) peut créer une micro-entreprise, une SASU ou une SARL sans restriction. Un **visa «Talent — Entrepreneur»** existe pour les non-Européens souhaitant créer ou reprendre une entreprise en France — il permet de résider en France 4 ans renouvelables.\n\nEnsuite, **la barrière de la langue administrative** est réelle : les statuts d'une SASU, les contrats fournisseurs, les déclarations fiscales — tout est en français, avec un vocabulaire juridique et comptable précis. Le recours à un **avocat** (pour les statuts) et à un **expert-comptable** (pour la comptabilité) n'est pas un luxe — c'est un investissement de protection.\n\nEnfin, **les CCI (Chambres de Commerce et d'Industrie)** sont un réseau d'accompagnement des entreprises présent dans chaque département — conseil gratuit à la création, formations, mise en réseau. Leur service «Point de départ entreprise» est conçu pour les porteurs de projet, y compris étrangers, et propose parfois des accompagnements en anglais voire dans d'autres langues."
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
+        "term": "L'auto-entrepreneur / micro-entreprise",
+        "definition": "Statut simplifié permettant de créer une activité indépendante en 24h, avec des charges calculées sur le chiffre d'affaires réel et des plafonds de CA annuels."
       },
       {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
+        "term": "La SAS/SASU",
+        "definition": "Société par Actions Simplifiée / à associé Unique — statut préféré des start-ups : capital minimum d'1€, grande souplesse statutaire, possibilité de lever des fonds par actions, dirigeant assimilé-salarié."
       },
       {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "term": "Le numéro SIRET",
+        "definition": "Identifiant à 14 chiffres de tout établissement d'entreprise en France, attribué par l'INSEE — obligatoire sur toutes les factures et documents commerciaux."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "Le CIR",
+        "definition": "Crédit Impôt Recherche — dispositif fiscal français remboursant 30% des dépenses de R&D des entreprises, l'un des plus généreux au monde — principal attracteur de centres de R&D étrangers en France."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
+        "term": "La French Tech",
+        "definition": "Mouvement et label gouvernemental lancé en 2013 pour promouvoir l'écosystème de start-ups françaises à l'international — la France compte plus de 30 licornes (valorisation > 1 milliard $) en 2024."
       },
       {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "L'ACRE",
+        "definition": "Aide à la Création ou à la Reprise d'une Entreprise — exonération partielle de charges sociales la première année d'activité pour les créateurs d'entreprise (sous conditions de revenus et de situation)."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «Créer son Entreprise en France» dans la République française ?",
+        "question": "Quel est le statut juridique le plus simple pour créer une petite activité indépendante en France ?",
         "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
-        ],
-        "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
-      },
-      {
-        "question": "En France, la laïcité signifie que...",
-        "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
-        ],
-        "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
-      },
-      {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "La SA (Société Anonyme)",
+          "La SARL (Société à Responsabilité Limitée)",
+          "L'auto-entrepreneur / micro-entreprise",
+          "L'EIRL (Entrepreneur Individuel à Responsabilité Limitée)"
         ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
+        "explanation": "Le statut d'auto-entrepreneur (ou micro-entreprise) est le plus simple : création en 24h en ligne, pas de capital minimum, charges sociales calculées directement sur le chiffre d'affaires réel. Il est idéal pour débuter, tester une activité, ou exercer une activité complémentaire en parallèle d'un emploi salarié."
       },
       {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
+        "question": "Qu'est-ce que le Crédit Impôt Recherche (CIR) ?",
         "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
-        ],
-        "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
-      },
-      {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
-        "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
+          "Un prêt à taux zéro pour financer la R&D des startups",
+          "Un dispositif fiscal remboursant 30% des dépenses de R&D",
+          "Une subvention européenne pour la recherche fondamentale",
+          "Un crédit d'impôt réservé aux grandes entreprises du CAC 40"
         ],
         "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "Le Crédit Impôt Recherche (CIR) est un dispositif fiscal permettant aux entreprises de récupérer 30% de leurs dépenses de R&D sous forme de crédit d'impôt (ou de remboursement direct pour les PME). C'est l'un des dispositifs les plus généreux au monde — il est un attrait majeur pour les centres de R&D étrangers qui s'installent en France."
+      },
+      {
+        "question": "Qu'est-ce que Station F, inauguré à Paris en 2017 ?",
+        "options": [
+          "La nouvelle gare de banlieue du Grand Paris Express",
+          "Le plus grand campus de start-ups du monde, hébergeant 1 000 start-ups",
+          "Le siège social de la French Tech Agency",
+          "Un espace de coworking pour les travailleurs indépendants"
+        ],
+        "correct_index": 1,
+        "explanation": "Station F est le plus grand campus de start-ups du monde : 34 000 m² dans une ancienne halle ferroviaire réhabilitée (Paris 13e), accueillant 1 000 start-ups et 50 programmes d'accompagnement de grandes entreprises mondiales. Fondé par Xavier Niel, il est le symbole de la transformation de Paris en capitale européenne de l'innovation."
+      },
+      {
+        "question": "Un étranger en situation régulière peut-il créer une entreprise en France ?",
+        "options": [
+          "Non, il faut avoir la nationalité française",
+          "Oui, mais seulement une micro-entreprise",
+          "Oui, tout type d'entreprise, avec un titre de séjour valide",
+          "Seulement les citoyens de l'Union européenne"
+        ],
+        "correct_index": 2,
+        "explanation": "Un étranger en situation régulière (titre de séjour valide) peut créer tout type d'entreprise en France sans restriction liée à la nationalité. Un visa spécifique «Talent — Entrepreneur» existe pour les non-Européens souhaitant créer ou reprendre une entreprise, permettant un séjour de 4 ans renouvelables."
+      },
+      {
+        "question": "Quel est le principal avantage fiscal et social du statut SAS/SASU pour une start-up ?",
+        "options": [
+          "Le dirigeant ne paie aucune charge sociale",
+          "La société est exonérée d'impôt sur les sociétés les 3 premières années",
+          "Grande souplesse statutaire, capital d'1€ possible et dirigeant assimilé-salarié avec protection sociale",
+          "Les actionnaires ne sont jamais responsables des dettes de la société"
+        ],
+        "correct_index": 2,
+        "explanation": "La SAS/SASU combine plusieurs avantages : capital minimum d'1€ (pas de mise de départ obligatoire), grande liberté dans la rédaction des statuts (règles de gouvernance adaptables), possibilité de lever des fonds par émission d'actions, et le président a le statut d'assimilé-salarié lui donnant accès au régime général de Sécurité Sociale."
       }
     ]
   },
   "ru": {
-    "module_title": "Работа и предпринимательство",
+    "module_title": "Работа во Франции",
     "lesson_title": "Открыть бизнес во Франции",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Открыть бизнес во Франции. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_subtitle": "Правовые формы, процедуры, финансирование и французская предпринимательская экосистема",
+    "intro": "Франция долгое время воспринималась как страна, враждебная предпринимательству — слишком высокие взносы, слишком много бюрократии, слишком большой социальный риск. Однако этот образ радикально изменился с 2010-х годов: сегодня Франция является одной из самых привлекательных для стартапов стран Европы — со зрелой экосистемой финансирования, щедрыми налоговыми льготами и поколением предпринимателей, полностью изменившим отношение французов к риску и созданию бизнеса.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Открыть бизнес во Франции** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "От ремесленной лавки до French Tech: история французского предпринимательства",
+        "body": "История французского предпринимательства неоднозначна. Франция породила необыкновенные предпринимательские династии — Мишлен (шины с 1889 года), Hermès (шорное дело с 1837 года), Peugeot (инструменты, затем велосипеды, затем автомобили с 1810 года) — но в общей культуре недоверия к торговле и финансовому успеху, унаследованного от аристократических и интеллектуальных традиций.\n\nПоворот наступил в **1980-х годах** с первыми **законами Маделена**, облегчившими создание компаний, затем в **2000-х** с ростом интернета. Введение статуса **автопредпринимателя** в **2009 году** (при Саркози, вдохновлённое американской моделью «sole proprietorship») стало революцией: за несколько дней и несколько кликов любой мог открыть самостоятельную деятельность. Успех немедленный: более **2 миллионов автопредпринимателей** за несколько лет.\n\nДвижение **French Tech**, запущенное правительством Олланда в **2013 году**, преобразило образ предпринимательской Франции: выросли «единороги» (стартапы с оценкой более миллиарда долларов) — **BlaBlaCar**, **Doctolib**, **Back Market**, **Contentsquare**, **Alan**, **Mirakl**. В **2023 году** Франция стала европейской страной с наибольшим числом единорогов (30+), обогнав Германию и конкурируя с Великобританией."
       },
       {
-        "theme": "Регион",
+        "theme": "География",
         "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
+        "title": "Предпринимательские экосистемы Франции",
+        "body": "Французская предпринимательская экосистема географически разнообразна, хотя Париж по-прежнему доминирует. **Station F**, открытый в 2017 году в реставрированном ангаре Фрейсине (Париж, 13-й округ), — **крупнейший в мире кампус стартапов**: 34 000 м², 1 000 размещённых стартапов, 50 программ сопровождения мировых крупных компаний (Facebook, Microsoft, Google, LVMH, BNP...). Этот символ динамизма French Tech привлекает предпринимателей со всего мира.\n\nНо предпринимательство развивается и в регионах: **Бордо** (Bordeaux Unitec, Darwin Ecosystème), **Лион** (Axel'One, промышленный инкубатор), **Нант** (La Cantine numérique, квартал Créa), **Тулуза** (Aerospace Valley для авиационных стартапов), **Гренобль** (BioValley для биотехнологий). **Региональные French Tech** (лейблы, присваиваемые мегаполисам с сильными экосистемами) иллюстрируют эту предпринимательскую децентрализацию.\n\n**Вопрос финансирования** географически очень сконцентрирован: более **80% французских венчурных фондов** инвестируют в Иль-де-Франс. Провинциальный предприниматель, желающий привлечь значительные средства, нередко вынужден «ехать в Париж» на встречу с инвесторами — или убеждать иностранные фонды (американские, британские), развившие присутствие во Франции с 2018 года."
       },
       {
-        "theme": "Политика и общество",
+        "theme": "Политика",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Правовые формы и помощь при создании",
+        "body": "Создание компании во Франции требует выбора подходящей **правовой формы**. Основные формы:\n\n**Автопредприниматель / микропредприятие**: самый простой. Регистрация за 24 часа онлайн на *guichet-entreprises.fr*. Нет минимального капитала. Социальные взносы рассчитываются непосредственно от оборота (около 12–22% в зависимости от деятельности). Лимит оборота: 77 700 € для услуг, 188 700 € для продажи товаров. Идеален для старта, тестирования деятельности или параллельной работы с наймом.\n\n**SASU/SAS** (Упрощённое акционерное общество / с единственным акционером): любимая форма стартапов. Символический минимальный капитал (1 €), большая гибкость, возможность привлекать финансирование через выпуск акций. Руководитель имеет статус «приравненного к наёмному работнику» — платит взносы в общий режим и пользуется той же социальной защитой, что и работник.\n\n**SARL/EURL** (Общество с ограниченной ответственностью / Единоличное ООО): классическая форма для МСП. Минимальный капитал 1 €. Руководитель имеет статус «несамозанятого работника» (TNS) — его социальные взносы ниже, чем в общем режиме, но и защита по болезни и пенсии меньше.\n\n**Помощь** многочисленна: **ACRE** (помощь при создании или возобновлении бизнеса) — частичное освобождение от социальных взносов в первый год. **Статус МИП** (Молодое инновационное предприятие) — налоговые и социальные льготы для R&D-стартапов. **Исследовательский налоговый кредит (CIR)** — возврат 30% расходов на НИОКР: исключительная налоговая льгота, привлекающая иностранные R&D-центры во Францию."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Повседневная жизнь",
+        "icon": "🏠",
+        "title": "Практические процедуры создания и управления",
+        "body": "После реформы **2023 года** все формальности по созданию, изменению и прекращению деятельности компании осуществляются на **Едином предпринимательском портале** (*entreprendre.service-public.fr*) — централизованном портале, заменившем прежние разрозненные CFE (Центры предпринимательских формальностей). Создание микропредприятия занимает **15 минут** онлайн; создание SAS или SARL требует нескольких дней (составление устава, внесение капитала, регистрация).\n\n**Номер SIRET** (система идентификации реестра предприятий) — идентификатор каждого французского предприятия: 14 цифр, присваиваемых INSEE при каждой регистрации. Первые 9 цифр (SIREN) идентифицируют компанию, последующие 5 (NIC) — подразделение. Этот номер обязателен на всех счетах и коммерческих документах.\n\n**Бухгалтерский учёт** обязателен для всех компаний в различных формах в зависимости от статуса. Микропредприниматель может вести простой кассовый учёт (доходы/расходы). SAS или SARL обязаны вести полный учёт и сдавать годовую отчётность в **Торговый реестр**. Обращение к **бухгалтеру-эксперту** очень распространено во Франции — и нередко окупается, поскольку налоговые ошибки могут обойтись дорого. **Одобренные центры управления (CGA)** предлагают менее дорогое бухгалтерское сопровождение для небольших структур."
       },
       {
-        "theme": "Художественная культура",
+        "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "title": "Французская предпринимательская культура: амбиции и отношение к провалу",
+        "body": "Одним из крупнейших культурных преобразований Франции за последние двадцать лет стало **изменение отношения к предпринимательскому провалу**. Прежде банкротство во Франции клеймило предпринимателя — трудности с получением кредита, социальная стигма, порой личное преследование. Сегодня **закон PACTE** 2019 года значительно упростил процедуры ликвидации, а культура «fail fast, learn faster», импортированная из Кремниевой долины, набирает силу во французских предпринимательских кругах.\n\n**Великие фигуры** современного французского предпринимательства стали культурными иконами: **Ксавье Ньель** (основатель Iliad/Free, инвестор Station F), **Бернар Арно** (LVMH), **Франсуа-Анри Пино** (Kering), основатели **BlaBlaCar** (Николя Брюссон, Фредерик Маццелла). Эти предприниматели регулярно прославляются в СМИ — новость для страны, где финансовый успех долгое время вызывал подозрение.\n\nТем не менее **Grandes Écoles** остаются главным питомником предпринимателей: исследование показало, что более 40% основателей французских стартапов, привлекших более 10 миллионов евро, вышли из HEC, Политехнической школы или Sciences Po. Это устойчивое «учебное детерминирование» — постоянное противоречие между мифом об американском «гараже» и весьма элитарной реальностью крупного французского предпринимательства."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "title": "Культура стартапов и новые коды независимой работы",
+        "body": "Рост **стартапов** и **независимой работы** привнёс новые коды в французский профессиональный мир. В парижском стартапе обращение на «ты» универсально (даже с генеральным директором), дресс-код непринуждённый (худи и кроссовки), часы работы гибкие, а «корпоративная культура» культивируется как стратегический актив.\n\n**Коворкинги** (WeWork, Morning, Startway, Makesense...) резко выросли: около **3 500 пространств** во Франции, главным образом в крупных городах. Они стали заменой офисов для фрилансеров, независимых специалистов и стартаперов, которые не хотят — или не могут позволить себе — постоянный офис. Эти пространства создают новые формы профессиональной социальности и неформального нетворкинга.\n\n**Фриланс** имеет свои социальные коды: **выставление счетов** — отдельный навык (фрилансер, плохо выставляющий счета — с опозданием, без напоминаний, без штрафных санкций — рискует оказаться в трудном финансовом положении). **Онлайн-видимость** (LinkedIn, персональный сайт, портфолио) стала необходимостью. А «**нетворкинг**» — конференции, митапы, онлайн-сообщества — главный двигатель развития клиентской базы. Во Франции связи столь же важны для независимого предпринимателя, как и для сотрудника с бессрочным договором."
       }
     ],
     "conseil_ami": {
       "title": "Дружеский совет 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Открыть бизнес во Франции»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**Иностранному гражданину, желающему открыть бизнес во Франции, нужно знать несколько специфических моментов.**\n\nВо-первых, **гражданство не является препятствием** для создания компании во Франции — иностранец с действующим видом на жительство вправе открыть микропредприятие, SASU или SARL без ограничений. Для граждан не из ЕС существует специальная **виза «Талант — Предприниматель»**, позволяющая проживать во Франции с возобновляемым сроком 4 года.\n\nЗатем, **барьер административного языка** реален: устав SASU, договоры с поставщиками, налоговые декларации — всё на французском, с точной юридической и бухгалтерской терминологией. Обращение к **адвокату** (для устава) и к **бухгалтеру-эксперту** (для учёта) — не роскошь, а защитная инвестиция.\n\nНаконец, **ТПП (Торгово-промышленные палаты, CCI)** — сеть поддержки предприятий, присутствующая в каждом департаменте: бесплатные консультации при создании, обучение, нетворкинг. Их служба «Point de départ entreprise» создана для стартующих предпринимателей, включая иностранцев, и иногда предлагает сопровождение на английском и других языках."
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "Автопредприниматель / auto-entrepreneur",
+        "definition": "Упрощённый статус, позволяющий создать независимую деятельность за 24 часа, со взносами, рассчитываемыми от фактического оборота, и годовыми лимитами оборота."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "SAS/SASU",
+        "definition": "Упрощённое акционерное общество / с единственным акционером — любимая форма стартапов: минимальный капитал 1 €, большая гибкость устава, возможность привлекать акционерное финансирование, руководитель приравнен к наёмному работнику."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "Номер SIRET",
+        "definition": "14-значный идентификатор каждого французского предприятия, присваиваемый INSEE, — обязателен на всех счетах и коммерческих документах."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "CIR — Исследовательский налоговый кредит",
+        "definition": "Французский налоговый механизм, возвращающий 30% расходов на НИОКР предприятий, — один из самых щедрых в мире, главный привлекатель иностранных R&D-центров во Францию."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "French Tech",
+        "definition": "Движение и правительственный лейбл, запущенный в 2013 году для продвижения французской стартап-экосистемы на международном уровне — Франция насчитывает более 30 «единорогов» (оценка > 1 млрд $) в 2024 году."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "ACRE",
+        "definition": "Aide à la Création ou à la Reprise d'une Entreprise — частичное освобождение от социальных взносов в первый год деятельности для основателей компаний (при соблюдении условий по доходам и ситуации)."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Открыть бизнес во Франции» во Французской республике?",
+        "question": "Какая правовая форма является самой простой для открытия небольшой самостоятельной деятельности во Франции?",
         "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
-        ],
-        "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
-      },
-      {
-        "question": "Светскость во Франции означает, что...",
-        "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
-        ],
-        "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
-      },
-      {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "SA (акционерное общество)",
+          "SARL (ООО)",
+          "Автопредприниматель / микропредприятие",
+          "EIRL (ИП с ограниченной ответственностью)"
         ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
+        "explanation": "Статус автопредпринимателя (или микропредприятия) — самый простой: регистрация за 24 часа онлайн, нет минимального капитала, социальные взносы рассчитываются от фактического оборота. Идеален для старта, тестирования деятельности или дополнительной занятости параллельно с работой по найму."
       },
       {
-        "question": "Членом-основателем какой международной организации является Франция?",
+        "question": "Что такое Исследовательский налоговый кредит (CIR)?",
         "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
-        ],
-        "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
-      },
-      {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
-        "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
+          "Беспроцентный заём для финансирования НИОКР стартапов",
+          "Налоговый механизм, возвращающий 30% расходов на НИОКР",
+          "Европейская субсидия для фундаментальных исследований",
+          "Налоговый кредит, доступный только крупным компаниям из CAC 40"
         ],
         "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "Исследовательский налоговый кредит (CIR) — налоговый механизм, позволяющий компаниям возвращать 30% расходов на НИОКР в форме налогового кредита (или прямого возмещения для МСП). Один из самых щедрых в мире — он является главным привлекателем иностранных R&D-центров, открывающихся во Франции."
+      },
+      {
+        "question": "Что такое Station F, открытый в Париже в 2017 году?",
+        "options": [
+          "Новая пригородная станция Grand Paris Express",
+          "Крупнейший в мире кампус стартапов, принимающий 1 000 стартапов",
+          "Штаб-квартира агентства French Tech",
+          "Коворкинг для фрилансеров"
+        ],
+        "correct_index": 1,
+        "explanation": "Station F — крупнейший в мире кампус стартапов: 34 000 м² в реставрированном железнодорожном ангаре (Париж, 13-й округ), принимающий 1 000 стартапов и 50 программ сопровождения мировых компаний. Основанный Ксавье Нелем, он является символом превращения Парижа в европейскую столицу инноваций."
+      },
+      {
+        "question": "Может ли иностранец с законным статусом открыть компанию во Франции?",
+        "options": [
+          "Нет, нужно иметь французское гражданство",
+          "Да, но только микропредприятие",
+          "Да, любой тип компании при наличии действующего вида на жительство",
+          "Только граждане Евросоюза"
+        ],
+        "correct_index": 2,
+        "explanation": "Иностранец с законным статусом (действующий вид на жительство) вправе создать любой тип компании во Франции без ограничений, связанных с гражданством. Для граждан не из ЕС существует специальная виза «Талант — Предприниматель», позволяющая проживать во Франции с возобновляемым сроком 4 года."
+      },
+      {
+        "question": "Каково главное налоговое и социальное преимущество статуса SAS/SASU для стартапа?",
+        "options": [
+          "Руководитель не платит никаких социальных взносов",
+          "Компания освобождена от налога на прибыль первые 3 года",
+          "Большая гибкость устава, возможный капитал 1 € и руководитель приравнен к наёмному работнику с социальной защитой",
+          "Акционеры никогда не несут ответственности по долгам компании"
+        ],
+        "correct_index": 2,
+        "explanation": "SAS/SASU сочетает несколько преимуществ: минимальный капитал 1 € (нет обязательного стартового взноса), большая свобода при составлении устава (адаптируемые правила управления), возможность привлечения акционерного финансирования, а президент имеет статус приравненного к наёмному работнику с доступом к общему режиму Социального страхования."
       }
     ]
   }

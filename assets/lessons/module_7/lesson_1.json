@@ -3,275 +3,285 @@
     "module_id": 7,
     "lesson_id": 1,
     "module_icon": "🥖",
-    "lesson_icon": "🥐",
-    "estimated_minutes": 12,
-    "difficulty": "intermédiaire",
+    "lesson_icon": "🍞",
+    "estimated_minutes": 13,
+    "difficulty": "débutant",
     "sources": [
-      "culture.gouv.fr",
-      "vie-publique.fr"
+      {
+        "label": "Observatoire du Pain — Consommation et tradition",
+        "url": "https://www.observatoiredupain.fr"
+      },
+      {
+        "label": "Culture.gouv — Patrimoine gastronomique",
+        "url": "https://www.culture.gouv.fr"
+      },
+      {
+        "label": "INSEE — Boulangeries et artisanat alimentaire",
+        "url": "https://www.insee.fr"
+      }
     ]
   },
   "fr": {
     "module_title": "La Gastronomie Française",
-    "lesson_title": "Le Pain — Âme et Symbole de la France",
-    "lesson_subtitle": "Du boulanger du quartier au patrimoine UNESCO",
-    "intro": "Le pain n'est pas juste un aliment en France. C'est un acte quotidien, un lien social, un symbole culturel et politique. Comprendre le rapport des Français au pain, c'est comprendre quelque chose d'essentiel à leur identité collective.",
+    "lesson_title": "Le Pain, Symbole Culturel",
+    "lesson_subtitle": "La baguette, entre quotidien et patrimoine mondial",
+    "intro": "Il n'y a pas de symbole plus français que la baguette. Pas le béret, pas la Tour Eiffel — la baguette. Ce bâton de pain croustillant porté sous le bras est l'image du Français partout dans le monde, et ce n'est pas un cliché injustifié : la France consomme environ 10 milliards de baguettes par an, soit 27 millions par jour. Mais le pain en France est bien plus qu'un aliment. C'est un rite quotidien, un marqueur identitaire, un objet patrimonial et le baromètre invisible de la société française depuis des siècles.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Le pain dans l'histoire française",
-        "body": "La **Révolution française** s'est en partie faite à cause du pain — ou plutôt de son absence. En 1789, les mauvaises récoltes et la spéculation ont rendu le pain inaccessible pour le peuple. C'est la disette qui a poussé les Parisiens dans les rues.\n\nDepuis lors, le pain est un **symbole politique fort**. En 1793, la loi du «pain d'égalité» imposait que tout le monde mange le même pain — riche ou pauvre. Napoléon a réglementé le prix du pain pour éviter les émeutes. Encore aujourd'hui, le prix de la **baguette tradition** est surveillé comme un indicateur social.\n\nEn **1993**, le décret «Pain» a strictement défini ce qu'est une vraie baguette : eau, farine de blé, levure ou levain, sel — et rien d'autre. La baguette de tradition française ne peut pas contenir d'additifs."
+        "title": "Du pain noir au pain blanc : une histoire politique",
+        "body": "L'histoire du pain en France est indissociable de l'histoire politique du pays. Au Moyen Âge et sous l'Ancien Régime, il existait un **pain des riches** (blanc, fait de farine raffinée) et un **pain des pauvres** (noir ou gris, fait de seigle, d'avoine ou de mauvaise farine de blé). Cette hiérarchie du pain était une hiérarchie sociale criante. Les années de mauvaises récoltes provoquaient des **famines** et des émeutes : «la guerre des farines» (1775) précéda directement la Révolution.\n\nLa **Révolution française** prit le pain très au sérieux. En 1793, la Convention décrète le **«pain de l'égalité»** : un pain unique, fabriqué avec un mélange de farines, que riches et pauvres devaient manger identique. «Il ne peut y avoir deux qualités de pain, comme il ne peut y avoir deux classes de citoyens», proclamait-on. Ce pain unique symbolisait l'égalité républicaine — même si la mesure fut difficile à appliquer.\n\nLa **baguette moderne** — longue, mince, à croûte croustillante — est une invention relativement récente : elle se popularise dans les années **1920** à Paris. Sa forme longue permettait une cuisson plus rapide, et sa croûte dorée était appréciée des Parisiens. Une loi de **1993** (le «décret pain») définit et protège la **«baguette de tradition française»** : elle ne peut contenir que farine de blé, eau, sel et levure ou levain — sans additifs ni congélation. En **2022**, la baguette est inscrite au **Patrimoine Culturel Immatériel de l'UNESCO**."
       },
       {
-        "theme": "Région",
+        "theme": "Géographie",
         "icon": "🗺️",
-        "title": "Les pains régionaux de France",
-        "body": "La France ne se limite pas à la baguette. Chaque région a ses spécialités :\n\n**Bretagne :** Le **kouign-amann** (prononcé «kwin-aman») est un gâteau de pain au beurre caramélisé. Également les **galettes de sarrasin** (blé noir) — base de la cuisine bretonne.\n\n**Alsace :** Le **Kougelhopf** (ou Kouglof), brioche alsacienne traditionnelle en forme de couronne, garnie de raisins secs et d'amandes.\n\n**Auvergne :** Le **pain de seigle** dense et rustique, qui accompagne parfaitement les fromages du Massif Central.\n\n**Pays Basque :** Le **taloa**, galette de maïs traditionnelle basque.\n\n**Paris :** La baguette, bien sûr — mais aussi la **ficelle** (plus fine), le **bâtard** (plus court et épais), le **pain de campagne** aux céréales."
+        "title": "La boulangerie, cœur du village français",
+        "body": "La **boulangerie artisanale** est l'une des institutions les plus ancrées de la géographie française. La France compte environ **33 000 boulangeries artisanales** — soit plus que n'importe quel autre commerce alimentaire. Dans les villages ruraux, la boulangerie est souvent le dernier commerce survivant : même quand l'épicerie, la pharmacie et la poste ont fermé, la boulangerie reste. Elle est le lien social du village, l'endroit où on se croise chaque matin.\n\nLe **pain varie selon les régions** : la **couronne bordelaise** (pain en forme d'anneau), le **pain brié normand** (pain compact à mie serrée), le **pain aux noix du Périgord**, les **miches** et **boules** de campagne du Massif Central, le **pain de seigle alsacien**. Chaque région a ses traditions, ses formes, ses farines de prédilection. Le pain de **campagne** (à la croûte épaisse, à la mie irrégulière) connaît un fort renouveau depuis les années 2000, porté par le mouvement pour les **farines artisanales** et les **meuniers indépendants**.\n\nLes **marchés** sont aussi un lieu d'achat du pain en France : les boulangers-artisans vendent leurs pains sur les marchés de village et de quartier. Les **AMAP** (Associations pour le Maintien d'une Agriculture Paysanne) incluent souvent du pain artisanal dans leurs paniers hebdomadaires. Ce retour au pain local, de terroir, avec de bonnes farines, est l'une des tendances gastronomiques majeures des deux dernières décennies en France."
       },
       {
-        "theme": "Politique & Social",
+        "theme": "Politique",
         "icon": "⚖️",
-        "title": "Le boulanger, pilier de la République",
-        "body": "En France, la **boulangerie** est une institution presque aussi importante que la mairie. La loi oblige les boulangeries à assurer une **permanence** pendant les congés : dans chaque quartier, une boulangerie doit toujours être ouverte, même le dimanche et les jours fériés.\n\nLe **«meilleur ouvrier de France»** (MOF) est un titre officiel d'État, décerné par concours. Pour les boulangers, c'est l'équivalent d'une médaille olympique.\n\nEn **2022, la baguette de tradition française a été inscrite au Patrimoine Culturel Immatériel de l'UNESCO** — aux côtés du flamenco espagnol et de la pizza napolitaine. La France a défendu non pas la recette, mais le **geste artisanal** et le **rituel social** qui l'entoure."
+        "title": "Le prix du pain, affaire d'État",
+        "body": "Le prix du pain a longtemps été une **affaire d'État** en France. De 1791 à **1978**, le prix de la baguette était **fixé par l'État** — un héritage direct de la Révolution qui avait vu les émeutes du pain. Cette réglementation protégeait les plus modestes et garantissait que le pain, aliment de base, restait accessible à tous. Sa libéralisation en 1978 donna aux boulangers la liberté de fixer leurs prix, mais avec elle vint la montée en gamme et la fermeture de nombreuses boulangeries bon marché.\n\nAujourd'hui, le prix moyen d'une **baguette tradition** est d'environ **1,20 €** — mais il varie de 0,90 € dans les boulangeries de quartier populaire à plus de 2 € dans les boulangeries de luxe parisiennes. Ce prix reste politiquement sensible : quand il augmente (notamment lors des crises du blé de 2022 après la guerre en Ukraine), cela fait la une des journaux. Le **«bouclier tarifaire»** de 2022 et 2023 incluait des discussions sur le soutien aux boulangers face à la hausse du coût de l'énergie.\n\nLa **Confédération Nationale de la Boulangerie-Pâtisserie** est l'un des syndicats professionnels les plus écoutés en France — signe de l'importance symbolique et économique du secteur. Les boulangers sont souvent des acteurs politiques locaux influents : dans les villages, le boulanger est l'une des personnes les plus connues et les plus respectées."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Le pain dans la vie de tous les jours",
-        "body": "En France, **80% des Français** achètent leur pain dans une boulangerie artisanale au moins une fois par semaine. On compte environ **33 000 boulangeries artisanales** en France — soit une pour 2 000 habitants.\n\n**Les horaires :** Les boulangeries ouvrent tôt (souvent 7h) pour la **fournée du matin**. Une bonne boulangerie fait plusieurs fournées dans la journée — les baguettes fraîchement sorties du four sont les meilleures.\n\n**Prix :** La baguette tradition coûte entre **0,90 € et 1,40 €** selon les villes. C'est l'un des repères de prix les plus connus des Français.\n\n**Pratique :** On peut acheter une **demi-baguette** si l'on veut moins. On dit souvent juste «une baguette, s'il vous plaît» — sans préciser. Si vous voulez qu'elle soit bien cuite, dites «bien cuite» ; moins cuite : «pas trop cuite»."
+        "theme": "Vie quotidienne",
+        "icon": "🏠",
+        "title": "Le rite quotidien du pain",
+        "body": "La relation des Français au pain est un rite quotidien profondément ancré. Quelques observations :\n\n**La fréquence d'achat :** Traditionnellement, les Français achètent leur pain **deux fois par jour** — le matin (pour le petit déjeuner) et le soir avant dîner. La baguette ne se conserve que quelques heures avant de ramollir : une baguette achetée le matin est «morte» le soir. C'est pourquoi les Français ne stockent pas leur pain — ils l'achètent frais à consommer dans les heures suivantes.\n\n**La boulangerie du matin :** Aller chercher le pain le matin est un rituel social. La boulangerie ouvre souvent à 6h30 ou 7h00 ; la queue du dimanche matin (pour acheter croissants, pains au chocolat et baguettes fraîches) est un moment de sociabilité de quartier.\n\n**Comment tenir sa baguette :** La baguette se porte sous le bras, dans le sens de la longueur, souvent sans sac. L'extrémité (la «quignon» ou «croûton») est souvent grignotée en chemin — c'est un droit non-écrit. Personne ne juge.\n\n**À table :** Le pain se pose directement sur la nappe, à gauche de l'assiette — jamais dans une corbeille individuelle. On le rompt à la main (on ne coupe pas son pain avec un couteau à table, sauf le pain de mie). Saucer son assiette avec du pain en fin de repas est l'un des gestes les plus français qui soit — voir la leçon 2."
       },
       {
-        "theme": "Culture artistique",
+        "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Le pain dans l'art et la culture",
-        "body": "Le pain est omniprésent dans l'art français. Les **natures mortes** hollandaises et françaises du XVIIe siècle représentent souvent du pain comme symbole d'abondance ou de simplicité.\n\nLe photographe **Willy Ronis** a immortalisé en 1952 un enfant parisien courant avec une baguette sous le bras — une des photos les plus emblématiques de la France du XXe siècle.\n\n**Dans la littérature :** Victor Hugo fait du pain un symbole de justice sociale dans «Les Misérables» — Jean Valjean est condamné au bagne pour avoir volé un pain.\n\n**Cinéma :** Dans presque tous les films français représentant la vie quotidienne, on voit des personnages porter une baguette. C'est un **marqueur culturel** immédiatement reconnaissable, utilisé dans le monde entier pour symboliser la France."
+        "title": "Le pain dans l'imaginaire culturel français",
+        "body": "Le pain est omniprésent dans la culture française, des expressions populaires jusqu'aux œuvres d'art. La langue française regorge d'expressions autour du pain : «avoir du pain sur la planche» (avoir beaucoup de travail), «ça ne mange pas de pain» (ça ne coûte rien d'essayer), «long comme un jour sans pain» (très long et ennuyeux), «pour une bouchée de pain» (très bon marché). Ces expressions révèlent à quel point le pain est ancré dans la vision du monde française.\n\nDans la peinture, les **natures mortes** françaises du XVIIe siècle incluent souvent un pain ou une baguette parmi les éléments du repas — symbole d'abondance simple et de vie quotidienne. **Jean-Baptiste-Siméon Chardin** (1699–1779) peignit de nombreuses scènes de cuisine et de table avec du pain comme élément central. Au XXe siècle, **Salvador Dalí** (espagnol, mais très influencé par la culture française) avait une fascination obsessionnelle pour le pain — il posait des baguettes sur la tête et les photographiait.\n\nLe **«Grand Prix de la Baguette de Tradition Française de la Ville de Paris»** est un concours annuel très médiatisé qui récompense la meilleure baguette parisienne. Le boulanger lauréat obtient le droit de fournir la baguette de l'**Élysée** pendant un an — et voit ses ventes exploser. Ce concours, créé en 1994, est devenu un événement culturel majeur, suivi par les médias du monde entier."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🥖",
-        "title": "Les règles sociales autour du pain",
-        "body": "Le pain à la française obéit à des codes sociaux précis que peu de livres enseignent :\n\n**À table :** Le pain se pose directement sur la nappe à côté de l'assiette. Pas dans l'assiette. Pas sur une petite assiette (sauf dans les restaurants gastronomiques). On le rompt à la main — on ne le coupe jamais.\n\n**La «saucer» :** Il est tout à fait acceptable de **«saucer son assiette»** (essuyer la sauce avec un morceau de pain) — même dans des dîners semi-formels. C'est un compliment au cuisinier, pas une impolitesse.\n\n**Après le repas :** On ne jette pas le pain. Les restes sont conservés pour faire du **pain perdu** (le «french toast» américain), une soupe à l'oignon, ou simplement mis pour les oiseaux. Gaspiller le pain reste culturellement mal perçu — héritage de siècles de disette."
+        "title": "Choisir son pain : le vocabulaire indispensable",
+        "body": "Entrer dans une boulangerie française sans connaître le vocabulaire peut mener à des surprises. Voici les termes essentiels :\n\n**Les types de baguettes :** La **«baguette ordinaire»** (ou «baguette courante») est la baguette standard, moins chère, souvent avec des additifs — elle se conserve moins bien. La **«baguette tradition»** (ou «baguette de tradition française») est protégée par le décret de 1993 : pas d'additifs, cuisson artisanale. Elle est plus chère (env. 1,20 €) mais incomparablement meilleure. La **«ficelle»** est une baguette plus fine. Le **«bâtard»** est plus court et plus large.\n\n**La cuisson :** On peut demander sa baguette **«bien cuite»** (croûte dorée et croustillante, mie moins humide — préférée dans le Sud et par les amateurs de croûte) ou **«pas trop cuite»** (croûte plus claire, mie plus moelleuse — préférée à Paris). C'est un choix personnel que les boulangers respectent systématiquement.\n\n**Les autres pains :** Le **pain de campagne** (gros pain rond à mie alvéolée, souvent avec un peu de farine de seigle) se conserve 3–4 jours. Le **pain complet** (farine T80 ou T110) est plus dense et plus riche en fibres. Le **pain au levain** (fermentation naturelle sans levure industrielle) est le pain artisanal par excellence — goût légèrement acidulé, conservation excellente.\n\n**La viennoiserie :** Distincte du pain, elle se trouve aussi en boulangerie : **croissant**, **pain au chocolat** (ou «chocolatine» dans le Sud-Ouest — débat national), **pain aux raisins**, **chausson aux pommes**. Ces viennoiseries se mangent au petit déjeuner ou au goûter, jamais à table lors d'un vrai repas."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Le pain comme clé sociale en France.**\n\nQuand vous êtes invité à dîner chez des Français, apporter une bonne baguette artisanale ou un beau pain de campagne est un geste toujours apprécié — parfois plus qu'une bouteille de vin ordinaire.\n\nEt si vous voulez «briser la glace» avec votre boulanger — ce qui est une relation sociale importante en France — commencez par demander conseil : «Qu'est-ce que vous recommandez aujourd'hui ?» ou «Votre pain de campagne est-il bien cuit ?». Un boulanger français parle de son pain avec autant de fierté qu'un sommelier de son vin. Cette conversation établit une relation de confiance qui vous vaudra les meilleurs morceaux pour des années."
+      "content": "**Apprendre à acheter son pain en boulangerie est l'un des premiers rites d'intégration en France.** Ce n'est pas compliqué, mais quelques règles s'imposent.\n\nToujours dire **«Bonjour»** en entrant — on l'a vu dans le module 4, c'est sacré. Puis : «Une baguette tradition, s'il vous plaît» ou «bien cuite» si vous aimez la croûte. Le boulanger emballera l'extrémité dans un petit carré de papier si vous achetez plusieurs baguettes. Sinon, on vous la tend directement — et c'est parfaitement normal de la porter sous le bras.\n\nUn détail culturel important : **ne jamais couper le pain avec un couteau électrique ou un couteau à pain devant un Français traditionnel**. Le pain se rompt à la main à table. Le couteau à pain sert à trancher le pain de campagne pour les tartines — pas à table. Cette distinction peut sembler absurde mais révèle une philosophie : le pain est vivant, il se partage à la main, pas découpé mécaniquement."
     },
     "glossary": [
       {
-        "term": "La baguette",
-        "definition": "Pain français long et mince (~65 cm), incontournable du quotidien."
-      },
-      {
-        "term": "La baguette de tradition",
-        "definition": "Baguette artisanale à l'ancienne, sans additifs, protégée par un décret de 1993."
-      },
-      {
-        "term": "La fournée",
-        "definition": "L'ensemble des pains cuits en une seule fois dans le four."
-      },
-      {
-        "term": "Saucer son assiette",
-        "definition": "Essuyer la sauce de son assiette avec du pain — geste accepté et même valorisé."
+        "term": "La baguette tradition",
+        "definition": "Baguette protégée par le décret de 1993 : farine de blé, eau, sel, levure ou levain uniquement — sans additifs ni congélation. Cuite dans la journée. Distinguée de la «baguette ordinaire» par son goût, sa croûte et sa mie alvéolée."
       },
       {
         "term": "Le levain",
-        "definition": "Ferment naturel à base de farine et d'eau, utilisé à la place de la levure industrielle."
+        "definition": "Fermentation naturelle du pain, sans levure industrielle, à base de bactéries lactiques présentes dans la farine et l'air. Donne un goût légèrement acidulé, une meilleure conservation et une digestibilité supérieure. Revenu très en vogue depuis les années 2000."
       },
       {
-        "term": "Le MOF",
-        "definition": "Meilleur Ouvrier de France — titre officiel d'État décerné par concours à des artisans d'excellence."
+        "term": "La viennoiserie",
+        "definition": "Famille de produits de boulangerie à base de pâte feuilletée ou briochée : croissants, pains au chocolat, pains aux raisins. Distinct du «pain» proprement dit. Se consomme au petit déjeuner ou goûter."
+      },
+      {
+        "term": "Le pain de campagne",
+        "definition": "Gros pain rond à mie alvéolée irrégulière, souvent mélange de farine de blé et de seigle. Se conserve 3 à 4 jours. Symbole du pain artisanal de qualité, en fort renouveau gastronomique."
+      },
+      {
+        "term": "Le «décret pain» de 1993",
+        "definition": "Décret français définissant la composition stricte de la «baguette de tradition française» : farine, eau, sel, levure/levain, sans additifs ni congélation. Protège l'artisanat boulanger contre l'industrialisation."
+      },
+      {
+        "term": "La chocolatine vs le pain au chocolat",
+        "definition": "Vieux débat régional français : dans le Sud-Ouest (Toulouse, Bordeaux, Pays Basque), la viennoiserie fourrée au chocolat s'appelle «chocolatine». Dans le reste de la France, c'est un «pain au chocolat». Sujet de plaisanteries nationales récurrentes."
       }
     ],
     "quiz": [
       {
-        "question": "Pourquoi la Révolution française de 1789 est-elle partiellement liée au pain ?",
+        "question": "Que protège le «décret pain» de 1993 en France ?",
         "options": [
-          "Les Français voulaient un meilleur pain",
-          "La disette et le prix du pain inaccessible ont poussé le peuple dans les rues",
-          "Le roi avait interdit le pain aux paysans",
-          "Les boulangers avaient organisé une grève"
+          "Le prix maximum de la baguette dans toute la France",
+          "La composition de la «baguette de tradition française» : sans additifs ni congélation",
+          "L'appellation «boulangerie artisanale» réservée aux petits commerces",
+          "Le droit des boulangers à fermer le dimanche"
         ],
         "correct_index": 1,
-        "explanation": "En 1789, les mauvaises récoltes et la spéculation ont rendu le pain inaccessible pour le peuple. C'est en grande partie la disette qui a déclenché la Révolution — d'où l'importance symbolique du pain dans la culture française."
+        "explanation": "Le décret de 1993 définit la «baguette de tradition française» : farine de blé, eau, sel et levure ou levain uniquement, sans additifs autorisés pour le pain courant, et sans congélation de la pâte. Cela distingue la «tradition» de la baguette ordinaire industrielle et protège l'artisanat boulanger."
       },
       {
-        "question": "Qu'est-ce qui définit légalement une «baguette de tradition française» ?",
+        "question": "Quelle distinction la baguette a-t-elle reçue en 2022 ?",
         "options": [
-          "Elle doit mesurer exactement 65 cm",
-          "Elle ne peut contenir que farine, eau, levure/levain et sel — sans additifs (décret 1993)",
-          "Elle doit être fabriquée à Paris",
-          "Elle doit coûter moins de 1 euro"
+          "Label «Produit du Terroir» européen",
+          "Inscription au Patrimoine Culturel Immatériel de l'UNESCO",
+          "Appellation d'Origine Protégée (AOP)",
+          "Prix mondial de l'artisanat alimentaire"
         ],
         "correct_index": 1,
-        "explanation": "Le décret «Pain» de 1993 définit strictement la baguette de tradition : eau, farine de blé, levure ou levain naturel, sel — et rien d'autre. Aucun additif n'est autorisé."
+        "explanation": "En 2022, la baguette de tradition française a été inscrite au Patrimoine Culturel Immatériel de l'UNESCO — non pour sa recette, mais pour le rituel social qu'elle représente : l'achat quotidien chez le boulanger, la relation avec l'artisan, le partage à table. Une reconnaissance de la dimension culturelle du pain en France."
       },
       {
-        "question": "En quelle année la baguette française a-t-elle été inscrite au patrimoine UNESCO ?",
+        "question": "Comment se tient correctement la baguette quand on sort de la boulangerie ?",
         "options": [
-          "2010",
-          "2015",
-          "2018",
-          "2022"
-        ],
-        "correct_index": 3,
-        "explanation": "En 2022, la baguette de tradition française a été inscrite au Patrimoine Culturel Immatériel de l'UNESCO — pour son geste artisanal et le rituel social qui l'entoure, pas juste la recette."
-      },
-      {
-        "question": "Comment mange-t-on correctement le pain à table en France ?",
-        "options": [
-          "Coupé en tranches avec un couteau à pain",
-          "Rompu à la main, posé directement sur la table à côté de l'assiette",
-          "Dans une petite assiette à pain fournie",
-          "Uniquement avec le beurre dans une corbeille"
+          "Dans un sac en papier fermé pour la garder fraîche",
+          "Sous le bras, dans le sens de la longueur, souvent sans emballage",
+          "Dans la main, tenant le milieu",
+          "Dans un sac isotherme pour préserver la croûte"
         ],
         "correct_index": 1,
-        "explanation": "Le pain se rompt à la main (jamais coupé) et se pose directement sur la table à côté de l'assiette — pas dans l'assiette, pas sur une petite assiette (sauf en gastronomique)."
+        "explanation": "La baguette se porte traditionnellement sous le bras, dans la longueur, sans emballage — c'est l'une des images les plus iconiques de la France. Grignoter le quignon (l'extrémité) en chemin est tout à fait admis. La baguette ne se conserve que quelques heures, donc elle n'a pas besoin d'emballage protecteur."
       },
       {
-        "question": "Qu'est-ce que «saucer son assiette» en France ?",
+        "question": "Quelle est la différence entre «bien cuite» et «pas trop cuite» quand on commande sa baguette ?",
         "options": [
-          "Une impolitesse à éviter en société",
-          "Verser de la sauce supplémentaire",
-          "Essuyer la sauce de l'assiette avec du pain — geste accepté et valorisé",
-          "Demander de la sauce au serveur"
+          "«Bien cuite» signifie plus longue, «pas trop cuite» signifie plus courte",
+          "«Bien cuite» = croûte dorée et croustillante ; «pas trop cuite» = croûte plus claire et mie plus moelleuse",
+          "«Bien cuite» correspond à la tradition, «pas trop cuite» à la baguette ordinaire",
+          "C'est une distinction uniquement applicable aux pains de campagne, pas aux baguettes"
+        ],
+        "correct_index": 1,
+        "explanation": "«Bien cuite» désigne une baguette avec une croûte dorée-brune, très croustillante, et une mie moins humide — préférée dans le Sud et par les amateurs de croûte. «Pas trop cuite» (aussi dite «blonde») désigne une croûte plus claire et une mie plus moelleuse — préférée à Paris. Les boulangers respectent toujours cette préférence."
+      },
+      {
+        "question": "Dans quelle région de France appelle-t-on «chocolatine» ce que le reste du pays nomme «pain au chocolat» ?",
+        "options": [
+          "La Bretagne et la Normandie",
+          "L'Alsace et la Lorraine",
+          "Le Sud-Ouest : Toulouse, Bordeaux, Pays Basque",
+          "La Provence et la Côte d'Azur"
         ],
         "correct_index": 2,
-        "explanation": "«Saucer son assiette» — essuyer la sauce avec un morceau de pain — est tout à fait acceptable en France, même en dîner semi-formel. C'est considéré comme un compliment au cuisinier."
+        "explanation": "Dans le Sud-Ouest de la France (Toulouse, Bordeaux, Pays Basque, Gascogne), la viennoiserie fourrée au chocolat s'appelle «chocolatine». Dans le reste de la France, c'est un «pain au chocolat». Ce débat linguistique est devenu une plaisanterie nationale récurrente et un marqueur d'identité régionale revendiqué avec fierté ou humour selon les interlocuteurs."
       }
     ]
   },
   "ru": {
     "module_title": "Французская гастрономия",
-    "lesson_title": "Хлеб — душа и символ Франции",
-    "lesson_subtitle": "От районного булочника до наследия ЮНЕСКО",
-    "intro": "Хлеб во Франции — не просто продукт питания. Это ежедневный акт, социальная связь, культурный и политический символ. Понять отношение французов к хлебу — значит понять нечто существенное в их коллективной идентичности.",
+    "lesson_title": "Хлеб — культурный символ",
+    "lesson_subtitle": "Багет: между ежедневным ритуалом и мировым наследием",
+    "intro": "Нет более французского символа, чем багет. Не берет, не Эйфелева башня — именно багет. Этот хрустящий батон хлеба, зажатый под мышкой, — образ французов по всему миру, и это не беспочвенный клише: Франция потребляет около 10 миллиардов багетов в год, то есть 27 миллионов в день. Но хлеб во Франции — это куда больше, чем продукт питания. Это ежедневный ритуал, маркер идентичности, объект культурного наследия и невидимый барометр французского общества на протяжении веков.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Хлеб в истории Франции",
-        "body": "**Французская революция** отчасти случилась из-за хлеба — точнее, из-за его отсутствия. В 1789 году плохой урожай и спекуляция сделали хлеб недоступным для народа. Именно голод вывел парижан на улицы.\n\nС тех пор хлеб — **мощный политический символ**. В 1793 году закон о «хлебе равенства» обязывал всех есть один и тот же хлеб — богатых и бедных. Наполеон регулировал цену на хлеб, чтобы избежать бунтов. Ещё сегодня цена **традиционного багета** отслеживается как социальный индикатор.\n\nВ **1993 году** декрет «Хлеб» строго определил, что такое настоящий багет: вода, пшеничная мука, дрожжи или закваска, соль — и ничего больше. Багет de tradition française не может содержать добавок."
+        "title": "От чёрного хлеба к белому: политическая история",
+        "body": "История хлеба во Франции неотделима от политической истории страны. В Средние века и при Старом режиме существовал **хлеб для богатых** (белый, из рафинированной муки) и **хлеб для бедных** (чёрный или серый, из ржи, овса или некачественной пшеничной муки). Эта иерархия хлеба была кричащей социальной иерархией. Годы неурожаев провоцировали **голод** и бунты: «Мучная война» (1775) непосредственно предшествовала Революции.\n\n**Французская революция** восприняла хлеб всерьёз. В 1793 году Конвент постановил ввести **«хлеб равенства»** — единый хлеб из смеси муки, который богатые и бедные должны были есть одинаковым. «Не может быть двух сортов хлеба, как не может быть двух сортов граждан», — провозглашалось тогда. Этот единый хлеб символизировал республиканское равенство — хотя претворить меру в жизнь было непросто.\n\n**Современный багет** — длинный, тонкий, с хрустящей корочкой — сравнительно недавнее изобретение: он распространяется в **1920-е годы** в Париже. Его длинная форма позволяла быстрее выпекать, а золотистая корочка пришлась по вкусу парижанам. Закон **1993 года** («декрет о хлебе») определяет и защищает **«багет французской традиции»**: только пшеничная мука, вода, соль и дрожжи или закваска — без добавок и заморозки. В **2022 году** багет внесён в список **нематериального культурного наследия ЮНЕСКО**."
       },
       {
-        "theme": "Регион",
+        "theme": "География",
         "icon": "🗺️",
-        "title": "Региональный хлеб Франции",
-        "body": "Франция не ограничивается багетом. Каждый регион имеет свои специалитеты:\n\n**Бретань:** **Kouign-amann** (произносится «куин-аман») — пирог из хлебного теста с карамелизированным маслом. А также галеты из гречневой муки — основа бретонской кухни.\n\n**Эльзас:** **Kougelhopf** (Куглоф) — традиционная эльзасская бриошь в форме короны с изюмом и миндалём.\n\n**Овернь:** Плотный деревенский **ржаной хлеб**, отлично сочетающийся с сырами Центрального массива.\n\n**Страна Басков:** **Taloa** — традиционная баскская кукурузная лепёшка.\n\n**Париж:** Конечно, багет — а также **ficelle** (тоньше), **bâtard** (короче и толще), **pain de campagne** с зерновыми."
+        "title": "Булочная — сердце французской деревни",
+        "body": "**Ремесленная булочная** — один из самых укоренённых институтов французской географии. Во Франции насчитывается около **33 000 ремесленных булочных** — больше, чем любых других предприятий пищевой торговли. В сельских деревнях булочная нередко остаётся последним выжившим магазином: даже когда закрылись бакалея, аптека и почта, булочная держится. Она — социальная нить деревни, место, где каждое утро встречаются люди.\n\n**Хлеб варьируется от региона к региону**: **корона бордоская** (хлеб в форме кольца), **нормандский брийе** (плотный хлеб с мелкопористым мякишем), **хлеб с грецкими орехами из Перигора**, **михи** и **круглые буханки** из Центрального массива, **ржаной хлеб из Эльзаса**. У каждого региона свои традиции, формы, предпочтительные сорта муки. **Деревенский хлеб** (с толстой корочкой, неровным мякишем) переживает мощное возрождение с 2000-х годов — на волне движения за **ремесленные виды муки** и **независимых мельников**.\n\n**Рынки** — тоже место покупки хлеба: булочники-ремесленники продают свой хлеб на деревенских и квартальных рынках. **AMAP** (Ассоциации по поддержке крестьянского сельского хозяйства) нередко включают ремесленный хлеб в еженедельные корзины. Возвращение к местному, терруарному хлебу из хорошей муки — одна из главных гастрономических тенденций последних двух десятилетий во Франции."
       },
       {
-        "theme": "Политика и общество",
+        "theme": "Политика",
         "icon": "⚖️",
-        "title": "Булочник — столп Республики",
-        "body": "Во Франции **boulangerie** (булочная) — учреждение, почти такое же важное, как мэрия. Закон обязывает булочные обеспечивать **дежурство** в период отпусков: в каждом квартале одна булочная должна быть всегда открыта, даже в воскресенье и праздники.\n\n**«Лучший мастер Франции»** (MOF) — официальный государственный титул, присуждаемый по конкурсу. Для булочников это эквивалент олимпийской медали.\n\nВ **2022 году традиционный французский багет был внесён в Список нематериального культурного наследия ЮНЕСКО** — наряду с испанским фламенко и неаполитанской пиццей. Франция защищала не рецепт, а **ремесленный жест** и **социальный ритуал** вокруг него."
+        "title": "Цена хлеба — государственное дело",
+        "body": "Цена хлеба долго была **государственным делом** во Франции. С 1791 по **1978 год** цена багета **устанавливалась государством** — прямое наследие Революции, на глазах которой происходили хлебные бунты. Это регулирование защищало малоимущих и гарантировало, что хлеб — основной продукт питания — оставался доступным для всех. Либерализация 1978 года дала булочникам свободу устанавливать цены, но вместе с ней пришли движение вверх по ценовой лестнице и закрытие многих дешёвых булочных.\n\nСегодня средняя цена **«багета традиции»** составляет около **1,20 €** — от 0,90 € в булочных в народных кварталах до более 2 € в роскошных парижских булочных. Эта цена остаётся политически чувствительной: когда она растёт (особенно во время зернового кризиса 2022 года после войны на Украине), это попадает на первые полосы газет. «Ценовой щит» 2022–2023 годов включал обсуждения поддержки булочников в условиях роста цен на энергию.\n\n**Национальная конфедерация хлебопечения и кондитерского дела** — один из самых влиятельных профессиональных союзов Франции, что свидетельствует о символической и экономической значимости отрасли. Булочники нередко являются влиятельными местными политическими игроками: в деревнях булочник — один из самых известных и уважаемых людей."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Хлеб в повседневной жизни",
-        "body": "Во Франции **80% французов** покупают хлеб в ремесленной булочной как минимум раз в неделю. В стране около **33 000 ремесленных булочных** — одна на 2 000 жителей.\n\n**Часы работы:** Булочные открываются рано (часто в 7:00) к **утренней выпечке**. Хорошая булочная делает несколько выпечек в день — свежие багеты, только что вынутые из печи, самые лучшие.\n\n**Цена:** Традиционный багет стоит от **0,90 € до 1,40 €** в зависимости от города. Это один из самых известных ценовых ориентиров французов.\n\n**Практично:** Можно купить **полбагета** если нужно меньше. Часто говорят просто «une baguette, s'il vous plaît». Если хотите хорошо пропечённый, скажите «bien cuite»; менее пропечённый — «pas trop cuite»."
+        "theme": "Повседневная жизнь",
+        "icon": "🏠",
+        "title": "Ежедневный ритуал хлеба",
+        "body": "Отношение французов к хлебу — глубоко укоренившийся ежедневный ритуал. Несколько наблюдений:\n\n**Частота покупки:** Традиционно французы покупают хлеб **дважды в день** — утром (на завтрак) и вечером перед ужином. Багет остаётся свежим лишь несколько часов, а затем черствеет: утренний багет к вечеру «мёртв». Именно поэтому французы не запасаются хлебом впрок — берут свежий, чтобы съесть в течение нескольких часов.\n\n**Утренний поход в булочную:** Купить хлеб утром — социальный ритуал. Булочные открываются нередко в 6:30–7:00; воскресная утренняя очередь (за круассанами, болями-о-шоколя и свежими багетами) — момент квартальной общительности.\n\n**Как нести багет:** Багет несут под мышкой в длину, чаще без пакета. Отщипнуть кончик («quignon») по дороге — негласное право. Никто не осуждает.\n\n**За столом:** Хлеб кладут прямо на скатерть, слева от тарелки — никогда в индивидуальную корзинку. Его ломают руками (хлеб не режут ножом за столом, кроме хлеба для тостов). Подбирать остатки соуса кусочком хлеба в конце блюда — один из самых французских жестов — см. урок 2."
       },
       {
-        "theme": "Художественная культура",
+        "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Хлеб в искусстве и культуре",
-        "body": "Хлеб повсеместно присутствует во французском искусстве. **Натюрморты** XVII века часто изображали хлеб как символ изобилия или простоты.\n\nФотограф **Вилли Ронис** запечатлел в 1952 году парижского мальчика, бегущего с багетом под мышкой — одна из самых символичных фотографий Франции XX века.\n\n**В литературе:** Виктор Гюго делает хлеб символом социальной справедливости в «Отверженных» — Жан Вальжан осуждён на каторгу за кражу хлеба.\n\n**Кино:** Почти в каждом французском фильме о повседневной жизни видны персонажи с багетом. Это **культурный маркер**, мгновенно узнаваемый во всём мире как символ Франции."
+        "title": "Хлеб в культурном воображаемом Франции",
+        "body": "Хлеб повсеместен во французской культуре — от народных выражений до произведений искусства. Французский язык изобилует хлебными выражениями: «avoir du pain sur la planche» (дел невпроворот), «ça ne mange pas de pain» (попробовать не мешает), «long comme un jour sans pain» (очень долгий и скучный), «pour une bouchée de pain» (за бесценок). Эти выражения обнажают, насколько глубоко хлеб укоренился во французском мировоззрении.\n\nВ живописи французские **натюрморты** XVII века нередко включают хлеб или багет среди элементов трапезы — символ скромного изобилия и повседневной жизни. **Жан-Батист Симеон Шарден** (1699–1779) написал многочисленные кухонные и столовые сцены, где хлеб занимает центральное место. В XX веке **Сальвадор Дали** (испанец, но испытавший сильное влияние французской культуры) питал маниакальное увлечение хлебом — клал багеты на голову и фотографировался.\n\n**«Гран-При багета французской традиции города Парижа»** — ежегодный конкурс, широко освещаемый в СМИ: он награждает лучший парижский багет. Победитель получает право поставлять хлеб в **Елисейский дворец** на год — и его продажи взлетают. Этот конкурс, учреждённый в 1994 году, стал крупным культурным событием, за которым следят медиа всего мира."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🥖",
-        "title": "Социальные правила вокруг хлеба",
-        "body": "Французский хлеб подчиняется точным социальным кодам, о которых мало где пишут:\n\n**За столом:** Хлеб кладут прямо на скатерть рядом с тарелкой. Не в тарелку. Не на отдельную тарелочку (только в гастрономических ресторанах). Его ломают руками — никогда не режут.\n\n**«Saucer» (вытирать):** Совершенно приемлемо **вытирать соус хлебом** — даже на полуформальных ужинах. Это комплимент повару, не грубость.\n\n**После еды:** Хлеб не выбрасывают. Остатки используют для **pain perdu** («французские тосты»), лукового супа или дают птицам. Расточать хлеб культурно осуждается — наследие веков голода."
+        "title": "Выбрать хлеб: необходимый словарь",
+        "body": "Зайти во французскую булочную без знания словаря чревато сюрпризами. Основные термины:\n\n**Виды багетов:** **«Обычный багет»** («baguette ordinaire» или «courante») — стандартный, дешевле, нередко с добавками, хуже хранится. **«Багет традиции»** («baguette tradition» или «baguette de tradition française») — защищён декретом 1993 года: без добавок, ручная выпечка. Дороже (~1,20 €), но несравненно лучше. **«Фисель»** (ficelle) — более тонкий багет. **«Батар»** (bâtard) — короче и шире.\n\n**Степень выпечки:** Можно попросить **«хорошо пропечённый»** («bien cuite») — золотисто-коричневая хрустящая корочка, менее влажный мякиш (предпочитают на Юге и любители корочки) — или **«не слишком пропечённый»** («pas trop cuite») — более светлая корочка, мягкий мякиш (предпочитают в Париже). Это личный выбор, и булочники всегда его учитывают.\n\n**Другие виды хлеба:** **Деревенский хлеб** (крупная круглая буханка с крупнопористым мякишем, нередко с добавлением ржаной муки) хранится 3–4 дня. **Цельнозерновой хлеб** (мука T80 или T110) плотнее и богаче клетчаткой. **Хлеб на закваске** (естественная ферментация без промышленных дрожжей) — ремесленный хлеб по преимуществу: слегка кисловатый вкус, отличная сохранность.\n\n**Сдобная выпечка (viennoiserie):** Отдельная категория, также продающаяся в булочных: **круассан**, **боль-о-шоколя** (или «chocolatine» на Юго-Западе — национальная дискуссия), **боль-о-рэзен**, **шоссон-о-пом**. Едят на завтрак или полдник — никогда за настоящей трапезой."
       }
     ],
     "conseil_ami": {
-      "title": "Дружеский совет 🤝",
+      "title": "Совет друга 🤝",
       "icon": "💡",
-      "content": "**Хлеб как социальный ключ во Франции.**\n\nКогда вас приглашают на ужин к французам, принести хороший ремесленный багет или красивый деревенский хлеб — жест, который всегда оценят — иногда больше, чем бутылку ординарного вина.\n\nА если хотите «растопить лёд» с вашим булочником — это важные социальные отношения во Франции — начните с вопроса: «Qu'est-ce que vous recommandez aujourd'hui?» («Что вы рекомендуете сегодня?»). Французский булочник говорит о своём хлебе с такой же гордостью, как сомелье о вине. Этот разговор устанавливает доверие, которое принесёт вам самые лучшие кусочки на годы вперёд."
+      "content": "**Научиться покупать хлеб в булочной — один из первых ритуалов интеграции во Франции.** Ничего сложного, но несколько правил.\n\nВсегда говорить **«Bonjour»** при входе — как мы видели в модуле 4, это священно. Затем: «Une baguette tradition, s'il vous plaît» — или добавить «bien cuite», если любите корочку. Если берёте несколько, один конец завернут в бумажный квадратик. Иначе багет просто подают прямо в руки — и совершенно нормально нести его под мышкой.\n\nВажная культурная деталь: **никогда не режьте хлеб электрическим или хлебным ножом на глазах у традиционного французца**. Хлеб ломают руками за столом. Хлебный нож нужен, чтобы нарезать деревенский хлеб для тостов — но не за обеденным столом. Это разграничение может казаться странным, но за ним стоит философия: хлеб живой, его делят руками, а не режут механически."
     },
     "glossary": [
       {
-        "term": "La baguette / Багет",
-        "definition": "Длинный тонкий французский хлеб (~65 см), неотъемлемый символ повседневной жизни."
+        "term": "Багет традиции (baguette tradition)",
+        "definition": "Багет, защищённый декретом 1993 года: только пшеничная мука, вода, соль, дрожжи или закваска — без добавок и заморозки. Выпекается в день продажи. Отличается от «обычного багета» вкусом, корочкой и крупнопористым мякишем."
       },
       {
-        "term": "La baguette de tradition / Традиционный багет",
-        "definition": "Ремесленный багет без добавок, защищённый декретом 1993 года."
+        "term": "Закваска (levain)",
+        "definition": "Естественная ферментация хлеба без промышленных дрожжей — на молочнокислых бактериях, присутствующих в муке и воздухе. Придаёт слегка кисловатый вкус, улучшает хранение и усвояемость. Вернулась в большую моду с 2000-х."
       },
       {
-        "term": "La fournée / Выпечка",
-        "definition": "Все хлеба, испечённые за один раз в печи."
+        "term": "Сдобная выпечка (viennoiserie)",
+        "definition": "Семейство изделий из слоёного или бриошного теста: круассаны, болии-о-шоколя, болии-о-рэзен. Отличается от «хлеба» как такового. Едят на завтрак или полдник."
       },
       {
-        "term": "Saucer son assiette / Вытирать тарелку",
-        "definition": "Вытирать соус хлебом — принятый и даже ценимый жест во Франции."
+        "term": "Деревенский хлеб (pain de campagne)",
+        "definition": "Крупная круглая буханка с неровно-пористым мякишем, нередко из смеси пшеничной и ржаной муки. Хранится 3–4 дня. Символ качественного ремесленного хлеба, переживающего гастрономическое возрождение."
       },
       {
-        "term": "Le levain / Закваска",
-        "definition": "Натуральная ферментация из муки и воды, используемая вместо промышленных дрожжей."
+        "term": "«Декрет о хлебе» 1993 года",
+        "definition": "Французский декрет, определяющий строгий состав «багета французской традиции»: мука, вода, соль, дрожжи/закваска — без добавок и заморозки. Защищает ремесленное хлебопечение от промышленной стандартизации."
       },
       {
-        "term": "Le MOF / МОФ",
-        "definition": "Meilleur Ouvrier de France — официальный государственный титул лучшего ремесленника Франции."
+        "term": "Шоколатин vs боль-о-шоколя",
+        "definition": "Старый региональный спор: на Юго-Западе (Тулуза, Бордо, Страна Басков) сдобу с шоколадом называют «chocolatine». В остальной Франции — «pain au chocolat». Предмет неиссякаемых шуток и источник региональной гордости."
       }
     ],
     "quiz": [
       {
-        "question": "Почему Французская революция 1789 года частично связана с хлебом?",
+        "question": "Что защищает «декрет о хлебе» 1993 года во Франции?",
         "options": [
-          "Французы хотели более вкусного хлеба",
-          "Неурожай и недоступность хлеба вывели народ на улицы",
-          "Король запретил хлеб крестьянам",
-          "Булочники устроили забастовку"
+          "Максимальную цену багета по всей Франции",
+          "Состав «багета французской традиции»: без добавок и заморозки",
+          "Наименование «ремесленная булочная», закреплённое за малыми предприятиями",
+          "Право булочников не работать по воскресеньям"
         ],
         "correct_index": 1,
-        "explanation": "В 1789 году плохой урожай и спекуляция сделали хлеб недоступным. Именно голод в значительной мере спровоцировал Революцию — отсюда символическая важность хлеба во французской культуре."
+        "explanation": "Декрет 1993 года определяет «багет французской традиции»: только пшеничная мука, вода, соль и дрожжи или закваска — без добавок, разрешённых для обычного хлеба, и без заморозки теста. Это отличает «традицию» от промышленного обычного багета и защищает ремесленное хлебопечение."
       },
       {
-        "question": "Что юридически определяет «традиционный французский багет»?",
+        "question": "Какое отличие получил багет в 2022 году?",
         "options": [
-          "Длина ровно 65 см",
-          "Только мука, вода, дрожжи/закваска и соль — без добавок (декрет 1993)",
-          "Производство в Париже",
-          "Цена менее 1 евро"
+          "Европейский лейбл «Продукт терруара»",
+          "Включение в список нематериального культурного наследия ЮНЕСКО",
+          "Защищённое наименование происхождения (AOP)",
+          "Мировая премия в области пищевого ремесла"
         ],
         "correct_index": 1,
-        "explanation": "Декрет «Хлеб» 1993 года строго определяет традиционный багет: вода, пшеничная мука, дрожжи или закваска, соль — без добавок. Никаких улучшителей."
+        "explanation": "В 2022 году традиционный французский багет был внесён в список нематериального культурного наследия ЮНЕСКО — не за рецепт, а за социальный ритуал, который он воплощает: ежедневный поход к булочнику, отношения с ремесленником, совместное преломление хлеба за столом. Признание культурного измерения хлеба во Франции."
       },
       {
-        "question": "В каком году багет был внесён в список наследия ЮНЕСКО?",
+        "question": "Как правильно нести багет, выходя из булочной?",
         "options": [
-          "2010",
-          "2015",
-          "2018",
-          "2022"
-        ],
-        "correct_index": 3,
-        "explanation": "В 2022 году традиционный французский багет был внесён в Список нематериального культурного наследия ЮНЕСКО — за ремесленный жест и социальный ритуал вокруг него, а не просто рецепт."
-      },
-      {
-        "question": "Как правильно есть хлеб за французским столом?",
-        "options": [
-          "Нарезать ломтиками специальным ножом",
-          "Ломать руками и класть прямо на стол рядом с тарелкой",
-          "В отдельную тарелочку для хлеба",
-          "Только с маслом из корзинки"
+          "В закрытом бумажном пакете, чтобы дольше оставался свежим",
+          "Под мышкой в длину, чаще без упаковки",
+          "В руке, держа за середину",
+          "В изотермическом пакете для сохранения корочки"
         ],
         "correct_index": 1,
-        "explanation": "Хлеб ломают руками (никогда не режут) и кладут прямо на стол рядом с тарелкой — не в неё и не на отдельную тарелочку (только в гастрономических ресторанах)."
+        "explanation": "Багет традиционно несут под мышкой в длину, без упаковки — это один из самых узнаваемых образов Франции. Откусить кончик (quignon) по дороге — вполне допустимо. Багет хранится лишь несколько часов, так что защитная упаковка не нужна."
       },
       {
-        "question": "Что означает «saucer son assiette» во Франции?",
+        "question": "Какая разница между «bien cuite» и «pas trop cuite» при заказе багета?",
         "options": [
-          "Грубость, которую нужно избегать",
-          "Добавить соус в тарелку",
-          "Вытирать соус хлебом — принятый и ценимый жест",
-          "Просить соус у официанта"
+          "«Bien cuite» — длиннее, «pas trop cuite» — короче",
+          "«Bien cuite» = золотисто-коричневая хрустящая корочка; «pas trop cuite» = более светлая корочка, мягкий мякиш",
+          "«Bien cuite» соответствует «традиции», «pas trop cuite» — обычному багету",
+          "Это различие применимо только к деревенскому хлебу, не к багетам"
+        ],
+        "correct_index": 1,
+        "explanation": "«Bien cuite» — багет с золотисто-коричневой, очень хрустящей корочкой и менее влажным мякишем, предпочитаемый на Юге и любителями корочки. «Pas trop cuite» («блондин») — светлая корочка и мягкий мякиш, предпочитаемые в Париже. Булочники всегда учитывают этот выбор."
+      },
+      {
+        "question": "В каком регионе Франции говорят «chocolatine» вместо «pain au chocolat»?",
+        "options": [
+          "Бретань и Нормандия",
+          "Эльзас и Лотарингия",
+          "Юго-Запад: Тулуза, Бордо, Страна Басков",
+          "Прованс и Лазурный берег"
         ],
         "correct_index": 2,
-        "explanation": "«Saucer son assiette» — вытирать соус кусочком хлеба — вполне приемлемо во Франции даже на полуформальных ужинах. Это считается комплиментом повару."
+        "explanation": "На Юго-Западе Франции (Тулуза, Бордо, Страна Басков, Гасконь) сдобу с шоколадом называют «chocolatine». В остальной Франции — «pain au chocolat». Этот лингвистический спор стал постоянной общенациональной шуткой и предметом региональной гордости, отстаиваемой с юмором или вполне серьёзно."
       }
     ]
   }

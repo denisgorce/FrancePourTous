@@ -7,272 +7,265 @@
     "estimated_minutes": 12,
     "difficulty": "intermédiaire",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "Élysée — La Constitution de la Ve République",
+        "url": "https://www.elysee.fr/la-presidence/la-constitution"
+      },
+      {
+        "label": "Vie publique — Les institutions françaises",
+        "url": "https://www.vie-publique.fr/fiches/institutions-françaises"
+      },
+      {
+        "label": "Assemblée nationale — Rôle et fonctionnement",
+        "url": "https://www.assemblee-nationale.fr/dyn/decouvrir-l-assemblee"
+      },
+      {
+        "label": "Conseil constitutionnel — Présentation",
+        "url": "https://www.conseil-constitutionnel.fr/le-conseil-constitutionnel/presentation-du-conseil-constitutionnel"
+      }
     ]
   },
   "fr": {
-    "module_title": "La République au Quotidien",
+    "module_title": "La République et l'État",
     "lesson_title": "La Constitution et les Institutions",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : La Constitution et les Institutions. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "L'architecture du pouvoir en France : qui décide quoi, et comment",
+    "intro": "La France est gouvernée selon une Constitution écrite — la loi fondamentale qui définit les règles du jeu politique. La Ve République, en vigueur depuis 1958, a instauré un régime original : ni vraiment présidentiel (comme les États-Unis), ni vraiment parlementaire (comme le Royaume-Uni). Ce régime «semi-présidentiel» donne au Président des pouvoirs étendus tout en maintenant un gouvernement responsable devant le Parlement. Comprendre cette architecture, c'est comprendre pourquoi la politique française peut sembler complexe, voire imprévisible.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**La Constitution et les Institutions** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "Cinq Républiques en deux siècles",
+        "body": "La France a connu **cinq Républiques** depuis 1792, chacune née d'une crise politique majeure. La **Ire République** (1792–1804) naît de la Révolution et finit avec Napoléon Ier. La **IIe République** (1848–1851) dure à peine trois ans avant le coup d'État de Louis-Napoléon Bonaparte. La **IIIe République** (1870–1940) est la plus longue : 70 ans, marqués par l'affaire Dreyfus, la séparation de l'Église et de l'État (1905), et la Première Guerre mondiale — elle s'effondre avec la défaite de 1940. La **IVe République** (1946–1958), avec son régime parlementaire instable (24 gouvernements en 12 ans), s'effondre sur la crise algérienne.\n\nLa **Ve République** naît le **4 octobre 1958**, rédigée sous l'autorité du général **de Gaulle** qui impose sa vision : un exécutif fort pour mettre fin à l'instabilité chronique. La Constitution est approuvée par référendum à 79%. De Gaulle ira plus loin en 1962 : un second référendum établit l'**élection du Président au suffrage universel direct** — réforme qui change définitivement l'équilibre des pouvoirs en faveur de l'Élysée.\n\nLa Constitution de 1958 a été révisée **25 fois** depuis son adoption. La révision la plus importante est celle de **2008** (sous Sarkozy) qui renforce les droits du Parlement, instaure la **Question Prioritaire de Constitutionnalité (QPC)** permettant à tout citoyen de contester la constitutionnalité d'une loi, et limite les mandats présidentiels à deux mandats consécutifs."
       },
       {
-        "theme": "Région",
+        "theme": "Géographie",
         "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
+        "title": "Paris, cœur géographique du pouvoir",
+        "body": "Le pouvoir français est géographiquement très concentré dans un triangle parisien de quelques kilomètres. Le **Palais de l'Élysée** (8e arrondissement, rue du Faubourg Saint-Honoré) est la résidence officielle et le bureau du Président depuis 1873. Ses jardins donnent sur les Champs-Élysées — un symbole voulu.\n\n**Matignon** (7e arrondissement, rue de Varenne) est l'hôtel particulier du Premier ministre depuis 1935. À 1 km de l'Élysée, la proximité physique illustre la dualité de l'exécutif — et facilite les tensions en période de **cohabitation** (quand Président et Premier ministre sont de bords opposés).\n\nLe **Palais Bourbon** (7e arrondissement, quai d'Orsay) abrite l'**Assemblée nationale** depuis 1798. Sa façade néoclassique fait face à la place de la Concorde et à la Madeleine — une mise en scène républicaine. Le **Palais du Luxembourg** (6e arrondissement, jardin du Luxembourg) abrite le **Sénat**. Le **Palais Royal** accueille le **Conseil d'État** et le **Conseil constitutionnel**. En moins de 30 minutes à pied, on peut traverser les centres de décision de toute la République française."
       },
       {
-        "theme": "Politique & Social",
+        "theme": "Politique",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "Le régime semi-présidentiel : comment fonctionne le pouvoir",
+        "body": "La France est une **République semi-présidentielle** — un équilibre subtil entre pouvoir présidentiel et pouvoir parlementaire.\n\n**Le Président de la République** est élu pour **5 ans** (depuis 2000 — avant c'était 7 ans) au suffrage universel direct, en deux tours. Il nomme le Premier ministre, préside le Conseil des ministres, est chef des armées, peut dissoudre l'Assemblée nationale et dispose de l'**article 16** (pouvoirs exceptionnels en cas de crise grave). Il représente la France à l'étranger et ratifie les traités.\n\n**Le Premier ministre** dirige le gouvernement, conduit la politique de la Nation et est responsable devant l'Assemblée nationale qui peut le renverser par une **motion de censure**. En période normale, le Premier ministre exécute la politique du Président ; en période de **cohabitation**, les deux peuvent s'opposer frontalement.\n\n**Le Parlement** est bicaméral : l'**Assemblée nationale** (577 députés, élus pour 5 ans au scrutin uninominal majoritaire à deux tours) vote les lois et peut renverser le gouvernement. Le **Sénat** (348 sénateurs, élus pour 6 ans par des «grands électeurs» — maires, conseillers régionaux...) représente les collectivités territoriales et partage le pouvoir législatif, mais avec moins de poids. En cas de désaccord entre les deux chambres, l'Assemblée nationale a le dernier mot.\n\nLe **Conseil constitutionnel** (9 membres nommés pour 9 ans) veille à la conformité des lois avec la Constitution — il peut censurer une loi votée avant sa promulgation. Depuis la QPC (2010), il peut aussi invalider des lois déjà en vigueur si un citoyen les conteste."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Vie quotidienne",
+        "icon": "🏠",
+        "title": "Les institutions dans la vie quotidienne",
+        "body": "Les institutions françaises ne sont pas abstraites : elles touchent la vie de chaque habitant de façon très concrète. Le **SMIC** est fixé par décret gouvernemental chaque année. Les **allocations familiales** (CAF), le remboursement des soins (Sécurité Sociale), les aides au logement (APL) — tout cela est décidé par des lois votées au Parlement et des décrets pris en Conseil des ministres.\n\nLe **Journal Officiel de la République Française (JORF)** publie chaque jour toutes les lois, décrets et ordonnances. Depuis 2004, il est entièrement dématérialisé. La date de publication au JORF est la date d'entrée en vigueur d'une loi — un citoyen est réputé la connaître dès lors qu'elle y est publiée («nul n'est censé ignorer la loi»).\n\nLe gouvernement dispose d'un outil puissant et controversé : l'**article 49-3** de la Constitution, qui permet au Premier ministre d'adopter un texte de loi **sans vote** de l'Assemblée nationale (sauf si celle-ci vote une motion de censure dans les 24h). Cet article, utilisé notamment pour faire passer la réforme des retraites en 2023, est perçu comme anti-démocratique par ses opposants — mais ses défenseurs y voient un mécanisme de stabilité gouvernementale."
       },
       {
-        "theme": "Culture artistique",
+        "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "title": "Marianne, le coq et les symboles de la République",
+        "body": "La République française est incarnée par des **symboles forts**, présents dans chaque mairie, chaque tribunal, chaque école. **Marianne** est le symbole féminin allégorique de la République depuis la Révolution — son buste orne toutes les mairies. Son visage change régulièrement : Brigitte Bardot l'a inspiré dans les années 1970, Laetitia Casta dans les années 2000. Elle porte le bonnet phrygien rouge, symbole de liberté depuis l'Antiquité.\n\nLa **Marseillaise**, hymne national depuis 1795, est l'une des plus connues au monde. Ses paroles guerrières («Qu'un sang impur abreuve nos sillons !») font régulièrement débat — certains voudraient les adoucir, d'autres y voient l'âme républicaine intacte. **Liberté, Égalité, Fraternité**, inscrit sur tous les bâtiments publics, est la devise depuis 1848.\n\nLe **14 juillet** (fête nationale) est célébré chaque année par le plus grand défilé militaire d'Europe sur les Champs-Élysées, passé en revue par le Président. Ce défilé est retransmis en direct sur toutes les chaînes — une communion nationale annuelle. Le **1er mai** (Fête du Travail), journée chômée et payée, est l'occasion de manifestations syndicales dans toutes les grandes villes — tradition républicaine enracinée depuis 1891."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "title": "Le repas républicain : manger ensemble comme acte politique",
+        "body": "La **table républicaine** a une dimension politique en France. Les grands dîners d'État à l'Élysée sont des événements diplomatiques soigneusement orchestrés : le menu, préparé par le chef étoilé de l'Élysée, est presque toujours composé de produits français régionaux. Servir un plat étranger à un chef d'État serait perçu comme un manque de fierté nationale.\n\nLes **banquets républicains** ont une longue tradition : sous la IIIe République, les «banquets des maires» réunissaient des dizaines de milliers d'élus locaux à Paris — un rite démocratique festif. Aujourd'hui, chaque **14 juillet**, les préfectures organisent des réceptions officielles ouvertes aux citoyens — la République se met à table avec ses administrés.\n\n**Code social lié aux institutions** : en France, le rapport à l'administration est ambivalent. On se plaint beaucoup de la bureaucratie (les Français détestent la «paperasse»), mais on attend aussi de l'État qu'il garantisse tous les droits. Un Russe nouvellement arrivé sera souvent surpris par la quantité de démarches administratives requises pour s'établir — mais aussi par la qualité des services publics (hôpitaux, écoles, transports) une fois ces démarches accomplies. **Conseil pratique** : en France, toujours réclamer un **récépissé** (accusé de réception) lors de tout dépôt de dossier administratif — c'est votre seule preuve opposable en cas de litige."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à La Constitution et les Institutions :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**Les Français ont un rapport très particulier à la politique : tout le monde en parle, personne ne fait confiance aux politiques.** Le niveau de défiance envers les institutions est historiquement élevé en France — et pourtant, la participation électorale reste significative aux grands scrutins (présidentielle, référendums).\n\nSi vous discutez politique avec des Français, attendez-vous à des positions tranchées et exprimées sans retenue — le débat politique est un sport national. Contrairement à la Russie où parler politique avec des inconnus peut être risqué ou tabou, en France c'est souvent une invitation à la conversation.\n\n**Ce qu'il ne faut pas faire** : affirmer que «tous les politiques sont pareils» devant un militant de gauche ou de droite engagé. Et ne pas confondre «le gouvernement» et «l'État» : critiquer le gouvernement est normal et même encouragé ; mais dire du mal de la République en tant que système sera perçu différemment — la République est quasiment sacrée pour beaucoup de Français."
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
+        "term": "La cohabitation",
+        "definition": "Situation où le Président de la République et le Premier ministre appartiennent à des partis politiques opposés — il y en a eu trois sous la Ve République (1986, 1993, 1997)."
       },
       {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
+        "term": "L'article 49-3",
+        "definition": "Disposition constitutionnelle permettant au gouvernement d'adopter une loi sans vote de l'Assemblée nationale, sauf si une motion de censure est déposée dans les 24h."
       },
       {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "term": "La motion de censure",
+        "definition": "Vote de l'Assemblée nationale qui, s'il atteint la majorité absolue, oblige le Premier ministre à démissionner — principal moyen de contrôle parlementaire du gouvernement."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "Le Conseil constitutionnel",
+        "definition": "Institution chargée de vérifier la conformité des lois avec la Constitution — ses 9 membres sont nommés pour 9 ans par le Président, le Président de l'Assemblée et celui du Sénat."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
+        "term": "La QPC",
+        "definition": "Question Prioritaire de Constitutionnalité — mécanisme introduit en 2010 permettant à tout justiciable de contester la constitutionnalité d'une loi lors d'un procès."
       },
       {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "Le Journal Officiel (JORF)",
+        "definition": "Publication quotidienne de l'État français répertoriant toutes les lois, décrets et actes officiels — la date de parution fait foi pour l'entrée en vigueur d'un texte."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «La Constitution et les Institutions» dans la République française ?",
-        "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
-        ],
-        "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
+        "question": "Combien de Républiques la France a-t-elle connues depuis 1792 ?",
+        "options": ["Trois", "Quatre", "Cinq", "Six"],
+        "correct_index": 2,
+        "explanation": "La France a connu cinq Républiques : la Ire (1792–1804), la IIe (1848–1851), la IIIe (1870–1940), la IVe (1946–1958) et la Ve (depuis 1958). Chacune est née d'une crise politique majeure."
       },
       {
-        "question": "En France, la laïcité signifie que...",
+        "question": "Depuis quelle réforme le Président de la République est-il élu au suffrage universel direct ?",
         "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
+          "La Constitution de 1958",
+          "Le référendum de 1962 sous de Gaulle",
+          "La réforme de 2000 qui a réduit le mandat à 5 ans",
+          "La révision constitutionnelle de 2008"
         ],
         "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
+        "explanation": "Jusqu'en 1962, le Président était élu par un collège de grands électeurs. De Gaulle a organisé un référendum en 1962 pour instaurer l'élection directe au suffrage universel — une réforme qui a durablement renforcé la légitimité et les pouvoirs présidentiels."
       },
       {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
+        "question": "Qu'est-ce que l'article 49-3 de la Constitution ?",
         "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "L'article qui permet de dissoudre le Parlement",
+          "L'article qui autorise l'état d'urgence",
+          "L'article permettant au gouvernement d'adopter une loi sans vote de l'Assemblée",
+          "L'article qui définit les pouvoirs du Conseil constitutionnel"
         ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
+        "explanation": "L'article 49-3 permet au Premier ministre d'engager la responsabilité du gouvernement sur un texte, qui est alors adopté sans vote sauf si une motion de censure est déposée et adoptée dans les 24h. Il a notamment été utilisé pour la réforme des retraites de 2023."
       },
       {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
-        "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
-        ],
+        "question": "Combien de sénateurs siègent au Sénat français ?",
+        "options": ["248", "308", "348", "577"],
         "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
+        "explanation": "Le Sénat compte 348 sénateurs, élus pour 6 ans au suffrage indirect par les «grands électeurs» (maires, conseillers régionaux et départementaux, députés). L'Assemblée nationale compte quant à elle 577 députés, élus directement par les citoyens."
       },
       {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
+        "question": "Que représente Marianne, présente dans toutes les mairies françaises ?",
         "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
+          "La déesse romaine de la Justice",
+          "L'allégorie féminine de la République française",
+          "La figure de Jeanne d'Arc modernisée",
+          "Le symbole de la laïcité depuis la loi de 1905"
         ],
         "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "Marianne est l'allégorie féminine de la République française depuis la Révolution. Elle porte le bonnet phrygien, symbole de liberté depuis l'Antiquité. Son buste orne chaque mairie, et son visage est régulièrement actualisé en s'inspirant de personnalités contemporaines."
       }
     ]
   },
   "ru": {
-    "module_title": "Республика в повседневной жизни",
+    "module_title": "Республика и государство",
     "lesson_title": "Конституция и институты",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Конституция и институты. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_subtitle": "Архитектура власти во Франции: кто что решает и как",
+    "intro": "Франция управляется на основе писаной Конституции — основного закона, определяющего правила политической игры. V Республика, действующая с 1958 года, установила оригинальный режим: ни полностью президентский (как в США), ни полностью парламентский (как в Великобритании). Это «полупрезидентское» устройство наделяет Президента широкими полномочиями, сохраняя при этом правительство, ответственное перед Парламентом. Понять эту архитектуру — значит понять, почему французская политика может казаться сложной и непредсказуемой.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Конституция и институты** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "Пять республик за два столетия",
+        "body": "Франция пережила **пять республик** с 1792 года, каждая из которых рождалась в результате крупного политического кризиса. **I Республика** (1792–1804) возникла из Революции и завершилась с приходом Наполеона I. **II Республика** (1848–1851) просуществовала едва три года до государственного переворота Луи-Наполеона Бонапарта. **III Республика** (1870–1940) — самая долгая: 70 лет, отмеченных делом Дрейфуса, отделением церкви от государства (1905) и Первой мировой войной — она рухнула с поражением 1940 года. **IV Республика** (1946–1958), с её нестабильным парламентским режимом (24 правительства за 12 лет), пала на алжирском кризисе.\n\n**V Республика** родилась **4 октября 1958 года**, написанная под руководством генерала **де Голля**, настоявшего на сильной исполнительной власти, чтобы положить конец хронической нестабильности. Конституция была одобрена референдумом с результатом 79%. В 1962 году де Голль пошёл дальше: второй референдум установил **прямые всеобщие выборы Президента** — реформа, окончательно изменившая баланс сил в пользу Елисейского дворца.\n\nКонституция 1958 года пересматривалась **25 раз**. Важнейший пересмотр — **2008 года** (при Саркози): расширение прав Парламента, введение **Приоритетного вопроса конституционности (QPC)**, позволяющего любому гражданину оспорить конституционность закона, и ограничение президентских сроков двумя последовательными мандатами."
       },
       {
-        "theme": "Регион",
+        "theme": "География",
         "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
+        "title": "Париж — географическое сердце власти",
+        "body": "Французская власть географически сосредоточена в парижском треугольнике протяжённостью несколько километров. **Елисейский дворец** (8-й округ, rue du Faubourg Saint-Honoré) — официальная резиденция и рабочий офис Президента с 1873 года. Его сады выходят на Елисейские поля — намеренный символ.\n\n**Матиньон** (7-й округ, rue de Varenne) — особняк Премьер-министра с 1935 года. В 1 км от Елисейского дворца, физическая близость отражает двойственность исполнительной власти — и облегчает противостояние в периоды **сосуществования** (когда Президент и Премьер-министр принадлежат к противоборствующим лагерям).\n\n**Бурбонский дворец** (7-й округ, quai d'Orsay) вмещает **Национальное собрание** с 1798 года. Его неоклассический фасад смотрит на площадь Согласия и Мадлен — республиканская инсценировка. **Люксембургский дворец** (6-й округ, Люксембургский сад) принимает **Сенат**. **Пале-Руайяль** — **Государственный совет** и **Конституционный совет**. Менее чем за 30 минут пешком можно пересечь все центры принятия решений всей Французской Республики."
       },
       {
-        "theme": "Политика и общество",
+        "theme": "Политика",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Полупрезидентский режим: как работает власть",
+        "body": "Франция — **полупрезидентская республика**: тонкий баланс между президентской и парламентской властью.\n\n**Президент Республики** избирается на **5 лет** (с 2000 года — ранее 7 лет) прямым всеобщим голосованием в два тура. Он назначает Премьер-министра, председательствует на Совете министров, является Верховным главнокомандующим, может распустить Национальное собрание и располагает **статьёй 16** (чрезвычайные полномочия в случае тяжёлого кризиса). Он представляет Францию за рубежом и ратифицирует договоры.\n\n**Премьер-министр** руководит правительством, проводит политику Нации и несёт ответственность перед Национальным собранием, которое может его сместить **вотумом недоверия**. В обычное время Премьер-министр выполняет политику Президента; в период **сосуществования** они могут открыто противостоять друг другу.\n\n**Парламент** двухпалатный: **Национальное собрание** (577 депутатов, избранных на 5 лет по мажоритарной системе в два тура) принимает законы и может сместить правительство. **Сенат** (348 сенаторов, избираемых на 6 лет «великими выборщиками» — мэрами, региональными советниками...) представляет территориальные коллективности и разделяет законодательную власть, но с меньшим весом. При разногласии между палатами последнее слово остаётся за Национальным собранием.\n\n**Конституционный совет** (9 членов, назначаемых на 9 лет) следит за соответствием законов Конституции — он может отменить принятый закон до его промulgации. С введением QPC (2010) он также вправе аннулировать уже действующие законы по жалобе граждан."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Повседневная жизнь",
+        "icon": "🏠",
+        "title": "Институты в повседневной жизни",
+        "body": "Французские институты не абстрактны: они касаются жизни каждого жителя совершенно конкретно. **СМИК** (минимальная зарплата) устанавливается правительственным декретом ежегодно. **Семейные пособия** (CAF), компенсация расходов на лечение (Социальное страхование), жилищные субсидии (APL) — всё это определяется законами, принятыми Парламентом, и декретами Совета министров.\n\n**Официальный журнал Французской Республики (JORF)** публикует ежедневно все законы, декреты и официальные акты. С 2004 года он полностью переведён в электронный формат. Дата публикации в JORF — это дата вступления закона в силу: гражданин считается осведомлённым с момента публикации («незнание закона не освобождает от ответственности»).\n\nПравительство располагает мощным и спорным инструментом — **статьёй 49-3** Конституции, позволяющей Премьер-министру принять закон **без голосования** Национального собрания (если только оно не выносит вотум недоверия в течение 24 часов). Эта статья, применённая, в частности, для проведения пенсионной реформы в 2023 году, воспринимается противниками как антидемократическая — хотя её сторонники видят в ней механизм правительственной стабильности."
       },
       {
-        "theme": "Художественная культура",
+        "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "title": "Марианна, петух и символы Республики",
+        "body": "Французская Республика воплощена в **сильных символах**, присутствующих в каждой мэрии, суде, школе. **Марианна** — женский аллегорический символ Республики со времён Революции: её бюст украшает все мэрии. Её облик периодически обновляется: в 1970-х годах прообразом послужила Брижит Бардо, в 2000-х — Летиция Каста. Она носит красный фригийский колпак — символ свободы с античных времён.\n\n**Марсельеза**, ставшая государственным гимном в 1795 году, — одна из самых узнаваемых в мире. Её воинственные слова («Qu'un sang impur abreuve nos sillons!» — «Пусть нечистая кровь напоит наши борозды!») регулярно вызывают дискуссии: одни хотят их смягчить, другие видят в них нетронутую республиканскую душу. **Liberté, Égalité, Fraternité** (Свобода, Равенство, Братство), начертанное на всех общественных зданиях, — девиз с 1848 года.\n\n**14 июля** (национальный праздник) ежегодно отмечается крупнейшим военным парадом Европы на Елисейских полях под председательством Президента. Парад транслируется в прямом эфире на всех каналах — ежегодное национальное единство. **1 мая** (День труда) — нерабочий и оплачиваемый день, когда во всех крупных городах проходят профсоюзные демонстрации — укоренившаяся республиканская традиция с 1891 года."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "title": "Республиканский стол: совместная трапеза как политический акт",
+        "body": "**Республиканский стол** имеет во Франции политическое измерение. Государственные обеды в Елисейском дворце — тщательно выверенные дипломатические события: меню, составленное шеф-поваром со звездой Мишлен, почти всегда строится из французских региональных продуктов. Подать иностранное блюдо главе государства было бы воспринято как отсутствие национальной гордости.\n\n**Республиканские банкеты** имеют долгую традицию: при III Республике «банкеты мэров» собирали в Париже десятки тысяч местных выборных — праздничный демократический ритуал. Сегодня каждое **14 июля** префектуры устраивают официальные приёмы, открытые для граждан — Республика садится за стол со своими жителями.\n\n**Социальный код, связанный с институтами**: во Франции отношение к администрации двойственно. На бюрократию жалуются много (французы ненавидят «бумажную волокиту»), но при этом ждут от государства гарантий всех прав. Россиянин, недавно приехавший во Францию, нередко удивляется количеству административных процедур при обустройстве — но также и качеством государственных услуг (больницы, школы, транспорт) после их прохождения. **Практический совет**: во Франции всегда требуйте **расписку** (подтверждение о получении) при подаче любого административного досье — это ваше единственное доказательство в случае спора."
       }
     ],
     "conseil_ami": {
       "title": "Дружеский совет 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Конституция и институты»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**У французов особое отношение к политике: о ней говорят все, но никто не доверяет политикам.** Уровень недоверия к институтам исторически высок — и всё же явка на важных выборах (президентские, референдумы) остаётся значительной.\n\nЕсли вы обсуждаете политику с французами, ожидайте чётко выраженных позиций — политическая дискуссия здесь национальный спорт. В отличие от России, где говорить о политике с незнакомыми людьми может быть рискованно или табуировано, во Франции это нередко приглашение к разговору.\n\n**Чего не стоит делать**: заявлять «все политики одинаковы» в присутствии убеждённого левого или правого активиста. И не путайте «правительство» и «государство»: критиковать правительство — нормально и даже поощряется; но отзываться плохо о Республике как системе воспримут иначе — Республика для многих французов почти священна."
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "Сосуществование / cohabitation",
+        "definition": "Ситуация, когда Президент Республики и Премьер-министр принадлежат к противоборствующим партиям — при V Республике было три таких периода (1986, 1993, 1997)."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "Статья 49-3",
+        "definition": "Конституционное положение, позволяющее правительству принять закон без голосования Национального собрания, если только в течение 24 часов не будет внесён и принят вотум недоверия."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "Вотум недоверия / motion de censure",
+        "definition": "Голосование Национального собрания, которое при достижении абсолютного большинства обязывает Премьер-министра подать в отставку — главный инструмент парламентского контроля."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "Конституционный совет / Conseil constitutionnel",
+        "definition": "Орган, следящий за соответствием законов Конституции — 9 членов назначаются на 9 лет Президентом, председателями Собрания и Сената."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "QPC — Приоритетный вопрос конституционности",
+        "definition": "Механизм, введённый в 2010 году, позволяющий любому участнику судебного процесса оспорить конституционность действующего закона."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "Официальный журнал (JORF)",
+        "definition": "Ежедневное издание французского государства, публикующее все законы, декреты и официальные акты — дата публикации является датой вступления в силу."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Конституция и институты» во Французской республике?",
-        "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
-        ],
-        "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
+        "question": "Сколько республик сменилось во Франции с 1792 года?",
+        "options": ["Три", "Четыре", "Пять", "Шесть"],
+        "correct_index": 2,
+        "explanation": "Франция пережила пять республик: I (1792–1804), II (1848–1851), III (1870–1940), IV (1946–1958) и V (с 1958 года). Каждая рождалась в результате крупного политического кризиса."
       },
       {
-        "question": "Светскость во Франции означает, что...",
+        "question": "С какой реформы Президент Республики избирается прямым всеобщим голосованием?",
         "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
+          "Конституция 1958 года",
+          "Референдум 1962 года при де Голле",
+          "Реформа 2000 года, сократившая срок до 5 лет",
+          "Конституционный пересмотр 2008 года"
         ],
         "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
+        "explanation": "До 1962 года Президента избирала коллегия выборщиков. Де Голль вынес на референдум введение прямых всеобщих выборов — реформа, устойчиво усилившая президентскую легитимность и полномочия."
       },
       {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
+        "question": "Что такое статья 49-3 Конституции?",
         "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Статья, позволяющая распустить Парламент",
+          "Статья, разрешающая введение чрезвычайного положения",
+          "Статья, позволяющая правительству принять закон без голосования Собрания",
+          "Статья, определяющая полномочия Конституционного совета"
         ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
+        "explanation": "Статья 49-3 позволяет Премьер-министру поставить ответственность правительства под вопрос и принять текст без голосования, если только вотум недоверия не внесён и не принят в течение 24 часов. Она применялась, в частности, при пенсионной реформе 2023 года."
       },
       {
-        "question": "Членом-основателем какой международной организации является Франция?",
-        "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
-        ],
+        "question": "Сколько сенаторов заседает во французском Сенате?",
+        "options": ["248", "308", "348", "577"],
         "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
+        "explanation": "Сенат насчитывает 348 сенаторов, избираемых на 6 лет косвенным голосованием «великими выборщиками» (мэрами, региональными и департаментскими советниками, депутатами). Национальное собрание — 577 депутатов, избираемых напрямую гражданами."
       },
       {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
+        "question": "Что олицетворяет Марианна, присутствующая во всех французских мэриях?",
         "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
+          "Римскую богиню правосудия",
+          "Женскую аллегорию Французской Республики",
+          "Образ Жанны д'Арк в современной интерпретации",
+          "Символ светскости, введённый законом 1905 года"
         ],
         "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "Марианна — женская аллегория Французской Республики со времён Революции. Она носит красный фригийский колпак — символ свободы с античности. Её бюст украшает каждую мэрию, а облик регулярно обновляется по образцу современных знаменитостей."
       }
     ]
   }

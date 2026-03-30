@@ -4,275 +4,280 @@
     "lesson_id": 4,
     "module_icon": "🤝",
     "lesson_icon": "💰",
-    "estimated_minutes": 12,
-    "difficulty": "intermédiaire",
+    "estimated_minutes": 13,
+    "difficulty": "avancé",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "INSEE — Revenus et patrimoine des ménages",
+        "url": "https://www.insee.fr/fr/statistiques"
+      },
+      {
+        "label": "Observatoire des inégalités — France",
+        "url": "https://www.inegalites.fr"
+      }
     ]
   },
   "fr": {
     "module_title": "Les Codes Sociaux Invisibles",
     "lesson_title": "L'Argent : Le Grand Tabou",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : L'Argent : Le Grand Tabou. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "Pourquoi les Français ne parlent jamais de salaire",
+    "intro": "Dans de nombreuses cultures, parler d'argent est normal, voire valorisé. Aux États-Unis, demander le salaire de quelqu'un est une façon de calibrer une carrière. En Russie, afficher sa réussite matérielle est souvent une forme de statut social. En France, l'argent est le tabou absolu des conversations sociales. Demander à quelqu'un combien il gagne est une impolitesse grave. Montrer ostensiblement sa richesse est un marqueur négatif. Cette attitude paradoxale dans un pays capitaliste mérite d'être expliquée — et comprise.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**L'Argent : Le Grand Tabou** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "L'argent entre péché, révolution et égalité",
+        "body": "La relation française à l'argent est façonnée par au moins trois héritages historiques entrelacés. Le premier est **catholique** : pendant des siècles, l'Église catholique a condamné l'usure (le prêt à intérêt) et enseigné que la richesse matérielle pouvait corrompre l'âme. La figure du riche avare — de **Harpagon** dans *L'Avare* de Molière (1668) — est une figure de vice, de ridicule, de condamnation morale. L'argent gagné sans travail (par spéculation, héritage trop ostensible) reste moralement suspect dans l'imaginaire français.\n\nLe deuxième héritage est **révolutionnaire** : en 1789, la Révolution française instaure l'idéal d'**égalité**. L'exhibitionnisme de la richesse aristocratique — ces carrosses dorés, ces banquets pendant que le peuple mourait de faim — a précipité la Révolution. L'inégalité criante, visible, exhibée, est associée dans la mémoire collective française à l'**Ancien Régime**, à l'injustice, à la violence sociale. Montrer sa richesse, c'est risquer d'être perçu comme un aristocrate — et en France, c'est encore une insulte sociale.\n\nLe troisième est **républicain** : la devise **Liberté, Égalité, Fraternité** pose l'égalité non comme une égalité de résultat, mais comme une **égalité de dignité**. Dans l'espace public, tous les citoyens sont égaux — peu importe leur fortune. Cette fiction sociale implique de ne pas afficher les différences de revenus, pour ne pas rompre l'illusion d'égalité. L'argent existe, les inégalités existent — mais on n'en parle pas en société, comme on ne parlerait pas d'une difformité physique de son interlocuteur."
       },
       {
-        "theme": "Région",
+        "theme": "Géographie",
         "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
+        "title": "Richesse visible et invisible selon les régions",
+        "body": "Les attitudes face à l'argent varient selon les régions et les milieux en France. À **Paris**, et plus particulièrement dans les beaux quartiers de l'**Ouest parisien** (16e arrondissement, Neuilly, Versailles, Le Vésinet), règne ce qu'on appelle la **«bourgeoisie discrète»** : des familles très aisées qui habitent des appartements somptueux mais habillent leurs enfants simplement, conduisent des voitures ordinaires, et ne parlent jamais de leurs revenus ni de leur patrimoine. Cette discrétion est une valeur de classe — exhiber sa richesse est «vulgaire», terme français d'élite pour désigner quelque chose de socialement inférieur.\n\nLa **«bourgeoisie bohème»** (les «Bobos», contraction de bourgeois-bohème), née à Paris dans les années 1990, a ajouté une dimension culturelle au tabou de l'argent : dépenser beaucoup est acceptable si c'est pour des choses «authentiques» (vacances à Cuba, café équitable, vélo artisanal, restaurant bistronomique) — pas pour des signes ostensibles de richesse (grosse voiture, montres de luxe visibles). Le «capital culturel» (Bourdieu) compte plus que le capital financier dans ce milieu.\n\nDans les **milieux populaires**, le rapport à l'argent est plus pragmatique : on parle plus volontiers des prix, de ce qu'on gagne ou ne gagne pas, des difficultés de fin de mois. Le tabou est moins fort — mais la pudeur existe aussi. En revanche, dans les **milieux très riches**, la richesse se signale par des codes subtils (qualité des matières, marques discrètes, accès à des cercles privés) plutôt que par des démonstrations ostentatoires."
       },
       {
-        "theme": "Politique & Social",
+        "theme": "Politique",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "Fiscalité, redistribution et rapport à l'État",
+        "body": "La France a le **2e taux de prélèvements obligatoires** parmi les pays de l'OCDE (après le Danemark) : environ **45% du PIB** est prélevé sous forme d'impôts et de cotisations sociales. En échange, l'État offre des services universels : santé, retraite, éducation gratuite de la maternelle au bac, allocations familiales, chômage. Ce **modèle social** est un pacte implicite : on paie beaucoup, mais on est protégé.\n\nL'**impôt sur le revenu** en France est progressif : le taux marginal le plus élevé atteint **45%** pour les revenus supérieurs à environ 168 000 €/an. La **CSG** (Contribution Sociale Généralisée) s'ajoute. L'**IFI** (Impôt sur la Fortune Immobilière, anciennement ISF) frappe les patrimoines immobiliers supérieurs à 1,3 million €. Ces impôts, très élevés par rapport aux standards américains, génèrent parfois des départs de grandes fortunes — l'acteur **Gérard Depardieu** et l'entrepreneur **Bernard Arnault** (LVMH) ont tous deux été impliqués dans des polémiques autour de leur résidence fiscale.\n\nL'**évasion fiscale** est très mal vue en France — plus encore que dans d'autres pays. Non seulement c'est illégal, mais c'est perçu comme une trahison du pacte républicain de solidarité. «Optimiser fiscalement» est une formule polie pour désigner ce qui est moralement questionnable dans l'imaginaire français. C'est pourquoi les révélations de type **«LuxLeaks»** ou **«Panama Papers»** ont provoqué des réactions si virulentes en France."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Vie quotidienne",
+        "icon": "🏠",
+        "title": "Comment parler (ou ne pas parler) d'argent au quotidien",
+        "body": "Voici les situations où le tabou de l'argent se manifeste concrètement, et les formules pour les naviguer :\n\n**Le salaire :** Ne jamais demander «Tu gagnes combien ?» ou «C'est quoi ton salaire ?» — même entre amis. C'est une intrusion dans la sphère privée. Si la question doit être abordée (par exemple pour partager des informations professionnelles), la formule indirecte «Tu es dans quelle fourchette de rémunération ?» est moins intrusive. En entreprise, les salaires sont officiellement secrets entre collègues — même si en pratique les informations circulent.\n\n**Le prix des choses :** Demander le prix d'une maison («Tu l'as payée combien ?»), d'un appartement ou d'une voiture est perçu comme indiscret. En revanche, parler des prix en général («Le marché immobilier est fou dans ce quartier», «Les loyers ont explosé») est parfaitement acceptable — c'est une discussion générale, pas une intrusion personnelle.\n\n**Au restaurant :** L'addition est souvent l'objet d'un ballet délicat. En France, lorsqu'on invite quelqu'un au restaurant, l'hôte paie — systématiquement. «Allons dîner ensemble» dit par la personne qui initie implique qu'elle paiera. Entre amis d'égale condition, on partage souvent l'addition — mais parfois l'un paie et l'autre propose de payer «la prochaine fois». Ne pas proposer de participer à l'addition quand on est invité à un repas de groupe est mal perçu. Proposer de splitter l'addition au centime près (à l'américaine) est parfois jugé mesquin.\n\n**Les cadeaux :** On ne demande jamais le prix d'un cadeau reçu. On ne dit jamais «C'était combien ?» ni «Tu n'aurais pas dû, ça devait coûter cher». On remercie chaleureusement pour la pensée."
       },
       {
-        "theme": "Culture artistique",
+        "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "title": "L'argent dans la littérature et le cinéma français",
+        "body": "L'argent est omniprésent dans la grande littérature française — souvent comme source de malheur, de corruption ou de comédie. **Honoré de Balzac** (1799–1850) est l'écrivain de l'argent par excellence : son œuvre *La Comédie Humaine* (90 romans et nouvelles) est une radiographie de la société bourgeoise française du XIXe siècle, obsédée par la fortune, l'héritage, la dot, les dettes. *Le Père Goriot* (1835) raconte la ruine d'un père qui a tout sacrifié pour la fortune sociale de ses filles — l'argent comme destruction de soi et des autres.\n\n**Émile Zola** (1840–1902) va plus loin : dans *L'Argent* (1891), il décrit l'ascension et la chute d'un spéculateur boursier, montrant comment la finance moderne détruit les individus et les familles. Zola était fasciné et horrifié par le capitalisme financier naissant — un regard que beaucoup de Français contemporains partagent. La **Bourse** (marché boursier) est en France un lieu de méfiance populaire, contrairement à la culture américaine où l'investissement boursier est valorisé comme une forme de participation citoyenne.\n\nAu cinéma, **«The Wolf of Wall Street»** (américain) n'aurait pas pu être fait en France — l'exaltation de l'enrichissement personnel comme objectif de vie n'est pas un récit français. Les films français sur l'argent ont tendance à en montrer les ravages : **«Tanguy»** (2001, de Laurent Charbonnier) illustre la tension entre générations autour de l'argent familial ; **«La Vérité si je mens»** (série) traite du Sentier (quartier du textile parisien) avec une ambivalence caractéristique entre admiration et méfiance pour les réussites commerciales."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "title": "L'argent invisible à table et dans les relations",
+        "body": "Le tabou de l'argent crée des situations sociales spécifiques à la table et dans les relations françaises :\n\n**Le cadeau de qualité vs de prix :** En France, offrir un cadeau «cher» sans goût est inférieur à offrir un cadeau «modeste» mais choisi avec soin. La qualité de la pensée (l'attention, la connaissance des goûts de l'autre) prime sur la valeur financière. Un livre d'occasion soigneusement choisi vaut plus qu'une bouteille de champagne standard. Cette hiérarchie valorise le **capital culturel** sur le capital financier.\n\n**La «quête»** au restaurant de groupe est une danse sociale fine : en France, il est élégant de proposer de payer plus que sa part («non non, je prends l'addition, c'est moi qui avais proposé»), et il est aussi élégant de protester vigoureusement avant d'accepter («non je ne peux pas accepter ça, la prochaine fois c'est moi»). Cette joute de générosité est un rituel — refuser absolument peut sembler blessant pour celui qui veut payer, accepter trop facilement peut sembler profiteur.\n\n**Le vin :**  Quand on apporte une bouteille de vin chez quelqu'un, l'hôte n'est pas obligé de l'ouvrir ce soir-là — il peut la «mettre de côté». La bouteille est une attention, pas nécessairement une consommation immédiate. En revanche, si l'on apporte du vin au restaurant, le **droit de bouchon** (corkage fee) peut être appliqué — renseignez-vous toujours avant.\n\n**Emprunter de l'argent** entre amis est un sujet délicat : les Français préfèrent ne pas mélanger argent et amitié. «L'argent n'a pas d'odeur, mais les prêts entre amis en ont une» est un adage populaire. Si l'emprunt est inévitable, rembourser rapidement — et de façon précise — est primordial pour préserver la relation."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à L'Argent : Le Grand Tabou :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**La règle d'or : en France, ne jamais parler de son salaire ni de son patrimoine — ni en se vantant, ni en se plaignant.** Les deux sont également mal vus.\n\nSe vanter de son salaire («j'ai eu une super augmentation, je gagne maintenant X») crée un malaise : ceux qui gagnent moins se sentent diminués, ceux qui gagnent plus peuvent être agacés. Se plaindre de son salaire («je suis payé une misère») est vu comme une indélicatesse — et si on est vraiment mal payé, on cherche à changer de situation plutôt qu'à en parler en société.\n\nMais attention : ce tabou ne signifie pas que les Français ne pensent pas à l'argent. Au contraire — la question de l'argent est omniprésente dans les angoisses privées. La retraite, l'héritage, les enfants, le logement — ce sont des sujets de préoccupation immenses. Ils sont discutés en famille, avec son notaire, avec son conseiller financier. Mais pas en dîner. Cette séparation entre sphère publique et privée est, comme la laïcité, une valeur française profonde : certaines choses appartiennent à l'intime."
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
-      },
-      {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
-      },
-      {
         "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "definition": "Salaire Minimum Interprofessionnel de Croissance — salaire légal minimum (~1 766 € bruts/mois en 2024). Aucun employeur ne peut payer en dessous. Revalorisé au moins une fois par an selon l'inflation."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "La CSG (Contribution Sociale Généralisée)",
+        "definition": "Prélèvement social sur tous les revenus (travail, capital, prestations sociales), destiné à financer la Sécurité Sociale. Taux principal : 9,2% sur les revenus d'activité. S'ajoute à l'impôt sur le revenu."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
+        "term": "L'IFI (Impôt sur la Fortune Immobilière)",
+        "definition": "Impôt annuel sur les patrimoines immobiliers nets supérieurs à 1,3 million €. Remplace l'ISF (Impôt de Solidarité sur la Fortune) depuis 2018. Seul l'immobilier est concerné, pas le capital financier."
       },
       {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "Le capital culturel",
+        "definition": "Concept du sociologue Pierre Bourdieu : ensemble des savoirs, diplômes, références culturelles qui confèrent un statut social. En France, le capital culturel peut compenser ou même surpasser le capital financier dans les dynamiques sociales."
+      },
+      {
+        "term": "La bourgeoisie discrète",
+        "definition": "Classe aisée française qui cache ostensiblement sa richesse : appartements luxueux mais inaccessibles au regard extérieur, voitures banales, vêtements sans logo. Exhiber la richesse est «vulgaire» dans ce milieu."
+      },
+      {
+        "term": "Vulgaire",
+        "definition": "Dans la bouche des classes supérieures françaises, désigne non pas quelque chose d'obscène, mais quelque chose de socialement inférieur, de mauvais goût, d'ostentatoire. Synonyme approximatif : «nouveau riche»."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «L'Argent : Le Grand Tabou» dans la République française ?",
+        "question": "Pourquoi demander à quelqu'un combien il gagne est-il tabou en France ?",
         "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
+          "Car c'est illégal de divulguer son salaire en France",
+          "Car l'argent est associé à des valeurs négatives (corruption, inégalité) et exhiber les différences rompt l'idéal républicain d'égalité",
+          "Car les Français sont méfiants des impôts et ne veulent pas que l'État le sache",
+          "Car cela crée des jalousies dans un pays où les salaires sont très égaux"
         ],
         "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
+        "explanation": "Le tabou de l'argent vient d'héritages catholiques (l'argent corrompt), révolutionnaires (l'exhibitionnisme de la richesse a causé la Révolution) et républicains (l'égalité de dignité implique de ne pas afficher les inégalités financières). Ce n'est pas une loi, mais une convention sociale profondément ancrée."
       },
       {
-        "question": "En France, la laïcité signifie que...",
+        "question": "Que signifie dire d'un comportement qu'il est «vulgaire» dans les cercles bourgeois français ?",
         "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
+          "Qu'il est obscène ou grossier sur le plan sexuel",
+          "Qu'il manque d'élégance sociale, qu'il est ostentatoire ou de mauvais goût",
+          "Qu'il est populaire et accessible à tous",
+          "Qu'il est caractéristique des cultures étrangères"
         ],
         "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
+        "explanation": "Dans les classes supérieures françaises, «vulgaire» ne désigne pas quelque chose d'obscène, mais quelque chose de socialement inférieur — souvent l'ostentation financière : une grosse montre visible, une voiture de luxe criarde, parler de ses revenus. Le «nouveau riche» qui exhibe sa fortune est le personnage «vulgaire» par excellence."
       },
       {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
+        "question": "En France, quand quelqu'un invite au restaurant, qui paie en général ?",
         "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "On partage toujours l'addition équitablement",
+          "La personne qui a proposé l'invitation paie pour tout le monde",
+          "Chacun paie exactement sa consommation",
+          "La personne la plus âgée paie"
+        ],
+        "correct_index": 1,
+        "explanation": "En France, «allons dîner ensemble» dit par la personne qui initie l'invitation implique qu'elle paiera. C'est une convention sociale forte. Entre amis d'égale condition, on alterne souvent («c'est moi cette fois, tu paieras la prochaine»). Splitter l'addition au centime près est perçu comme mesquin ou très «international»."
+      },
+      {
+        "question": "Qu'est-ce que le «capital culturel» au sens du sociologue Pierre Bourdieu ?",
+        "options": [
+          "L'argent investi dans la culture : musées, livres, concerts",
+          "Les savoirs, diplômes et références culturelles qui confèrent un statut social",
+          "Les subventions de l'État à la culture",
+          "Le patrimoine artistique d'une famille"
+        ],
+        "correct_index": 1,
+        "explanation": "Pierre Bourdieu (1930–2002) a théorisé que le statut social dépend non seulement du capital économique (argent) mais du capital culturel (savoirs, diplômes, références) et du capital social (réseau de relations). En France, le capital culturel — avoir lu Proust, connaître les vins, avoir fait les Grandes Écoles — peut compenser ou surpasser le capital financier."
+      },
+      {
+        "question": "Quel est l'impôt qui pèse sur les grandes fortunes immobilières en France ?",
+        "options": [
+          "La CSG (Contribution Sociale Généralisée)",
+          "L'impôt sur le revenu à taux majoré",
+          "L'IFI (Impôt sur la Fortune Immobilière)",
+          "La taxe foncière majorée"
         ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
-      },
-      {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
-        "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
-        ],
-        "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
-      },
-      {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
-        "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
-        ],
-        "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "L'IFI (Impôt sur la Fortune Immobilière) frappe les patrimoines immobiliers nets supérieurs à 1,3 million €. Il a remplacé l'ISF (Impôt de Solidarité sur la Fortune) en 2018 — l'ISF incluait tous les actifs, l'IFI se concentre sur l'immobilier. La France est l'un des rares pays à taxer spécifiquement les grandes fortunes."
       }
     ]
   },
   "ru": {
     "module_title": "Невидимые социальные коды",
     "lesson_title": "Деньги: великое табу",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Деньги: великое табу. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_subtitle": "Почему французы никогда не говорят о зарплате",
+    "intro": "Во многих культурах говорить о деньгах — нормально и даже престижно. В США спросить чью-то зарплату — способ оценить карьеру. В России демонстрировать материальный успех нередко служит формой социального статуса. Во Франции деньги — абсолютное табу в социальных разговорах. Спросить, сколько кто-то зарабатывает, — серьёзная невежливость. Демонстративно выставлять богатство напоказ — признак плохого вкуса. Это парадоксальное отношение в капиталистической стране заслуживает объяснения — и понимания.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Деньги: великое табу** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "Деньги между грехом, революцией и равенством",
+        "body": "Французское отношение к деньгам сформировано как минимум тремя переплетёнными историческими наследиями. Первое — **католическое**: на протяжении веков католическая церковь осуждала ростовщичество (кредит под проценты) и учила, что материальное богатство способно развратить душу. Фигура богатого скупца — **Гарпагон** из «Скупого» Мольера (1668) — воплощение порока, посмешища, нравственного осуждения. Деньги, нажитые без труда (спекуляция, слишком демонстративное наследство), остаются морально подозрительными во французском коллективном воображаемом.\n\nВторое наследие — **революционное**: в 1789 году Французская революция утвердила идеал **равенства**. Аристократический показной достаток — золочёные кареты, банкеты, пока народ умирал от голода — ускорил Революцию. Кричащее, видимое, выставленное напоказ неравенство ассоциируется во французской коллективной памяти со **Старым режимом**, несправедливостью, социальным насилием. Выставлять богатство напоказ — значит рисковать быть воспринятым как аристократ. А во Франции это по-прежнему социальное оскорбление.\n\nТретье — **республиканское**: девиз **Свобода, Равенство, Братство** провозглашает не равенство результатов, а **равенство достоинства**. В публичном пространстве все граждане равны — вне зависимости от состояния. Эта социальная фикция предполагает не выставлять напоказ различия в доходах, чтобы не разрушать иллюзию равенства. Деньги существуют, неравенство существует — но о них не говорят в обществе, как не говорят о физическом недостатке собеседника."
       },
       {
-        "theme": "Регион",
+        "theme": "География",
         "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
+        "title": "Видимое и невидимое богатство по регионам",
+        "body": "Отношение к деньгам варьируется в зависимости от региона и социальной среды. В **Париже**, особенно в фешенебельных кварталах **западной части** (16-й округ, Нёйи, Версаль, Ле-Везине), царит так называемая **«дискретная буржуазия»**: весьма состоятельные семьи, живущие в роскошных квартирах, но одевающие детей просто, ездящие на обычных машинах и никогда не говорящие о доходах или состоянии. Эта дискретность — классовая ценность: выставлять богатство напоказ «вульгарно» — французский элитарный термин, обозначающий нечто социально низшее.\n\n**«Богемная буржуазия»** (les «Bobos», сокращение от bourgeois-bohème), возникшая в Париже в 1990-х, добавила к денежному табу культурное измерение: тратить много допустимо, если на «аутентичные» вещи (поездка на Кубу, справедливая торговля, крафтовый велосипед, бистрономический ресторан) — но не на показные признаки богатства (дорогие машины, заметные часы класса люкс). «Культурный капитал» (Бурдьё) весит здесь больше, чем финансовый.\n\nВ **рабочей среде** отношение к деньгам более прагматично: о ценах говорят охотнее, откровеннее признаются, что зарабатывают мало или едва сводят концы с концами. Табу здесь слабее, хотя стыдливость тоже есть. В **очень богатой среде** богатство сигнализирует о себе тонкими кодами (качество тканей, дискретные марки, доступ в закрытые клубы), а не демонстративными проявлениями."
       },
       {
-        "theme": "Политика и общество",
+        "theme": "Политика",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Налогообложение, перераспределение и отношение к государству",
+        "body": "Франция занимает **2-е место по уровню обязательных отчислений** среди стран ОЭСР (после Дании): около **45% ВВП** изымается в виде налогов и социальных взносов. Взамен государство предлагает универсальные услуги: здравоохранение, пенсию, бесплатное образование от детского сада до бакалавриата, семейные пособия, пособие по безработице. Эта **социальная модель** — негласный пакт: платишь много, но защищён.\n\n**Подоходный налог** во Франции прогрессивен: максимальная предельная ставка составляет **45%** для доходов свыше примерно 168 000 €/год. К нему прибавляется **CSG** (Вклад в социальное страхование). **IFI** (Налог на недвижимое имущество, бывший ISF) облагает чистое недвижимое имущество стоимостью свыше 1,3 млн €. Эти налоги, очень высокие по американским меркам, порой провоцируют отъезд крупных состояний: актёр **Жерар Депардьё** и предприниматель **Бернар Арно** (LVMH) оба оказывались в центре полемики вокруг их налогового резидентства.\n\n**Уклонение от уплаты налогов** осуждается во Франции сильнее, чем во многих других странах. Это не только незаконно, но и воспринимается как предательство республиканского пакта солидарности. «Оптимизировать налоги» — вежливая формулировка для того, что во французском коллективном воображаемом морально сомнительно. Именно поэтому разоблачения типа **«LuxLeaks»** или **«Panama Papers»** вызвали во Франции столь бурную реакцию."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Повседневная жизнь",
+        "icon": "🏠",
+        "title": "Как говорить (или не говорить) о деньгах в повседневной жизни",
+        "body": "Вот ситуации, в которых денежное табу проявляется конкретно, и формулы для их преодоления:\n\n**Зарплата:** Никогда не спрашивать «Tu gagnes combien ?» («Сколько ты зарабатываешь?») — даже между друзьями. Это вторжение в личную сферу. Если тему нужно затронуть (например, чтобы обменяться профессиональной информацией), менее навязчивая формула: «Tu es dans quelle fourchette de rémunération ?» («В каком диапазоне зарплат ты находишься?»). На работе зарплаты официально являются секретом между коллегами — хотя на практике информация просачивается.\n\n**Цены:** Спрашивать, сколько стоил дом, квартира или машина («Tu l'as payée combien ?») — бестактно. Зато говорить о ценах в целом («Рынок недвижимости в этом квартале сошёл с ума», «Аренда взлетела») — вполне допустимо: это общий разговор, а не личное вторжение.\n\n**В ресторане:** Счёт нередко становится поводом для деликатного ритуала. Во Франции, когда кто-то приглашает в ресторан, хозяин платит — всегда. «Пойдём поужинаем» от того, кто предложил, подразумевает, что он заплатит. Между друзьями с одинаковым достатком чаще делят счёт — или один платит, а другой предлагает «в следующий раз». Не предложить участвовать в счёте при групповом ужине — дурной тон. Делить счёт до цента (по-американски) нередко сочтут скупостью.\n\n**Подарки:** Никогда не спрашивать цену полученного подарка. Никогда не говорить «Сколько это стоило?» или «Не стоило тратиться». Тепло благодарят за внимание."
       },
       {
-        "theme": "Художественная культура",
+        "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "title": "Деньги во французской литературе и кино",
+        "body": "Деньги повсеместны в великой французской литературе — чаще всего как источник несчастья, коррупции или комизма. **Оноре де Бальзак** (1799–1850) — писатель денег по преимуществу: его «Человеческая комедия» (90 романов и рассказов) — рентгеновский снимок французского буржуазного общества XIX века, одержимого состоянием, наследством, приданым, долгами. «Отец Горио» (1835) рассказывает о разорении отца, пожертвовавшего всем ради светского положения своих дочерей: деньги как саморазрушение и разрушение других.\n\n**Эмиль Золя** (1840–1902) идёт ещё дальше: в «Деньгах» (1891) он описывает взлёт и падение биржевого спекулянта, показывая, как современные финансы разрушают людей и семьи. Золя был очарован и ужасён нарождающимся финансовым капитализмом — взгляд, который разделяют многие современные французы. **Биржа** во Франции — место народного недоверия, в отличие от американской культуры, где биржевые инвестиции ценятся как форма гражданского участия.\n\nВ кино **«Волк с Уолл-стрит»** (американский) был бы невозможен во Франции — воспевание личного обогащения как жизненной цели — не французский нарратив. Французские фильмы о деньгах склонны показывать их разрушительную силу: **«Тангюй»** (2001) иллюстрирует межпоколенческую напряжённость вокруг семейных денег; серия **«La Vérité si je mens»** рассматривает парижское текстильное ателье с характерной для Франции двойственностью — восхищением и недоверием к коммерческому успеху."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "title": "Невидимые деньги за столом и в отношениях",
+        "body": "Денежное табу порождает специфические социальные ситуации за французским столом и в отношениях:\n\n**Качественный подарок vs дорогой подарок:** Во Франции подарить «дорогую», но безвкусную вещь хуже, чем преподнести «скромную», но тщательно выбранную. Качество замысла (внимание, знание вкусов другого) важнее финансовой стоимости. Букинистическая книга, старательно подобранная, ценнее стандартной бутылки шампанского. Эта иерархия ставит **культурный капитал** выше финансового.\n\n**Оплата счёта** в ресторане при компании — тонкий социальный танец: элегантно предложить заплатить больше своей доли («нет-нет, я беру счёт, это я предложил»), и столь же элегантно энергично воспротивиться, прежде чем согласиться («нет, я не могу принять, в следующий раз моя очередь»). Эта дуэль щедрости — ритуал: отказать наотрез тому, кто хочет заплатить, обидно; слишком легко согласиться — значит казаться пользующимся чужой добротой.\n\n**Вино:** Когда приносишь бутылку вина в гости, хозяин не обязан открывать её в тот же вечер — он может «отложить на потом». Бутылка — знак внимания, не обязательно немедленное угощение. Зато если нести вино в ресторан, может взиматься **дroit de bouchon** (плата за откупоривание) — заранее уточните.\n\n**Одалживать деньги** друзьям — деликатная тема: французы предпочитают не смешивать деньги с дружбой. «У денег нет запаха, но у долгов между друзьями он есть» — народная мудрость. Если занять всё же необходимо, быстро и точно вернуть долг — первостепенно для сохранения отношений."
       }
     ],
     "conseil_ami": {
-      "title": "Дружеский совет 🤝",
+      "title": "Совет друга 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Деньги: великое табу»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**Золотое правило: во Франции никогда не говорить о своей зарплате или состоянии — ни хвастаясь, ни жалуясь.** И то, и другое одинаково неуместно.\n\nХвастаться зарплатой («Мне хорошо повысили, теперь я зарабатываю X») создаёт дискомфорт: те, кто зарабатывает меньше, чувствуют себя ущемлёнными; те, кто зарабатывает больше, могут раздражиться. Жаловаться на зарплату («Мне платят копейки») воспринимается как бестактность — и если человек и правда плохо оплачивается, предполагается, что он ищет выход, а не обсуждает это за ужином.\n\nОднако осторожно: это табу не означает, что французы не думают о деньгах. Напротив — денежный вопрос повсеместно присутствует в частных тревогах. Пенсия, наследство, дети, жильё — колоссальные поводы для беспокойства. Они обсуждаются в семье, с нотариусом, с финансовым советником. Но не за ужином. Это разделение между публичной и частной сферой — такая же глубокая французская ценность, как и светскость: некоторые вещи принадлежат интимному."
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "МРОТ (SMIC)",
+        "definition": "Salaire Minimum Interprofessionnel de Croissance — законодательный минимум оплаты труда (~1 766 € брутто/мес. в 2024 году). Ни один работодатель не может платить ниже. Пересматривается не реже раза в год по инфляции."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "CSG (Взнос в социальное страхование)",
+        "definition": "Социальный взнос со всех видов доходов (труд, капитал, социальные выплаты), предназначенный для финансирования системы социального страхования. Основная ставка: 9,2% от доходов от деятельности. Прибавляется к подоходному налогу."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "IFI (Налог на недвижимое имущество)",
+        "definition": "Ежегодный налог на чистое недвижимое имущество стоимостью свыше 1,3 млн €. Заменил ISF (Налог на солидарное состояние) в 2018 году. Касается только недвижимости, а не финансового капитала."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "Культурный капитал",
+        "definition": "Концепция социолога Пьера Бурдьё: совокупность знаний, дипломов, культурных референций, дающих социальный статус. Во Франции культурный капитал может компенсировать или даже превосходить финансовый в социальной динамике."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "Дискретная буржуазия",
+        "definition": "Состоятельный французский класс, намеренно скрывающий богатство: роскошные квартиры, недоступные постороннему взгляду, обычные машины, одежда без логотипов. Выставлять богатство напоказ в этой среде «вульгарно»."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "Вульгарный (vulgaire)",
+        "definition": "В устах высших классов Франции — не непристойный, а социально низший, безвкусный, кричащий. Синоним примерно: «нувориш». Применяется к тем, кто демонстративно выставляет богатство напоказ."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Деньги: великое табу» во Французской республике?",
+        "question": "Почему во Франции спрашивать, сколько кто-то зарабатывает, является табу?",
         "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
+          "Потому что во Франции запрещено раскрывать свою зарплату",
+          "Потому что деньги ассоциируются с негативными ценностями и выставлять различия напоказ противоречит республиканскому идеалу равенства",
+          "Потому что французы боятся налогов и не хотят, чтобы государство об этом узнало",
+          "Потому что это вызывает зависть в стране с очень равными зарплатами"
         ],
         "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
+        "explanation": "Денежное табу восходит к католическому наследию (деньги развращают), революционному (показной достаток привёл к Революции) и республиканскому (равенство достоинства предполагает не выставлять финансовое неравенство напоказ). Это не закон, а глубоко укоренившаяся социальная конвенция."
       },
       {
-        "question": "Светскость во Франции означает, что...",
+        "question": "Что означает назвать поведение «вульгарным» в буржуазных французских кругах?",
         "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
+          "Что оно непристойно или грубо в сексуальном плане",
+          "Что оно социально низко, кричаще или безвкусно",
+          "Что оно народно и доступно для всех",
+          "Что оно характерно для иностранных культур"
         ],
         "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
+        "explanation": "В высших классах Франции «вульгарный» означает не непристойный, а социально низший — чаще всего применительно к показному богатству: заметные дорогие часы, кричащая роскошная машина, разговоры о доходах. «Нувориш», выставляющий состояние напоказ, — воплощение «вульгарного» персонажа."
       },
       {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
+        "question": "Во Франции, когда кто-то приглашает в ресторан, кто, как правило, платит?",
         "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Всегда делят счёт поровну",
+          "Тот, кто предложил приглашение, платит за всех",
+          "Каждый платит точно за себя",
+          "Платит самый старший"
+        ],
+        "correct_index": 1,
+        "explanation": "Во Франции фраза «Пойдём поужинаем» от того, кто инициирует приглашение, подразумевает, что он заплатит. Это сильная социальная конвенция. Между друзьями с одинаковым достатком часто чередуются («на этот раз я, ты — в следующий»). Делить счёт до цента воспринимается как скупость или слишком «международный» подход."
+      },
+      {
+        "question": "Что такое «культурный капитал» в понимании социолога Пьера Бурдьё?",
+        "options": [
+          "Деньги, вложенные в культуру: музеи, книги, концерты",
+          "Знания, дипломы и культурные референции, дающие социальный статус",
+          "Государственные субсидии на культуру",
+          "Художественное наследие семьи"
+        ],
+        "correct_index": 1,
+        "explanation": "Пьер Бурдьё (1930–2002) разработал теорию, согласно которой социальный статус определяется не только экономическим капиталом (деньги), но и культурным (знания, дипломы, референции) и социальным (сеть связей). Во Франции культурный капитал — читать Пруста, разбираться в винах, окончить Grandes Écoles — способен компенсировать или превосходить финансовый."
+      },
+      {
+        "question": "Какой налог во Франции облагает крупные имущественные состояния в недвижимости?",
+        "options": [
+          "CSG (Взнос в социальное страхование)",
+          "Подоходный налог по повышенной ставке",
+          "IFI (Налог на недвижимое имущество)",
+          "Повышенный налог на недвижимость"
         ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
-      },
-      {
-        "question": "Членом-основателем какой международной организации является Франция?",
-        "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
-        ],
-        "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
-      },
-      {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
-        "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
-        ],
-        "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "IFI (Налог на недвижимое имущество) облагает чистое недвижимое имущество стоимостью свыше 1,3 млн €. Он заменил ISF (Налог на солидарное состояние) в 2018 году — ISF охватывал все активы, IFI сосредоточен на недвижимости. Франция — одна из немногих стран, специально облагающих крупные состояния налогом."
       }
     ]
   }

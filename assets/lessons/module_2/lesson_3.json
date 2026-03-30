@@ -3,276 +3,285 @@
     "module_id": 2,
     "lesson_id": 3,
     "module_icon": "🗺️",
-    "lesson_icon": "🌊",
-    "estimated_minutes": 12,
+    "lesson_icon": "🍷",
+    "estimated_minutes": 13,
     "difficulty": "intermédiaire",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "Bordeaux Tourisme — Histoire et patrimoine",
+        "url": "https://www.bordeaux-tourisme.com"
+      },
+      {
+        "label": "Toulouse Métropole — Airbus et aéronautique",
+        "url": "https://www.toulouse-metropole.fr"
+      },
+      {
+        "label": "CIVB — Conseil Interprofessionnel du Vin de Bordeaux",
+        "url": "https://www.bordeaux.com"
+      }
     ]
   },
   "fr": {
-    "module_title": "La France et ses Régions",
+    "module_title": "Paris et ses Régions",
     "lesson_title": "Sud-Ouest : Bordeaux, Toulouse",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : Sud-Ouest : Bordeaux, Toulouse. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "Vins, aéronautique et art de vivre gascon",
+    "intro": "Le Sud-Ouest français est une région de contrastes fascinants : des vignobles de Bordeaux classés à l'UNESCO aux usines Airbus de Toulouse, de la préhistoire de Lascaux aux vagues de surf de l'Atlantique. C'est aussi la France de la «douceur de vivre» — un tempo plus lent, des marchés colorés, une gastronomie généreuse et des paysages qui vont des Landes interminables aux Pyrénées enneigées. Deux capitales régionales incarnent cet art de vivre : **Bordeaux**, élégante et viticole ; **Toulouse**, solaire et technologique.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**Sud-Ouest : Bordeaux, Toulouse** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "Aliénor d'Aquitaine, Cathares et Gascogne",
+        "body": "Le Sud-Ouest porte l'une des histoires les plus riches de France. La **Guyenne** (ancien nom de l'Aquitaine) fut anglaise pendant trois siècles, suite au mariage d'**Aliénor d'Aquitaine** (1122–1204) avec le roi d'Angleterre Henri II Plantagenêt en 1152. Ce lien explique pourquoi Bordeaux exporta ses vins vers l'Angleterre — une tradition commerciale qui fit la fortune de la ville. La guerre de Cent Ans (1337–1453) se conclut avec le retour de la Guyenne dans le giron français, après la bataille de Castillon (1453).\n\nLe Sud-Ouest fut aussi le théâtre de la **Croisade des Albigeois** (1209–1229), l'une des plus sombres pages de l'histoire médiévale française. Le pape Innocent III lança une croisade contre les **Cathares** — une secte chrétienne hérétique très implantée en Languedoc (région de Toulouse). Le massacre de Béziers (1209) — où 20 000 personnes furent tuées — reste un traumatisme mémoriel. L'Inquisition s'installa ensuite dans la région pour extirper l'hérésie, laissant une défiance durable envers le pouvoir central.\n\nLa **Gascogne** (pays de Gascogne, autour d'Auch et d'Agen) a donné à la France l'un de ses héros littéraires les plus aimés : **D'Artagnan**, le mousquetaire du roman d'Alexandre Dumas, inspiré du vrai Charles de Batz (1611–1673). Toulouse, surnommée la «Ville Rose» pour ses briques en terre cuite, fut l'une des plus grandes villes de France au Moyen Âge et un centre intellectuel majeur avec son université (fondée en 1229)."
       },
       {
-        "theme": "Région",
+        "theme": "Géographie",
         "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
+        "title": "Gironde, Landes et Pyrénées",
+        "body": "Le Sud-Ouest est une région de grande diversité géographique. L'**estuaire de la Gironde** — le plus grand d'Europe occidentale — baigne les vignobles de Bordeaux sur ses deux rives : les **Médoc** et **Saint-Émilion** (rive gauche), les vins de **Pomerol** et **Fronsac** (rive droite). La ville de Bordeaux s'étend sur la rive gauche de la **Garonne**.\n\nAu sud de Bordeaux s'étendent les **Landes** — la plus grande forêt artificielle d'Europe : 1 million d'hectares de pins maritimes plantés au XIXe siècle pour assécher les marécages et stabiliser les dunes côtières. Cette forêt landes forme aujourd'hui un poumon vert et abrite certaines des plus grandes **vagues de surf atlantiques** (Hossegor, Lacanau, Capbreton) qui attirent les surfeurs du monde entier.\n\nÀ l'est et au sud, les **Pyrénées** forment une barrière naturelle de 430 km entre la France et l'Espagne. La frontière francoespagnole ne compte que quelques cols et tunnels routiers — le tunnel du **Somport** et le tunnel de la **Bonaigua**. **Lourdes** (65 km au sud de Tarbes) est le plus grand site de pèlerinage catholique d'Europe occidentale, recevant 6 millions de pèlerins par an. Le **Pays Basque** et la **Navarre** occupent l'extrémité occidentale des Pyrénées — une région qui transcende la frontière franco-espagnole avec sa propre langue (l'euskara), sa culture et son identité vigoureuse."
       },
       {
-        "theme": "Politique & Social",
+        "theme": "Politique",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "Nouvelle-Aquitaine et Occitanie",
+        "body": "La réforme territoriale de 2016 a créé deux grandes régions dans le Sud-Ouest. La **Nouvelle-Aquitaine** (chef-lieu Bordeaux) est la plus grande région de France par la superficie (84 000 km²) — plus grande que l'Autriche. Elle regroupe l'ancienne Aquitaine, le Limousin et le Poitou-Charentes. Son président **Alain Rousset** (PS) représente une région à tradition socialiste héritée du mouvement ouvrier des années de plomb.\n\n**L'Occitanie** (chef-lieu Toulouse) regroupe l'ancien Languedoc-Roussillon et Midi-Pyrénées. Toulouse en est la véritable métropole, avec 800 000 habitants dans l'agglomération. La région doit son nom à la langue d'oc (l'occitan), la langue romane médiévale qui était la langue de la poésie des troubadours et qui résiste encore dans certains villages. Le mouvement régionaliste occitan, jamais séparatiste comme son équivalent catalan ou basque, milite pour la reconnaissance culturelle et linguistique.\n\nLe **Pays Basque** français (Pyrénées-Atlantiques, intégré à la Nouvelle-Aquitaine) entretient des liens étroits avec le Pays Basque espagnol. Contrairement à l'ETA (organisation armée espagnole), le mouvement indépendantiste basque français est pacifique mais actif politiquement. La ville de **Bayonne** est la capitale administrative du Pays Basque français."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Vie quotidienne",
+        "icon": "🏠",
+        "title": "Bordeaux branchée et Toulouse aéronautique",
+        "body": "**Bordeaux** a vécu une renaissance spectaculaire depuis les années 2000. Longtemps ville bourgeoise et un peu endormie, elle est devenue l'une des villes les plus attractives de France, notamment pour les jeunes actifs et les Parisiens en quête d'un meilleur rapport qualité de vie / coût. Son centre historique est classé **UNESCO** en 2007. La **Cité du Vin**, musée interactif ouvert en 2016, reçoit 400 000 visiteurs par an. Le tramway, inauguré en 2003, a transformé la mobilité urbaine.\n\n**Toulouse** est la métropole de l'aéronautique mondiale. Le siège mondial d'**Airbus** est à Blagnac (banlieue de Toulouse). La ville produit les **Airbus A320, A350 et A380** — un avion sort d'usine toutes les quelques heures. L'industrie aéronautique et spatiale emploie plus de **90 000 personnes** dans l'agglomération (CNES, Thales Alenia Space, Safran, ATR). Toulouse est aussi le siège du centre spatial européen, ce qui lui vaut le surnom de «Ville des étoiles».\n\nLe **surf** est un art de vivre dans les Landes : Hossegor accueille chaque année le **Quiksilver Pro France**, une compétition de surf élite. La côte Atlantique est parsemée de campings, pistes cyclables et marchés de producteurs. La vie dans les villages landais et basques tourne autour de la place centrale, de la *pelote basque* (sport national basque) et des fêtes locales — notamment les fêtes de **Bayonne** en juillet, qui rassemblent 1 million de personnes."
       },
       {
-        "theme": "Culture artistique",
+        "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "title": "Lascaux, architecture bordeaux et patrimoine gascon",
+        "body": "Le Sud-Ouest est la région de la **préhistoire** en France. La **grotte de Lascaux** (Dordogne), découverte en 1940, abrite les plus belles peintures rupestres du monde : 600 peintures et 1 500 gravures datant de **17 000 ans**. La grotte originale est fermée au public depuis 1963 (pour préserver les peintures de l'humidité et du CO2 humain), mais **Lascaux IV** — une réplique ultra-fidèle ouverte en 2016 — permet de les découvrir dans tous leurs détails. La Vézère — la «Vallée de l'Homme» — compte 25 sites préhistoriques classés UNESCO.\n\n**Bordeaux** est une ville d'architecture néoclassique homogène, construite aux XVIIe et XVIIIe siècles grâce à la richesse du commerce viticole et colonial. La **place de la Bourse**, avec son «Miroir d'Eau» (le plus grand miroir d'eau du monde, 3 450 m²), est l'image emblématique de la ville. Le **Grand Théâtre de Bordeaux** (1780) inspira les architectes de l'Opéra Garnier de Paris. La ville compte également le **musée d'Aquitaine** et le **CAPC** (musée d'art contemporain).\n\nToulouse possède la **basilique Saint-Sernin**, la plus grande église romane d'Europe (XIe–XIIe siècle), et le **couvent des Jacobins** (XIIIe siècle), chef-d'œuvre du gothique méridional. Le peintre **Henri de Toulouse-Lautrec** (1864–1901), né à Albi, capture la vie parisienne de Montmartre mais appartient profondément à la culture occitane. **Albi** (son musée-monument est classé UNESCO) mérite une journée complète."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "title": "Foie gras, vins de Bordeaux et cassoulet",
+        "body": "Le Sud-Ouest est sans doute la région gastronomique la plus généreuse de France. Son produit phare : le **foie gras** — foie de canard ou d'oie gras par gavage. Le «foie gras de canard du Sud-Ouest» est une **Indication Géographique Protégée** (IGP). Il se consomme chaud (poêlé, en escalope) ou froid (en terrine, en entrée avec un verre de Sauternes, vin liquoreux). Le gavage reste controversé hors de France — mais en France, le foie gras est inscrit au «patrimoine gastronomique et culturel de la France» depuis 2005.\n\nLes **vins de Bordeaux** sont parmi les plus réputés au monde. Le classement de **1855**, établi par Napoléon III pour l'Exposition Universelle, hiérarchise les **châteaux** (domaines viticoles) en 5 «crus classés». Les grands noms — **Margaux, Pauillac, Saint-Julien, Pomerol, Saint-Émilion** — sont connus dans le monde entier. Un grand Bordeaux se boit souvent après 10 à 20 ans de vieillissement. La visite de **Saint-Émilion** — village médiéval classé UNESCO entouré de vignes — est indispensable.\n\nLe **cassoulet** (originaire de Castelnaudary, entre Carcassonne et Toulouse) est le plat d'hiver par excellence du Languedoc : haricots blancs mijotés avec confit de canard, saucisse de Toulouse et couenne de porc. Une querelle millénaire existe entre les villes de Castelnaudary, Carcassonne et Toulouse sur la «vraie» recette — un délicieux feuilleton culinaire français. Le **confit de canard** (cuisse de canard confite dans sa propre graisse) et les **magrets** (filets de canard) complètent ce tableau."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à Sud-Ouest : Bordeaux, Toulouse :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**Dans le Sud-Ouest, la convivialité n'est pas une option — c'est un mode de vie.** On «apéritife» facilement, on invite à la dernière minute, on débouche une bouteille sans cérémonie. Refuser un verre de vin proposé par un vigneron bordelais ou un Gascon peut être perçu comme une offense légère — un «non, merci, je ne bois pas» doit être accompagné d'une explication souriante.\n\nSur le vin : **ne faites jamais semblant d'y connaître plus que vous ne savez.** Les Bordelais peuvent être très pointus sur les millésimes et les terroirs. Mieux vaut dire honnêtement «je débute» — c'est une invitation à la pédagogie, pas à la condescendance. Et si l'on vous dit «c'est un *grand* Bordeaux», prenez le temps d'apprécier les arômes avant de boire d'un trait.\n\nÀ Toulouse, la culture aéronautique crée un rapport particulier à la technologie et à l'innovation : les Toulousains sont fiers de «fabriquer les avions du monde». Si vous y travaillez dans une industrie tech, c'est un excellent terrain commun pour lier connaissance."
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
+        "term": "Le foie gras",
+        "definition": "Foie de canard ou d'oie engraissé par gavage. Spécialité du Sud-Ouest inscrite au patrimoine gastronomique français. Se consomme poêlé (chaud) ou en terrine (froid)."
       },
       {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
+        "term": "Le cru classé",
+        "definition": "Classement officiel des domaines viticoles de Bordeaux établi en 1855 sur 5 niveaux. Les «premiers grands crus classés» (Margaux, Latour, Haut-Brion, Lafite, Mouton Rothschild) sont les vins les plus chers du monde."
       },
       {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "term": "Le cassoulet",
+        "definition": "Plat du Languedoc-Roussillon : haricots blancs mijotés avec confit de canard, saucisse de Toulouse et couenne. Originaire de Castelnaudary, il est l'objet d'une dispute gastronomique légendaire entre villes du Sud-Ouest."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "La pelote basque",
+        "definition": "Sport national basque pratiqué dans une fronton (mur de pierre), consistant à lancer une balle à la main ou à la chistera (panier recourbé). Jeu de vitesse et d'adresse, spectacle incontournable au Pays Basque."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
+        "term": "La Cité du Vin",
+        "definition": "Musée interactif du vin inauguré à Bordeaux en 2016, consacré aux civilisations du vin dans le monde. Sa forme ondulante évoque le vin dans le verre. 400 000 visiteurs/an."
       },
       {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "La Nouvelle-Aquitaine",
+        "definition": "Plus grande région de France (84 000 km²), née en 2016 de la fusion de l'Aquitaine, du Limousin et du Poitou-Charentes. Chef-lieu : Bordeaux."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «Sud-Ouest : Bordeaux, Toulouse» dans la République française ?",
+        "question": "Quel mariage au XIIe siècle rattacha l'Aquitaine à l'Angleterre pour trois siècles ?",
         "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
+          "Le mariage de Marie de Médicis avec Henri IV",
+          "Le mariage d'Aliénor d'Aquitaine avec Henri II Plantagenêt",
+          "Le mariage d'Anne de Bretagne avec Louis XII",
+          "Le mariage de Marguerite de Valois avec Henri de Navarre"
         ],
         "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
+        "explanation": "En 1152, Aliénor d'Aquitaine, héritière des terres du Sud-Ouest, épouse le roi d'Angleterre Henri II Plantagenêt. L'Aquitaine (incluant Bordeaux) devient anglaise pendant 3 siècles — ce qui explique le commerce viticole traditionnel avec l'Angleterre et la guerre de Cent Ans."
       },
       {
-        "question": "En France, la laïcité signifie que...",
+        "question": "Quelle grande entreprise a son siège mondial à Toulouse et fabrique des avions commerciaux ?",
         "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
-        ],
-        "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
-      },
-      {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Boeing",
+          "Dassault Aviation",
+          "Airbus",
+          "Safran"
         ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
+        "explanation": "Airbus, le constructeur aéronautique européen, a son siège mondial à Blagnac (Toulouse). L'agglomération toulousaine concentre 90 000 emplois dans l'aéronautique et le spatial (CNES, Thales Alenia Space, ATR). L'A320, l'A350 et feu l'A380 y sont ou y étaient assemblés."
       },
       {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
+        "question": "La grotte de Lascaux, en Dordogne, est célèbre pour quoi ?",
         "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
-        ],
-        "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
-      },
-      {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
-        "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
+          "Ses cristaux géants formés il y a 1 million d'années",
+          "Ses peintures rupestres vieilles de 17 000 ans, parmi les plus belles du monde",
+          "La découverte du premier squelette d'Homo sapiens en France",
+          "Son réseau souterrain de 30 km ouvert aux spéléologues"
         ],
         "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "Découverte en 1940, Lascaux abrite 600 peintures et 1 500 gravures datant de 17 000 ans. C'est le plus remarquable exemple d'art pariétal du paléolithique supérieur. La grotte originale est fermée depuis 1963 pour la préserver ; Lascaux IV (2016) en est la réplique fidèle."
+      },
+      {
+        "question": "Qu'est-ce que le cassoulet ?",
+        "options": [
+          "Un gâteau occitan à base d'amandes",
+          "Un ragoût de haricots blancs avec canard confit et saucisse de Toulouse",
+          "Un vin rouge produit dans l'Aude",
+          "Un fromage de brebis des Pyrénées"
+        ],
+        "correct_index": 1,
+        "explanation": "Le cassoulet est un plat mijoté de haricots blancs avec confit de canard, saucisse de Toulouse et couenne de porc. Originaire de Castelnaudary (Aude), il est l'objet d'une rivalité gastronomique légendaire entre Castelnaudary, Carcassonne et Toulouse — chaque ville revendiquant la «vraie» recette."
+      },
+      {
+        "question": "Que signifie «cru classé» dans le contexte des vins de Bordeaux ?",
+        "options": [
+          "Un vin produit entièrement à la main sans machine",
+          "Un vin issu de vignes centenaires",
+          "Un domaine viticole classé officiellement selon une hiérarchie de qualité établie en 1855",
+          "Un vin exporté exclusivement hors de France"
+        ],
+        "correct_index": 2,
+        "explanation": "Le classement de 1855, commandé par Napoléon III, hiérarchise les châteaux bordelais du Médoc en 5 niveaux (de 1er à 5e cru classé). Il est toujours en vigueur aujourd'hui. Les 5 «premiers grands crus» — Margaux, Latour, Lafite, Mouton Rothschild, Haut-Brion — sont parmi les vins les plus chers et les plus recherchés du monde."
       }
     ]
   },
   "ru": {
-    "module_title": "Франция и её регионы",
+    "module_title": "Париж и регионы",
     "lesson_title": "Юго-Запад: Бордо, Тулуза",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Юго-Запад: Бордо, Тулуза. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_subtitle": "Вина, авиастроение и гасконское искусство жить",
+    "intro": "Юго-Запад Франции — регион захватывающих контрастов: виноградники Бордо, внесённые в список ЮНЕСКО, соседствуют с заводами Airbus в Тулузе; первобытная Ласко — с атлантическими волнами для сёрфинга. Это ещё и Франция «дольче вита» — более медленный ритм, красочные рынки, щедрая кухня, пейзажи от бескрайних Ланд до заснеженных Пиренеев. Два региональных центра воплощают этот образ жизни: **Бордо** — элегантный и виноградный; **Тулуза** — солнечная и технологичная.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Юго-Запад: Бордо, Тулуза** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "Алиенора Аквитанская, катары и Гасконь",
+        "body": "Юго-Запад хранит одну из богатейших историй Франции. **Гиень** (старое название Аквитании) три века была английской — после того как **Алиенора Аквитанская** (1122–1204) в 1152 году вышла замуж за короля Англии Генриха II Плантагенета. Именно этим объясняется, почему Бордо экспортировал свои вина в Англию — торговая традиция, составившая основу богатства города. Столетняя война (1337–1453) завершилась возвращением Гиени под французскую корону после битвы при Кастийоне (1453).\n\nЮго-Запад стал ареной **Альбигойского крестового похода** (1209–1229) — одной из мрачнейших страниц французского Средневековья. Папа Иннокентий III организовал крестовый поход против **катаров** — христианской еретической секты, укоренившейся в Лангедоке (район Тулузы). Резня в Безье (1209), унёсшая 20 000 жизней, остаётся незаживающей исторической травмой. Инквизиция обосновалась в регионе, чтобы искоренить ересь, оставив устойчивое недоверие к центральной власти.\n\n**Гасконь** (земля вокруг Оша и Ажена) подарила Франции одного из самых любимых литературных героев — **Д'Артаньяна**, мушкетёра из романа Александра Дюма, навеянного реальным Шарлем де Батцем (1611–1673). Тулуза, прозванная «Розовым городом» за терракотовые кирпичные фасады, была одним из крупнейших городов Средневековой Франции и ведущим интеллектуальным центром с университетом (основан в 1229 году)."
       },
       {
-        "theme": "Регион",
+        "theme": "География",
         "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
+        "title": "Жиронда, Ланды и Пиренеи",
+        "body": "Юго-Запад отличается большим географическим разнообразием. **Эстуарий Жиронды** — крупнейший в Западной Европе — омывает виноградники Бордо на обоих берегах: **Медок** и **Сент-Эмильон** (левый берег), вина **Помероля** и **Фронсака** (правый берег). Сам Бордо расположен на левом берегу **Гаронны**.\n\nК югу от Бордо раскинулись **Ланды** — крупнейший искусственный лес Европы: 1 миллион гектаров приморских сосен, посаженных в XIX веке для осушения болот и укрепления прибрежных дюн. Этот ландский лес сегодня — зелёные лёгкие региона, а несколько атлантических курортов (Оссегор, Лаканo, Капбретон) привлекают сёрферов со всего мира благодаря мощным океанским волнам.\n\nНа востоке и юге **Пиренеи** образуют естественный барьер длиной 430 км между Францией и Испанией. На французско-испанской границе — лишь несколько перевалов и автодорожных тоннелей. **Лурд** (65 км к югу от Тарба) — крупнейшее место католического паломничества в Западной Европе: 6 миллионов паломников в год. **Страна Басков** и **Наварра** занимают западную оконечность Пиренеев — регион, который существует по обе стороны франко-испанской границы, со своим языком (эускара), культурой и живой идентичностью."
       },
       {
-        "theme": "Политика и общество",
+        "theme": "Политика",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Новая Аквитания и Окситания",
+        "body": "Территориальная реформа 2016 года создала на Юго-Западе два крупных региона. **Новая Аквитания** (административный центр Бордо) — самый большой регион Франции по площади (84 000 км²), больше Австрии. Она объединила бывшие Аквитанию, Лимузен и Пуату-Шаранту. Регион имеет социалистические традиции, унаследованные от рабочего движения.\n\n**Окситания** (административный центр Тулуза) объединила бывшие Лангедок-Руссильон и Юг-Пиренеи. Тулуза — настоящая метрополия с 800 000 жителей в агломерации. Название региона происходит от языка ок (окситанский) — средневекового романского языка, языка поэзии трубадуров, который ещё теплится в некоторых деревнях. Окситанское регионалистское движение, никогда не бывшее сепаратистским в отличие от каталонского или баскского, добивается культурного и языкового признания.\n\n**Французская Страна Басков** (Атлантические Пиренеи, в составе Новой Аквитании) поддерживает тесные связи с испанской Страной Басков. В отличие от ЭТА (испанской вооружённой организации), французское баскское независимое движение действует мирными политическими методами. **Байонна** — административная столица французской Страны Басков."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Повседневная жизнь",
+        "icon": "🏠",
+        "title": "Модный Бордо и авиационная Тулуза",
+        "body": "**Бордо** пережил впечатляющее возрождение с 2000-х годов. Долгое время буржуазный и немного сонный, он стал одним из самых привлекательных городов Франции — особенно для молодых специалистов и парижан, ищущих лучшего соотношения качества жизни и стоимости. Его исторический центр внесён в список **ЮНЕСКО** в 2007 году. **Cité du Vin** — интерактивный музей вина, открытый в 2016 году, — принимает 400 000 посетителей в год. Трамвай, пущенный в 2003 году, преобразил городской транспорт.\n\n**Тулуза** — мировая метрополия авиастроения. Штаб-квартира **Airbus** расположена в Бланьяке (пригород Тулузы). Здесь производятся **A320, A350 и A380** — самолёт сходит со сборочной линии каждые несколько часов. Авиакосмическая промышленность обеспечивает более **90 000 рабочих мест** в агломерации (CNES, Thales Alenia Space, Safran, ATR). Тулуза также является штаб-квартирой европейского космического центра, за что её называют «Городом звёзд».\n\n**Сёрфинг** в Ландах — это образ жизни: в Оссегоре ежегодно проходит **Quiksilver Pro France** — соревнование элитных сёрферов. Атлантическое побережье усеяно кемпингами, велодорожками и фермерскими рынками. Жизнь в ландских и баскских деревнях вращается вокруг центральной площади, *пелоты баскской* (национальной баскской игры) и местных праздников — особенно **Байоннской фиесты** в июле, собирающей миллион человек."
       },
       {
-        "theme": "Художественная культура",
+        "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "title": "Ласко, бордоская архитектура и гасконское наследие",
+        "body": "Юго-Запад — главный регион первобытной истории во Франции. **Пещера Ласко** (Дордонь), открытая в 1940 году, хранит прекраснейшие наскальные рисунки мира: 600 изображений и 1 500 гравюр возрастом **17 000 лет**. Оригинальная пещера закрыта для посетителей с 1963 года (для сохранения рисунков от влажности и углекислого газа), но **Ласко IV** — ультраточная копия, открытая в 2016 году, — позволяет увидеть их во всех деталях. Долина Везер — «Долина человека» — насчитывает 25 доисторических объектов, внесённых в список ЮНЕСКО.\n\n**Бордо** — город однородной неоклассической архитектуры, выстроенной в XVII–XVIII веках на богатства виноградного и колониального торговли. **Площадь Биржи** с её «Водным зеркалом» (крупнейшим в мире — 3 450 м²) — визитная карточка города. **Большой театр Бордо** (1780) вдохновил архитекторов парижской Оперы Гарнье. В городе также есть **Музей Аквитании** и **CAPC** (музей современного искусства).\n\nВ Тулузе — **базилика Сен-Серне**, крупнейшая романская церковь Европы (XI–XII вв.), и **монастырь Якобинцев** (XIII в.) — шедевр южной готики. Художник **Анри де Тулуз-Лотрек** (1864–1901), родившийся в Альби, запечатлел парижскую жизнь Монмартра, но глубоко принадлежит окситанской культуре. **Альби** с его музеем-памятником, внесённым в список ЮНЕСКО, заслуживает целого дня посещения."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "title": "Фуа-гра, бордоские вина и кассуле",
+        "body": "Юго-Запад, пожалуй, — самый щедрый гастрономический регион Франции. Его главный продукт — **фуа-гра**: печень откормленной принудительным кормлением утки или гуся. «Фуа-гра утки Юго-Запада» имеет статус **Защищённого географического указания** (IGP). Употребляется горячим (жареным, в виде эскалопа) или холодным (в виде террина, как закуска с бокалом Сотерна — сладкого белого вина). Гаваж (принудительное кормление) остаётся спорным вне Франции, но во Франции фуа-гра с 2005 года входит в «гастрономическое и культурное наследие страны».\n\n**Вина Бордо** входят в число самых престижных в мире. Классификация **1855 года**, утверждённая Наполеоном III для Всемирной выставки, иерархически распределяет **шато** (винодельческие хозяйства) на 5 «классифицированных крю». Великие имена — **Марго, Пойяк, Сен-Жюльен, Помероль, Сент-Эмильон** — известны во всём мире. Великое бордоское вино пьют нередко после 10–20 лет выдержки. Посещение **Сент-Эмильона** — средневековой деревушки, внесённой в список ЮНЕСКО и окружённой виноградниками, — обязательно.\n\n**Кассуле** (родом из Кастельнодари, между Каркассоном и Тулузой) — главное зимнее блюдо Лангедока: белая фасоль, тушённая с утиным конфи, тулузской колбасой и свиной шкуркой. Многовековой спор между городами Кастельнодари, Каркассон и Тулуза о «настоящем» рецепте — один из самых восхитительных кулинарных фельетонов Франции. **Конфи из утки** (утиное бедро, томлённое в собственном жиру) и **маgре** (утиные грудки) дополняют эту картину."
       }
     ],
     "conseil_ami": {
-      "title": "Дружеский совет 🤝",
+      "title": "Совет друга 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Юго-Запад: Бордо, Тулуза»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**На Юго-Западе гостеприимство — не привычка, а образ жизни.** Здесь легко выпивают аперитив, приглашают спонтанно, откупоривают бутылку без церемоний. Отказаться от бокала вина, предложенного виноделом Бордо или гасконцем, — лёгкая обида: «нет, спасибо, я не пью» должно сопровождаться добродушным объяснением.\n\nО вине: **никогда не притворяйтесь, что знаете больше, чем знаете.** Бордосцы могут быть очень придирчивы к урожаям и терруарам. Лучше честно сказать «я только начинаю» — это приглашение к объяснению, а не к снисхождению. А если вам говорят «это великое Бордо» — возьмите паузу, чтобы почувствовать аромат, прежде чем выпить залпом.\n\nВ Тулузе авиационная культура создаёт особое отношение к технологиям и инновациям: тулузцы гордятся тем, что «строят самолёты для всего мира». Если вы работаете в технологической отрасли, это отличная почва для знакомства."
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "Фуа-гра",
+        "definition": "Печень утки или гуся, откормленного принудительным кормлением. Деликатес Юго-Запада, внесённый в гастрономическое наследие Франции. Подаётся жареным (горячим) или в виде террина (холодным)."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "Классифицированное крю (cru classé)",
+        "definition": "Официальная классификация бордоских винодельческих хозяйств, установленная в 1855 году по 5 уровням. «Первые великие классифицированные крю» (Марго, Латур, О-Брион, Лафит, Мутон Ротшильд) — самые дорогие вина мира."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "Кассуле",
+        "definition": "Блюдо Лангедок-Руссильона: белая фасоль, тушённая с утиным конфи, тулузской колбасой и свиной шкуркой. Родом из Кастельнодари; предмет легендарного кулинарного спора между городами Юго-Запада."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "Пелота баскская",
+        "definition": "Национальная баскская игра: мяч бросают рукой или чистерой (плетёной корзинкой) о стену (фронтон). Игра скорости и ловкости, обязательное зрелище в Стране Басков."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "Сите дю Вен (Cité du Vin)",
+        "definition": "Интерактивный музей вина, открытый в Бордо в 2016 году, посвящённый цивилизациям вина во всём мире. Его волнообразная форма напоминает вино в бокале. 400 000 посетителей в год."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "Новая Аквитания",
+        "definition": "Крупнейший регион Франции по площади (84 000 км²), созданный в 2016 году путём слияния Аквитании, Лимузена и Пуату-Шаранту. Административный центр: Бордо."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Юго-Запад: Бордо, Тулуза» во Французской республике?",
+        "question": "Какой брак в XII веке присоединил Аквитанию к Англии на три века?",
         "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
+          "Брак Марии Медичи с Генрихом IV",
+          "Брак Алиеноры Аквитанской с Генрихом II Плантагенетом",
+          "Брак Анны Бретонской с Людовиком XII",
+          "Брак Маргариты Валуа с Генрихом Наваррским"
         ],
         "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
+        "explanation": "В 1152 году Алиенора Аквитанская, наследница земель Юго-Запада, вышла замуж за короля Англии Генриха II Плантагенета. Аквитания (включая Бордо) стала английской на 3 века — этим объясняется традиционная торговля вином с Англией и Столетняя война."
       },
       {
-        "question": "Светскость во Франции означает, что...",
+        "question": "Штаб-квартира какой крупной компании находится в Тулузе и производит гражданские самолёты?",
         "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
-        ],
-        "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
-      },
-      {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Boeing",
+          "Dassault Aviation",
+          "Airbus",
+          "Safran"
         ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
+        "explanation": "Мировая штаб-квартира Airbus, европейского авиапроизводителя, находится в Бланьяке (Тулуза). Тулузская агломерация концентрирует 90 000 рабочих мест в авиакосмической отрасли (CNES, Thales Alenia Space, ATR). Здесь собираются A320, A350 и бывший A380."
       },
       {
-        "question": "Членом-основателем какой международной организации является Франция?",
+        "question": "Чем знаменита пещера Ласко в Дордони?",
         "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
-        ],
-        "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
-      },
-      {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
-        "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
+          "Гигантскими кристаллами, образовавшимися миллион лет назад",
+          "Наскальными рисунками возрастом 17 000 лет — одними из прекраснейших в мире",
+          "Первым в Франции скелетом Homo sapiens",
+          "Подземным лабиринтом длиной 30 км, открытым для спелеологов"
         ],
         "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "Открытая в 1940 году пещера Ласко хранит 600 изображений и 1 500 гравюр возрастом 17 000 лет. Это самый замечательный образец пещерного искусства верхнего палеолита. Оригинальная пещера закрыта с 1963 года для её сохранения; Ласко IV (2016) — точная копия."
+      },
+      {
+        "question": "Что такое кассуле?",
+        "options": [
+          "Окситанский миндальный пирог",
+          "Рагу из белой фасоли с утиным конфи и тулузской колбасой",
+          "Красное вино, производимое в Оде",
+          "Овечий сыр из Пиренеев"
+        ],
+        "correct_index": 1,
+        "explanation": "Кассуле — тушёное блюдо из белой фасоли с утиным конфи, тулузской колбасой и свиной шкуркой. Родом из Кастельнодари (Од), оно является предметом легендарного кулинарного соперничества между Кастельнодари, Каркассоном и Тулузой — каждый город претендует на «настоящий» рецепт."
+      },
+      {
+        "question": "Что означает «крю классе» применительно к винам Бордо?",
+        "options": [
+          "Вино, произведённое исключительно вручную, без машин",
+          "Вино из столетних лоз",
+          "Официально классифицированное по иерархии качества хозяйство, установленной в 1855 году",
+          "Вино, экспортируемое исключительно за рубеж"
+        ],
+        "correct_index": 2,
+        "explanation": "Классификация 1855 года, заказанная Наполеоном III, распределяет бордоские шато Медока по 5 уровням (от 1-го до 5-го классифицированного крю). Она действует и сегодня. Пять «первых великих крю» — Марго, Латур, Лафит, Мутон Ротшильд, О-Брион — одни из самых дорогих и востребованных вин мира."
       }
     ]
   }

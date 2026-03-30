@@ -3,276 +3,275 @@
     "module_id": 5,
     "lesson_id": 2,
     "module_icon": "💼",
-    "lesson_icon": "⏰",
+    "lesson_icon": "⏱️",
     "estimated_minutes": 12,
     "difficulty": "intermédiaire",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "Service-public.fr — Durée du travail et congés",
+        "url": "https://www.service-public.fr/particuliers/vosdroits/N458"
+      },
+      {
+        "label": "Ministère du Travail — Les 35 heures",
+        "url": "https://www.travail-emploi.gouv.fr/droit-du-travail/temps-de-travail"
+      },
+      {
+        "label": "Legifrance — Code du travail, congés payés",
+        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006178014"
+      }
     ]
   },
   "fr": {
-    "module_title": "Travailler et Entreprendre",
+    "module_title": "Travailler en France",
     "lesson_title": "35h, Congés et Droits des Salariés",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : 35h, Congés et Droits des Salariés. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "Les droits sociaux du salarié français : durée du travail, congés, protection et syndicats",
+    "intro": "Le salarié français est l'un des plus protégés du monde occidental — et souvent l'un des plus ignorants de ses propres droits. La semaine de 35 heures, les 5 semaines de congés payés, la protection contre le licenciement abusif, les syndicats puissants : autant d'acquis sociaux conquistadors qui structurent la vie au travail en France. Cette leçon décrypte ce que ces droits signifient concrètement, comment ils fonctionnent au quotidien, et pourquoi leur défense déclenche régulièrement des conflits sociaux majeurs.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**35h, Congés et Droits des Salariés** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "La conquête des droits sociaux : un siècle de luttes",
+        "body": "Les droits des salariés français sont le fruit d'un siècle de **luttes sociales** jalonnées de grands moments historiques. En **1841**, la première loi ouvrière interdit le travail des enfants de moins de 8 ans dans les usines — une réforme timide qui illustre l'ampleur de l'exploitation de l'époque. En **1864**, le droit de grève est légalisé (jusqu'alors, se mettre en grève était un délit pénalement réprimé).\n\nLe **Front Populaire de 1936** marque le tournant majeur : congés payés, semaine de 40 heures, élection de délégués du personnel. Puis mai **1968** — la plus grande grève de l'histoire française (10 millions de grévistes) — débouche sur les **Accords de Grenelle** : hausse de 25% du SMIC, reconnaissance des syndicats dans l'entreprise, mensualisation des salaires.\n\nLa **loi Aubry** de **1998** instaure la semaine de **35 heures**, objectif déclaré de partager le travail pour réduire le chômage. Cette réforme reste la plus controversée du droit du travail français : défenseurs (elle améliore la qualité de vie, réduit la fatigue) et adversaires (elle alourdit les coûts, réduit la compétitivité) s'affrontent encore 25 ans après. En pratique, les 35h ne signifient pas que les Français travaillent toujours 35h — les heures supplémentaires sont légales et très pratiquées, surtout dans les cadres et les PME."
       },
       {
-        "theme": "Région",
+        "theme": "Géographie",
         "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
+        "title": "Les inégalités de droits selon les secteurs et les territoires",
+        "body": "Les droits des salariés ne sont pas identiques dans tous les secteurs. Les **conventions collectives** (accords négociés par branche entre syndicats et patronat) complètent le Code du travail avec des droits supplémentaires propres à chaque secteur. La convention collective du **bâtiment** diffère de celle des **hôtels-cafés-restaurants** (HCR) ou de la **métallurgie** — et un salarié doit savoir à quelle convention il est soumis.\n\nLes **cadres** (environ 30% des actifs en France) ont un statut particulier : ils sont soumis à des **forfaits jours** (214 jours travaillés par an, sans horaire journalier fixe) plutôt qu'à la limite des 35h. En contrepartie, leurs salaires sont plus élevés et ils bénéficient souvent de **RTT** (Réduction du Temps de Travail) — des jours de congé supplémentaires compensant leur disponibilité. Le terme «cadre» en France est un statut social fort, bien au-delà d'une simple position hiérarchique.\n\nLes **travailleurs indépendants** (auto-entrepreneurs, freelances) — environ 4 millions en France — ne bénéficient d'aucune des protections du Code du travail : pas de congés payés automatiques, pas d'allocations chômage en cas d'arrêt d'activité (sauf depuis la réforme de 2019 qui a ouvert partiellement ce droit), pas de représentation syndicale. Cette croissance du travail indépendant (poussée par les plateformes numériques — Uber, Deliveroo...) est l'un des grands défis du droit social français."
       },
       {
-        "theme": "Politique & Social",
+        "theme": "Politique",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "Les syndicats français et le dialogue social",
+        "body": "La France a l'un des taux de **syndicalisation** les plus bas des pays développés : seulement **8% des salariés** sont syndiqués (contre 60-70% dans les pays scandinaves). Paradoxalement, les syndicats français restent très puissants : ils sont reconnus comme interlocuteurs obligatoires du patronat et de l'État, siègent dans les conseils d'administration des organismes sociaux (Unédic, Sécurité Sociale, AGIRC-ARRCO pour les retraites complémentaires) et peuvent déclencher des grèves qui paralysent le pays.\n\nLes **cinq syndicats représentatifs** au niveau national sont la **CGT** (Confédération Générale du Travail, historiquement proche du PCF, combative), la **CFDT** (Confédération Française Démocratique du Travail, réformiste et social-démocrate, première en termes de représentativité depuis 2017), **FO** (Force Ouvrière, indépendante, attachée à la négociation), la **CFE-CGC** (pour les cadres) et la **CFTC** (d'inspiration chrétienne). Le **MEDEF** est l'organisation patronale principale.\n\nLe **dialogue social** français fonctionne sur le modèle de la négociation collective : à chaque réforme sociale importante (retraites, assurance chômage, formation professionnelle), le gouvernement est censé «concerter» avec les partenaires sociaux. Cette concertation peut déboucher sur un accord — ou sur une impasse et une grève. La **réforme des retraites de 2023** a illustré l'impasse : après un dialogue de sourds, le gouvernement a utilisé le 49-3 pour passer la réforme, déclenchant des mois de mobilisations."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Vie quotidienne",
+        "icon": "🏠",
+        "title": "Les droits concrets du salarié : de l'embauche au licenciement",
+        "body": "**À l'embauche**, tout salarié reçoit un **contrat de travail écrit** (obligatoire pour les CDD, fortement recommandé pour les CDI). La **période d'essai** est de 2 mois pour les employés, 3 mois pour les agents de maîtrise, 4 mois pour les cadres (renouvelable une fois). Pendant cette période, les deux parties peuvent rompre le contrat sans justification ni indemnité (sauf délai de prévenance).\n\n**La fiche de paie** (bulletin de salaire) est un document complexe que beaucoup de Français ne savent pas lire. Elle détaille le salaire brut, les **cotisations salariales** (environ 22% du brut pour les non-cadres), le **salaire net** (ce que vous recevez), et les cotisations patronales (environ 42% du brut, à la charge de l'employeur). Le **salaire net** représente environ 77-78% du brut pour un salarié non-cadre.\n\n**En cas de licenciement**, l'employeur doit respecter une procédure stricte : convocation à un entretien préalable, notification par lettre recommandée avec motif précis, respect du préavis (1 à 3 mois selon l'ancienneté et la catégorie). Une **indemnité légale de licenciement** est due après 8 mois d'ancienneté (1/4 de mois de salaire par année jusqu'à 10 ans). Le licenciement **sans cause réelle et sérieuse** (abusif) peut être contesté aux **Prud'hommes** — juridiction spécialisée dans les litiges du travail, composée paritairement de représentants des salariés et des employeurs."
       },
       {
-        "theme": "Culture artistique",
+        "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "title": "La grève, art national français",
+        "body": "La **grève** est en France bien plus qu'un outil de revendication syndicale : c'est une institution culturelle, presque un art de vivre politique. La France est le pays européen où le nombre de **journées de grève par salarié** est parmi les plus élevés — notamment dans la fonction publique (transports, éducation).\n\nLes **grandes grèves** ont marqué l'histoire politique française au même titre que les élections : mai **1968** (grève générale), **1995** (grèves contre le plan Juppé sur les retraites qui dure trois semaines et paralyse le pays), **2003** (retraites encore), **2010**, **2019-2020** (retraites de Macron), **2023** (retraites à nouveau). Cette répétition sur le même thème des retraites illustre l'impossibilité de réformer ce sujet sans confrontation sociale.\n\nCette culture de la grève a une dimension presque **théâtrale** : les syndicats annoncent les préavis des semaines à l'avance, les médias font des projections d'impact, les usagers s'organisent pour anticiper les perturbations. La grève dans les transports est un événement médiatique autant que social — et les Français, tout en se plaignant, l'acceptent comme le prix de la démocratie sociale. Un Russe fraîchement arrivé sera généralement stupéfait de cette tolérance culturelle pour la perturbation organisée."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "title": "La pause déjeuner et les rituels du temps de travail",
+        "body": "La **pause déjeuner** est un droit légal en France : tout salarié dont la durée de travail quotidienne dépasse 6 heures a droit à une pause de **20 minutes minimum** — dans la pratique, la plupart des conventions collectives prévoient une heure. Cette pause est généralement **non rémunérée**.\n\nLe **restaurant d'entreprise** (ou «cantine») est une institution des grandes entreprises françaises. L'employeur contribue financièrement au repas — soit via un restaurant d'entreprise subventionné (où l'employé paie environ 3-5€ pour un repas complet), soit via des **tickets-restaurant** (la participation de l'employeur est exonérée de charges sociales jusqu'à un certain plafond, environ 7€ par jour en 2024). Les tickets-restaurant sont acceptés dans la plupart des restaurants et de nombreux commerces alimentaires.\n\n**Le rapport au temps au travail** est l'un des domaines où les Français se distinguent le plus. La **ponctualité** est attendue mais avec une tolérance de 5-10 minutes dans la plupart des secteurs (hors réunions importantes). Les **emails professionnels après 20h** sont de moins en moins bien vus depuis la loi sur le **droit à la déconnexion** (2017) qui oblige les entreprises de plus de 50 salariés à négocier des règles sur les communications hors temps de travail. Ce droit, pionnier en Europe, reflète la valeur accordée à la séparation entre vie professionnelle et vie privée — une valeur très française."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à 35h, Congés et Droits des Salariés :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**Les droits des salariés en France sont nombreux — mais ils ne se défendent pas seuls.** Beaucoup de salariés (français ou étrangers) ne connaissent pas leurs droits et ne les invoquent jamais. La clé, c'est de savoir où chercher l'information.\n\n**En cas de litige avec votre employeur**, la première démarche est de contacter un **délégué syndical** ou un **représentant du personnel** dans votre entreprise (ils sont élus dans toutes les entreprises de plus de 11 salariés). Leur rôle est précisément de vous informer et de vous défendre — gratuitement.\n\n**Si vous êtes seul**, contactez le **Conseil de prud'hommes** de votre département — la consultation initiale est gratuite et les délégués conseillers peuvent vous orienter. Pour les étrangers, les **permanences juridiques gratuites** des Maisons de Justice et du Droit (MJD) sont une ressource précieuse.\n\n**Point culturel important** : en France, se syndiquer (adhérer à un syndicat) n'est pas un acte militant anodin — cela peut être perçu par l'employeur comme une déclaration de défiance, même si la loi interdit toute discrimination syndicale. Dans les grandes entreprises, la présence syndicale est banalisée. Dans les PME, un salarié qui se syndique peut effectivement être mal vu — une réalité que la loi ne peut pas toujours effacer."
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
+        "term": "Les 35 heures",
+        "definition": "Durée légale hebdomadaire du travail en France depuis la loi Aubry de 1998 — les heures au-delà sont des heures supplémentaires majorées. Ne s'applique pas aux cadres au forfait jours."
       },
       {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
+        "term": "Les RTT",
+        "definition": "Réduction du Temps de Travail — jours de congé supplémentaires accordés aux salariés (souvent les cadres) dont la durée de travail réelle dépasse les 35h hebdomadaires légales."
       },
       {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "term": "La fiche de paie",
+        "definition": "Bulletin de salaire mensuel obligatoire détaillant le salaire brut, les cotisations salariales et patronales, et le salaire net versé — document à conserver sans limitation de durée."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "Les Prud'hommes",
+        "definition": "Juridiction spécialisée dans les litiges individuels du travail (licenciements abusifs, harcèlement, non-paiement de salaires...), composée à parité de représentants des salariés et des employeurs."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
+        "term": "Le ticket-restaurant",
+        "definition": "Titre de paiement co-financé par l'employeur et le salarié permettant de régler des repas dans les restaurants et certains commerces — la part employeur est exonérée de charges sociales."
       },
       {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "Le droit à la déconnexion",
+        "definition": "Droit instauré par la loi Travail de 2017 garantissant aux salariés le droit de ne pas être joignables en dehors des heures de travail — pionnier en Europe, il oblige les entreprises de plus de 50 salariés à négocier des règles sur le sujet."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «35h, Congés et Droits des Salariés» dans la République française ?",
+        "question": "Quelle loi a instauré les 35 heures en France et en quelle année ?",
         "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
+          "La loi de Gaulle en 1958",
+          "La loi Aubry en 1998",
+          "La loi Mitterrand en 1981",
+          "La loi Macron en 2017"
         ],
         "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
+        "explanation": "La loi Aubry (du nom de la ministre du Travail Martine Aubry) a instauré la semaine de 35 heures en 1998, avec une mise en application progressive selon la taille des entreprises. Son objectif déclaré était de «partager le travail» pour réduire le chômage — un résultat resté très débattu."
       },
       {
-        "question": "En France, la laïcité signifie que...",
+        "question": "Qu'est-ce qu'un forfait jours pour les cadres en France ?",
         "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
+          "Un contrat à durée déterminée de 365 jours",
+          "Un système où le cadre travaille 214 jours par an sans horaire journalier fixe",
+          "Une prime annuelle versée une fois par an",
+          "Un dispositif de télétravail à plein temps"
         ],
         "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
+        "explanation": "Le forfait jours est un régime spécifique aux cadres qui remplace le décompte horaire : le cadre est rémunéré pour 214 jours travaillés par an (hors congés), sans limite journalière d'heures. En contrepartie, il bénéficie souvent de RTT et d'une grande autonomie dans l'organisation de son temps."
       },
       {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
+        "question": "Quel est le taux de syndicalisation en France ?",
+        "options": ["8%", "25%", "40%", "60%"],
+        "correct_index": 0,
+        "explanation": "La France a un taux de syndicalisation d'environ 8% des salariés — l'un des plus bas des pays développés. Paradoxalement, les syndicats français restent très influents car ils sont reconnus comme interlocuteurs institutionnels obligatoires et siègent dans les organismes paritaires (Unédic, Sécurité Sociale...)."
+      },
+      {
+        "question": "Qu'est-ce que le droit à la déconnexion instauré en France en 2017 ?",
         "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Le droit de refuser les heures supplémentaires imposées",
+          "Le droit de ne pas être joignable par son employeur en dehors des heures de travail",
+          "Le droit de travailler en télétravail total",
+          "Le droit d'éteindre son ordinateur de travail le soir"
+        ],
+        "correct_index": 1,
+        "explanation": "Le droit à la déconnexion (loi Travail de 2017) garantit aux salariés le droit de ne pas être joignables par emails, SMS ou appels professionnels en dehors des heures de travail et pendant les congés. Il oblige les entreprises de plus de 50 salariés à négocier des règles sur ce sujet — une première en Europe."
+      },
+      {
+        "question": "Devant quelle juridiction un salarié peut-il contester un licenciement abusif en France ?",
+        "options": [
+          "Le tribunal judiciaire",
+          "Le tribunal administratif",
+          "Le Conseil de prud'hommes",
+          "La Cour d'appel directement"
         ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
-      },
-      {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
-        "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
-        ],
-        "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
-      },
-      {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
-        "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
-        ],
-        "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "Le Conseil de prud'hommes est la juridiction spécialisée dans les litiges individuels du travail. Composé à parité de conseillers élus représentant les salariés et les employeurs, il traite les contestations de licenciement, les impayés de salaires, les cas de harcèlement et tous les conflits nés du contrat de travail."
       }
     ]
   },
   "ru": {
-    "module_title": "Работа и предпринимательство",
+    "module_title": "Работа во Франции",
     "lesson_title": "35 часов, отпуск и права работников",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: 35 часов, отпуск и права работников. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_subtitle": "Социальные права французского работника: рабочее время, отпуска, защита и профсоюзы",
+    "intro": "Французский наёмный работник — один из наиболее защищённых в западном мире и зачастую один из тех, кто меньше всего знает о собственных правах. 35-часовая рабочая неделя, 5 недель оплачиваемого отпуска, защита от незаконного увольнения, влиятельные профсоюзы — всё это социальные завоевания, структурирующие трудовую жизнь во Франции. Этот урок объясняет, что эти права означают конкретно, как они работают повседневно и почему их защита регулярно вызывает крупные социальные конфликты.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**35 часов, отпуск и права работников** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "Завоевание социальных прав: столетие борьбы",
+        "body": "Права французских наёмных работников — плод столетия **социальных битв**, отмеченных великими историческими моментами. В **1841 году** первый рабочий закон запрещает труд детей до 8 лет на предприятиях — робкая реформа, иллюстрирующая масштаб тогдашней эксплуатации. В **1864 году** право на забастовку легализуется (до этого забастовка была уголовным преступлением).\n\n**Народный фронт 1936 года** стал поворотным моментом: оплачиваемый отпуск, 40-часовая рабочая неделя, выборы делегатов персонала. Затем май **1968 года** — крупнейшая забастовка во французской истории (10 миллионов бастующих) — завершилась **Гренельскими соглашениями**: повышение СМИК на 25%, признание профсоюзов на предприятии, помесячная оплата труда.\n\n**Закон Обри** **1998 года** вводит **35-часовую рабочую неделю** с заявленной целью разделить труд и снизить безработицу. Эта реформа остаётся самой спорной во французском трудовом праве: её сторонники (повышение качества жизни, снижение усталости) и противники (рост издержек, потеря конкурентоспособности) спорят по сей день, 25 лет спустя. На практике 35 часов не означают, что французы всегда работают 35 часов — сверхурочные легальны и широко практикуются, особенно среди руководителей и в малом бизнесе."
       },
       {
-        "theme": "Регион",
+        "theme": "География",
         "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
+        "title": "Неравенство прав по секторам и территориям",
+        "body": "Права работников не одинаковы во всех секторах. **Коллективные договоры** (отраслевые соглашения, заключаемые профсоюзами и работодателями по отраслям) дополняют Трудовой кодекс дополнительными правами, специфическими для каждого сектора. Коллективный договор **строительства** отличается от договора **отелей-кафе-ресторанов** или **металлургии** — и работник должен знать, какому договору он подчиняется.\n\n**Руководители** (около 30% активного населения Франции) имеют особый статус: они подчиняются **поднормам рабочих дней** (214 рабочих дней в год без фиксированного суточного графика), а не ограничению в 35 часов. Взамен их зарплаты выше, и они часто получают **RTT** (компенсационные дни отдыха за переработки). Статус «руководителя» во Франции — это сильный социальный маркер, далеко выходящий за рамки простой должности.\n\n**Самозанятые** (автопредприниматели, фрилансеры) — около 4 миллионов во Франции — не пользуются никакими защитами Трудового кодекса: ни автоматического оплачиваемого отпуска, ни пособия по безработице при прекращении деятельности (кроме частичного открытия этого права после реформы 2019 года), ни профсоюзного представительства. Рост самозанятости (подталкиваемый цифровыми платформами — Uber, Deliveroo...) — одна из главных проблем французского социального права."
       },
       {
-        "theme": "Политика и общество",
+        "theme": "Политика",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Французские профсоюзы и социальный диалог",
+        "body": "Во Франции один из самых низких уровней **профсоюзного членства** среди развитых стран: лишь **8% работников** состоят в профсоюзах (против 60–70% в скандинавских странах). Парадоксально, французские профсоюзы остаются очень влиятельными: они признаны обязательными партнёрами работодателей и государства, заседают в советах социальных организаций (Unédic, Социальное страхование, AGIRC-ARRCO для дополнительных пенсий) и могут объявлять забастовки, парализующие страну.\n\n**Пять представительных профсоюзов** на национальном уровне: **CGT** (Всеобщая конфедерация труда, исторически близкая к Компартии, боевая), **CFDT** (Французская демократическая конфедерация труда, реформистская и социал-демократическая, первая по представительности с 2017 года), **FO** (Рабочая сила, независимая, приверженная переговорам), **CFE-CGC** (для руководителей) и **CFTC** (христианского направления). **MEDEF** — главная организация работодателей.\n\n**Французский социальный диалог** функционирует по модели коллективных переговоров: при каждой крупной социальной реформе (пенсии, страхование по безработице, профессиональное обучение) правительство обязано «консультироваться» с социальными партнёрами. Эта консультация может привести к соглашению — или к тупику и забастовке. **Пенсионная реформа 2023 года** наглядно показала тупик: после диалога глухих правительство применило 49-3, вызвав месяцы мобилизаций."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Повседневная жизнь",
+        "icon": "🏠",
+        "title": "Конкретные права работника: от найма до увольнения",
+        "body": "**При найме** каждый работник получает **письменный трудовой договор** (обязательный для CDD, настоятельно рекомендованный для CDI). **Испытательный срок** — 2 месяца для служащих, 3 месяца для мастеров, 4 месяца для руководителей (с однократным продлением). В течение этого срока обе стороны вправе расторгнуть договор без объяснений и выплат (кроме срока предупреждения).\n\n**Расчётный листок** (bulletin de salaire) — сложный документ, который многие французы не умеют читать. Он детализирует брутто-зарплату, **отчисления работника** (около 22% от брутто для не-руководителей), **нетто-зарплату** (то, что вы получаете на руки) и отчисления работодателя (около 42% от брутто). **Нетто-зарплата** составляет около 77–78% от брутто для работника, не имеющего статуса руководителя.\n\n**При увольнении** работодатель обязан соблюсти строгую процедуру: вызов на предварительное собеседование, уведомление заказным письмом с точным указанием причины, соблюдение срока предупреждения (1–3 месяца в зависимости от стажа и категории). **Законное выходное пособие** полагается после 8 месяцев стажа (1/4 месячной зарплаты за год до 10 лет). Увольнение **без реальной и серьёзной причины** (незаконное) может быть оспорено в **Совете по трудовым спорам** — специализированном суде по трудовым спорам, паритетно составленном из представителей работников и работодателей."
       },
       {
-        "theme": "Художественная культура",
+        "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "title": "Забастовка — французское национальное искусство",
+        "body": "Забастовка во Франции — нечто большее, чем инструмент профсоюзного требования: это культурный институт, почти политическое искусство жизни. Франция — европейская страна с одним из наиболее высоких показателей **дней забастовки на одного работника** — особенно в государственном секторе (транспорт, образование).\n\n**Великие забастовки** отметили французскую политическую историю наравне с выборами: май **1968** (всеобщая забастовка), **1995** (трёхнедельная забастовка против пенсионного плана Жюппе, парализовавшая страну), **2003** (снова пенсии), **2010**, **2019–2020** (пенсионная реформа Макрона), **2023** (пенсии вновь). Это повторение одной и той же темы пенсий иллюстрирует невозможность реформировать этот вопрос без социального столкновения.\n\nЭта культура забастовки имеет почти **театральное измерение**: профсоюзы объявляют о предупреждениях за недели до акции, СМИ делают прогнозы по воздействию, пассажиры организуются заранее. Забастовка на транспорте — медийное событие не меньше, чем социальное, — и французы, жалуясь, принимают её как цену социальной демократии. Россиянин, недавно приехавший во Францию, как правило, поражается этой культурной толерантности к организованным перебоям."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "title": "Обеденный перерыв и ритуалы рабочего времени",
+        "body": "**Обеденный перерыв** — законное право во Франции: каждый работник, чей рабочий день превышает 6 часов, имеет право на перерыв **не менее 20 минут** — на практике большинство коллективных договоров предусматривают один час. Этот перерыв, как правило, **не оплачивается**.\n\n**Корпоративная столовая** (или «cantine») — институт крупных французских компаний. Работодатель финансово участвует в питании — либо через субсидируемую корпоративную столовую (где сотрудник платит около 3–5 € за полный обед), либо через **ticket-restaurant** (талоны на питание: участие работодателя освобождено от соцвзносов до определённого предела, около 7 € в день в 2024 году). Талоны принимаются в большинстве ресторанов и многих продовольственных магазинах.\n\n**Отношение ко времени на работе** — одна из областей, где французы наиболее выделяются. **Пунктуальность** ожидается, но с допуском 5–10 минут в большинстве секторов (кроме важных совещаний). **Профессиональные письма после 20:00** всё меньше приветствуются после принятия закона о **праве на отключение** (2017), обязывающего компании с более чем 50 сотрудниками договариваться о правилах коммуникации вне рабочего времени. Это право, первое в Европе, отражает ценность разделения профессиональной и личной жизни — очень французскую ценность."
       }
     ],
     "conseil_ami": {
       "title": "Дружеский совет 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «35 часов, отпуск и права работников»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**Прав у работников во Франции много — но они не защищаются сами.** Многие работники (французские и иностранные) не знают своих прав и никогда ими не пользуются. Ключ — знать, где искать информацию.\n\n**В случае спора с работодателем** первый шаг — обратиться к **профсоюзному представителю** или **представителю персонала** на своём предприятии (они избираются на всех предприятиях с более чем 11 сотрудниками). Их роль — именно информировать и защищать вас бесплатно.\n\n**Если вы одни**, обратитесь в **Conseil de prud'hommes** своего департамента — первичная консультация бесплатна, и советники-делегаты помогут сориентироваться. Для иностранцев **бесплатные юридические приёмы** в Домах правосудия и права (Maisons de Justice et du Droit) — ценный ресурс.\n\n**Важный культурный момент**: вступление в профсоюз (членство) во Франции — не нейтральный активистский акт. Работодатель может воспринять это как объявление недоверия, хотя закон запрещает профсоюзную дискриминацию. В крупных компаниях профсоюзное присутствие привычно. В малом бизнесе вступивший в профсоюз работник может действительно вызвать недовольство — реальность, которую закон не всегда в силах устранить."
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "35 часов / 35 heures",
+        "definition": "Законная еженедельная продолжительность труда во Франции с 1998 года (закон Обри) — часы сверх этого являются сверхурочными с доплатой. Не применяется к руководителям на поднорме рабочих дней."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "RTT",
+        "definition": "Réduction du Temps de Travail — дополнительные дни отдыха, предоставляемые работникам (чаще руководителям), фактическое рабочее время которых превышает законные 35 часов в неделю."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "Расчётный листок / fiche de paie",
+        "definition": "Обязательный ежемесячный расчётный листок, детализирующий брутто-зарплату, отчисления работника и работодателя, и выплачиваемую нетто-зарплату — хранить без срока давности."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "Совет по трудовым спорам / Prud'hommes",
+        "definition": "Специализированный суд по индивидуальным трудовым спорам (незаконные увольнения, харассмент, невыплата зарплаты...), паритетно составленный из представителей работников и работодателей."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "Талон на питание / ticket-restaurant",
+        "definition": "Платёжный документ, совместно финансируемый работодателем и работником для оплаты питания в ресторанах и ряде магазинов — доля работодателя освобождена от соцвзносов."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "Право на отключение / droit à la déconnexion",
+        "definition": "Право, введённое законом о труде 2017 года, гарантирующее работникам право не быть доступными для работодателя вне рабочего времени — первое в Европе, обязывает компании с 50+ сотрудниками договориться о правилах."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «35 часов, отпуск и права работников» во Французской республике?",
+        "question": "Какой закон ввёл 35-часовую рабочую неделю во Франции и в каком году?",
         "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
+          "Закон де Голля в 1958 году",
+          "Закон Обри в 1998 году",
+          "Закон Миттерана в 1981 году",
+          "Закон Макрона в 2017 году"
         ],
         "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
+        "explanation": "Закон Обри (по имени министра труда Мартин Обри) ввёл 35-часовую рабочую неделю в 1998 году с поэтапным применением в зависимости от размера предприятий. Его заявленная цель — «разделить труд» для снижения безработицы — остаётся предметом споров."
       },
       {
-        "question": "Светскость во Франции означает, что...",
+        "question": "Что такое поднорма рабочих дней для руководителей во Франции?",
         "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
+          "Срочный договор на 365 дней",
+          "Система, при которой руководитель работает 214 дней в год без фиксированного суточного графика",
+          "Ежегодная премия, выплачиваемая раз в год",
+          "Полное дистанционное рабочее место"
         ],
         "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
+        "explanation": "Поднорма рабочих дней — особый режим для руководителей, заменяющий почасовой учёт: руководитель вознаграждается за 214 рабочих дней в год (за вычетом отпусков), без суточного ограничения по часам. Взамен он часто получает RTT и широкую автономию в организации своего времени."
       },
       {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
+        "question": "Каков уровень членства в профсоюзах во Франции?",
+        "options": ["8%", "25%", "40%", "60%"],
+        "correct_index": 0,
+        "explanation": "Во Франции уровень профсоюзного членства составляет около 8% работников — один из самых низких среди развитых стран. Парадоксально, французские профсоюзы остаются очень влиятельными, поскольку признаны обязательными институциональными партнёрами и заседают в паритетных органах (Unédic, Социальное страхование...)."
+      },
+      {
+        "question": "Что гарантирует право на отключение, введённое во Франции в 2017 году?",
         "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Право отказаться от принудительных сверхурочных",
+          "Право не быть доступным для работодателя вне рабочего времени",
+          "Право на полное дистанционное рабочее место",
+          "Право выключить рабочий компьютер по вечерам"
+        ],
+        "correct_index": 1,
+        "explanation": "Право на отключение (закон о труде 2017 года) гарантирует работникам право не отвечать на рабочие письма, SMS или звонки вне рабочих часов и во время отпуска. Оно обязывает компании с 50+ сотрудниками договориться о правилах — первое в Европе."
+      },
+      {
+        "question": "В каком суде работник может оспорить незаконное увольнение во Франции?",
+        "options": [
+          "В судебном трибунале",
+          "В административном трибунале",
+          "В Совете по трудовым спорам (prud'hommes)",
+          "Непосредственно в апелляционном суде"
         ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
-      },
-      {
-        "question": "Членом-основателем какой международной организации является Франция?",
-        "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
-        ],
-        "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
-      },
-      {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
-        "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
-        ],
-        "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "Совет по трудовым спорам — специализированный суд по индивидуальным трудовым спорам. Паритетно составленный из советников, избираемых от работников и работодателей, он рассматривает оспаривания увольнений, невыплату зарплаты, харассмент и все конфликты, вытекающие из трудового договора."
       }
     ]
   }

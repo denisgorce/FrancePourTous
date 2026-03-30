@@ -4,275 +4,238 @@
     "lesson_id": 5,
     "module_icon": "🥖",
     "lesson_icon": "☕",
-    "estimated_minutes": 12,
-    "difficulty": "intermédiaire",
+    "estimated_minutes": 13,
+    "difficulty": "débutant",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      { "label": "UMIH — Union des Métiers et Industries de l'Hôtellerie", "url": "https://www.umih.fr" },
+      { "label": "INSEE — Restauration en France", "url": "https://www.insee.fr" }
     ]
   },
   "fr": {
     "module_title": "La Gastronomie Française",
     "lesson_title": "Café, Apéro et Art du Repas",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : Café, Apéro et Art du Repas. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "Les rituels qui rythment la journée française",
+    "intro": "La journée gastronomique française est ponctuée de rituels précis : le café du matin au comptoir, l'apéritif du soir entre amis, la pause déjeuner sacrée, le digestif après dîner. Ces moments ne sont pas de simples pauses alimentaires — ce sont des espaces sociaux codifiés qui structurent la vie collective. Les comprendre, c'est déchiffrer le rythme de la France.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**Café, Apéro et Art du Repas** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "Le café, l'apéro et leurs histoires",
+        "body": "Le **café** arrive en France au XVIIe siècle, introduit depuis le monde ottoman. Le premier café parisien, le **Café de Procope** (1686, toujours ouvert), devient rapidement un salon intellectuel fréquenté par Voltaire, Rousseau, Benjamin Franklin. Le café n'est pas seulement une boisson — c'est un espace de liberté de parole, hors du contrôle de l'Église et du roi. Diderot y prépare des articles de l'Encyclopédie, les révolutionnaires y complotent. Au XIXe siècle, les **grands cafés** haussmanniens (Café de Flore, Les Deux Magots, La Rotonde à Montparnasse) deviennent des institutions littéraires mondiales.\n\nL'**apéritif** a une histoire plus récente. Le mot vient du latin *aperire* (ouvrir) : ouvrir l'appétit avant le repas. Le **Noilly Prat** (vermouth de Marseille, créé en 1813), le **Byrrh** (vin tonique au quinquina, Roussillon, 1866), le **Dubonnet** (1846), puis le **pastis** (Ricard, Marseille, 1932) structurèrent le marché des apéritifs. Au XXe siècle, l'apéritif se popularisa dans toutes les classes sociales — aujourd'hui, «l'apéro» entre amis est l'un des rituels sociaux les plus pratiqués en France, parfois même séparé d'un dîner.\n\nL'**art du repas** français a été théorisé par **Brillat-Savarin** (*Physiologie du Goût*, 1825) et par **Auguste Escoffier**, dont le *Guide Culinaire* (1903) codifie la cuisine professionnelle. La **Nouvelle Cuisine** des années 1970 (Bocuse, Guérard, Chapel, Troisgros) révolutionna les codes en allégeant les sauces, valorisant les produits frais et réduisant les portions. La **bistronomie** des années 2000 (Yves Camdeborde, Thierry Breton) démocratisa la cuisine gastronomique dans des bistrots accessibles."
       },
       {
-        "theme": "Région",
+        "theme": "Géographie",
         "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
+        "title": "Le café selon les régions",
+        "body": "La culture du café varie selon les régions françaises. À **Paris**, le café se boit serré, debout au comptoir, rapidement — le café est une parenthèse dans le flux parisien. Le café parisien a une fonction de sas : on s'y arrête, on reprend son souffle, on repart. La terrasse parisienne est un théâtre social : on observe, on lit, on travaille depuis un ordinateur.\n\nDans le **Sud de la France** (Provence, Languedoc, Pays Basque), le café est plus lent. On s'installe, on commande un café allongé ou une noisette (café avec un nuage de lait), on discute. Le café de village est le cœur de la vie sociale locale — les hommes s'y retrouvent le matin, les parties de cartes ou de pétanque s'y organisent. En Provence, le café est souvent accompagné d'un verre d'eau fraîche (non commandé, offert spontanément) — habitude méditerranéenne.\n\nLe **café du matin** au bar-tabac est un rituel populaire : un expresso ou un café crème, un croissant ou une tartine beurrée, debout au comptoir. Ce «café du matin» coûte entre 1 € (province) et 3 € (Paris) selon le quartier. La différence de prix entre le café au comptoir et en salle (terrasse ou intérieur) est une institution française : en salle, on paie plus cher parce qu'on occupe une table et le service vient à vous. Au comptoir, on est debout et on se sert quasi-immédiatement — économie de temps et d'argent."
       },
       {
-        "theme": "Politique & Social",
+        "theme": "Politique",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "Le bistrot, institution républicaine menacée",
+        "body": "Le **bistrot** est une institution républicaine française — le lieu où toutes les classes sociales se côtoyaient, où l'on débattait de politique, où les élections locales se commentaient. La France comptait **200 000 cafés** en 1960 — elle n'en a plus que **35 000** aujourd'hui. Cette disparition massive est un sujet de préoccupation culturelle et sociale : avec le bistrot de village, c'est souvent le dernier lien social d'une communauté rurale qui disparaît.\n\nLes causes de ce déclin : la montée de la voiture (on ne va plus au café du village à pied), la télévision (on reste chez soi), la grande distribution (on achète l'alcool au supermarché moins cher), les réglementations sanitaires (antitabac en 2008 — les fumeurs restaient longtemps au café), et la concurrence des bars branchés et des chaînes de café (Starbucks, Columbus Café). Des associations comme **«Les Bistrots de Pays»** militent pour sauver les cafés ruraux, parfois en les transformant en multi-services (épicerie, relais postal, point de dépôt de pain).\n\nLa loi **Évin** de 1991 (restriction de la publicité pour l'alcool) et la loi **antitabac** de 2008 ont profondément transformé les cafés. L'interdiction de fumer à l'intérieur a d'abord semblé une catastrophe pour les bistrots — puis a provoqué l'essor des **terrasses chauffées**, devenues un élément du paysage urbain français."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Vie quotidienne",
+        "icon": "🏠",
+        "title": "Les rythmes de la journée gastronomique française",
+        "body": "La journée alimentaire française suit un rythme précis :\n\n**Le petit déjeuner** (7h–9h) : léger — tartines beurrées avec confiture, café au lait, jus d'orange. Pas de repas chaud le matin (contrairement aux habitudes britanniques ou américaines). Les viennoiseries (croissant, pain au chocolat) sont pour le weekend ou les jours spéciaux. Le petit déjeuner français est la preuve que les Français «gardent de la place» pour les repas importants.\n\n**Le déjeuner** (12h–14h) : sacré. En France, la pause déjeuner est légalement d'au moins 30 minutes pour les salariés — mais culturellement, c'est souvent 1 heure. Les cantines d'entreprise et les restaurants de quartier se remplissent à midi. La formule déjeuner (entrée + plat ou plat + dessert) est entre 13 et 20 € dans la plupart des brasseries. Dans les administrations et les grandes entreprises, la pause déjeuner est un moment social important.\n\n**Le goûter** (16h–17h) : réservé aux enfants (biscuits, tartines, pain au chocolat) — mais les adultes y reviennent parfois sous forme de «pause café» avec un gâteau.\n\n**L'apéritif** (18h30–20h) : «l'apéro» est le moment qui précède le dîner. Boissons : kir (vin blanc + cassis), pastis, rosé, champagne, jus de fruits. Amuse-bouches : chips, olives, gougères, cacahuètes, «verrines» (petites préparations en verre). Durée : 30 minutes à 2 heures. L'apéro peut être long et festif — parfois au point de remplacer le dîner (on parle alors d'«apéro dînatoire»).\n\n**Le dîner** (19h30–21h) : repas principal de la soirée, souvent en famille. Plus long le weekend. Toujours un vrai repas assis — pas un plateau-repas devant la télévision (même si cela existe en pratique)."
       },
       {
-        "theme": "Culture artistique",
+        "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "title": "Le café dans la culture française",
+        "body": "Le café français est un espace culturel autant qu'un lieu de consommation. Les **«garçons de café»** parisiens — avec leur tablier noir, leur plateau et leur démarche rapide — sont une figure iconique mondiale. Le **service au comptoir**, debout, est une institution sociale : la proximité entre le serveur et le client au comptoir crée une relation brève mais intense, faite de familiarité et d'efficacité.\n\nLes **grands cafés parisiens** ont une histoire littéraire et artistique incomparable. Le **Café de Flore** et **Les Deux Magots** (Saint-Germain-des-Prés) accueillirent Sartre, Beauvoir, Hemingway, Picasso, Camus. Ces cafés sont aujourd'hui très touristiques et chers — mais maintiennent leur réputation. La **Closerie des Lilas** (Montparnasse) fut le quartier général d'Hemingway lors de son séjour parisien des années 1920 (*Paris est une fête*).\n\nL'**apéritif** a sa propre culture artistique : les affiches publicitaires Art Nouveau pour le Dubonnet, le Byrrh ou l'Absinthe (avant son interdiction en 1915) sont des chefs-d'œuvre graphiques — certaines d'**Henri de Toulouse-Lautrec** ou de **Alphonse Mucha**. Le pastis a inspiré des romans (Jean Giono, Marcel Pagnol), des films (la trilogie marseillaise *Marius*, *Fanny*, *César*) et des chansons. La **trilogie de Pagnol** (films des années 1930) reste une référence culturelle pour comprendre la sociabilité provençale autour de l'anisé."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "title": "Le vocabulaire du café et de l'apéro",
+        "body": "Maîtriser le vocabulaire du café français est essentiel pour ne pas être dépaysé :\n\n**Les cafés :** «Un café» = expresso noir court. «Un café allongé» ou «un américain» = expresso allongé à l'eau chaude (plus proche d'un café filtre). «Un café crème» ou «un crème» = café avec mousse de lait (le matin). «Une noisette» = expresso avec juste un nuage de lait. «Un déca» = décaféiné. **Jamais** demander «un cappuccino» dans un café ordinaire le midi — c'est perçu comme touristique.\n\n**Le kir :** Vin blanc sec + sirop de cassis (ou framboise, pêche, mûre pour un kir «fruits des bois»). Le **kir royal** utilise du champagne à la place du vin blanc. Inventé par le chanoine Kir, maire de Dijon (1945–1968). Le rapport traditionnel : 1/5 de sirop, 4/5 de vin blanc aligoté.\n\n**Le pastis :** 1 dose d'alcool anisé pour 5 doses d'eau fraîche — jamais d'eau chaude. Toujours verser l'alcool d'abord, l'eau ensuite (il «louche», devient blanc laiteux). Marques : Ricard (plus sucré), Pastis 51 (plus sec), Henri Bardouin (artisanal, herbes de Provence).\n\n**Les codes de l'apéro :** On ne se ressert pas soi-même — on attend qu'on nous propose ou on offre à son tour. Les amuse-bouches se grignotent — pas de grosse portion. L'apéro n'est pas le repas : on ne doit pas «remplir» ses invités avant le dîner. Le kir se boit debout au début, assis après — c'est le signe que la soirée s'installe."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à Café, Apéro et Art du Repas :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**L'apéro est souvent une meilleure invitation d'ouverture que le dîner.** Proposer à un Français «Tu veux venir dîner ?» la première ou deuxième fois est un peu intense — le dîner est intime (voir module 4, Leçon 5). En revanche, «Tu viens prendre l'apéro ?» est léger, sans engagement fort, et dit : «J'aimerais passer du temps avec toi». C'est le format idéal pour commencer une relation.\n\nSur le café : ne jamais commander un cappuccino ou un latte au comptoir d'un bar-tabac ou d'une brasserie ordinaire — vous obtiendrez au mieux un café avec de la mousse maladroite, et le serveur vous regardera légèrement de travers. Dans un café spécialisé (coffee shop de «3e vague»), les lattes et flat whites sont parfaitement à leur place.\n\nUn dernier conseil : en France, **le café après le repas est un rituel de clôture** — il signale que le repas est terminé et que la soirée entre dans sa phase finale. Si vous proposez de partir juste après avoir bu le café, c'est correct. Si vous restez, attendez-vous à ce qu'on propose un digestif ou une dernière conversation détendue."
     },
     "glossary": [
-      {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
-      },
-      {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
-      },
-      {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
-      },
-      {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
-      },
-      {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
-      },
-      {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
-      }
+      { "term": "L'expresso (ou café)", "definition": "En France, «un café» désigne toujours un expresso noir, court, servi dans une petite tasse. Jamais un grand café filtre. Pour obtenir un café long, demander «un café allongé» ou «un américain»." },
+      { "term": "Le kir", "definition": "Apéritif français : vin blanc sec + sirop de cassis (ou autre fruit). Le kir royal remplace le vin blanc par du champagne. Inventé à Dijon par le chanoine Kir, maire de la ville. Apéritif de référence dans les réceptions officielles françaises." },
+      { "term": "L'apéro dînatoire", "definition": "Apéritif étendu qui remplace le dîner : on mange debout des amuse-bouches suffisamment variés et consistants (verrines, mini-toasts, brochettes) pour ne pas avoir besoin d'un vrai repas assis. Format convivial de plus en plus fréquent." },
+      { "term": "La noisette", "definition": "Café expresso avec juste un nuage de lait — moins de lait qu'un café crème, plus qu'un expresso pur. La couleur rappelle la noisette. À ne pas confondre avec une «noisette» (le fruit à coque)." },
+      { "term": "Le bistrot (ou bistro)", "definition": "Café-restaurant populaire français, servant une cuisine simple à prix modéré. Institution sociale en déclin (200 000 en 1960, 35 000 aujourd'hui). Lieu de convivialité et de brassage social — parfois le dernier commerce d'un village." },
+      { "term": "La Nouvelle Cuisine", "definition": "Mouvement gastronomique des années 1970 (Bocuse, Guérard, Troisgros) réformant la cuisine française classique : sauces allégées, produits frais valorisés, portions réduites, présentation artistique. Révolution culinaire majeure influençant la gastronomie mondiale." }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «Café, Apéro et Art du Repas» dans la République française ?",
+        "question": "Que signifie commander «un café» dans un bar français ?",
         "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
-        ],
-        "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
-      },
-      {
-        "question": "En France, la laïcité signifie que...",
-        "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
-        ],
-        "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
-      },
-      {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Un grand café au lait avec de la mousse",
+          "Un café filtre américain long",
+          "Un expresso noir court servi dans une petite tasse",
+          "Un café décaféiné par défaut"
         ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
+        "explanation": "En France, «un café» désigne toujours un expresso noir court, servi dans une petite tasse. Jamais un grand café. Pour un café long, il faut demander «un café allongé» ou «un américain». Pour du lait, demander «un café crème» ou «un crème». Cette distinction étonne souvent les visiteurs anglophones habitués à des cafés plus grands."
       },
       {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
+        "question": "Qu'est-ce qu'un «kir» en France ?",
         "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
-        ],
-        "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
-      },
-      {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
-        "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
+          "Un whisky allongé à l'eau gazeuse",
+          "Un vin blanc sec mélangé à du sirop de cassis (ou autre fruit)",
+          "Un champagne servi avec un sucre imbibé d'angostura",
+          "Un pastis dilué dans de l'eau pétillante"
         ],
         "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "Le kir est un apéritif composé de vin blanc sec (traditionnellement le Bourgogne aligoté) et de sirop de cassis, dans un rapport d'environ 1/5 de sirop pour 4/5 de vin. Inventé par le chanoine Félix Kir, maire de Dijon de 1945 à 1968, il est devenu l'apéritif de référence dans les réceptions officielles françaises."
+      },
+      {
+        "question": "Pourquoi le nombre de cafés-bistrots en France a-t-il chuté de 200 000 (1960) à environ 35 000 aujourd'hui ?",
+        "options": [
+          "À cause d'une taxe spéciale sur les alcools introduite en 1970",
+          "Car les Français boivent moins d'alcool depuis les années 1980",
+          "Combinaison de facteurs : voiture, télévision, grande distribution, loi antitabac, concurrence des chaînes",
+          "Car une loi a obligé les cafés à fermer avant 20h dans les zones rurales"
+        ],
+        "correct_index": 2,
+        "explanation": "Le déclin des cafés-bistrots résulte de plusieurs facteurs combinés : la voiture (on ne va plus à pied au café du village), la télévision (on reste chez soi), la grande distribution (alcool moins cher au supermarché), la loi antitabac de 2008 (les fumeurs restaient longtemps), et la concurrence des chaînes de café. Ce déclin est une perte sociale et culturelle documentée."
+      },
+      {
+        "question": "Qu'est-ce qu'un «apéro dînatoire» en France ?",
+        "options": [
+          "Un dîner servi à l'heure de l'apéritif, uniquement pour les enfants",
+          "Un apéritif étendu qui remplace le dîner, avec des amuse-bouches variés et consistants",
+          "Un apéritif servi avec des plats chauds dans un restaurant gastronomique",
+          "Un format de repas d'affaires rapide avant une réunion"
+        ],
+        "correct_index": 1,
+        "explanation": "L'apéro dînatoire est un apéritif étendu suffisamment garni (verrines, mini-toasts, brochettes, etc.) pour remplacer un vrai dîner assis. Format convivial où l'on mange debout, en circulant, sans la structure formelle d'un repas. De plus en plus populaire pour les soirées informelles entre amis."
+      },
+      {
+        "question": "Quelle est la différence entre un «café crème» et une «noisette» ?",
+        "options": [
+          "Le café crème contient de la crème fraîche, la noisette du lait ordinaire",
+          "Le café crème est servi le matin seulement, la noisette toute la journée",
+          "Le café crème a beaucoup de mousse de lait (comme un cappuccino léger), la noisette juste un nuage de lait",
+          "Ce sont deux noms régionaux pour la même boisson"
+        ],
+        "correct_index": 2,
+        "explanation": "Un «café crème» (ou «crème») est un expresso avec une quantité significative de mousse ou de lait chaud, comparable à un cappuccino léger — souvent le matin. Une «noisette» est un expresso avec juste un filet de lait — moins que le crème, plus qu'un expresso pur. La couleur rappelle celle de la noisette (fruit)."
       }
     ]
   },
   "ru": {
     "module_title": "Французская гастрономия",
     "lesson_title": "Кофе, аперитив и искусство трапезы",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Кофе, аперитив и искусство трапезы. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_subtitle": "Ритуалы, задающие ритм французского дня",
+    "intro": "Гастрономический день француза пунктируется точными ритуалами: утренний кофе у стойки, вечерний аперитив с друзьями, священный обеденный перерыв, дижестив после ужина. Это не просто пищевые паузы — это кодифицированные социальные пространства, структурирующие коллективную жизнь. Понять их — значит расшифровать ритм Франции.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Кофе, аперитив и искусство трапезы** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "Кофе, аперитив и их история",
+        "body": "**Кофе** появляется во Франции в XVII веке, завезённый из османского мира. Первое парижское кафе — **Café de Procope** (1686, открыто до сих пор) — быстро превращается в интеллектуальный салон, который посещают Вольтер, Руссо, Бенджамин Франклин. Кофе — не просто напиток: это пространство свободы слова, вне контроля церкви и короля. Дидро пишет здесь статьи для Энциклопедии, революционеры строят заговоры. В XIX веке **великие кафе** эпохи Османа (Café de Flore, Les Deux Magots, La Rotonde на Монпарнасе) становятся всемирными литературными институтами.\n\n**Аперитив** имеет более позднюю историю. Слово происходит от латинского *aperire* (открывать): открыть аппетит перед едой. **Noilly Prat** (марсельский вермут, 1813), **Byrrh** (тонизирующее вино с хинином, Руссильон, 1866), **Dubonnet** (1846), затем **пастис** (Ricard, Марсель, 1932) структурировали рынок аперитивов. В XX веке аперитив распространился во всех социальных классах — сегодня «апéро» с друзьями один из наиболее практикуемых социальных ритуалов Франции, иногда даже отдельный от ужина.\n\n**Искусство трапезы** было теоретизировано **Брилья-Саварен** («Физиология вкуса», 1825) и **Огюстом Эскофье**, чей «Кулинарный гид» (1903) кодифицировал профессиональную кухню. **«Новая кухня»** 1970-х (Бокюз, Герар, Шапель, Труагро) произвела революцию — облегчила соусы, возвысила свежие продукты, уменьшила порции. **Бистрономия** 2000-х (Ив Камдеборд, Тьерри Бретон) демократизировала гастрономическую кухню в доступных бистро."
       },
       {
-        "theme": "Регион",
+        "theme": "География",
         "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
+        "title": "Кофе в зависимости от региона",
+        "body": "Культура кофе варьируется по регионам. В **Париже** кофе пьют крепким, стоя у стойки, быстро — это пауза в парижском потоке. Парижское кафе — переходный шлюз: остановился, перевёл дух, пошёл дальше. Парижская терраса — социальный театр: наблюдают, читают, работают с ноутбуком.\n\nНа **Юге Франции** (Прованс, Лангедок, Страна Басков) кофе медленнее. Устраиваются, заказывают кофе аллонже или нуазет (кофе с капелькой молока), разговаривают. Деревенское кафе — сердце местной социальной жизни: мужчины встречаются утром, здесь организуются партии в карты или петанк. В Провансе кофе нередко подаётся со стаканом холодной воды (не заказанной, предложенной спонтанно) — средиземноморская привычка.\n\n**Утренний кофе** в кафе-табак — народный ритуал: эспрессо или кофе с молоком (café crème), круассан или тост с маслом, стоя у стойки. Цена — от 1 € (провинция) до 3 € (Париж). Разница в цене между кофе у стойки и в зале — французский институт: в зале платят дороже, потому что занимают столик и вас обслуживают. У стойки — стоя, практически мгновенно: экономия времени и денег."
       },
       {
-        "theme": "Политика и общество",
+        "theme": "Политика",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Бистро — республиканский институт под угрозой",
+        "body": "**Бистро** — французский республиканский институт: место, где встречались все классы общества, где спорили о политике, где комментировали местные выборы. В 1960 году Франция насчитывала **200 000 кафе** — сегодня их осталось около **35 000**. Это массовое исчезновение — предмет культурной и социальной обеспокоенности: вместе с деревенским бистро нередко исчезает последняя социальная нить сельской общины.\n\nПричины упадка: распространение автомобиля (в деревенское кафе больше не идут пешком), телевизор (остаются дома), супермаркеты (алкоголь дешевле), санитарные нормы (антитабачный закон 2008 года — курильщики засиживались в кафе), конкуренция со стороны модных баров и кофейных сетей (Starbucks, Columbus Café). Ассоциации вроде **«Bistrots de Pays»** борются за спасение сельских кафе, иногда превращая их в многофункциональные точки (бакалея, почтовый пункт, выдача хлеба).\n\nЗакон **Эвена** 1991 года (ограничение рекламы алкоголя) и **антитабачный закон** 2008 года глубоко изменили кафе. Запрет курения внутри поначалу казался катастрофой для бистро — но породил расцвет **отапливаемых террас**, ставших элементом французского городского пейзажа."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Повседневная жизнь",
+        "icon": "🏠",
+        "title": "Ритмы французского гастрономического дня",
+        "body": "Пищевой день француза подчиняется точному ритму:\n\n**Завтрак (petit déjeuner)** (7–9 ч): лёгкий — тосты с маслом и джемом, кофе с молоком, апельсиновый сок. Горячей еды с утра нет (в отличие от британских или американских привычек). Сдобная выпечка (круассан, боль-о-шоколя) — для выходных или особых дней. Французский завтрак — доказательство того, что французы «берегут место» для важных трапез.\n\n**Обед (déjeuner)** (12–14 ч): священный. Во Франции обеденный перерыв по закону — не менее 30 минут для наёмных работников, но культурно нередко целый час. Корпоративные столовые и квартальные рестораны заполняются в полдень. Бизнес-ланч (закуска + горячее или горячее + десерт) — 13–20 € в большинстве брассри. В государственных учреждениях и крупных компаниях обеденная пауза — важный социальный момент.\n\n**Полдник (goûter)** (16–17 ч): для детей (печенье, тосты, боль-о-шоколя). Взрослые иногда возвращаются к нему в форме «кофе-брейка» с пирожным.\n\n**Аперитив** (18:30–20:00): «апéро» — момент перед ужином. Напитки: кир (белое вино + смородиновый ликёр), пастис, розе, шампанское, соки. Закуски: чипсы, оливки, гужеры, арахис, «вéррины» (маленькие порции в стакане). Продолжительность: 30 минут — 2 часа. Апéро может быть долгим и праздничным — порой заменяя ужин («апéро-динатуар»).\n\n**Ужин (dîner)** (19:30–21:00): главная трапеза вечера, нередко в семейном кругу. Длиннее по выходным. Всегда настоящая трапеза за столом — не поднос перед телевизором (хотя и такое бывает на практике)."
       },
       {
-        "theme": "Художественная культура",
+        "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "title": "Кофе во французской культуре",
+        "body": "Французское кафе — культурное пространство не меньше, чем место потребления. **Парижские официанты** — в чёрном фартуке, с подносом и быстрой походкой — всемирно узнаваемый образ. **Обслуживание у стойки** стоя — социальный институт: близость между официантом и клиентом у стойки создаёт краткие, но насыщенные отношения, построенные на фамильярности и эффективности.\n\n**Великие парижские кафе** обладают несравненной литературной и художественной историей. **Café de Flore** и **Les Deux Magots** (Сен-Жермен-де-Пре) принимали Сартра, Бовуар, Хемингуэя, Пикассо, Камю. Сегодня эти кафе весьма туристичны и дороги — но поддерживают репутацию. **La Closerie des Lilas** (Монпарнас) стала штаб-квартирой Хемингуэя в его парижские 1920-е («Праздник, который всегда с тобой»).\n\nУ **аперитива** собственная художественная культура: афиши в стиле ар-нуво для Dubonnet, Byrrh или Абсента (до его запрета в 1915 году) — подлинные шедевры графики, принадлежащие **Анри де Тулуз-Лотреку** или **Альфонсу Мухе**. Пастис вдохновил романы (Жан Жионо, Марсель Паньоль), фильмы (марсельская трилогия «Мариус», «Фанни», «Сезар») и песни. **Трилогия Паньоля** (фильмы 1930-х) остаётся культурным ориентиром для понимания провансальской общительности вокруг анисового напитка."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "title": "Словарь кофе и аперитива",
+        "body": "Владеть словарём французского кофе необходимо, чтобы не попасть впросак:\n\n**Виды кофе:** «Un café» = короткий чёрный эспрессо. «Un café allongé» или «un américain» = эспрессо, разбавленный горячей водой (ближе к фильтр-кофе). «Un café crème» или «un crème» = кофе с молочной пенкой (утром). «Une noisette» = эспрессо с капелькой молока. «Un déca» = без кофеина. **Никогда** не заказывать «капучино» в обычном кафе в полдень — воспримут как туриста.\n\n**Кир (le kir):** Сухое белое вино + сироп из чёрной смородины (или малины, персика, ежевики для «лесных ягод»). **Кир Руаяль** — с шампанским вместо белого вина. Изобретён каноником Киром, мэром Дижона (1945–1968). Традиционная пропорция: 1/5 сиропа, 4/5 белого вина Алиготе.\n\n**Пастис:** 1 доза анисового алкоголя на 5 доз холодной воды — никогда горячей. Всегда сначала наливают алкоголь, потом воду (он «мутнеет», становится молочно-белым). Марки: Ricard (слаще), Pastis 51 (суше), Henri Bardouin (ремесленный, прованские травы).\n\n**Коды аперитива:** Не наливают себе сами — ждут предложения или предлагают в ответ. Закуски пробуют понемногу — не наедаются. Аперитив не заменяет еду: гости не должны «наполниться» до ужина. Кир пьют стоя в начале, сидя после — знак того, что вечер обустраивается."
       }
     ],
     "conseil_ami": {
-      "title": "Дружеский совет 🤝",
+      "title": "Совет друга 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Кофе, аперитив и искусство трапезы»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**Апéро нередко лучшее приглашение для начала отношений, чем ужин.** Предложить французу «Зайди поужинать» при первой-второй встрече — чуть интенсивно: ужин интимен (см. модуль 4, урок 5). Напротив, «Приходи выпить апéро?» — лёгкий формат без сильных обязательств, который говорит: «Мне приятно с тобой провести время». Идеальный формат для начала знакомства.\n\nО кофе: никогда не заказывать капучино или латте у стойки обычного кафе-табак или брассри — в лучшем случае получите кофе с неудачной пенкой, а официант посмотрит с лёгким недоумением. В специализированном кафе «третьей волны» латте и флэт-уайт вполне уместны.\n\nПоследний совет: во Франции **кофе после трапезы — ритуал завершения**: он сигнализирует, что обед или ужин окончен, и вечер входит в завершающую фазу. Если хотите уйти сразу после кофе — это нормально. Если остаётесь — ожидайте предложения дижестива или непринуждённого разговора напоследок."
     },
     "glossary": [
-      {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
-      },
-      {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
-      },
-      {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
-      },
-      {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
-      },
-      {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
-      },
-      {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
-      }
+      { "term": "Эспрессо («un café»)", "definition": "Во Франции «un café» всегда означает короткий чёрный эспрессо в маленькой чашке. Никогда не большой кофе. Для длинного кофе — «un café allongé» или «un américain». Для молока — «un café crème» или «un crème»." },
+      { "term": "Кир (le kir)", "definition": "Французский аперитив: сухое белое вино + сироп из чёрной смородины (или другого фрукта). Кир руаяль — с шампанским. Изобретён в Дижоне каноником Киром. Эталонный аперитив на официальных французских приёмах." },
+      { "term": "Апéро-динатуар (apéro dînatoire)", "definition": "Расширенный аперитив, заменяющий ужин: едят стоя разнообразные и сытные закуски (вéррины, мини-тосты, шпажки) без официального сидячего застолья. Всё более популярный формат неформальных вечеринок." },
+      { "term": "Нуазет (noisette)", "definition": "Кофе эспрессо с капелькой молока — меньше молока, чем в café crème, больше, чем в чистом эспрессо. Цвет напоминает лесной орех (noisette). Не путать с noisette (плод)." },
+      { "term": "Бистро (bistrot/bistro)", "definition": "Народный французский кафе-ресторан, подающий простую кухню по умеренным ценам. Социальный институт в упадке (200 000 в 1960, 35 000 сегодня). Место общения и смешения классов — порой последнее заведение в деревне." },
+      { "term": "Новая кухня (Nouvelle Cuisine)", "definition": "Гастрономическое движение 1970-х (Бокюз, Герар, Труагро), реформировавшее классическую французскую кухню: облегчённые соусы, свежие продукты, уменьшенные порции, художественная подача. Крупная кулинарная революция, повлиявшая на мировую гастрономию." }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Кофе, аперитив и искусство трапезы» во Французской республике?",
+        "question": "Что означает заказать «un café» во французском баре?",
         "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
-        ],
-        "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
-      },
-      {
-        "question": "Светскость во Франции означает, что...",
-        "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
-        ],
-        "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
-      },
-      {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Большой кофе с молоком и пенкой",
+          "Длинный американский кофе",
+          "Короткий чёрный эспрессо в маленькой чашке",
+          "Кофе без кофеина по умолчанию"
         ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
+        "explanation": "Во Франции «un café» всегда означает короткий чёрный эспрессо в маленькой чашке. Никогда не большой кофе. Для длинного кофе — «un café allongé» или «un américain». Для молока — «un café crème» или «un crème». Это различие часто удивляет англоязычных посетителей, привыкших к большим кружкам."
       },
       {
-        "question": "Членом-основателем какой международной организации является Франция?",
+        "question": "Что такое «кир» (kir) во Франции?",
         "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
-        ],
-        "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
-      },
-      {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
-        "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
+          "Виски, разбавленный газированной водой",
+          "Сухое белое вино с сиропом из чёрной смородины (или другого фрукта)",
+          "Шампанское с сахаром, пропитанным ангостурой",
+          "Пастис, разбавленный газированной водой"
         ],
         "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "Кир — аперитив из сухого белого вина (традиционно бургундского Алиготе) и сиропа из чёрной смородины в пропорции примерно 1/5 сиропа на 4/5 вина. Изобретён каноником Феликсом Киром, мэром Дижона с 1945 по 1968 год. Стал эталонным аперитивом на официальных французских приёмах."
+      },
+      {
+        "question": "Почему число кафе-бистро во Франции упало со 200 000 (1960) до около 35 000 сегодня?",
+        "options": [
+          "Из-за особого налога на алкоголь, введённого в 1970 году",
+          "Потому что французы стали меньше пить с 1980-х",
+          "Сочетание факторов: автомобиль, телевизор, супермаркеты, антитабачный закон, конкуренция сетей",
+          "Потому что закон обязал кафе закрываться до 20:00 в сельских районах"
+        ],
+        "correct_index": 2,
+        "explanation": "Упадок кафе-бистро — результат нескольких совпавших факторов: автомобиль (в деревенское кафе больше не ходят пешком), телевизор (остаются дома), супермаркеты (алкоголь дешевле), антитабачный закон 2008 года (курильщики засиживались в кафе), конкуренция кофейных сетей. Этот упадок — задокументированная социальная и культурная потеря."
+      },
+      {
+        "question": "Что такое «апéро-динатуар» во Франции?",
+        "options": [
+          "Ужин, подаваемый в час аперитива, только для детей",
+          "Расширенный аперитив, заменяющий ужин, с разнообразными и сытными закусками",
+          "Аперитив с горячими блюдами в гастрономическом ресторане",
+          "Формат быстрого делового обеда перед совещанием"
+        ],
+        "correct_index": 1,
+        "explanation": "Апéро-динатуар — расширенный аперитив достаточно богатый (вéррины, мини-тосты, шпажки и т. д.), чтобы заменить настоящий сидячий ужин. Едят стоя, перемещаясь, без формальной структуры трапезы. Всё более популярный формат неформальных вечеринок среди друзей."
+      },
+      {
+        "question": "В чём разница между «café crème» и «noisette»?",
+        "options": [
+          "В café crème — настоящие сливки, в noisette — обычное молоко",
+          "Café crème подают только утром, noisette — в любое время",
+          "В café crème много молочной пенки (как лёгкий капучино), в noisette — только капелька молока",
+          "Это два региональных названия одного напитка"
+        ],
+        "correct_index": 2,
+        "explanation": "«Café crème» (или «crème») — эспрессо со значительным количеством молочной пенки или горячего молока, близкий к лёгкому капучино; нередко пьют утром. «Noisette» — эспрессо лишь с капелькой молока: меньше, чем в crème, больше, чем в чистом эспрессо. Цвет напоминает лесной орех (noisette)."
       }
     ]
   }

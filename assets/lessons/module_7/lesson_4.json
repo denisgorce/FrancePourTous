@@ -3,276 +3,239 @@
     "module_id": 7,
     "lesson_id": 4,
     "module_icon": "🥖",
-    "lesson_icon": "👨‍🍳",
-    "estimated_minutes": 12,
+    "lesson_icon": "🍲",
+    "estimated_minutes": 14,
     "difficulty": "intermédiaire",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      { "label": "Larousse Gastronomique — Plats régionaux", "url": "https://www.larousse.fr" },
+      { "label": "Académie Culinaire de France", "url": "https://www.academieculinaire.com" }
     ]
   },
   "fr": {
     "module_title": "La Gastronomie Française",
     "lesson_title": "Plats Emblématiques Régionaux",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : Plats Emblématiques Régionaux. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "La France dans l'assiette : 10 plats incontournables",
+    "intro": "La France n'a pas une cuisine nationale — elle en a des dizaines. Chaque région défend ses plats avec une fierté quasi-identitaire, et les débats sur la «vraie» recette du cassoulet ou de la bouillabaisse sont des sports nationaux. Cette leçon explore les plats régionaux emblématiques qui font la richesse de la gastronomie française : leurs origines, leurs secrets, leurs codes sociaux — et comment les commander intelligemment.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**Plats Emblématiques Régionaux** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "La cuisine régionale, résistance à l'uniformisation",
+        "body": "La diversité culinaire régionale française est le fruit de siècles d'isolement géographique, de différences climatiques et de cultures locales distinctes. Avant le chemin de fer (XIXe siècle) et l'automobile (XXe siècle), les vallées et les provinces vivaient en relative autarcie alimentaire : on mangeait ce que la terre locale produisait. La **Bretagne** vivait du blé noir, des fruits de mer et du beurre salé. Le **Périgord** du foie gras, de la truffe et du confit de canard. La **Savoie** du fromage fondu, des pommes de terre et du jambon. Cette diversité s'est construite sur des siècles.\n\nLe **«régionalisme culinaire»** prit une dimension politique au XXe siècle. Face à la standardisation alimentaire (montée des supermarchés, fast-foods, produits industriels), les régions revendiquèrent leurs spécialités comme marqueurs d'identité. Les **Labels Rouges**, les **AOC/AOP**, les **IGP** (Indications Géographiques Protégées) furent créés pour protéger la typicité des produits locaux. Aujourd'hui, une poulet de Bresse AOP, un jambon de Bayonne IGP ou une lentille verte du Puy AOP bénéficient d'une protection juridique contre les imitations.\n\nLes **«guerres gastronomiques»** entre régions sont une tradition française : la querelle du cassoulet entre Castelnaudary, Carcassonne et Toulouse ; la dispute sur la vraie bouillabaisse marseillaise ; les revendications corses sur le fromage brocciu ; la fierté basque autour du piment d'Espelette (AOP). Ces disputes, souvent menées avec humour, révèlent à quel point la gastronomie est constitutive de l'identité régionale française."
       },
       {
-        "theme": "Région",
+        "theme": "Géographie",
         "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
+        "title": "Dix plats, dix régions",
+        "body": "Un panorama des plats régionaux emblématiques :\n\n**Bretagne — Galette de sarrasin :** Fine crêpe à base de farine de blé noir (sarrasin), garnie de jambon, d'œuf et de fromage («galette complète»). Accompagnée de cidre breton. La galette se plie en carré ; la crêpe sucrée (au beurre, confiture, chocolat) se plie en triangle.\n\n**Normandie — Sole meunière :** Filet de sole passé dans la farine («meunière») et poêlé au beurre, servi avec du citron et du persil. La simplicité normande par excellence : un produit parfait, le moins d'artifices possible.\n\n**Alsace — Choucroute garnie :** Chou fermenté mijoté avec saucisses de Strasbourg, jarret et lard fumé. Servi avec des pommes de terre vapeur et de la moutarde. Accompagnement : un Riesling sec d'Alsace.\n\n**Périgord — Confit de canard :** Cuisse de canard cuite longuement dans sa propre graisse, puis dorée à la poêle. Servi avec des pommes sarladaises (pommes de terre sautées à la graisse de canard et à l'ail). Concentré de saveurs du Sud-Ouest.\n\n**Bourgogne — Bœuf bourguignon :** Bœuf mijoté au vin rouge de Bourgogne avec lardons, champignons et petits oignons. Plat emblème de la cuisine mijotée française, popularisé mondialement par Julia Child. La cuisson lente (3 heures minimum) est indispensable.\n\n**Bretagne — Homard à l'armoricaine :** Homard breton flambé au cognac, mijoté dans une sauce tomate-vin blanc avec échalotes et estragon. Plat festif, symbole du luxe maritime breton.\n\n**Provence — Ratatouille :** Ragoût de légumes d'été (aubergines, courgettes, tomates, poivrons, oignons) cuits à l'huile d'olive avec herbes de Provence. Plat végétarien emblématique du Midi, popularisé par le film Pixar.\n\n**Savoie — Fondue savoyarde :** Mélange de fromages savoyards fondus (Comté, Beaufort, Emmental, Gruyère) dans du vin blanc sec, dans lequel on trempe des morceaux de pain. Plat convivial par excellence, à préparer et manger à table en groupe.\n\n**Lyonnais — Quenelle de brochet :** Farce de brochet (poisson de rivière) moulée en forme d'œuf, pochée puis gratinée dans une sauce Nantua (crème de homard). Spécialité lyonnaise de haute volée, signature des bouchons réputés.\n\n**Pays Basque — Piperade au jambon de Bayonne :** Mélange d'œufs brouillés avec des poivrons, tomates, oignons et piment d'Espelette, servi avec du jambon de Bayonne (IGP). Plat basque par excellence, savoureux et coloré."
       },
       {
-        "theme": "Politique & Social",
+        "theme": "Politique",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "La bataille des labels et des recettes protégées",
+        "body": "La protection des recettes et des produits régionaux est un enjeu politique sérieux en France. Les **IGP** (Indications Géographiques Protégées) protègent le lien entre un produit et son territoire sans définir toute la méthode de fabrication — un niveau de protection moins fort que l'AOP. Exemples : **jambon de Bayonne** IGP, **lentilles vertes du Puy** IGP, **noix de Grenoble** IGP.\n\nCertaines **recettes** font l'objet d'une protection informelle par l'usage et la réputation, sans cadre juridique strict. La **«charte de la bouillabaisse marseillaise»** (1980) fut établie par les restaurateurs de Marseille pour définir les ingrédients obligatoires (au moins 4 espèces de poissons de roche de Méditerranée, safran, fenouil, pastis) et distinguer la vraie bouillabaisse des imitations touristiques. Cette charte n'a pas de force légale — mais elle a une force morale considérable.\n\nLes **concours gastronomiques** jouent un rôle politique : le **Meilleur Ouvrier de France** (MOF), concours organisé tous les 3 ans depuis 1924, décerne une distinction aux artisans d'excellence dans des dizaines de métiers (cuisine, pâtisserie, boulangerie, fromagerie, charcuterie). Les MOF portent un col tricolore qui les identifie — c'est l'équivalent gastronomique de la Légion d'honneur. Un chef MOF est une caution d'excellence que les établissements affichent fièrement."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Vie quotidienne",
+        "icon": "🏠",
+        "title": "Commander et manger les plats régionaux",
+        "body": "Quelques conseils pratiques pour naviguer dans la gastronomie régionale française :\n\n**«Faire régional»** : en France, lorsque vous êtes dans une région, mangez les spécialités locales. Commander une pizza à Bordeaux ou un hamburger en Normandie n'est pas interdit — mais c'est passer à côté de l'essentiel. Les restaurants gastronomiques et les brasseries de qualité mettent en avant les produits locaux ; c'est leur carte de visite.\n\n**La cuisson de la viande** : les Français ont une relation précise à la cuisson du bœuf. «Bleu» = à peine saisi, cœur presque cru (30 secondes de chaque côté). «Saignant» = cœur rouge, légèrement chaud. «À point» = rose au centre, uniformément chaud — c'est la cuisson idéale française. «Bien cuit» = cuit uniformément, sans rosé. Commander son steak «bien cuit» dans un restaurant gastronomique peut surprendre le chef.\n\n**Les sauces** sont une science française : la **béarnaise** (beurre clarifié, jaunes d'œuf, estragon) pour le steak ; la **beurre blanc** (beurre, échalotes, vin blanc) pour le poisson ; la **sauce Périgueux** (truffe noire, porto) pour les viandes festives ; la **rouille** (ail, safran, piment) pour la bouillabaisse. Un bon restaurant fait ses sauces maison — demandez-le.\n\n**Les abats** : la France est l'un des rares pays occidentaux à conserver une vraie culture des abats. Ris de veau (thymus), foie de veau, rognons (reins), andouillette (saucisse de tripes), tête de veau (fromage de tête) — ces plats, déconcertants pour les étrangers, sont des spécialités appréciées des amateurs. Ne pas les refuser d'emblée si vous les rencontrez — au moins goûter est une marque d'ouverture culturelle."
       },
       {
-        "theme": "Culture artistique",
+        "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "title": "La cuisine régionale dans la culture populaire",
+        "body": "Les plats régionaux sont devenus des icônes culturelles qui dépassent la gastronomie. La **ratatouille** doit une grande partie de sa notoriété mondiale au film Pixar (2007) — qui l'a sortie de la cuisine provençale pour en faire un symbole universel de la créativité culinaire française. Le **cassoulet** inspire des romans, des films, des querelles de villages. La **bouillabaisse** de Marseille est un personnage à part entière dans la littérature régionale provençale.\n\nLa série de bandes dessinées **Astérix** (Goscinny et Uderzo, depuis 1959) utilise le festin gaulois comme moment culminant de chaque album — la gastronomie est la récompense des héros. Les **«bandes dessinées gastronomiques»** comme *Les Gourmandises d'Astérix* ou *Ratatouille* de Clément Oubrerie montrent l'inscription profonde de la cuisine dans la culture populaire française.\n\n**«Le Guide du Routard»** (depuis 1973), guide de voyage populaire français, accorde autant de place aux adresses gastronomiques qu'aux monuments touristiques — preuve que pour les Français, bien manger fait autant partie du voyage que visiter une cathédrale. Les restaurants «coup de cœur» du Routard sont souvent des endroits simples mais excellents : la cuisine du marché, les bistrots de village, les restaurants de mère (les «mères lyonnaises», tradition culinaire des auberges tenues par des femmes cuisinières)."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "title": "Les recettes emblématiques et leurs secrets",
+        "body": "Chaque plat emblématique a ses secrets et ses règles non-dites :\n\n**Bœuf bourguignon :** La règle d'or : utiliser un vrai vin de Bourgogne (pas le moins cher, mais pas le plus cher non plus — un Bourgogne Villages suffit). La marinade préalable de la viande (24 heures dans le vin avec aromates) est souvent omise dans les recettes rapides — les puristes l'estiment indispensable. La cuisson lente (3 heures à four doux) est non-négociable.\n\n**Galette bretonne :** La farine de sarrasin (blé noir) doit être pure, sans mélange de farine de blé. Une vraie galette n'est pas dorée à l'œuf — elle reste mate et légèrement rugueuse. La «galette complète» (jambon-œuf-fromage) est l'alpha et l'oméga du crêpier breton. L'accompagner d'un bol de cidre demi-sec breton est la combinaison parfaite.\n\n**Fondue savoyarde :** L'alcool traditionnel dans la fondue est du vin blanc sec de Savoie (Apremont, Chignin) — jamais du kirsch dans la fondue elle-même (le kirsch peut accompagner, mais est facultatif). La règle sociale : si on perd son pain dans le fromage fondu, on offre une tournée ! Cette règle varie selon les familles, mais ajoute à la convivialité.\n\n**Confit de canard :** Un «vrai» confit se conserve plusieurs semaines dans sa graisse — c'était la méthode de conservation avant le réfrigérateur. Un confit en boîte ou en bocal (fréquent au supermarché) n'a pas le même goût qu'un confit frais doré à la poêle. Le secret : sécher la peau avant de la dorer à feu vif pour obtenir une peau croustillante."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à Plats Emblématiques Régionaux :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**Un conseil d'or pour s'intégrer gastronomiquement en France : ne jamais dénigrer la cuisine d'une région devant un habitant de cette région.** Dire «Je n'aime pas le cassoulet» à Toulouse, ou «La bouillabaisse est trop chère et trop compliquée» à Marseille, c'est toucher à quelque chose d'identitaire. La réaction peut être froide.\n\nEn revanche, demander «Quelle est votre spécialité ici ?» ou «Qu'est-ce que vous me conseilleriez de goûter que je ne trouve pas ailleurs ?» est une ouverture formidable. Les Français adorent partager leur patrimoine culinaire régional — et vous obtiendrez souvent des recommandations de restaurants que vous n'auriez jamais trouvés dans un guide.\n\nPour un Russe, certains plats français peuvent sembler «riches» (beaucoup de beurre, de crème, de graisse de canard). C'est vrai — la cuisine française traditionnelle n'est pas légère. Mais les quantités servies sont généralement raisonnables, et la règle de trois plats (entrée-plat-dessert) permet de doser. La France a un paradoxe alimentaire célèbre : les Français mangent riche mais restent minces — attribué à la qualité des produits, à la culture du repas assis, et aux portions mesurées."
     },
     "glossary": [
-      {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
-      },
-      {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
-      },
-      {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
-      },
-      {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
-      },
-      {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
-      },
-      {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
-      }
+      { "term": "L'IGP (Indication Géographique Protégée)", "definition": "Label européen protégeant le lien entre un produit et son territoire d'origine, sans définir intégralement la méthode de fabrication. Niveau de protection intermédiaire entre AOP et label simple. Ex : jambon de Bayonne IGP." },
+      { "term": "Le Meilleur Ouvrier de France (MOF)", "definition": "Concours triennal depuis 1924 récompensant des artisans d'excellence dans des dizaines de métiers (cuisine, pâtisserie, boulangerie...). Les MOF portent un col tricolore. Équivalent gastronomique de la Légion d'honneur." },
+      { "term": "La cuisson «à point»", "definition": "Cuisson idéale du bœuf selon les Français : rose au centre, uniformément chaud. Entre «saignant» (rouge) et «bien cuit» (sans rosé). Commander «à point» dans un restaurant français est rarement contesté." },
+      { "term": "Le confit", "definition": "Technique de conservation : cuire lentement une viande (canard, oie, porc) dans sa propre graisse, puis la conserver immergée dans cette graisse refroidie. Méthode du Périgord et du Sud-Ouest, antérieure au réfrigérateur." },
+      { "term": "La fondue savoyarde", "definition": "Mélange de fromages fondus dans du vin blanc sec (Comté, Beaufort, Emmental), dans lequel on trempe des morceaux de pain. Plat convivial par excellence de la cuisine de montagne savoyarde." },
+      { "term": "Les abats", "definition": "Organes comestibles des animaux (foie, rognons, ris, tripes, cervelle). La France est l'un des rares pays occidentaux à maintenir une vraie culture culinaire des abats. Plats souvent méconnus et appréciés des gastronomes." }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «Plats Emblématiques Régionaux» dans la République française ?",
+        "question": "Quelle est la composition d'une «galette complète» en Bretagne ?",
         "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
+          "Beurre, sucre et confiture de fraises",
+          "Jambon, œuf et fromage sur une crêpe de sarrasin",
+          "Andouille de Guémené, pommes et crème fraîche",
+          "Saumon fumé, crème fraîche et aneth"
         ],
         "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
+        "explanation": "La «galette complète» bretonne est une crêpe de farine de sarrasin (blé noir) garnie de jambon, d'un œuf (souvent sur le plat) et de fromage râpé — la garniture classique et incontournable des crêperies bretonnes. On l'accompagne d'un bol de cidre breton, demi-sec de préférence."
       },
       {
-        "question": "En France, la laïcité signifie que...",
+        "question": "Quelle est la cuisson «à point» du bœuf selon les standards français ?",
         "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
-        ],
-        "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
-      },
-      {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Cœur presque cru, à peine saisi (cuisson «bleu»)",
+          "Cœur rouge et légèrement chaud (cuisson «saignant»)",
+          "Rose au centre, uniformément chaud",
+          "Cuit uniformément, sans rosé (cuisson «bien cuit»)"
         ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
+        "explanation": "En France, «à point» désigne la cuisson idéale du bœuf : rose au centre mais uniformément chaud, entre saignant et bien cuit. C'est la cuisson la plus souvent recommandée par les chefs français pour apprécier pleinement la saveur et la tendreté de la viande."
       },
       {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
+        "question": "Qu'est-ce que le «Meilleur Ouvrier de France» (MOF) ?",
         "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
-        ],
-        "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
-      },
-      {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
-        "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
+          "Le titre du chef le plus étoilé Michelin de l'année",
+          "Un concours triennal récompensant les artisans d'excellence dans de nombreux métiers",
+          "La certification officielle des restaurants utilisant des produits locaux",
+          "Le syndicat national des cuisiniers professionnels"
         ],
         "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "Le MOF (Meilleur Ouvrier de France) est un concours organisé tous les 3 ans depuis 1924, récompensant des artisans d'excellence dans des dizaines de métiers : cuisine, pâtisserie, boulangerie, fromagerie, charcuterie... Les lauréats portent un col tricolore distinctif — c'est l'équivalent gastronomique de la Légion d'honneur."
+      },
+      {
+        "question": "Quelle est la règle de la fondue savoyarde si on perd son pain dans le fromage ?",
+        "options": [
+          "On doit manger le pain perdu avec une cuillère spéciale",
+          "On offre une tournée à toute la table — règle festive de convivialité",
+          "On est disqualifié et ne peut plus participer à la fondue",
+          "On doit changer son morceau de pain et payer un supplément"
+        ],
+        "correct_index": 1,
+        "explanation": "La règle traditionnelle (et joyeuse) de la fondue savoyarde : si on perd son morceau de pain dans le fromage fondu, on offre une tournée à toute la table ! Cette règle varie selon les familles et les convives, mais contribue à l'esprit convivial et festif du plat. La fondue est un plat de partage et de célébration."
+      },
+      {
+        "question": "Quelle région française est associée au confit de canard et aux pommes sarladaises ?",
+        "options": [
+          "La Bretagne",
+          "La Normandie",
+          "Le Périgord (Dordogne)",
+          "La Bourgogne"
+        ],
+        "correct_index": 2,
+        "explanation": "Le confit de canard (cuisse cuite dans sa propre graisse) et les pommes sarladaises (pommes de terre sautées à la graisse de canard et à l'ail, de Sarlat-la-Canéda) sont les spécialités emblématiques du Périgord (département de la Dordogne, Nouvelle-Aquitaine). La région est aussi célèbre pour la truffe noire et le foie gras."
       }
     ]
   },
   "ru": {
     "module_title": "Французская гастрономия",
     "lesson_title": "Культовые региональные блюда",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Культовые региональные блюда. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_subtitle": "Франция в тарелке: 10 обязательных блюд",
+    "intro": "Во Франции нет одной национальной кухни — их десятки. Каждый регион защищает свои блюда с почти идентитарной гордостью, а споры о «настоящем» рецепте кассуле или буйабеса — подлинный национальный спорт. Этот урок знакомит с культовыми региональными блюдами, составляющими богатство французской гастрономии: их происхождением, секретами, социальными кодами — и тем, как грамотно их заказывать.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Культовые региональные блюда** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "Региональная кухня — сопротивление унификации",
+        "body": "Французское кулинарное региональное разнообразие — плод столетий географической изолированности, климатических различий и самобытных местных культур. До появления железной дороги (XIX век) и автомобиля (XX век) долины и провинции жили в относительной продовольственной замкнутости: ели то, что давала местная земля. **Бретань** жила гречихой, морепродуктами и солёным маслом. **Перигор** — фуа-гра, трюфелем и утиным конфи. **Савойя** — расплавленными сырами, картофелем и ветчиной. Это разнообразие копилось веками.\n\n**«Кулинарный регионализм»** приобрёл политическое измерение в XX веке. Перед лицом пищевой стандартизации (рост супермаркетов, фастфуд, промышленные продукты) регионы объявили свои специалитеты маркерами идентичности. **Знак качества «Красная этикетка» (Label Rouge)**, **AOC/AOP**, **IGP** (Защищённые географические указания) были созданы для охраны типичности местных продуктов. Сегодня курица из Бресса AOP, байоннская ветчина IGP или зелёная чечевица из Пюи AOP защищены юридически от имитаций.\n\n**«Гастрономические войны»** между регионами — французская традиция: спор о кассуле между Кастельнодари, Каркассоном и Тулузой; разногласия о настоящем марсельском буйабесе; корсиканские претензии на сыр броччу; баскская гордость вокруг перца Эспелет (AOP). Эти споры, часто ведущиеся с юмором, обнажают, насколько гастрономия конститутивна для региональной идентичности Франции."
       },
       {
-        "theme": "Регион",
+        "theme": "География",
         "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
+        "title": "Десять блюд — десять регионов",
+        "body": "Панорама культовых региональных блюд:\n\n**Бретань — Гречневая галета:** Тонкий блин из гречневой муки, начинённый ветчиной, яйцом и сыром («полная галета»). Подаётся с бретонским сидром. Галета складывается квадратом; сладкий блин (с маслом, джемом, шоколадом) — треугольником.\n\n**Нормандия — Подошва по-мёньер:** Филе камбалы, обваленное в муке («меньер»), жаренное на масле, подаётся с лимоном и петрушкой. Нормандская простота: идеальный продукт, минимум ухищрений.\n\n**Эльзас — Шукрут гарни:** Квашеная капуста, тушённая со страсбургскими колбасками, рулькой и копчёным беконом. Подаётся с варёным картофелем и горчицей. Сопровождение: сухой эльзасский Рислинг.\n\n**Перигор — Утиный конфи:** Утиное бедро, долго томлённое в собственном жиру, затем поджаренное на сковороде. Подаётся с помм-сарладез (картофель, обжаренный в утином жиру с чесноком). Концентрат вкусов Юго-Запада.\n\n**Бургундия — Бёф-бургиньон:** Говядина, тушённая в бургундском красном вине с беконом, грибами и мелким луком. Культовое блюдо французской томлёной кухни, прославлённое по всему миру Джулией Чайлд. Медленное тушение (минимум 3 часа) обязательно.\n\n**Бретань — Омар по-арморикански:** Бретонский омар, фламбированный в коньяке, тушённый в соусе из томатов и белого вина с луком-шалот и эстрагоном. Праздничное блюдо, символ морской роскоши Бретани.\n\n**Прованс — Ратуатуй:** Летнее овощное рагу (баклажаны, кабачки, помидоры, перец, лук) на оливковом масле с прованскими травами. Культовое вегетарианское блюдо Юга, прославлённое мультфильмом Pixar.\n\n**Савойя — Фондю савуар:** Смесь савойских сыров, расплавленных в сухом белом вине (Конте, Бофор, Эмменталь, Грюйер), в которую обмакивают кусочки хлеба. Блюдо общения по преимуществу — готовится и едётся за столом компанией.\n\n**Лион — Кнели из щуки:** Нежный фарш из речной щуки, сформованный яйцеобразно, отварной, затем запечённый под соусом Нантюа (сливочный соус с омаром). Лионская специалитет высокого уровня, визитная карточка лучших бушонов.\n\n**Страна Басков — Пипрад с байоннской ветчиной:** Яичница-болтунья с перцем, томатами, луком и перцем Эспелет, подаётся с байоннской ветчиной (IGP). Классическое баскское блюдо — вкусное и яркое."
       },
       {
-        "theme": "Политика и общество",
+        "theme": "Политика",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Битва за лейблы и защищённые рецепты",
+        "body": "Защита региональных рецептов и продуктов — серьёзная политическая ставка во Франции. **IGP** (Защищённые географические указания) охраняют связь продукта с территорией, не задавая весь метод производства — менее строгий уровень, чем AOP. Примеры: **байоннская ветчина** IGP, **зелёная чечевица из Пюи** IGP, **орех из Гренобля** IGP.\n\nНекоторые **рецепты** защищены неформально — обычаем и репутацией, без строгих правовых рамок. **«Хартия марсельского буйабеса»** (1980) была установлена марсельскими рестораторами, чтобы определить обязательные ингредиенты (не менее 4 видов средиземноморской рыбы, шафран, фенхель, пастис) и отличить настоящий буйабес от туристических имитаций. Хартия не имеет юридической силы — но обладает огромной моральной властью.\n\n**Гастрономические конкурсы** играют политическую роль: **«Лучший ремесленник Франции»** (MOF), конкурс, проводимый каждые 3 года с 1924 года, присуждает отличие ремесленникам высочайшего уровня в десятках профессий (кулинария, кондитерское дело, хлебопечение, сыроделие, мясное дело). MOF носят трёхцветный воротник как знак отличия — гастрономический эквивалент ордена Почётного легиона."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Повседневная жизнь",
+        "icon": "🏠",
+        "title": "Заказывать и есть региональные блюда",
+        "body": "Несколько практических советов для ориентации в региональной французской гастрономии:\n\n**«Есть по-региональному»**: во Франции, оказавшись в регионе, ешьте местные специалитеты. Заказать пиццу в Бордо или гамбургер в Нормандии не запрещено — но это значит упустить главное. Качественные рестораны и брассри выставляют местные продукты как свою визитную карточку.\n\n**Степень прожарки мяса**: у французов точное отношение к прожарке говядины. «Bleu» = едва схваченное, почти сырое в середине (по 30 секунд с каждой стороны). «Saignant» = красное в центре, чуть тёплое. «À point» = розовое в центре, равномерно горячее — идеальная французская прожарка. «Bien cuit» = равномерно прожаренное, без розового. Заказать стейк «bien cuit» в гастрономическом ресторане может удивить шеф-повара.\n\n**Соусы** — французская наука: **беарнез** (топлёное масло, желтки, эстрагон) к стейку; **бёр-блан** (масло, лук-шалот, белое вино) к рыбе; **соус Перигё** (чёрный трюфель, портвейн) к праздничному мясу; **руй** (чеснок, шафран, перец) к буйабесу. Хороший ресторан делает соусы вручную — не стесняйтесь спросить.\n\n**Субпродукты**: Франция — одна из немногих западных стран, сохранивших подлинную культуру субпродуктов. Телячья зобная железа, телячья печень, почки, андуйет (колбаса из требухи), телячья голова — эти блюда, обескураживающие иностранцев, высоко ценятся знатоками. Не отказывайтесь сразу, если встретите их: хотя бы попробовать — признак культурной открытости."
       },
       {
-        "theme": "Художественная культура",
+        "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "title": "Региональная кухня в массовой культуре",
+        "body": "Региональные блюда превратились в культурные иконы, вышедшие за пределы гастрономии. **Ратуатуй** во многом обязан мировой известностью мультфильму Pixar (2007) — который вывел его из провансальской кухни и сделал универсальным символом французской кулинарной креативности. **Кассуле** вдохновляет романы, фильмы, деревенские споры. **Марсельский буйабес** — полноправный персонаж провансальской региональной литературы.\n\nСерия комиксов **«Астерикс»** (Госинни и Удерзо, с 1959 года) использует галльский пир как кульминационный момент каждого альбома — гастрономия есть награда для героев. **«Путеводитель Routard»** (с 1973 года), популярный французский путеводитель, уделяет гастрономическим адресам не меньше места, чем туристическим памятникам — доказательство того, что для французов хорошо поесть столь же важная часть путешествия, как посещение собора.\n\n«Рекомендованные» Routard рестораны часто оказываются простыми, но превосходными местами: кухня из рыночных продуктов, деревенские бистро, рестораны «мамаш» (традиция лионских трактирщиц — женщин-поваров, хозяек таверн)."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "title": "Культовые рецепты и их секреты",
+        "body": "У каждого культового блюда есть свои секреты и негласные правила:\n\n**Бёф-бургиньон:** Золотое правило: использовать настоящее бургундское вино (не самое дешёвое, но и не самое дорогое — Bourgogne Villages вполне достаточно). Предварительное маринование мяса (24 часа в вине с ароматами) нередко опускают в быстрых рецептах — пуристы считают его обязательным. Медленное тушение (3 часа на медленном жару) — непременное условие.\n\n**Бретонская галета:** Гречневая мука должна быть чистой, без примеси пшеничной. Настоящая галета не смазывается яйцом — она остаётся матовой и чуть шероховатой. «Полная галета» (ветчина-яйцо-сыр) — альфа и омега бретонского блинщика. Идеальное сочетание — с полусухим бретонским сидром.\n\n**Фондю савуар:** Традиционный алкоголь в фондю — сухое белое вино Савойи (Апремон, Шиньен) — никогда не кирш в самом фондю (кирш может подаваться отдельно, но необязателен). Социальное правило: если уронил хлеб в расплавленный сыр — угощаешь всех! Это правило варьируется от семьи к семье, но добавляет общительности.\n\n**Утиный конфи:** «Настоящий» конфи хранится несколько недель в жиру — это был способ консервации до холодильника. Консервированный конфи (частый в супермаркетах) уступает вкусом свежему, поджаренному на сковороде. Секрет: обсушить кожу перед обжариванием на сильном огне, чтобы получить хрустящую корочку."
       }
     ],
     "conseil_ami": {
-      "title": "Дружеский совет 🤝",
+      "title": "Совет друга 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Культовые региональные блюда»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**Золотой совет для гастрономической интеграции во Францию: никогда не критикуйте кухню региона в присутствии его жителей.** Сказать «Мне не нравится кассуле» в Тулузе или «Буйабес слишком дорого и слишком сложно» в Марселе — значит затронуть нечто идентитарное. Реакция может быть холодной.\n\nНапротив, спросить «Что здесь у вас есть особенного?» или «Что вы посоветуете попробовать такого, чего нет в другом месте?» — великолепное начало. Французы обожают делиться региональным кулинарным наследием, и вы нередко получите рекомендации ресторанов, которые никогда не нашли бы в путеводителе.\n\nДля россиянина некоторые французские блюда могут показаться «тяжёлыми» (много масла, сливок, утиного жира). Это правда — традиционная французская кухня не лёгкая. Но порции обычно разумные, а правило трёх блюд (закуска-горячее-десерт) позволяет дозировать. Франция обладает знаменитым пищевым парадоксом: французы едят жирно, но остаются стройными — это приписывают качеству продуктов, культуре сидячей трапезы и умеренным порциям."
     },
     "glossary": [
-      {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
-      },
-      {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
-      },
-      {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
-      },
-      {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
-      },
-      {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
-      },
-      {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
-      }
+      { "term": "IGP (Защищённое географическое указание)", "definition": "Европейский лейбл, охраняющий связь продукта с территорией происхождения без полного определения метода производства. Промежуточный уровень защиты между AOP и простым лейблом. Пример: байоннская ветчина IGP." },
+      { "term": "Лучший ремесленник Франции (MOF)", "definition": "Трёхлетний конкурс с 1924 года, награждающий ремесленников высочайшего уровня в десятках профессий (кулинария, кондитерское дело, хлебопечение...). Лауреаты носят трёхцветный воротник. Гастрономический эквивалент ордена Почётного легиона." },
+      { "term": "Прожарка «à point»", "definition": "Идеальная прожарка говядины по французским стандартам: розовое в центре, равномерно горячее. Между «saignant» (красное) и «bien cuit» (без розового). Заказать «à point» во французском ресторане редко вызывает возражения." },
+      { "term": "Конфи (confit)", "definition": "Техника консервации: медленно томить мясо (утку, гуся, свинину) в собственном жиру, затем хранить, погружённым в застывший жир. Метод Перигора и Юго-Запада, дохолодильниковый." },
+      { "term": "Фондю савуар", "definition": "Смесь расплавленных сыров в сухом белом вине (Конте, Бофор, Эмменталь), куда обмакивают кусочки хлеба. Блюдо общения по преимуществу — из савойской горной кухни." },
+      { "term": "Субпродукты (abats)", "definition": "Съедобные органы животных (печень, почки, зобная железа, требуха, мозг). Франция — одна из немногих западных стран с подлинной кулинарной культурой субпродуктов. Блюда, нередко недооценённые иностранцами, ценятся гастрономами." }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Культовые региональные блюда» во Французской республике?",
+        "question": "Из чего состоит «полная галета» (galette complète) в Бретани?",
         "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
+          "Масло, сахар и клубничный джем",
+          "Ветчина, яйцо и сыр на гречневом блине",
+          "Гемская колбаса, яблоко и сметана",
+          "Копчёный лосось, сметана и укроп"
         ],
         "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
+        "explanation": "«Полная галета» по-бретонски — это блин из гречневой муки, начинённый ветчиной, яйцом (чаще всего яичницей-глазуньей) и тёртым сыром. Классическая и неизменная начинка в бретонских блинных. Сопровождается чашкой полусухого бретонского сидра."
       },
       {
-        "question": "Светскость во Франции означает, что...",
+        "question": "Какова прожарка «à point» говядины по французским стандартам?",
         "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
-        ],
-        "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
-      },
-      {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Едва схваченное, почти сырое в середине (прожарка «bleu»)",
+          "Красное в центре, чуть тёплое (прожарка «saignant»)",
+          "Розовое в центре, равномерно горячее",
+          "Равномерно прожаренное, без розового (прожарка «bien cuit»)"
         ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
+        "explanation": "Во Франции «à point» — идеальная прожарка говядины: розовое в центре, но равномерно горячее, между «saignant» и «bien cuit». Именно её чаще всего рекомендуют французские шеф-повара, чтобы в полной мере оценить вкус и нежность мяса."
       },
       {
-        "question": "Членом-основателем какой международной организации является Франция?",
+        "question": "Что такое «Лучший ремесленник Франции» (MOF)?",
         "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
-        ],
-        "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
-      },
-      {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
-        "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
+          "Звание шеф-повара с наибольшим количеством звёзд Мишлен за год",
+          "Трёхлетний конкурс, награждающий ремесленников высочайшего уровня в многих профессиях",
+          "Официальная сертификация ресторанов, использующих местные продукты",
+          "Национальный профсоюз профессиональных поваров"
         ],
         "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "MOF (Meilleur Ouvrier de France) — конкурс, проводимый каждые 3 года с 1924 года, присуждающий отличие ремесленникам высочайшего уровня в десятках профессий: кулинария, кондитерское дело, хлебопечение, сыроделие... Лауреаты носят трёхцветный воротник — гастрономический эквивалент ордена Почётного легиона."
+      },
+      {
+        "question": "Каково правило фондю савуар, если уронил хлеб в расплавленный сыр?",
+        "options": [
+          "Достать хлеб специальной ложкой",
+          "Угостить всю компанию — праздничное правило общительности",
+          "Выбываешь из игры и не можешь больше есть фондю",
+          "Сменить кусок хлеба и доплатить"
+        ],
+        "correct_index": 1,
+        "explanation": "Традиционное (и весёлое) правило фондю савуар: если уронил кусок хлеба в расплавленный сыр — угощаешь всю компанию! Это правило варьируется от семьи к семье и от компании к компании, но участвует в создании праздничной атмосферы блюда. Фондю — блюдо совместного застолья и праздника."
+      },
+      {
+        "question": "Какой регион Франции связан с утиным конфи и помм-сарладез?",
+        "options": [
+          "Бретань",
+          "Нормандия",
+          "Перигор (Дордонь)",
+          "Бургундия"
+        ],
+        "correct_index": 2,
+        "explanation": "Утиный конфи (бедро, томлённое в собственном жиру) и помм-сарладез (картофель, жаренный в утином жиру с чесноком, из Сарла-ла-Канеда) — культовые специалитеты Перигора (департамент Дордонь, Новая Аквитания). Регион также знаменит чёрным трюфелем и фуа-гра."
       }
     ]
   }

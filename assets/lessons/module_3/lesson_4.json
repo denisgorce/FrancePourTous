@@ -3,276 +3,279 @@
     "module_id": 3,
     "lesson_id": 4,
     "module_icon": "⚖️",
-    "lesson_icon": "🕌",
-    "estimated_minutes": 12,
-    "difficulty": "intermédiaire",
+    "lesson_icon": "🕊️",
+    "estimated_minutes": 13,
+    "difficulty": "avancé",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "Vie publique — La laïcité en France",
+        "url": "https://www.vie-publique.fr/fiches/laicite-en-france"
+      },
+      {
+        "label": "Observatoire de la laïcité — Ressources officielles",
+        "url": "https://www.gouvernement.fr/la-laicite-en-questions"
+      },
+      {
+        "label": "Legifrance — Loi de 1905 sur la séparation",
+        "url": "https://www.legifrance.gouv.fr/loi-1905-separation-eglises-etat"
+      },
+      {
+        "label": "Ministère de l'Éducation — Laïcité à l'école",
+        "url": "https://www.education.gouv.fr/la-laicite-l-ecole-9575"
+      }
     ]
   },
   "fr": {
-    "module_title": "La République au Quotidien",
+    "module_title": "La République et l'État",
     "lesson_title": "La Laïcité au Quotidien",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : La Laïcité au Quotidien. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "Le principe qui sépare l'État et les religions — et ce qu'il implique concrètement",
+    "intro": "La laïcité est l'une des valeurs les plus fondamentales de la France — et l'une des moins bien comprises à l'étranger. Ce n'est ni l'athéisme obligatoire ni l'hostilité à la religion : c'est une règle du jeu républicaine qui sépare l'État de toute religion pour garantir la liberté de chacun. Mais dans la France contemporaine, sécularisée mais traversée de tensions identitaires, la laïcité est devenue un champ de bataille politique. Comprendre ses origines, ses applications concrètes et ses débats actuels est indispensable pour vivre en France.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**La Laïcité au Quotidien** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "De la monarchie catholique à la séparation de 1905",
+        "body": "Pendant des siècles, la France a été une **monarchie catholique** : le roi était sacré par l'Église, le catholicisme était la religion d'État, et les non-catholiques (protestants, juifs) subissaient des persécutions ou des restrictions. La **Révocation de l'Édit de Nantes** (1685) sous Louis XIV force à l'exil ou à la conversion des 300 000 protestants français (huguenots) — une catastrophe économique et humaine.\n\nLa Révolution de 1789 proclame la liberté de conscience et accorde les droits civiques aux protestants (1789) et aux juifs (1791). Napoléon signe le **Concordat de 1801** avec le Pape : l'État finance le clergé catholique en échange de son loyauté — un modus vivendi qui durera jusqu'en 1905.\n\nLa **loi du 9 décembre 1905** sur la séparation des Églises et de l'État, votée sous la IIIe République, est l'acte fondateur de la laïcité française. Elle proclame : «La République ne reconnaît, ne salarie ni ne subventionne aucun culte» — et garantit simultanément la liberté de conscience pour tous. Ce texte, rédigé sous l'impulsion d'Aristide Briand et de Francis de Pressensé, met fin à un siècle de guerre culturelle entre républicains et catholiques. Les effets concrets : les curés quittent les mairies, les crucifix disparaissent des tribunaux et des écoles, les processions religieuses dans la rue deviennent soumises à déclaration préalable."
       },
       {
-        "theme": "Région",
+        "theme": "Géographie",
         "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
+        "title": "La laïcité différente selon les territoires",
+        "body": "La laïcité française n'est pas uniforme sur tout le territoire. L'**Alsace-Moselle** (anciennement allemande lors du vote de 1905) applique toujours le **régime concordataire** : les pasteurs luthériens et réformés, les prêtres catholiques et les rabbins sont rémunérés par l'État ; l'enseignement religieux est obligatoire dans les écoles publiques (sauf dispense). Cette exception, jalousement défendue par les Alsaciens et Mosellans, est une anomalie dans la République laïque.\n\nLes **départements et régions d'outre-mer** ont des pratiques différentes : à la Réunion, île très catholique, les processions religieuses dans la rue sont une tradition inscrite dans le paysage urbain. En **Guyane**, le concordat s'applique partiellement. À **Mayotte**, île à très forte majorité musulmane, la laïcité est appliquée dans les institutions publiques, mais l'islam structure profondément la vie sociale.\n\nLes **grandes villes** sont généralement plus sécularisées que les zones rurales. La France reste un pays majoritairement catholique (55% se déclarent catholiques selon les sondages) mais dont la **pratique religieuse** s'est effondrée : moins de 10% des catholiques vont régulièrement à la messe. L'islam est la deuxième religion de France avec environ **5 à 6 millions de pratiquants** (8–9% de la population), suivi du protestantisme et du judaïsme."
       },
       {
-        "theme": "Politique & Social",
+        "theme": "Politique",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "La laïcité aujourd'hui : entre principe et débat politique",
+        "body": "La laïcité, longtemps perçue comme un consensus républicain, est devenue depuis les années 2000 un terrain de **conflits politiques intenses**, principalement autour de la question de l'islam et du port de signes religieux.\n\n**Le voile islamique** est au cœur des débats depuis 1989 (l'«affaire du foulard» de Creil). En **2004**, une loi interdit les «signes ostensibles d'appartenance religieuse» dans les écoles publiques (voile islamique, kippa juive, grande croix chrétienne). En **2010**, une loi interdit le port du **niqab** (voile intégral couvrant le visage) dans l'espace public — une loi unique en Europe. En **2023**, une circulaire interdit le port de l'**abaya** (robe longue islamique) dans les établissements scolaires — mesure contestée.\n\n**Les abayas, la piscine, la restauration scolaire** : des dizaines de conflits locaux opposent chaque année des usagers réclamant des aménagements religieux (menu halal à la cantine, fermeture des piscines pour des créneaux réservés à un seul sexe) et des élus laïques refusant ces aménagements. Ces conflits, souvent médiatisés, alimentent une perception de la laïcité comme arme politique contre l'islam — une perception que les partisans de la laïcité «ouverte» (qui acceptent certains aménagements) contestent vigoureusement face aux partisans de la laïcité «stricte».\n\nLe **Conseil d'État** et la jurisprudence ont progressivement précisé les contours : la laïcité s'impose aux **agents du service public** (fonctionnaires, enseignants) mais **pas aux usagers** des services publics (les élèves peuvent porter certains signes religieux ; les patients à l'hôpital peuvent demander un repas conforme à leurs prescriptions religieuses)."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Vie quotidienne",
+        "icon": "🏠",
+        "title": "La laïcité dans la vie pratique",
+        "body": "La laïcité se manifeste concrètement dans la vie quotidienne de nombreuses façons. À l'**école publique**, les enseignants ne peuvent porter aucun signe religieux visible. Les élèves ne peuvent porter de signes «ostensibles» (définition juridique : qui cherchent à imposer la religion d'autrui). Les programmes scolaires traitent de toutes les religions de façon équidistante — dans le cadre de l'**histoire des religions**, discipline obligatoire.\n\nDans les **hôpitaux publics**, les soignants ne peuvent porter de signe religieux. Mais les patients conservent leurs droits : ils peuvent refuser certains soins pour raisons religieuses (sauf urgence vitale), demander un soignant de même sexe (dans la mesure du possible), recevoir une alimentation conforme à leurs prescriptions. Une circulaire de **2005** (dite «circulaire Kouchner») a longtemps régi ces droits — depuis remplacée par une charte du patient.\n\nDans les **entreprises privées**, la laïcité ne s'applique pas directement — ce sont les règles du droit du travail qui régissent les situations. Un employeur privé ne peut en principe pas interdire un signe religieux, sauf s'il peut justifier d'une «clause de neutralité» dans le règlement intérieur (admise par la CJUE en 2017) ou d'une contrainte de sécurité ou d'hygiène. Cette distinction public/privé est souvent mal comprise et source de malentendus."
       },
       {
-        "theme": "Culture artistique",
+        "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "title": "La laïcité dans la culture et l'art français",
+        "body": "La laïcité a profondément structuré la culture française. La littérature, le cinéma, la chanson française peuvent aborder la religion librement, la critiquer, s'en moquer — c'est l'esprit de **Voltaire** («Écrasez l'infâme !» — sa formule contre l'obscurantisme religieux) qui irrigue encore la culture française.\n\nLe **blasphème** n'est pas un délit en France (depuis 1881). Le magazine satirique **Charlie Hebdo** — qui publie régulièrement des caricatures de toutes les religions, dont des caricatures de Mahomet — incarne cette tradition de la liberté d'expression sans limites religieuses. L'attentat contre Charlie Hebdo en **janvier 2015** (12 morts) a provoqué une mobilisation nationale massive («Je suis Charlie»), perçue comme une défense de la liberté de la presse et de la laïcité. Cet événement reste une blessure vive dans la société française.\n\nLes **fêtes légales** françaises illustrent l'ambiguïté laïque : sur les 11 jours fériés, 6 sont d'origine **catholique** (Pâques, Ascension, Pentecôte, Toussaint, Assomption, Noël) et 5 d'origine civile ou républicaine (1er janvier, 1er mai, 8 mai, 14 juillet, 11 novembre). La laïcité n'a jamais supprimé les fêtes catholiques inscrites dans le calendrier historique — ce que certains appellent un «laïcité à la carte» et ce que d'autres justifient par l'héritage culturel, non religieux, de ces jours."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "title": "Manger en France avec ses convictions religieuses",
+        "body": "La laïcité a des implications pratiques très concrètes dans l'alimentation. La **restauration scolaire publique** est en principe laïque : elle ne propose pas automatiquement de menus **halal** ou **casher**. Beaucoup de communes (notamment à gauche) ont cependant introduit des **menus de substitution** sans porc — permettant aux enfants de religion musulmane ou juive de manger quelque chose de conforme à leurs prescriptions. D'autres communes (notamment sous gestion de droite) refusent tout menu de substitution au nom de la laïcité — une décision légale mais controversée.\n\nLes **boucheries halal** (viande abattue selon les rites islamiques) et les boulangeries **casher** sont présentes dans toutes les grandes villes françaises. La France est le premier producteur mondial de viande halal certifiée en Europe. Environ 70% de la viande halal consommée en France est produite en France — un marché économique majeur.\n\n**Code social** : en France, inviter quelqu'un à dîner est un acte fort. Si vous invitez une personne croyante chez vous, il est considéré comme poli de **demander à l'avance** si elle a des restrictions alimentaires — sans que vous soyez obligé de les respecter dans votre cuisine privée (la laïcité ne s'applique pas au domicile privé). En revanche, servir délibérément du porc à quelqu'un qui vous a prévenu de ses restrictions religieuses serait perçu comme une impolitesse grave, voire une provocation."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à La Laïcité au Quotidien :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**La laïcité est le sujet le plus complexe à saisir pour un Russe en France** — et celui qui peut créer le plus de malentendus. En Russie, l'Église orthodoxe joue un rôle public très visible (présence aux cérémonies d'État, enseignement religieux à l'école), et la religion est souvent associée à l'identité nationale. En France, l'inverse est attendu dans l'espace public.\n\n**Ce qui peut surprendre** : un enseignant français qui porte une croix visible peut recevoir une remarque de sa direction. Un fonctionnaire de mairie qui dit «Joyeuses Pâques !» à des administrés peut être rappelé à la réserve. Ces exigences peuvent sembler excessives à un observateur extérieur — mais elles s'inscrivent dans une tradition républicaine de protection de la neutralité de l'État.\n\n**Ce qui ne change pas** : chez vous, dans les commerces, dans les associations privées, votre foi est votre affaire. La laïcité protège votre droit de croire et de pratiquer dans la sphère privée. Une mosquée peut fonctionner, une église peut organiser des processions dans la rue (avec déclaration préalable), une école juive confessionnelle privée peut recevoir des subventions (ce que beaucoup ne savent pas).\n\n**Conseil pratique** : si vous avez des questions sur vos droits religieux en France, le site du gouvernement *gouvernement.fr/la-laicite-en-questions* est une ressource officielle claire et accessible."
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
-      },
-      {
         "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
+        "definition": "Principe constitutionnel français de séparation stricte de l'État et des religions, issu de la loi de 1905 — garantit la liberté de conscience tout en imposant la neutralité religieuse aux agents du service public."
       },
       {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "term": "La loi de 1905",
+        "definition": "Loi du 9 décembre 1905 sur la séparation des Églises et de l'État — texte fondateur de la laïcité française, qui met fin au Concordat napoléonien et garantit la liberté de conscience."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "Le régime concordataire",
+        "definition": "Régime d'exception appliqué en Alsace-Moselle, issu du Concordat de Napoléon (1801) : l'État finance le clergé catholique, protestant et les rabbins, et l'enseignement religieux est assuré dans les écoles publiques."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
+        "term": "Le signe ostensible",
+        "definition": "Signe religieux «visible et qui marque l'appartenance à une religion» — notion juridique de la loi de 2004 interdisant ces signes dans les écoles publiques (voile, kippa, grande croix)."
       },
       {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "Charlie Hebdo",
+        "definition": "Magazine satirique français fondé en 1970, connu pour ses caricatures de toutes les religions — victime d'un attentat islamiste en janvier 2015 (12 morts) qui a provoqué une mobilisation nationale massive."
+      },
+      {
+        "term": "La clause de neutralité",
+        "definition": "Disposition du règlement intérieur d'une entreprise privée pouvant imposer la neutralité religieuse aux salariés en contact avec le public — admise par la Cour de Justice de l'UE depuis 2017."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «La Laïcité au Quotidien» dans la République française ?",
-        "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
-        ],
-        "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
+        "question": "En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée en France ?",
+        "options": ["1789", "1848", "1905", "1958"],
+        "correct_index": 2,
+        "explanation": "La loi du 9 décembre 1905 sur la séparation des Églises et de l'État est l'acte fondateur de la laïcité française. Elle met fin au Concordat napoléonien de 1801, proclame que «la République ne reconnaît, ne salarie ni ne subventionne aucun culte», et garantit la liberté de conscience pour tous."
       },
       {
-        "question": "En France, la laïcité signifie que...",
+        "question": "Qu'est-ce que le régime concordataire encore en vigueur en Alsace-Moselle ?",
         "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
+          "L'interdiction totale des signes religieux dans l'espace public",
+          "Le financement par l'État du clergé catholique, protestant et des rabbins",
+          "L'obligation pour les fonctionnaires d'appartenir à une religion",
+          "Un régime fiscal spécial pour les associations cultuelles"
         ],
         "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
+        "explanation": "L'Alsace-Moselle, annexée à l'Allemagne lors du vote de la loi de 1905, n'est pas soumise à cette loi. Elle applique toujours le Concordat de 1801 : l'État rémunère les prêtres catholiques, les pasteurs protestants et les rabbins, et l'enseignement religieux est obligatoire dans les écoles publiques."
       },
       {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
+        "question": "Que dit la loi de 2004 sur les signes religieux dans les écoles publiques ?",
         "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Elle interdit tous les signes religieux, y compris les petites croix discrètes",
+          "Elle interdit uniquement le voile islamique",
+          "Elle interdit les signes ostensibles d'appartenance religieuse (voile, kippa, grande croix)",
+          "Elle interdit les signes religieux aux enseignants uniquement"
         ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
+        "explanation": "La loi du 15 mars 2004 interdit dans les écoles publiques les signes «ostensibles» d'appartenance religieuse pour les élèves — c'est-à-dire ceux qui manifestent de façon visible une appartenance religieuse : voile islamique, kippa juive, grande croix chrétienne, turban sikh. Elle s'applique aux élèves, pas aux parents."
       },
       {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
+        "question": "Le blasphème est-il un délit en France ?",
         "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
-        ],
-        "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
-      },
-      {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
-        "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
+          "Oui, passible d'une amende et d'une peine de prison",
+          "Non, la liberté d'expression ne connaît pas de limite religieuse",
+          "Oui, mais uniquement pour les religions officiellement reconnues",
+          "Non, sauf s'il vise une communauté religieuse spécifique (délit de haine)"
         ],
         "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "Le blasphème n'est pas un délit en France depuis la loi de 1881 sur la liberté de la presse. La tradition voltairienne de critique de la religion est protégée. En revanche, l'incitation à la haine religieuse (ciblant des personnes en raison de leur religion) est un délit — distinction importante entre critiquer une religion et attaquer ses fidèles."
+      },
+      {
+        "question": "La laïcité s'applique-t-elle aux salariés d'une entreprise privée en France ?",
+        "options": [
+          "Oui, exactement comme dans la fonction publique",
+          "Non, jamais — la laïcité ne concerne que l'État",
+          "Partiellement : un employeur peut imposer une clause de neutralité sous conditions",
+          "Uniquement si l'entreprise travaille pour des marchés publics"
+        ],
+        "correct_index": 2,
+        "explanation": "La laïcité s'applique directement aux agents du service public. Dans le secteur privé, un employeur peut imposer une clause de neutralité dans son règlement intérieur si elle est justifiée (contact avec la clientèle, exigences de sécurité) — mais ce n'est pas automatique. La CJUE (2017) a encadré les conditions de cette clause."
       }
     ]
   },
   "ru": {
-    "module_title": "Республика в повседневной жизни",
+    "module_title": "Республика и государство",
     "lesson_title": "Светскость в повседневной жизни",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Светскость в повседневной жизни. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_subtitle": "Принцип разделения государства и религий — и что он означает на практике",
+    "intro": "Светскость — одна из наиболее фундаментальных ценностей Франции и одна из наименее понятных за рубежом. Это не обязательный атеизм и не враждебность к религии: это республиканское правило игры, отделяющее государство от любой религии ради гарантии свободы каждого. Однако в современной Франции, секуляризованной, но пронизанной идентичными напряжениями, светскость превратилась в политическое поле боя. Понять её истоки, конкретные применения и нынешние дискуссии необходимо для жизни во Франции.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Светскость в повседневной жизни** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "От католической монархии к разделению 1905 года",
+        "body": "На протяжении столетий Франция была **католической монархией**: король получал помазание от Церкви, католицизм был государственной религией, некатолики (протестанты, евреи) подвергались преследованиям или ограничениям. **Отмена Нантского эдикта** (1685) при Людовике XIV вынудила 300 000 французских протестантов (гугенотов) эмигрировать или обратиться в католичество — экономическая и человеческая катастрофа.\n\nРеволюция 1789 года провозгласила свободу совести и предоставила гражданские права протестантам (1789) и евреям (1791). Наполеон подписал **Конкордат 1801 года** с Папой: государство финансирует католическое духовенство в обмен на его лояльность — режим, просуществовавший до 1905 года.\n\n**Закон от 9 декабря 1905 года** об отделении церкви от государства, принятый при III Республике, — основополагающий акт французской светскости. Он провозглашает: «Республика не признаёт, не оплачивает и не субсидирует ни один культ» — и одновременно гарантирует всем свободу совести. Этот текст, созданный по инициативе Аристида Бриана и Фрэнсиса де Прессансе, кладёт конец столетию культурной войны между республиканцами и католиками. Конкретные последствия: кюре покидают мэрии, распятия исчезают из судов и школ, религиозные процессии на улицах требуют предварительного уведомления."
       },
       {
-        "theme": "Регион",
+        "theme": "География",
         "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
+        "title": "Светскость в зависимости от территории",
+        "body": "Французская светскость не единообразна на всей территории. **Эльзас-Мозель** (бывший германский при голосовании закона 1905 года) по-прежнему применяет **конкордатный режим**: лютеранские и реформатские пасторы, католические священники и раввины получают зарплату от государства; религиозное образование обязательно в государственных школах (если нет освобождения). Это исключение, ревностно оберегаемое эльзасцами и жителями Мозеля, является аномалией в светской Республике.\n\n**Заморские департаменты и регионы** имеют иную практику: на Реюньоне, острове с сильным католическим влиянием, религиозные процессии на улицах — традиция, вписанная в городской пейзаж. В **Гвиане** конкордат применяется частично. На **Майотте**, острове с преобладающим мусульманским населением, светскость соблюдается в государственных институтах, но ислам глубоко структурирует социальную жизнь.\n\n**Крупные города** в целом более секуляризованы, чем сельские районы. Франция остаётся преимущественно католической страной (55% называют себя католиками по данным опросов), однако **религиозная практика** рухнула: менее 10% католиков регулярно посещают мессу. Ислам — вторая религия Франции с примерно **5–6 млн верующих** (8–9% населения), за ним следуют протестантизм и иудаизм."
       },
       {
-        "theme": "Политика и общество",
+        "theme": "Политика",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Светскость сегодня: между принципом и политической полемикой",
+        "body": "Светскость, долгое время воспринимавшаяся как республиканский консенсус, с 2000-х годов превратилась в поле **острых политических конфликтов** — прежде всего вокруг ислама и ношения религиозных символов.\n\n**Исламский платок** — в центре дискуссий с 1989 года («дело о платке» в Крее). В **2004 году** закон запрещает «демонстративные знаки религиозной принадлежности» в государственных школах (исламский хиджаб, еврейская кипа, большой христианский крест). В **2010 году** закон запрещает ношение **никаба** (полного покрывала, закрывающего лицо) в общественных местах — уникальный в Европе закон. В **2023 году** циркуляр запрещает ношение **абаи** (длинного исламского платья) в школах — мера, оспоренная в судах.\n\n**Абаи, бассейн, школьная столовая**: ежегодно десятки местных конфликтов противопоставляют пользователей, требующих религиозных уступок (меню халяль в столовой, закрытие бассейнов в часы с раздельным купанием), и светских представителей власти, отказывающих в этих уступках. Эти конфликты, часто освещаемые в прессе, питают восприятие светскости как политического оружия против ислама — восприятие, которое сторонники «открытой» светскости (допускающей определённые уступки) решительно оспаривают в противовес сторонникам «строгой» светскости.\n\n**Государственный совет** и судебная практика постепенно уточнили границы: светскость обязательна для **государственных служащих** (чиновники, учителя), но **не для пользователей** государственных услуг (ученики могут носить некоторые религиозные символы; пациенты в больнице могут просить питание, соответствующее религиозным предписаниям)."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Повседневная жизнь",
+        "icon": "🏠",
+        "title": "Светскость в практической жизни",
+        "body": "Светскость проявляется конкретно в повседневной жизни множеством способов. В **государственной школе** учителя не вправе носить видимые религиозные символы. Ученики не могут носить «демонстративные» (юридическое определение: стремящиеся навязать религию другим) знаки. Школьные программы рассматривают все религии с одинаковой дистанцией — в рамках **истории религий**, обязательной дисциплины.\n\nВ **государственных больницах** медицинский персонал не вправе носить религиозные символы. Пациенты сохраняют свои права: они могут отказаться от некоторых видов лечения по религиозным соображениям (кроме экстренной помощи), просить медицинского работника того же пола (в пределах возможного), получать питание, соответствующее религиозным предписаниям. Циркуляр **2005 года** (так называемый «циркуляр Кушнера») долгое время регулировал эти права, впоследствии замещённый хартией пациента.\n\nВ **частных компаниях** светскость не применяется напрямую — ситуации регулируются нормами трудового права. Частный работодатель в принципе не может запрещать религиозный символ, если только не может обосновать «оговорку о нейтралитете» во внутреннем регламенте (допущена ЕСПЧ в 2017 году) или требованиями безопасности и гигиены. Это различие между публичной и частной сферой часто плохо понимается и порождает недоразумения."
       },
       {
-        "theme": "Художественная культура",
+        "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "title": "Светскость во французской культуре и искусстве",
+        "body": "Светскость глубоко структурировала французскую культуру. Литература, кино, французская chanson могут свободно обращаться к религии, критиковать её, высмеивать — это дух **Вольтера** («Раздавите гадину!» — его формула против религиозного мракобесия), по-прежнему питающий французскую культуру.\n\n**Богохульство** не является правонарушением во Франции (с 1881 года). Сатирический журнал **Charlie Hebdo** — регулярно публикующий карикатуры на все религии, включая карикатуры на Мухаммеда, — воплощает эту традицию свободы слова без религиозных ограничений. Теракт против Charlie Hebdo в **январе 2015 года** (12 погибших) вызвал массовую национальную мобилизацию («Je suis Charlie»), воспринятую как защита свободы прессы и светскости. Это событие остаётся живой раной во французском обществе.\n\n**Официальные праздники** Франции иллюстрируют светскую двойственность: из 11 нерабочих дней 6 имеют **католическое** происхождение (Пасха, Вознесение, Пятидесятница, День всех святых, Успение, Рождество) и 5 — гражданское или республиканское (1 января, 1 мая, 8 мая, 14 июля, 11 ноября). Светскость так и не упразднила католические праздники, вписанные в исторический календарь — что одни называют «светскостью à la carte», а другие обосновывают культурным, а не религиозным наследием этих дней."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "title": "Питание во Франции с учётом религиозных убеждений",
+        "body": "Светскость имеет очень конкретные практические последствия в области питания. **Государственное школьное питание** в принципе светское: оно автоматически не предлагает меню **халяль** или **кошер**. Тем не менее многие коммуны (прежде всего левые) ввели **альтернативное меню** без свинины — позволяющее детям мусульманского или еврейского вероисповедания есть что-то соответствующее их предписаниям. Другие коммуны (прежде всего под правым руководством) отказывают в любой альтернативе во имя светскости — юридически законное, но спорное решение.\n\n**Халяльные мясные лавки** (мясо, разделанное по исламскому обряду) и **кошерные булочные** представлены во всех крупных французских городах. Франция — крупнейший в Европе производитель сертифицированного халяльного мяса. Около 70% потребляемого во Франции халяльного мяса производится во Франции — крупный экономический рынок.\n\n**Социальный код**: во Франции пригласить кого-то на ужин — значимый жест. Если вы приглашаете верующего человека, вежливым считается **заранее спросить**, есть ли у него пищевые ограничения — не будучи обязанным соблюдать их на своей частной кухне (светскость не распространяется на частное жилище). Но намеренно подать свинину тому, кто предупредил вас о своих религиозных ограничениях, будет воспринято как грубость, а то и провокация."
       }
     ],
     "conseil_ami": {
       "title": "Дружеский совет 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Светскость в повседневной жизни»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**Светскость — самая сложная для понимания тема для россиянина во Франции** и та, что чаще всего порождает недоразумения. В России Православная церковь играет очень заметную публичную роль (присутствие на государственных церемониях, религиозное обучение в школах), и религия нередко ассоциируется с национальной идентичностью. Во Франции в публичном пространстве ожидается обратное.\n\n**Что может удивить**: французский учитель, носящий заметный крест, может получить замечание от руководства. Муниципальный чиновник, поздравляющий посетителей с Пасхой, может быть призван к сдержанности. Эти требования могут казаться чрезмерными со стороны — но они вписываются в республиканскую традицию защиты государственного нейтралитета.\n\n**Что не меняется**: у себя дома, в магазинах, в частных объединениях ваша вера — ваше личное дело. Светскость защищает ваше право верить и практиковать в частной сфере. Мечеть может работать, церковь может устраивать крестные ходы на улице (с предварительным уведомлением), частная конфессиональная еврейская школа может получать субсидии (что многие не знают).\n\n**Практический совет**: если у вас есть вопросы о ваших религиозных правах во Франции, сайт *gouvernement.fr/la-laicite-en-questions* — ясный и доступный официальный ресурс."
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "Светскость / laïcité",
+        "definition": "Французский конституционный принцип строгого разделения государства и религий, восходящий к закону 1905 года — гарантирует свободу совести, обязывая государственных служащих к религиозному нейтралитету."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "Закон 1905 года / loi de 1905",
+        "definition": "Закон от 9 декабря 1905 года об отделении церкви от государства — основополагающий акт французской светскости, упразднивший Наполеоновский конкордат и гарантировавший свободу совести."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "Конкордатный режим / régime concordataire",
+        "definition": "Исключительный режим, применяемый в Эльзасе-Мозеле, унаследованный от Конкордата Наполеона (1801): государство финансирует католическое и протестантское духовенство и раввинов, религиозное образование ведётся в государственных школах."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "Демонстративный символ / signe ostensible",
+        "definition": "Религиозный символ, «видимый и маркирующий принадлежность к религии» — юридическое понятие из закона 2004 года, запрещающего такие символы в государственных школах (хиджаб, кипа, большой крест)."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "Charlie Hebdo",
+        "definition": "Французский сатирический журнал, основанный в 1970 году, публикующий карикатуры на все религии — жертва исламистского теракта в январе 2015 года (12 погибших), вызвавшего массовую национальную мобилизацию."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "Оговорка о нейтралитете / clause de neutralité",
+        "definition": "Положение внутреннего регламента частной компании, которое может обязывать сотрудников, контактирующих с клиентами, к религиозному нейтралитету — допущено Судом ЕС с 2017 года при соблюдении условий."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Светскость в повседневной жизни» во Французской республике?",
-        "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
-        ],
-        "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
+        "question": "В каком году во Франции был принят закон об отделении церкви от государства?",
+        "options": ["1789", "1848", "1905", "1958"],
+        "correct_index": 2,
+        "explanation": "Закон от 9 декабря 1905 года об отделении церкви от государства — основополагающий акт французской светскости. Он упраздняет Наполеоновский конкордат 1801 года, провозглашает, что «Республика не признаёт, не оплачивает и не субсидирует ни один культ», и гарантирует всем свободу совести."
       },
       {
-        "question": "Светскость во Франции означает, что...",
+        "question": "Что представляет собой конкордатный режим, по-прежнему действующий в Эльзасе-Мозеле?",
         "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
+          "Полный запрет религиозных символов в общественных местах",
+          "Финансирование государством католического, протестантского духовенства и раввинов",
+          "Обязанность государственных служащих принадлежать к какой-либо религии",
+          "Особый налоговый режим для религиозных объединений"
         ],
         "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
+        "explanation": "Эльзас-Мозель, присоединённый к Германии во время принятия закона 1905 года, не подпадает под его действие. Здесь по-прежнему действует Конкордат 1801 года: государство выплачивает жалованье католическим священникам, протестантским пасторам и раввинам, а в государственных школах обязательно религиозное образование."
       },
       {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
+        "question": "Что предписывает закон 2004 года о религиозных символах в государственных школах?",
         "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Он запрещает все религиозные символы, включая небольшие дискретные кресты",
+          "Он запрещает только исламский платок",
+          "Он запрещает демонстративные знаки религиозной принадлежности (хиджаб, кипа, большой крест)",
+          "Он запрещает религиозные символы только учителям"
         ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
+        "explanation": "Закон от 15 марта 2004 года запрещает в государственных школах «демонстративные» знаки религиозной принадлежности для учеников — то есть явно выражающие религиозную принадлежность: исламский хиджаб, еврейскую кипу, большой христианский крест, сикхский тюрбан. Распространяется на учеников, а не на родителей."
       },
       {
-        "question": "Членом-основателем какой международной организации является Франция?",
+        "question": "Является ли богохульство правонарушением во Франции?",
         "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
-        ],
-        "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
-      },
-      {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
-        "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
+          "Да, карается штрафом и лишением свободы",
+          "Нет, свобода слова не знает религиозных ограничений",
+          "Да, но только применительно к официально признанным религиям",
+          "Нет, кроме случаев, когда оно направлено против конкретной религиозной общины (разжигание ненависти)"
         ],
         "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "Богохульство не является правонарушением во Франции с принятия закона 1881 года о свободе прессы. Вольтеровская традиция критики религии защищена. Однако подстрекательство к религиозной ненависти (направленное против людей по признаку вероисповедания) является правонарушением — важное различие между критикой религии и нападками на её последователей."
+      },
+      {
+        "question": "Распространяется ли светскость на сотрудников частной компании во Франции?",
+        "options": [
+          "Да, в точности как в государственном секторе",
+          "Нет, никогда — светскость касается только государства",
+          "Частично: работодатель может ввести оговорку о нейтралитете при определённых условиях",
+          "Только если компания работает по государственным заказам"
+        ],
+        "correct_index": 2,
+        "explanation": "Светскость непосредственно применяется к государственным служащим. В частном секторе работодатель может ввести оговорку о нейтралитете во внутреннем регламенте, если она обоснована (контакт с клиентами, требования безопасности) — но это не автоматично. Суд ЕС (2017) установил условия применения такой оговорки."
       }
     ]
   }

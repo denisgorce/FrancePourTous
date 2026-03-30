@@ -4,275 +4,288 @@
     "lesson_id": 1,
     "module_icon": "🗺️",
     "lesson_icon": "🗼",
-    "estimated_minutes": 12,
+    "estimated_minutes": 15,
     "difficulty": "intermédiaire",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "Paris.fr — Histoire et patrimoine",
+        "url": "https://www.paris.fr/pages/paris-en-bref-4785"
+      },
+      {
+        "label": "Culture.gouv — Monuments historiques de Paris",
+        "url": "https://www.culture.gouv.fr"
+      },
+      {
+        "label": "RATP — Le réseau parisien",
+        "url": "https://www.ratp.fr"
+      },
+      {
+        "label": "INSEE — Paris et l'Île-de-France",
+        "url": "https://www.insee.fr/fr/statistiques/chiffres-cles"
+      }
     ]
   },
   "fr": {
-    "module_title": "La France et ses Régions",
+    "module_title": "Paris et ses Régions",
     "lesson_title": "Paris, la Capitale",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : Paris, la Capitale. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "Le cœur battant d'une nation centralisée",
+    "intro": "Paris n'est pas une ville comme les autres. C'est une idée, une promesse, un mythe. Capitale politique, économique, culturelle et symbolique, Paris concentre en elle seule les paradoxes de la France entière : une ville d'une beauté universellement reconnue, mais aussi la plus dense, la plus coûteuse et la plus clivante du pays. Comprendre Paris, c'est comprendre la France — et comprendre pourquoi les Français eux-mêmes ont une relation ambivalente avec leur capitale.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**Paris, la Capitale** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "De Lutèce à la Ville Lumière",
+        "body": "Paris naît il y a plus de deux millénaires sous le nom de **Lutèce**, bourgade gauloise des Parisii installée sur une île de la Seine — l'actuelle Île de la Cité. Conquise par les Romains au Ier siècle av. J.-C., elle devient une ville prospère avec ses thermes, son forum et son amphithéâtre (visibles encore sous le quartier Latin). Les invasions barbares du Ve siècle la fragilisent, mais le roi **Clovis** (465–511) en fait la capitale des Francs, ancrant pour toujours son destin royal.\n\nAu Moyen Âge, Paris explose. La construction de **Notre-Dame de Paris** (1163–1345) et de la **Sainte-Chapelle** (1248) fait de la ville un centre de la chrétienté occidentale. L'Université de Paris — la **Sorbonne**, fondée en 1253 — en fait aussi un pôle intellectuel mondial. Mais Paris est aussi une ville de violences : les massacres de la Saint-Barthélemy (1572), la Fronde (1648–1653), puis la **Révolution française** (1789) qui débute avec la prise de la Bastille.\n\nLe Paris moderne naît avec **Haussmann** (1853–1870), préfet de la Seine sous Napoléon III. Il perce les grands boulevards, construit les égouts, installe l'eau courante, rase les taudis médiévaux. Ce Paris haussmannien — immeubles en pierre de taille, façades harmonieuses, avenues rectilignes — est celui que le monde entier reconnaît aujourd'hui. La **Tour Eiffel**, construite en 1889 pour l'Exposition Universelle, devient malgré les protestations des artistes l'icône mondiale de la France."
       },
       {
-        "theme": "Région",
+        "theme": "Géographie",
         "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
+        "title": "Paris et ses 20 arrondissements",
+        "body": "Paris intra-muros est étonnamment petite : **105 km²** seulement, soit moins grande que certaines banlieues. Elle est découpée en **20 arrondissements** numérotés en spirale (escargot) à partir de l'Île de la Cité. Le 1er arrondissement est le cœur historique (Louvre, Les Halles) ; le 20e est le plus populaire (Belleville, Père-Lachaise). Les arrondissements ont chacun leur caractère : le 16e est bourgeois et résidentiel, le 10e est cosmopolite et branché, le 18e grimpe jusqu'à Montmartre.\n\nLa **Seine** divise Paris en deux : la **Rive gauche** (rive Sud) est l'héritière de la tradition intellectuelle et universitaire — Saint-Germain-des-Prés, le Quartier Latin, la Sorbonne, l'École Normale Supérieure. La **Rive droite** (rive Nord) est plus commerçante et institutionnelle — les Champs-Élysées, l'Élysée, les Grands Boulevards, Le Marais.\n\nMais Paris, c'est aussi le **Grand Paris** : une métropole de **12 millions d'habitants** en Île-de-France. La banlieue parisienne est une réalité complexe, souvent réduite à tort aux seules «banlieues défavorisées». Versailles, Vincennes, Saint-Denis, Montreuil, La Défense — le premier quartier d'affaires d'Europe — font partie de cette constellation urbaine que les parisiens, parfois avec arrogance, appellent simplement «la banlieue»."
       },
       {
-        "theme": "Politique & Social",
+        "theme": "Politique",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "Le siège du pouvoir et la mairie de Paris",
+        "body": "Paris est le siège de tous les pouvoirs de la République. L'**Élysée** (8e arr.) est la résidence du Président de la République. **Matignon** (7e arr.) est celle du Premier ministre. L'**Assemblée nationale** (Palais Bourbon, 7e arr.) et le **Sénat** (Palais du Luxembourg, 6e arr.) représentent le Parlement. Le **Conseil d'État**, la **Cour de cassation** et la **Cour des comptes** sont les trois plus hautes juridictions, toutes parisiennes.\n\nParis est à la fois une **commune** et un **département** — le seul cas en France (département n°75). Depuis 1977, la ville est dirigée par un **Maire de Paris** élu. Jacques Chirac en fut le premier (avant de devenir Président), puis Bertrand Delanoë (2001–2014), puis **Anne Hidalgo** (depuis 2014, première femme à ce poste). La mairie siège à l'**Hôtel de Ville** (4e arr.).\n\nParis souffre d'un **centralisme extrême** : la région Île-de-France concentre 19% de la population française mais **31% du PIB national**. Ce déséquilibre est unique en Europe — Londres pèse certes beaucoup pour le Royaume-Uni, mais pas dans les mêmes proportions. Cette hyper-centralisation est une constante française depuis Louis XIV qui transféra sa cour à Versailles pour mieux contrôler la noblesse."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Vie quotidienne",
+        "icon": "🏠",
+        "title": "Vivre à Paris : le rêve et la réalité",
+        "body": "Paris est l'une des villes les plus chères d'Europe. Le loyer moyen pour un appartement de 2 pièces dépasse **1 500 €/mois** dans Paris intra-muros. Les **studios** se louent rarement en dessous de 900–1 000 €. Le prix au m² pour l'achat oscille entre **8 000 et 15 000 €** selon les arrondissements. Face à cette réalité, beaucoup de Parisiens vivent à 20–30 m², une surface impensable dans d'autres villes françaises.\n\nLe **métro parisien** (créé en 1900) est le pilier de la vie quotidienne : 16 lignes, 302 stations, 9 millions de voyages par jour. Avec le **RER** (Réseau Express Régional, 5 lignes) qui dessert la banlieue et les aéroports, et le **Transilien** (trains de banlieue), les Franciliens ont accès à un réseau parmi les plus denses du monde. Le ticket plein tarif est à **2,15 €**, mais le pass **Navigo mensuel** (environ 84 €) donne l'accès illimité à toute l'Île-de-France.\n\nLa vie parisienne se joue aussi dans les **marchés** (le marché d'Aligre, le marché Bastille, le marché Bio des Batignolles), les **cafés** où l'on peut rester des heures avec un seul café, les **bouquinistes** sur les quais de Seine, et les **terrasses** dès que le soleil pointe. L'**arrondissement** est l'unité de vie réelle : on fait ses courses, on va au cinéma, on fréquente les parcs dans son arrondissement. Paris est en réalité une fédération de villages qui s'ignorent."
       },
       {
-        "theme": "Culture artistique",
+        "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "title": "Paris, capitale mondiale de l'art",
+        "body": "Paris possède la plus haute densité de musées mondiaux au kilomètre carré. Le **Louvre** (1re visite obligatoire) est le musée le plus visité au monde avec 9 millions de visiteurs par an : la **Joconde** de Léonard de Vinci, la **Vénus de Milo**, la **Victoire de Samothrace** y sont exposées. L'entrée est **gratuite** pour les moins de 26 ans résidents de l'UE. Le **musée d'Orsay** (impressionnisme, 19e siècle) et le **Centre Pompidou** (art moderne et contemporain) complètent cette trinité muséale inégalée.\n\n**Montmartre** mérite une mention particulière : ce village en hauteur (la Butte) fut au tournant du XXe siècle le berceau de l'avant-garde artistique mondiale. Picasso, Modigliani, Utrillo, Toulouse-Lautrec y vivaient et y peignaient. Le **Moulin Rouge** (1889), lieu de naissance du cancan, témoigne de cette effervescence créatrice. La **Basilique du Sacré-Cœur**, construite en 1875–1914 en réparation des «péchés» de la Commune, domine la butte de sa blancheur immaculée.\n\nParis est aussi la capitale mondiale de la **mode** : les **maisons de couture** (Chanel, Dior, Louis Vuitton, Hermès, Givenchy) y ont leurs ateliers et défilent deux fois par an lors des **Semaines de la Mode**. Le **quartier du Marais** (3e et 4e arr.) concentre galeries d'art contemporain, boutiques de créateurs et l'**Hôtel de Sens**, vestige médiéval au cœur de Paris. Enfin, les **Champs-Élysées** — «la plus belle avenue du monde» selon les Français — mènent du jardin des Tuileries à l'**Arc de Triomphe**, commandé par Napoléon Ier."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "title": "Paris à table et dans la rue",
+        "body": "Paris compte plus de **40 000 restaurants**, dont une quarantaine d'étoilés Michelin. Mais la vraie gastronomie parisienne n'est pas dans les palaces — elle est dans la **brasserie de quartier**, le **bistrot**, le **café tabac**. La brasserie parisienne propose une formule déjeuner (entrée + plat ou plat + dessert) entre **13 et 20 €** — c'est le déjeuner de bureau de millions de Parisiens.\n\nQuelques incontournables parisiens : le **croque-monsieur** (toast jambon-fromage grillé), le **steak-frites**, le **tartare de bœuf**, les **escargots de Bourgogne** (en entrée), les **huîtres** au zinc des brasseries. Et bien sûr la **baguette** : le Parisien passe souvent chez le boulanger deux fois par jour (matin et soir) — une baguette «tradition» coûte moins d'un euro et doit être consommée dans les heures qui suivent l'achat.\n\nLe **café parisien** est une institution sociale. On n'y vient pas seulement pour boire un café (souvent serré, en tasse à espresso) mais pour lire le journal, travailler, regarder passer les gens. La terrasse est sacrée dès les premiers soleils de mars, même sous 10°C. Un **café au comptoir** est moins cher qu'en salle — c'est un droit non-écrit. Et commander «un café» signifie toujours un espresso noir en France — jamais un grand café allongé."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à Paris, la Capitale :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**«Paris n'est pas la France» — cette phrase, vous l'entendrez partout.** Les Parisiens ont une réputation d'arrogance, d'impatience et de froideur que les provinciaux cultivent avec délectation. Et il y a un fond de vérité : le rythme de Paris est plus rapide, les gens moins disponibles dans la rue.\n\nMais voici ce que les guides touristiques ne disent pas : **les Parisiens sont intimidés par les étrangers qui parlent français**. Si vous faites l'effort de dire «Bonjour, je cherche la rue X, s'il vous plaît», vous obtiendrez presque toujours une réponse aimable et détaillée. C'est le «Bonjour» initial qui est la clé — sans lui, la transaction sociale est rompue d'emblée.\n\nDans le métro, le silence est la norme absolue : ne pas parler fort, ne pas téléphoner (sauf en voix basse), ne pas manger de repas. Et si vous voulez vous faire des amis parisiens : proposez un **verre** (apéro), pas un dîner. Le dîner est intime et demande une vraie relation. Le verre, lui, est une invitation légère qui dit : «Je veux te connaître un peu mieux.»"
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
+        "term": "L'arrondissement",
+        "definition": "Subdivision administrative de Paris (20 au total), numérotée en spirale depuis l'Île de la Cité. Chaque arrondissement a un maire d'arrondissement."
       },
       {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
+        "term": "La Rive gauche / Rive droite",
+        "definition": "Division symbolique de Paris par la Seine. La Rive gauche (sud) est associée à l'université et aux intellectuels ; la Rive droite (nord) au commerce et aux institutions."
       },
       {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "term": "Le Navigo",
+        "definition": "Pass mensuel ou annuel donnant un accès illimité à tous les transports en commun d'Île-de-France (métro, RER, bus, tramway, train de banlieue)."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "L'Haussmannisation",
+        "definition": "Transformation radicale de Paris sous le baron Haussmann (1853–1870) : grands boulevards, immeubles en pierre de taille de 6 étages, parcs, égouts. Ce style architectural est la signature visuelle de Paris."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
+        "term": "La brasserie",
+        "definition": "Restaurant traditionnel parisien servant des plats simples à toute heure (contrairement au restaurant gastronomique qui a des horaires stricts). Décor souvent en bois, zinc et miroirs."
       },
       {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "La baguette tradition",
+        "definition": "Pain français artisanal à la croûte croustillante, protégé par un décret de 1993 qui interdit additifs et congélation. Distinguer la «tradition» de la baguette ordinaire est un signe d'intégration."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «Paris, la Capitale» dans la République française ?",
+        "question": "Quel préfet a transformé radicalement Paris au XIXe siècle en perçant les grands boulevards ?",
         "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
+          "Jules Ferry",
+          "Le baron Haussmann",
+          "Napoléon Bonaparte",
+          "Georges Pompidou"
         ],
         "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
+        "explanation": "Le baron Haussmann, préfet de la Seine de 1853 à 1870 sous Napoléon III, a démoli 20 000 immeubles vétustes et construit les grands axes du Paris actuel. Ses travaux ont aussi créé les égouts, l'eau courante et les parcs Monceau, des Buttes-Chaumont et Montsouris."
       },
       {
-        "question": "En France, la laïcité signifie que...",
+        "question": "Combien d'arrondissements compte Paris ?",
         "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
-        ],
-        "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
-      },
-      {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
-        "options": [
-          "17",
+          "16",
           "18",
-          "15",
-          "112"
+          "20",
+          "22"
         ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
+        "explanation": "Paris est divisée en 20 arrondissements numérotés en escargot depuis l'Île de la Cité au centre. Le 1er est le plus central (Louvre), le 20e le plus à l'est (Belleville, Père-Lachaise). Chaque arrondissement a son maire d'arrondissement et son conseil."
       },
       {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
+        "question": "Qu'est-ce que le Navigo ?",
         "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
-        ],
-        "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
-      },
-      {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
-        "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
+          "L'application de navigation GPS officielle d'Île-de-France",
+          "Le pass de transport mensuel donnant accès illimité à tous les transports franciliens",
+          "Le nom du RER central de Paris",
+          "Un abonnement internet proposé par la Mairie de Paris"
         ],
         "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "Le Navigo est le pass de transport mensuel (~84€) ou annuel donnant un accès illimité à tout le réseau RATP et SNCF d'Île-de-France : métro, RER, Transilien, bus et tramway. Il est rechargeable sur une carte à puce et remplace l'ancien carnet de tickets."
+      },
+      {
+        "question": "Quel musée parisien est le plus visité au monde ?",
+        "options": [
+          "Le Centre Pompidou",
+          "Le Musée d'Orsay",
+          "Le Grand Palais",
+          "Le Louvre"
+        ],
+        "correct_index": 3,
+        "explanation": "Le Louvre accueille environ 9 millions de visiteurs par an, ce qui en fait le musée le plus fréquenté au monde. Il abrite la Joconde de Léonard de Vinci, la Vénus de Milo et la Victoire de Samothrace. L'accès est gratuit pour les moins de 26 ans résidents UE."
+      },
+      {
+        "question": "Que signifie commander «un café» dans un bar parisien ?",
+        "options": [
+          "Un grand café au lait avec de la mousse",
+          "Un café allongé servi dans un grand verre",
+          "Un espresso noir servi dans une petite tasse",
+          "Un cappuccino sans sucre"
+        ],
+        "correct_index": 2,
+        "explanation": "En France, «un café» désigne toujours un expresso noir, court, servi dans une petite tasse. Pour obtenir un café allongé, il faut demander «un café allongé» ou «un américain». Un café au lait le matin se dit «café crème» ou «un crème». Ne pas le savoir peut créer une surprise désagréable !"
       }
     ]
   },
   "ru": {
-    "module_title": "Франция и её регионы",
+    "module_title": "Париж и регионы",
     "lesson_title": "Париж — столица",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Париж — столица. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_subtitle": "Бьющееся сердце централизованной нации",
+    "intro": "Париж — не обычный город. Это идея, обещание, миф. Политическая, экономическая, культурная и символическая столица, Париж вобрал в себя все противоречия Франции: город всемирно признанной красоты, и при этом самый плотный, самый дорогой и самый неоднозначный в стране. Понять Париж — значит понять Францию. И понять, почему сами французы питают к своей столице двойственное чувство.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Париж — столица** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "От Лютеции до Города Огней",
+        "body": "Париж зародился более двух тысяч лет назад под именем **Лютеция** — небольшое галльское поселение племени паризиев на острове посреди Сены, где сегодня находится Île de la Cité. Завоёванный римлянами в I веке до н. э., он стал процветающим городом с термами, форумом и амфитеатром (следы которых сохранились под Латинским кварталом). Варварские нашествия V века ослабили его, но король **Хлодвиг** (465–511) сделал город столицей франков, навсегда определив его королевскую судьбу.\n\nВ Средние века Париж расцветает. Строительство **Собора Парижской Богоматери** (1163–1345) и **Сент-Шапель** (1248) превращает город в центр западного христианства. Парижский университет — **Сорбонна**, основанная в 1253 году, — делает его и мировым интеллектуальным центром. Но Париж знал и насилие: резня в Варфоломеевскую ночь (1572), Фронда (1648–1653), затем **Французская революция** (1789), начавшаяся со взятия Бастилии.\n\nСовременный Париж рождается с **Османом** (1853–1870), префектом Сены при Наполеоне III. Он прокладывает широкие бульвары, строит канализацию, проводит водопровод, сносит средневековые трущобы. Этот «османовский» Париж — каменные здания, гармоничные фасады, прямые авеню — тот самый, что сегодня узнаёт весь мир. **Эйфелева башня**, построенная в 1889 году для Всемирной выставки, вопреки протестам художников, стала главным символом Франции."
       },
       {
-        "theme": "Регион",
+        "theme": "География",
         "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
+        "title": "Париж и его 20 округов",
+        "body": "Внутренний Париж удивительно мал: всего **105 км²** — меньше некоторых пригородов. Он разделён на **20 округов (arrondissements)**, пронумерованных по спирали (улитке) от острова Сите. 1-й округ — исторический центр (Лувр, Ле-Аль); 20-й — самый народный (Бельвиль, Пер-Лашез). У каждого округа свой характер: 16-й — буржуазный и тихий, 10-й — космополитичный и модный, 18-й взбирается к холму Монмартр.\n\n**Сена** делит Париж надвое: **Левый берег** (южный) хранит интеллектуальную и университетскую традицию — Сен-Жермен-де-Пре, Латинский квартал, Сорбонна, Высшая нормальная школа. **Правый берег** (северный) более торговый и институциональный — Елисейские поля, Елисейский дворец, Большие бульвары, Марэ.\n\nНо Париж — это ещё и **Большой Париж**: агломерация из **12 миллионов жителей** в регионе Île-de-France. Пригороды часто несправедливо сводят к «неблагополучным кварталам». Версаль, Венсен, Сен-Дени, Монтрёй, Ла-Дефанс — крупнейший деловой квартал Европы — всё это часть городского созвездия, которое парижане порой высокомерно называют просто «пригородом» (la banlieue)."
       },
       {
-        "theme": "Политика и общество",
+        "theme": "Политика",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Средоточие власти и парижская мэрия",
+        "body": "Париж — резиденция всех ветвей власти Республики. **Елисейский дворец** (8-й округ) — резиденция Президента. **Матиньон** (7-й округ) — резиденция Премьер-министра. **Национальное собрание** (Дворец Бурбонов, 7-й округ) и **Сенат** (Люксембургский дворец, 6-й округ) образуют Парламент. **Государственный совет**, **Кассационный суд** и **Счётная палата** — три высших судебных инстанции, и все они в Париже.\n\nПариж одновременно является **коммуной** и **департаментом** — единственный такой случай во Франции (департамент №75). С 1977 года городом руководит избираемый **мэр Парижа**. Жак Ширак был первым (до того как стал Президентом), затем Бертран Деланоэ (2001–2014), затем **Анн Идальго** (с 2014 года, первая женщина на этом посту). Мэрия располагается в **Отель-де-Виль** (4-й округ).\n\nПариж страдает от крайней **централизации**: регион Île-de-France сосредотачивает 19% населения страны, но **31% национального ВВП**. Этот дисбаланс уникален в Европе — даже Лондон не доминирует над Великобританией в такой степени. Этот гиперцентрализм — константа французской истории со времён Людовика XIV, перенёсшего двор в Версаль, чтобы держать аристократию под контролем."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Повседневная жизнь",
+        "icon": "🏠",
+        "title": "Жить в Париже: мечта и реальность",
+        "body": "Париж — один из самых дорогих городов Европы. Средняя аренда двухкомнатной квартиры в границах Парижа превышает **1 500 €/мес**. Студии редко сдаются дешевле 900–1 000 €. Цена при покупке — от **8 000 до 15 000 € за м²** в зависимости от округа. В этих условиях многие парижане живут на 20–30 м² — площадь, немыслимая в других французских городах.\n\n**Парижское метро** (создано в 1900 году) — основа повседневной жизни: 16 линий, 302 станции, 9 миллионов поездок в день. Вместе с **RER** (Региональная скоростная сеть, 5 линий), соединяющим пригороды и аэропорты, и **Transilien** (пригородные поезда), жители Иль-де-Франс располагают одной из плотнейших транспортных сетей в мире. Разовый билет стоит **2,15 €**, но месячный проездной **Navigo** (около 84 €) даёт неограниченный доступ ко всему транспорту региона.\n\nПарижская жизнь разворачивается и на **рынках** (рынок Алигр, рынок Бастилии, биорынок Батиньоль), в **кафе**, где можно просидеть часами с одним эспрессо, у **букинистов** вдоль набережных Сены и на **летних террасах** при первом солнце. **Округ** — реальная единица жизни: за покупками, в кино, в парк — всё в своём округе. По сути, Париж — это федерация деревень, которые делают вид, что не замечают друг друга."
       },
       {
-        "theme": "Художественная культура",
+        "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "title": "Париж — мировая столица искусства",
+        "body": "Париж обладает самой высокой плотностью музеев мирового значения на квадратный километр. **Лувр** (обязательная первая остановка) — самый посещаемый музей мира, около 9 миллионов посетителей в год: здесь хранятся **Мона Лиза** Леонардо да Винчи, **Венера Милосская**, **Ника Самофракийская**. Вход **бесплатный** для жителей ЕС до 26 лет. **Музей д'Орсэ** (импрессионизм, XIX век) и **Центр Помпиду** (современное искусство) образуют с Лувром непревзойдённую культурную троицу.\n\n**Монмартр** заслуживает отдельного упоминания: этот деревенский холм на рубеже XX века был колыбелью мирового художественного авангарда. Пикассо, Модильяни, Утрилло, Тулуз-Лотрек здесь жили и писали. **Мулен Руж** (1889), место рождения канкана, свидетельствует о том творческом брожении. **Базилика Сакре-Кёр**, строившаяся с 1875 по 1914 год в искупление «грехов» Парижской Коммуны, белоснежно возвышается над холмом.\n\nПариж — также мировая столица **моды**: **дома высокой моды** (Chanel, Dior, Louis Vuitton, Hermès, Givenchy) располагаются здесь и дважды в год показывают коллекции во время **Недели моды**. **Квартал Марэ** (3-й и 4-й округа) концентрирует галереи современного искусства и бутики дизайнеров. Наконец, **Елисейские поля** — «самый красивый проспект в мире» по версии самих французов — ведут от сада Тюильри к **Триумфальной арке**, заказанной Наполеоном I."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "title": "Парижская кухня и уличная жизнь",
+        "body": "В Париже более **40 000 ресторанов**, в том числе около сорока со звёздами Мишлен. Но настоящая парижская кухня — не в дворцовых ресторанах, а в **брассри по соседству**, в **бистро**, в **кафе-табак**. Брассри предлагает бизнес-ланч (закуска + основное или основное + десерт) за **13–20 €** — это обед миллионов парижан.\n\nНепременные парижские блюда: **крок-месье** (горячий сэндвич с ветчиной и сыром), **стейк-фри** (стейк с жареной картошкой), **тартар из говядины**, **улитки по-бургундски** (как закуска), **устрицы** у стойки брассри. И конечно, **багет**: парижанин нередко заходит к булочнику дважды в день (утром и вечером) — «традиционный» багет стоит меньше евро и должен быть съеден в течение нескольких часов после покупки.\n\n**Парижское кафе** — социальный институт. Приходят сюда не только выпить кофе (обычно крепкий эспрессо в маленькой чашке), но чтобы читать газету, работать, наблюдать за прохожими. Терраса священна при первых солнечных лучах — даже при +10°C в марте. **Кофе у стойки** стоит дешевле, чем за столиком — негласное правило. И заказ «un café» во Франции всегда означает чёрный эспрессо — никогда не большой кофе с молоком."
       }
     ],
     "conseil_ami": {
-      "title": "Дружеский совет 🤝",
+      "title": "Совет друга 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Париж — столица»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**«Париж — это не Франция» — эту фразу вы услышите повсюду.** У парижан репутация высокомерных, нетерпеливых и холодных людей, которую провинциалы культивируют с удовольствием. И в этом есть доля правды: ритм Парижа быстрее, люди на улице менее расположены к общению.\n\nНо вот чего не говорят туристические путеводители: **парижане смущаются, когда иностранцы говорят по-французски**. Если вы сделаете усилие и скажете «Bonjour, je cherche la rue X, s'il vous plaît» (Здравствуйте, я ищу улицу X, пожалуйста), то почти всегда получите доброжелательный и подробный ответ. Ключ — именно первое «Bonjour»: без него социальный ритуал нарушен изначально.\n\nВ метро тишина — абсолютная норма: не говорить громко, не разговаривать по телефону, не есть полноценный обед. А если хотите завести друзей-парижан — пригласите на **аперитив** (выпить), а не на ужин. Ужин — это близость, требующая настоящих отношений. Аперитив же — лёгкое приглашение, которое говорит: «Я хотел бы узнать тебя немного лучше»."
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "Округ (arrondissement)",
+        "definition": "Административное подразделение Парижа (20 всего), пронумерованное по спирали от острова Сите. У каждого округа есть свой мэр."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "Левый берег / Правый берег",
+        "definition": "Символическое деление Парижа Сеной. Левый берег (юг) ассоциируется с университетами и интеллектуалами; Правый берег (север) — с торговлей и институтами."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "Navigo",
+        "definition": "Месячный или годовой проездной, дающий неограниченный доступ ко всем видам общественного транспорта Иль-де-Франс (метро, RER, автобус, трамвай, пригородные поезда)."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "Османизация (Haussmannisation)",
+        "definition": "Радикальное преобразование Парижа при бароне Османе (1853–1870): широкие бульвары, шестиэтажные каменные здания, парки, канализация. Этот архитектурный стиль — визитная карточка Парижа."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "Брассри (brasserie)",
+        "definition": "Традиционный парижский ресторан, подающий простые блюда в любое время (в отличие от гастрономических ресторанов со строгим расписанием). Типичный интерьер: деревянные панели, цинковая стойка, зеркала."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "Багет-традисьон (baguette tradition)",
+        "definition": "Традиционный французский хлеб с хрустящей корочкой, защищённый декретом 1993 года, запрещающим добавки и заморозку. Умение отличить «традицьон» от обычного багета — признак интеграции."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Париж — столица» во Французской республике?",
+        "question": "Какой префект радикально преобразил Париж в XIX веке, проложив широкие бульвары?",
         "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
+          "Жюль Ферри",
+          "Барон Осман",
+          "Наполеон Бонапарт",
+          "Жорж Помпиду"
         ],
         "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
+        "explanation": "Барон Осман, префект Сены с 1853 по 1870 год при Наполеоне III, снёс 20 000 ветхих зданий и проложил нынешние главные магистрали Парижа. Он также создал канализацию, водопровод и парки — Монсо, Бют-Шомон и Монсури."
       },
       {
-        "question": "Светскость во Франции означает, что...",
+        "question": "Сколько округов насчитывает Париж?",
         "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
-        ],
-        "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
-      },
-      {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
-        "options": [
-          "17",
+          "16",
           "18",
-          "15",
-          "112"
+          "20",
+          "22"
         ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
+        "explanation": "Париж разделён на 20 округов, пронумерованных по спирали от острова Сите в центре. 1-й — самый центральный (Лувр), 20-й — самый восточный (Бельвиль, Пер-Лашез). У каждого округа есть свой мэр и совет."
       },
       {
-        "question": "Членом-основателем какой международной организации является Франция?",
+        "question": "Что такое Navigo?",
         "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
-        ],
-        "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
-      },
-      {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
-        "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
+          "Официальное навигационное приложение Иль-де-Франс",
+          "Месячный проездной с неограниченным доступом ко всем видам транспорта региона",
+          "Центральная линия RER в Париже",
+          "Интернет-абонемент от мэрии Парижа"
         ],
         "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "Navigo — месячный (~84€) или годовой проездной, дающий неограниченный доступ ко всей сети RATP и SNCF Иль-де-Франс: метро, RER, Transilien, автобус и трамвай. Пополняется на чип-карте и заменяет прежние книжки билетов."
+      },
+      {
+        "question": "Какой парижский музей является самым посещаемым в мире?",
+        "options": [
+          "Центр Помпиду",
+          "Музей д'Орсэ",
+          "Гран-Пале",
+          "Лувр"
+        ],
+        "correct_index": 3,
+        "explanation": "Лувр принимает около 9 миллионов посетителей в год, что делает его самым посещаемым музеем мира. Здесь хранятся «Мона Лиза» Леонардо да Винчи, Венера Милосская и Ника Самофракийская. Вход бесплатен для жителей ЕС до 26 лет."
+      },
+      {
+        "question": "Что означает заказать «un café» в парижском баре?",
+        "options": [
+          "Большой кофе с молочной пенкой",
+          "Длинный кофе в большом стакане",
+          "Чёрный эспрессо в маленькой чашке",
+          "Капучино без сахара"
+        ],
+        "correct_index": 2,
+        "explanation": "Во Франции «un café» — это всегда чёрный эспрессо, короткий, в маленькой чашке. Чтобы получить длинный кофе, нужно попросить «un café allongé» или «un américain». Кофе с молоком утром называют «café crème» или просто «un crème». Не знать этого — значит рисковать неприятным сюрпризом!"
       }
     ]
   }

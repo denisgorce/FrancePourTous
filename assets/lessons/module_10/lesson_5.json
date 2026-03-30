@@ -3,276 +3,289 @@
     "module_id": 10,
     "lesson_id": 5,
     "module_icon": "🌍",
-    "lesson_icon": "🏅",
-    "estimated_minutes": 12,
-    "difficulty": "intermédiaire",
+    "lesson_icon": "🇫🇷",
+    "estimated_minutes": 10,
+    "difficulty": "pratique",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "Service-public — L'entretien de naturalisation",
+        "url": "https://www.service-public.fr/particuliers/vosdroits/F2213"
+      },
+      {
+        "label": "Ministère de l'Intérieur — Naturalisations",
+        "url": "https://www.interieur.gouv.fr/Immigration/L-integration-en-France/La-nationalite-francaise"
+      },
+      {
+        "label": "OFII — Se préparer à l'entretien d'assimilation",
+        "url": "https://www.ofii.fr"
+      },
+      {
+        "label": "Test de connaissance du français (TCF)",
+        "url": "https://www.france-education-international.fr/tcf"
+      }
     ]
   },
   "fr": {
     "module_title": "S'Intégrer en France",
     "lesson_title": "Comprendre l'Examen de Naturalisation",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : Comprendre l'Examen de Naturalisation. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "Se préparer à l'entretien d'assimilation et connaître la France",
+    "intro": "L'entretien d'assimilation est l'étape cruciale du parcours de naturalisation. Ce n'est pas un examen scolaire avec des questions-réponses codifiées — c'est une conversation de 30 à 45 minutes avec un agent de la préfecture qui évalue votre intégration dans la société française. Cette leçon vous donne les connaissances essentielles sur la France, ses institutions et ses valeurs que tout candidat à la naturalisation doit maîtriser — et au-delà, que tout résident en France a intérêt à connaître.",
     "sections": [
       {
-        "theme": "Histoire",
+        "theme": "Contexte historique",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**Comprendre l'Examen de Naturalisation** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "La France en 10 dates : ce que tout candidat doit savoir",
+        "body": "Connaître les grandes dates de l'histoire française n'est pas de la mémorisation vide — c'est comprendre les fondements du pays dans lequel vous vivez.\n\n**496** — Baptême de Clovis, premier roi des Francs : naissance symbolique de la France chrétienne\n\n**1789** — Révolution française, prise de la Bastille (14 juillet) : naissance de la République, des droits de l'homme et de la laïcité. La date la plus importante à connaître.\n\n**1789** — Déclaration des Droits de l'Homme et du Citoyen (26 août) : texte fondateur toujours en vigueur (dans le bloc de constitutionnalité)\n\n**1804** — Code civil de Napoléon : fondement du droit français actuel\n\n**1848** — 2e République : abolition de l'esclavage (Victor Schoelcher), suffrage universel masculin\n\n**1870–1871** — Défaite contre la Prusse, Commune de Paris, naissance de la IIIe République\n\n**1881–1882** — Lois Jules Ferry : école gratuite, obligatoire et laïque\n\n**1905** — Loi de séparation de l'Église et de l'État (laïcité)\n\n**1944** — Droit de vote des femmes (ordonnance du GPRF), Libération\n\n**1958** — Constitution de la Ve République (en vigueur aujourd'hui)\n\n**1992** — Traité de Maastricht : construction de l'Union Européenne\n\n**2024** — Paris accueille les Jeux Olympiques d'été (26 juillet — 11 août)"
       },
       {
-        "theme": "Région",
-        "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
-      },
-      {
-        "theme": "Politique & Social",
+        "theme": "Cadre légal & textes",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "Les institutions françaises : ce qu'il faut comprendre",
+        "body": "**La Ve République** est un régime semi-présidentiel. Les institutions principales :\n\n**Le Président de la République** — élu pour 5 ans au suffrage universel direct (depuis 1962). Chef de l'État et des armées. Nomme le Premier ministre, peut dissoudre l'Assemblée. Rôle central, plus puissant que dans la plupart des démocraties européennes.\n\n**Le Premier ministre** — chef du gouvernement, nommé par le Président. Responsable devant l'Assemblée nationale. Dirige l'action gouvernementale et les ministres.\n\n**L'Assemblée nationale** — 577 députés élus pour 5 ans au suffrage universel. Vote les lois et le budget. Peut renverser le gouvernement (motion de censure).\n\n**Le Sénat** — 348 sénateurs élus pour 6 ans par les grands électeurs. Représente les collectivités. Peut amender les lois.\n\n**Le Conseil constitutionnel** — vérifie la conformité des lois à la Constitution. Saisissable par les citoyens via la QPC.\n\n**Les valeurs fondamentales à maîtriser :**\n— «**Liberté, Égalité, Fraternité**» — la devise de la République\n— La **laïcité** : séparation de l'État et des religions (loi 1905)\n— La **République une et indivisible** : pas de communautés ethniques officielles, égalité de tous les citoyens\n— Le **droit de vote** comme pilier de la démocratie\n— La **Déclaration des Droits de l'Homme** (1789) comme texte fondateur universel\n— Le **drapeau tricolore** (bleu-blanc-rouge), la **Marseillaise** (hymne national), **Marianne** (symbole de la République)"
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Démarches pratiques",
+        "icon": "📋",
+        "title": "Se préparer concrètement à l'entretien",
+        "body": "**L'entretien d'assimilation** dure 30 à 45 minutes. L'agent de préfecture évalue :\n1. La **maîtrise orale du français** — niveau B1 minimum exigé\n2. La **connaissance de la société française** : institutions, valeurs, vie quotidienne, histoire\n3. L'**adhésion aux valeurs de la République** : liberté, égalité, fraternité, laïcité, démocratie\n4. Les **projets d'avenir en France** — preuves de l'intégration réelle (travail, famille, communauté locale)\n\n**Comment se préparer :**\n— Lisez le **guide «Vivre en France»** fourni par l'OFII lors du CIR — c'est le document de référence officiel pour l'entretien\n— Suivez l'actualité française (JT de 20h de France 2 ou TF1, radio France Inter, journal *Le Monde* ou *20 Minutes*)\n— Pratiquez le français oral — participez à des clubs de conversation, des ateliers socioculturels, des associations de quartier\n— Connaissez votre département, votre commune, votre histoire locale\n— Soyez capable d'expliquer ce que vous faites en France, pourquoi vous voulez la nationalité française et ce que vous aimez dans ce pays\n\n**Questions types posées à l'entretien :**\n— Pouvez-vous me parler de votre parcours depuis votre arrivée en France ?\n— Que savez-vous des institutions françaises ?\n— Pouvez-vous m'expliquer ce que signifie la laïcité ?\n— Connaissez-vous les grandes valeurs de la République ?\n— Que représente pour vous la nationalité française ?\n— Avez-vous des questions sur vos droits et devoirs de futur citoyen ?"
       },
       {
-        "theme": "Culture artistique",
-        "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "theme": "Droits & recours",
+        "icon": "🛡️",
+        "title": "Droits et devoirs du citoyen français",
+        "body": "Devenir français, c'est acquérir des droits — mais aussi accepter des devoirs. Bien les connaître est essentiel pour l'entretien.\n\n**Les droits fondamentaux du citoyen français :**\n— Droit de **vote** à toutes les élections (présidentielle, législative, municipale, régionale, sénatoriale, européenne)\n— Droit d'**éligibilité** — se présenter à toutes les élections (y compris Président si né en France)\n— Droit d'**accès à la fonction publique** — tous les corps de l'État, les forces de sécurité, l'armée\n— Droit à la **protection consulaire** à l'étranger (l'État français vous protège)\n— Passeport français — accès sans visa à 185 pays\n\n**Les devoirs du citoyen français :**\n— **Respecter la Constitution et les lois** de la République\n— **Payer ses impôts** — contribution au financement collectif de la société\n— **Recensement militaire** à 16 ans et **journée défense et citoyenneté** (JDC) — obligatoires pour les hommes et les femmes\n— **Participer à la vie démocratique** — le vote n'est pas obligatoire légalement mais est un devoir civique fort\n— **Respecter les valeurs de la République** : liberté de conscience, égalité entre hommes et femmes, laïcité, fraternité\n\n**L'égalité homme-femme** est une valeur constitutionnelle en France depuis 1999. Lors de l'entretien, l'agent peut poser des questions sur ce sujet — il est essentiel de manifester une adhésion sincère à l'égalité des droits entre hommes et femmes, sans réserve liée à des considérations culturelles ou religieuses."
       },
       {
-        "theme": "Gastronomie & Codes sociaux",
-        "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "theme": "Impact sur la vie quotidienne",
+        "icon": "🏠",
+        "title": "Être citoyen français : ce que ça change concrètement",
+        "body": "La naturalisation transforme concrètement plusieurs aspects de la vie quotidienne.\n\n**Le passeport français** est l'un des plus puissants du monde : accès sans visa à 185 pays (contre souvent 30 à 50 pour les passeports africains et une centaine pour les passeports russes, marocains, algériens selon les périodes). Pour les personnes voyageant fréquemment pour affaires ou famille, c'est une transformation majeure.\n\n**L'accès à la fonction publique** s'ouvre entièrement : un naturalisé peut devenir professeur dans les écoles publiques, fonctionnaire territorial, policier, magistrat, militaire, diplomate... Ces carrières sont fermées aux étrangers (même avec une carte de résident). Pour beaucoup de naturalisés, c'est une nouvelle liberté professionnelle considérable.\n\n**La stabilité administrative** : plus de renouvellements de titre de séjour tous les 1 à 4 ans, plus d'anxiété liée aux rendez-vous en préfecture, plus de risque d'OQTF. Cette sécurité psychologique est souvent citée par les naturalisés comme le changement le plus profond — au-delà même des droits concrets.\n\n**La transmission aux enfants** : les enfants nés après la naturalisation sont automatiquement français. Ceux nés avant peuvent être naturalisés en même temps que le parent (si mineurs et résidant en France). Cette dimension familiale est souvent la principale motivation des parents qui naturalisent.\n\n**Voter pour la première fois** lors d'une élection présidentielle ou législative est décrit par beaucoup de naturalisés comme un moment fort — la réalisation concrète d'une appartenance au corps politique de la nation."
+      },
+      {
+        "theme": "Lexique essentiel",
+        "icon": "📖",
+        "title": "Synthèse : les 20 notions essentielles pour la naturalisation",
+        "body": "**La République** : régime politique où les dirigeants sont élus par le peuple. La France est la Ve République depuis 1958.\n\n**Liberté, Égalité, Fraternité** : devise officielle de la République française, inscrite sur tous les bâtiments officiels.\n\n**La laïcité** : séparation de l'État et des religions (loi 1905). L'État ne reconnaît, ne finance ni ne persécute aucune religion. Liberté de conscience garantie à tous.\n\n**La DDHC (Déclaration des Droits de l'Homme et du Citoyen, 1789)** : texte fondateur toujours en vigueur, partie du bloc de constitutionnalité.\n\n**Le suffrage universel** : droit de vote pour tous les citoyens majeurs, sans distinction de sexe, race ou fortune. France : hommes depuis 1848, femmes depuis 1944.\n\n**L'Assemblée nationale** : 577 députés élus par les Français pour 5 ans. Vote les lois et le budget.\n\n**Le 14 juillet** : fête nationale française, commémoration de la prise de la Bastille (1789). Défilé militaire sur les Champs-Élysées et feu d'artifice.\n\n**Marianne** : personnage féminin allégorique symbolisant la République française. Son buste est dans toutes les mairies.\n\n**La Marseillaise** : hymne national français, composé en 1792. Premier couplet et refrain à connaître.\n\n**Le drapeau tricolore** : bleu (liberté), blanc (égalité), rouge (fraternité) — adopté pendant la Révolution."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à Comprendre l'Examen de Naturalisation :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**L'entretien d'assimilation est une conversation, pas un examen.** L'agent de préfecture n'attend pas que vous réciciez des dates ou des définitions — il veut comprendre qui vous êtes, comment vous vivez en France et si vous adhérez sincèrement aux valeurs de la République. Soyez naturel, honnête et préparé.\n\nUn conseil pratique : **racontez votre histoire en France** — pourquoi vous êtes venu, ce que vous avez construit (famille, travail, réseau d'amis), ce que vous aimez de la France et ce qui vous a surpris. Montrez que vous connaissez votre quartier, vos voisins, que vous participez à la vie locale. C'est ça, l'intégration — et c'est ça que l'agent veut voir. La nationalité française ne s'obtient pas en récitant la Constitution — elle se mérite en vivant avec et pour la République."
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
+        "term": "L'entretien d'assimilation",
+        "definition": "Conversation de 30 à 45 minutes en préfecture lors de la procédure de naturalisation. Évalue la maîtrise du français, la connaissance de la société et l'adhésion aux valeurs républicaines."
       },
       {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
+        "term": "Le bloc de constitutionnalité",
+        "definition": "Ensemble des textes ayant valeur constitutionnelle : Constitution 1958 + DDHC 1789 + Préambule 1946 + Charte environnement 2004. Aucune loi ne peut les contredire."
       },
       {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "term": "La DDHC",
+        "definition": "Déclaration des Droits de l'Homme et du Citoyen (26 août 1789) — texte fondateur toujours en vigueur, partie du bloc de constitutionnalité. Proclame liberté, propriété, sûreté et résistance à l'oppression."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "La JDC (Journée Défense et Citoyenneté)",
+        "definition": "Journée obligatoire pour tous les Français de 16 à 25 ans (hommes et femmes), remplaçant le service militaire supprimé en 1997. Sensibilisation à la défense nationale et à la citoyenneté."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
+        "term": "Le suffrage universel",
+        "definition": "Droit de vote accordé à tous les citoyens majeurs sans condition. En France : hommes depuis 1848, femmes depuis 1944. Pilier de la démocratie républicaine."
       },
       {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "Marianne",
+        "definition": "Symbole féminin allégorique de la République française, représentée avec un bonnet phrygien. Son buste figure dans toutes les mairies, ses traits changent selon les générations."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «Comprendre l'Examen de Naturalisation» dans la République française ?",
+        "question": "Quelle est la devise officielle de la République française ?",
         "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
+          "Dieu, Honneur, Patrie",
+          "Liberté, Égalité, Fraternité",
+          "Un pour tous, tous pour un",
+          "Travail, Famille, Patrie"
         ],
         "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
+        "explanation": "«Liberté, Égalité, Fraternité» est la devise officielle de la République française depuis la Révolution, gravée sur tous les bâtiments officiels. Elle résume les trois valeurs fondatrices : liberté individuelle contre le despotisme, égalité de tous devant la loi contre les privilèges de l'Ancien Régime, et fraternité solidaire entre citoyens. Elle est inscrite à l'article 2 de la Constitution."
       },
       {
-        "question": "En France, la laïcité signifie que...",
+        "question": "En quelle année les femmes ont-elles obtenu le droit de vote en France ?",
         "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
-        ],
-        "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
-      },
-      {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "1789",
+          "1871",
+          "1944",
+          "1958"
         ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
+        "explanation": "Les femmes françaises ont obtenu le droit de vote en 1944, par ordonnance du Gouvernement Provisoire de la République Française (GPRF) présidé par de Gaulle. Elles l'exercent pour la première fois lors des élections municipales d'avril-mai 1945. La France est l'un des derniers pays d'Europe occidentale à avoir accordé ce droit — un siècle après les hommes (1848)."
       },
       {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
+        "question": "Que représente le 14 juillet pour les Français ?",
         "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
-        ],
-        "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
-      },
-      {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
-        "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
+          "La fin de la Première Guerre mondiale",
+          "La fête nationale, commémorant la prise de la Bastille en 1789",
+          "La naissance de la Ve République",
+          "La journée de la laïcité"
         ],
         "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "Le 14 juillet 1789, la prise de la Bastille (prison royale à Paris) symbolise la victoire du peuple sur l'absolutisme royal — acte fondateur de la Révolution française. Cette date est devenue la fête nationale française depuis 1880. Elle est célébrée chaque année par un défilé militaire sur les Champs-Élysées en présence du Président, et par des feux d'artifice partout en France."
+      },
+      {
+        "question": "Qu'est-ce que Marianne, symbole de la République française ?",
+        "options": [
+          "Un monument parisien",
+          "La femme de Napoléon",
+          "Une figure féminine allégorique représentant la République, dont le buste est dans toutes les mairies",
+          "La première présidente du Conseil"
+        ],
+        "correct_index": 2,
+        "explanation": "Marianne est une figure féminine allégorique symbolisant la République française. Elle est représentée avec un bonnet phrygien (symbole de la liberté depuis l'Antiquité) et figure sur les timbres, les pièces de monnaie, les formulaires officiels et comme buste dans toutes les mairies françaises. Ses traits changent selon les époques — des personnalités comme Brigitte Bardot, Catherine Deneuve ou Laetitia Casta ont inspiré certaines représentations."
+      },
+      {
+        "question": "Quelle est la première chose qu'un agent de préfecture évalue lors de l'entretien d'assimilation ?",
+        "options": [
+          "La capacité à réciter la Constitution",
+          "La maîtrise orale du français, la connaissance de la société et l'adhésion aux valeurs républicaines",
+          "Le nombre d'années passées en France",
+          "L'absence de toute pratique religieuse"
+        ],
+        "correct_index": 1,
+        "explanation": "L'entretien d'assimilation évalue trois dimensions principales : la maîtrise orale du français (niveau B1 minimum), la connaissance de la société française (institutions, valeurs, histoire, vie quotidienne) et l'adhésion aux valeurs de la République (liberté, égalité, fraternité, laïcité, démocratie, égalité homme-femme). Ce n'est pas un examen scolaire — c'est une conversation visant à s'assurer que le candidat s'est intégré de manière authentique."
       }
     ]
   },
   "ru": {
     "module_title": "Интеграция во Франции",
-    "lesson_title": "Подготовка к экзамену на натурализацию",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Подготовка к экзамену на натурализацию. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_title": "Понять экзамен на гражданство",
+    "lesson_subtitle": "Готовиться к собеседованию об ассимиляции и знать Францию",
+    "intro": "Собеседование об ассимиляции — ключевой этап пути к натурализации. Это не школьный экзамен с заученными ответами — это 30–45-минутная беседа с сотрудником префектуры, оценивающим вашу интеграцию во французское общество. Этот урок даёт вам ключевые знания о Франции, её институтах и ценностях, которые необходимы каждому кандидату на натурализацию — и которые в любом случае полезно знать каждому, кто живёт во Франции.",
     "sections": [
       {
-        "theme": "История",
+        "theme": "Исторический контекст",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Подготовка к экзамену на натурализацию** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "Франция в 10 датах: что должен знать каждый кандидат",
+        "body": "Знать ключевые даты французской истории — не пустая зубрёжка: это понимание фундамента страны, в которой вы живёте.\n\n**496** — Крещение Хлодвига, первого короля франков: символическое рождение христианской Франции\n\n**1789** — Французская революция, взятие Бастилии (14 июля): рождение Республики, прав человека и светскости. Важнейшая дата.\n\n**1789** — Декларация прав человека и гражданина (26 августа): основополагающий текст, действующий по сей день (в конституционном блоке)\n\n**1804** — Гражданский кодекс Наполеона: фундамент действующего французского права\n\n**1848** — 2-я Республика: отмена рабства (Виктор Шельшер), всеобщее мужское избирательное право\n\n**1870–1871** — Поражение от Пруссии, Парижская коммуна, рождение III Республики\n\n**1881–1882** — Законы Жюля Ферри: бесплатная, обязательная и светская школа\n\n**1905** — Закон об отделении церкви от государства (светскость)\n\n**1944** — Право голоса для женщин (ордонанс ВОПФ), Освобождение\n\n**1958** — Конституция V Республики (действует сегодня)\n\n**1992** — Маастрихтский договор: строительство Европейского союза\n\n**2024** — Париж принимает летние Олимпийские игры (26 июля — 11 августа)"
       },
       {
-        "theme": "Регион",
-        "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
-      },
-      {
-        "theme": "Политика и общество",
+        "theme": "Правовая база и тексты",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Французские институты: что нужно понимать",
+        "body": "**V Республика** — полупрезидентский режим. Основные институты:\n\n**Президент Республики** — избирается на 5 лет прямым всеобщим голосованием (с 1962 года). Глава государства и армии. Назначает Премьер-министра, может распустить Собрание. Центральная роль, более сильная, чем в большинстве европейских демократий.\n\n**Премьер-министр** — глава правительства, назначаемый Президентом. Ответственен перед Национальным собранием. Руководит деятельностью правительства и министрами.\n\n**Национальное собрание** — 577 депутатов, избираемых на 5 лет всеобщим голосованием. Принимает законы и бюджет. Может свалить правительство (вотум недоверия).\n\n**Сенат** — 348 сенаторов, избираемых на 6 лет выборщиками. Представляет коллективности. Может вносить поправки в законы.\n\n**Конституционный совет** — проверяет соответствие законов Конституции. Граждане могут к нему обратиться через ПКВ.\n\n**Ключевые ценности, которые нужно знать:**\n— «**Liberté, Égalité, Fraternité**» — девиз Республики\n— **Светскость**: отделение государства от религий (закон 1905)\n— **Единая и неделимая Республика**: нет официальных этнических общин, равенство всех граждан\n— **Право голоса** как опора демократии\n— **Декларация прав человека** (1789) как основополагающий универсальный текст\n— **Триколор** (сине-бело-красный), **«Марсельеза»** (гимн), **Марианна** (символ Республики)"
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Практические шаги",
+        "icon": "📋",
+        "title": "Конкретная подготовка к собеседованию",
+        "body": "**Собеседование об ассимиляции** длится 30–45 минут. Сотрудник префектуры оценивает:\n1. **Владение французским устно** — требуется минимум уровень B1\n2. **Знание французского общества**: институты, ценности, повседневная жизнь, история\n3. **Приверженность ценностям Республики**: свобода, равенство, братство, светскость, демократия\n4. **Планы на будущее во Франции** — доказательства реальной интеграции (работа, семья, местное сообщество)\n\n**Как готовиться:**\n— Прочитайте **руководство «Жить во Франции»**, предоставляемое OFII в рамках CIR — это официальный справочный документ для собеседования\n— Следите за французскими новостями (вечерний выпуск новостей France 2 или TF1, радио France Inter, газеты *Le Monde* или *20 Minutes*)\n— Практикуйте устный французский — посещайте разговорные клубы, социокультурные мастерские, районные ассоциации\n— Знайте свой департамент, свою коммуну, свою местную историю\n— Умейте объяснить, чем вы занимаетесь во Франции, почему хотите французское гражданство и что вам нравится в этой стране\n\n**Типичные вопросы на собеседовании:**\n— Расскажите о своём пути с момента приезда во Францию\n— Что вы знаете о французских институтах?\n— Объясните, что такое светскость\n— Назовите основные ценности Республики\n— Что для вас означает французское гражданство?\n— Есть ли у вас вопросы о правах и обязанностях будущего гражданина?"
       },
       {
-        "theme": "Художественная культура",
-        "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "theme": "Права и средства защиты",
+        "icon": "🛡️",
+        "title": "Права и обязанности французского гражданина",
+        "body": "Стать французом — значит приобрести права, но и принять обязанности. Хорошо знать их необходимо для собеседования.\n\n**Основные права французского гражданина:**\n— Право **голосовать** на всех выборах (президентских, законодательных, муниципальных, региональных, сенатских, европейских)\n— Право **быть избранным** — баллотироваться на всех выборах (включая Президента — при рождении во Франции)\n— Право **доступа к государственной службе** — все корпуса государства, силовые структуры, армия\n— Право на **консульскую защиту** за рубежом (французское государство вас защищает)\n— Французский паспорт — въезд в 185 стран без визы\n\n**Обязанности французского гражданина:**\n— **Соблюдать Конституцию и законы** Республики\n— **Платить налоги** — вклад в коллективное финансирование общества\n— **Воинский учёт** в 16 лет и **День гражданской защиты** (JDC) — обязательны для мужчин и женщин\n— **Участвовать в демократической жизни** — голосование не обязательно по закону, но является сильным гражданским долгом\n— **Уважать ценности Республики**: свободу совести, равенство мужчин и женщин, светскость, братство\n\n**Равенство мужчин и женщин** — конституционная ценность во Франции с 1999 года. На собеседовании сотрудник может задать вопросы на эту тему: необходимо выразить искреннюю приверженность равноправию без каких-либо оговорок, связанных с культурными или религиозными соображениями."
       },
       {
-        "theme": "Гастрономия и социальные коды",
-        "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "theme": "Влияние на повседневную жизнь",
+        "icon": "🏠",
+        "title": "Быть французским гражданином: что конкретно меняется",
+        "body": "Натурализация конкретно меняет несколько аспектов повседневной жизни.\n\n**Французский паспорт** — один из самых сильных в мире: въезд без визы в 185 стран (против нередко 30–50 для африканских паспортов и около сотни для российских, марокканских, алжирских — в зависимости от периода). Для тех, кто часто ездит по делам или к семье, это принципиальное изменение.\n\n**Доступ к государственной службе** открывается полностью: натурализованный гражданин может стать учителем государственной школы, территориальным чиновником, полицейским, магистратом, военным, дипломатом... Эти карьеры закрыты для иностранцев (даже с картой резидента). Для многих натурализованных это значительная новая профессиональная свобода.\n\n**Административная стабильность**: больше никаких продлений вида на жительство каждые 1–4 года, никакой тревоги с записью в префектуру, никакого риска OQTF. Эта психологическая безопасность нередко называется натурализованными гражданами самым глубоким изменением — даже глубже конкретных прав.\n\n**Передача детям**: дети, рождённые после натурализации, автоматически становятся французскими гражданами. Рождённые до этого могут быть натурализованы одновременно с родителем (если несовершеннолетние и проживают во Франции). Это семейное измерение нередко является главной мотивацией натурализующихся родителей.\n\n**Первое голосование** на президентских или законодательных выборах описывается многими натурализованными как сильный момент — конкретная реализация принадлежности к политическому телу нации."
+      },
+      {
+        "theme": "Основной словарь",
+        "icon": "📖",
+        "title": "Синтез: 10 ключевых понятий для натурализации",
+        "body": "**La République / Республика**: политический строй, при котором руководители избираются народом. Франция — V Республика с 1958 года.\n\n**Liberté, Égalité, Fraternité / Свобода, Равенство, Братство**: официальный девиз Французской Республики, выбитый на всех официальных зданиях.\n\n**La laïcité / Светскость**: отделение государства от религий (закон 1905). Государство не признаёт, не финансирует и не преследует ни одну религию. Свобода совести гарантирована всем.\n\n**La DDHC / ДПЧГ (Декларация прав человека и гражданина, 1789)**: основополагающий текст, действующий по сей день, часть конституционного блока.\n\n**Le suffrage universel / Всеобщее избирательное право**: право голоса для всех совершеннолетних граждан без различия пола, расы или состояния. Во Франции: мужчины с 1848, женщины с 1944.\n\n**L'Assemblée nationale / Национальное собрание**: 577 депутатов, избранных французами на 5 лет. Принимает законы и бюджет.\n\n**Le 14 juillet / 14 июля**: французский национальный праздник, ознаменование взятия Бастилии (1789). Военный парад на Елисейских полях и фейерверк.\n\n**Marianne / Марианна**: аллегорический женский персонаж, символизирующий Французскую Республику. Её бюст находится во всех мэриях.\n\n**La Marseillaise / «Марсельеза»**: французский государственный гимн, написанный в 1792 году. Первый куплет и припев нужно знать.\n\n**Le drapeau tricolore / Триколор**: синий (свобода), белый (равенство), красный (братство) — принят в период Революции."
       }
     ],
     "conseil_ami": {
       "title": "Дружеский совет 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Подготовка к экзамену на натурализацию»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**Собеседование об ассимиляции — беседа, а не экзамен.** Сотрудник префектуры не ожидает от вас заученных дат или определений — он хочет понять, кто вы, как вы живёте во Франции и искренне ли разделяете ценности Республики. Будьте естественны, честны и подготовлены.\n\nПрактический совет: **расскажите свою историю во Франции** — почему приехали, что построили (семья, работа, круг общения), что вам нравится во Франции и что вас удивило. Покажите, что знаете свой район, соседей, что участвуете в местной жизни. Это и есть интеграция — и именно это хочет увидеть сотрудник. Французское гражданство не получают, рецитируя Конституцию — его заслуживают, живя вместе с Республикой и ради неё."
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "L'entretien d'assimilation / Собеседование об ассимиляции",
+        "definition": "Беседа длительностью 30–45 минут в префектуре при натурализации. Оценивает владение французским, знание общества и приверженность республиканским ценностям."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "Le bloc de constitutionnalité / Конституционный блок",
+        "definition": "Совокупность текстов конституционной силы: Конституция 1958 + ДПЧГ 1789 + Преамбула 1946 + Экологическая хартия 2004. Ни один закон не может им противоречить."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "La DDHC / ДПЧГ",
+        "definition": "Декларация прав человека и гражданина (26 августа 1789) — основополагающий текст, действующий по сей день, часть конституционного блока. Провозглашает свободу, собственность, безопасность и сопротивление угнетению."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "La JDC / ДГЗ (День гражданской защиты)",
+        "definition": "Обязательный день для всех французских граждан от 16 до 25 лет (мужчин и женщин), заменивший военную службу, упразднённую в 1997 году. Ознакомление с национальной обороной и гражданством."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "Le suffrage universel / Всеобщее избирательное право",
+        "definition": "Право голоса для всех совершеннолетних граждан без ограничений. Во Франции: мужчины с 1848, женщины с 1944. Основа республиканской демократии."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "Marianne / Марианна",
+        "definition": "Аллегорический женский символ Французской Республики, изображаемая в фригийском колпаке. Её бюст находится во всех мэриях, черты меняются из поколения в поколение."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Подготовка к экзамену на натурализацию» во Французской республике?",
+        "question": "Каков официальный девиз Французской Республики?",
         "options": [
-          "Конституционная монархия",
+          "Бог, Честь, Отечество",
           "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
+          "Один за всех, все за одного",
+          "Труд, Семья, Отечество"
         ],
         "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
+        "explanation": "«Liberté, Égalité, Fraternité» («Свобода, Равенство, Братство») — официальный девиз Французской Республики со времён Революции, выбитый на всех официальных зданиях. Он резюмирует три основополагающих ценности: индивидуальная свобода против деспотизма, равенство всех перед законом против привилегий Старого режима и солидарное братство между гражданами. Закреплён в статье 2 Конституции."
       },
       {
-        "question": "Светскость во Франции означает, что...",
+        "question": "В каком году женщины получили право голоса во Франции?",
         "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
-        ],
-        "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
-      },
-      {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "1789",
+          "1871",
+          "1944",
+          "1958"
         ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
+        "explanation": "Французские женщины получили право голоса в 1944 году — ордонансом Временного правительства Французской Республики (ВОПФ) под руководством де Голля. Впервые воспользовались им на муниципальных выборах в апреле–мае 1945 года. Франция — одна из последних стран Западной Европы, предоставивших это право: через век после мужчин (1848)."
       },
       {
-        "question": "Членом-основателем какой международной организации является Франция?",
+        "question": "Что символизирует 14 июля для французов?",
         "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
-        ],
-        "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
-      },
-      {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
-        "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
+          "Окончание Первой мировой войны",
+          "Национальный праздник в ознаменование взятия Бастилии в 1789 году",
+          "Рождение V Республики",
+          "День светскости"
         ],
         "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "14 июля 1789 года взятие Бастилии (королевской тюрьмы в Париже) символизирует победу народа над абсолютизмом — основополагающий акт Французской революции. Эта дата стала национальным праздником с 1880 года. Ежегодно отмечается военным парадом на Елисейских полях в присутствии Президента и фейерверками по всей Франции."
+      },
+      {
+        "question": "Что такое Марианна — символ Французской Республики?",
+        "options": [
+          "Парижский памятник",
+          "Жена Наполеона",
+          "Аллегорический женский образ, олицетворяющий Республику, чей бюст находится во всех мэриях",
+          "Первая председательница Совета министров"
+        ],
+        "correct_index": 2,
+        "explanation": "Марианна — аллегорический женский образ, символизирующий Французскую Республику. Изображается с фригийским колпаком (символ свободы с античности) и фигурирует на марках, монетах, официальных бланках, а её бюст стоит во всех французских мэриях. Черты меняются в зависимости от эпохи — такие знаменитости, как Брижит Бардо, Катрин Денёв или Летиция Каста, вдохновляли некоторые образы."
+      },
+      {
+        "question": "Что прежде всего оценивает сотрудник префектуры на собеседовании об ассимиляции?",
+        "options": [
+          "Умение наизусть цитировать Конституцию",
+          "Устное владение французским, знание общества и приверженность республиканским ценностям",
+          "Количество лет, прожитых во Франции",
+          "Отсутствие какой-либо религиозной практики"
+        ],
+        "correct_index": 1,
+        "explanation": "Собеседование об ассимиляции оценивает три аспекта: устное владение французским (минимум B1), знание французского общества (институты, ценности, история, повседневная жизнь) и приверженность ценностям Республики (свобода, равенство, братство, светскость, демократия, равенство мужчин и женщин). Это не школьный экзамен — беседа, призванная убедиться в подлинности интеграции кандидата."
       }
     ]
   }

@@ -3,276 +3,289 @@
     "module_id": 9,
     "lesson_id": 2,
     "module_icon": "🎬",
-    "lesson_icon": "🌊",
+    "lesson_icon": "🎥",
     "estimated_minutes": 12,
     "difficulty": "intermédiaire",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "Cahiers du Cinéma — Archives historiques",
+        "url": "https://www.cahiersducinema.com"
+      },
+      {
+        "label": "Cinémathèque française — La Nouvelle Vague",
+        "url": "https://www.cinematheque.fr/cycle/la-nouvelle-vague-351.html"
+      },
+      {
+        "label": "BFI — French New Wave retrospective",
+        "url": "https://www.bfi.org.uk/features/french-new-wave"
+      },
+      {
+        "label": "Institut français — Godard, Truffaut, Varda",
+        "url": "https://www.institutfrancais.com/fr/cinema/nouvelle-vague"
+      }
     ]
   },
   "fr": {
-    "module_title": "Cinéma, BD et Culture Pop",
+    "module_title": "Cinéma & Télévision",
     "lesson_title": "La Nouvelle Vague",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : La Nouvelle Vague. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "Comment une génération de jeunes critiques a révolutionné le cinéma mondial à la fin des années 1950",
+    "intro": "La Nouvelle Vague est peut-être la révolution artistique la plus influente du XXe siècle dans le domaine du cinéma. Entre 1958 et 1968, une poignée de jeunes Français — issus de la critique de cinéma, sans formation technique, avec des budgets minuscules — ont réinventé la façon de faire des films et ont influencé des générations entières de cinéastes à travers le monde, de Scorsese à Tarantino, de Kubrick à Wong Kar-wai. Leur héritage est partout, même dans des films qui ne savent pas qu'ils en sont les héritiers.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**La Nouvelle Vague** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "L'émergence de la Nouvelle Vague : des Cahiers au plateau",
+        "body": "La Nouvelle Vague naît dans les pages d'une revue : les **Cahiers du Cinéma**, fondés en 1951 par **André Bazin** (théoricien du cinéma, mentor de toute une génération). Des critiques passionnés — **François Truffaut**, **Jean-Luc Godard**, **Claude Chabrol**, **Éric Rohmer**, **Jacques Rivette** — y développent pendant des années leurs théories sur le cinéma en regardant et en analysant des milliers de films à la **Cinémathèque française** de **Henri Langlois**.\n\nLa Cinémathèque, fondée par Langlois en **1936**, est un lieu mythique du Paris culturel d'après-guerre : on peut y voir chaque jour des dizaines de films du monde entier, des classiques hollywoodiens aux films muets japonais. C'est là que ces jeunes critiques deviennent des cinéphiles encyclopédiques — et développent une frustration croissante face au cinéma français officiel, qu'ils jugent «de papa» : trop littéraire, trop académique, trop décoratif.\n\nLa rupture arrive en **1959** avec deux films qui changent tout : «**Les 400 Coups**» de **François Truffaut** (25 ans) — Grand Prix de la mise en scène à Cannes, autobiographique, tourné dans les rues de Paris avec une caméra légère — et «**À bout de souffle**» de **Jean-Luc Godard** (29 ans), tourné avec une caméra portée à l'épaule, des ruptures de montage délibérées (les «jump cuts») et des dialogues improvisés. Ces deux films fondent simultanément le style de la Nouvelle Vague."
       },
       {
-        "theme": "Région",
+        "theme": "Géographie",
         "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
+        "title": "Paris comme personnage : la ville dans la Nouvelle Vague",
+        "body": "La Nouvelle Vague a profondément transformé l'image cinématographique de Paris. Avant elle, Paris au cinéma était surtout reconstituée en studio — décors peints, lumières artificielles, atmosphère de carte postale. La Nouvelle Vague sort dans les rues : **Montmartre**, **Saint-Germain-des-Prés**, les **quais de Seine**, **Montparnasse** deviennent des personnages à part entière des films.\n\n«À bout de souffle» commence par une course-poursuite sur les Champs-Élysées filmée caméra à l'épaule depuis une fauteuil roulant poussé dans la rue — une image qui cristallise l'esprit de liberté et d'improvisation de la Nouvelle Vague. «**Cléo de 5 à 7**» d'**Agnès Varda** (1962) filme Paris en temps réel, en suivant une chanteuse pendant 90 minutes dans les rues de la ville — le film dure exactement le même temps que la promenade de l'héroïne.\n\nCette géographie parisienne de la Nouvelle Vague est aussi une géographie de la **liberté intellectuelle** : Saint-Germain-des-Prés, avec ses cafés (Le Flore, Les Deux Magots), ses librairies, ses caves de jazz où jouait Boris Vian, incarnait la vie intellectuelle et bohème d'un Paris d'après-guerre en pleine effervescence. Godard, Truffaut et leurs amis étaient des habitués de ces lieux — et ils les ont filmés comme un hommage à leur propre jeunesse."
       },
       {
-        "theme": "Politique & Social",
+        "theme": "Politique",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "La Nouvelle Vague et les turbulences politiques de la Ve République",
+        "body": "La Nouvelle Vague est indissociable du contexte politique de son époque. Elle émerge à la charnière de la **IVe et Ve République** (1958–1962), pendant la **Guerre d'Algérie** (1954–1962) — un conflit qui divise profondément la société française et que la censure officielle interdit de montrer au cinéma. Plusieurs cinéastes de la Nouvelle Vague signent le «**Manifeste des 121**» (1960) appelant à l'insoumission militaire — un acte courageux qui leur vaut des interdits de diffusion à la radio et à la télévision.\n\n**Jean-Luc Godard** est le plus politisé des cinéastes de la Nouvelle Vague. Ses films évoluent progressivement vers une radicalité politique de plus en plus affirmée : «**Vivre sa vie**» (1962), «**Le Mépris**» (1963, avec Brigitte Bardot), «**Pierrot le fou**» (1965), «**Week-end**» (1967) — satire violente de la société de consommation et de la bourgeoisie. Après **mai 1968**, Godard rejoint le groupe Dziga Vertov, collectif militant, et disparaît du cinéma commercial pendant plusieurs années.\n\nMai **1968** frappe de plein fouet la Nouvelle Vague : le **Festival de Cannes** est interrompu par Truffaut et Godard, qui descendent eux-mêmes sur la scène pour arrêter les projections en solidarité avec le mouvement étudiant. C'est la fin de l'innocence de la Nouvelle Vague — et le début de son éclatement en trajectoires individuelles très différentes."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Vie quotidienne",
+        "icon": "🏠",
+        "title": "Les innovations techniques et leur héritage dans le cinéma contemporain",
+        "body": "La Nouvelle Vague est née de contraintes techniques et budgétaires qui sont devenues des **choix esthétiques révolutionnaires**. Les cinéastes n'avaient pas d'argent pour les studios, les grandes équipes, les grues de travelling — alors ils ont inventé d'autres façons de filmer.\n\nL'utilisation de **caméras légères** (Arriflex 35, Caméflex) portées à l'épaule libère le cinéaste des rails et des trépieds — donnant cette impression de vie, d'instabilité, de présence physique qui caractérise le style Nouvelle Vague. Le **son direct** (enregistrement du son sur le plateau et non en post-production) donne aux films leur texture sonore particulière — bruits de rue, conversations parasites, ambiances urbaines.\n\nLes **jump cuts** de Godard dans «À bout de souffle» — ces raccords qui «sautent» dans le temps au sein d'une même scène, délibérément visibles et perturbants — sont devenus l'une des techniques de montage les plus imitées du cinéma mondial. La **rupture de l'ellipse** (sauter des étapes de la narration), le **regard caméra** des acteurs (briser le «quatrième mur»), l'**improvisation des dialogues** — autant d'innovations qui ont été reprises par des centaines de cinéastes, de Brian De Palma à Quentin Tarantino."
       },
       {
-        "theme": "Culture artistique",
+        "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "title": "Les grandes figures : Godard, Truffaut, Varda et les autres",
+        "body": "La Nouvelle Vague regroupe des personnalités très différentes, unies par une même passion du cinéma et une même volonté de rupture.\n\n**François Truffaut** (1932–1984) est le plus romantique et le plus accessible. Sa trilogie Antoine Doinel («Les 400 Coups», «Baisers volés», «Domicile conjugal», «L'Amour en fuite») suit un même personnage autobiographique de l'enfance à la maturité. «**La Nuit américaine**» (1973, Oscar du meilleur film étranger) est un amour déclaré au cinéma lui-même.\n\n**Jean-Luc Godard** (1930–2022) est le plus radical et le plus intellectuel. Ses films sont des essais cinématographiques autant que des récits : il cite Brecht, Faulkner, Marx dans ses films, insère des cartons de texte, fait parler ses acteurs face caméra. Sa disparition en **2022** (mort assistée en Suisse à 91 ans) a suscité un deuil mondial du cinéma.\n\n**Agnès Varda** (1928–2019) est la seule femme de la Nouvelle Vague — et souvent la plus oubliée, ce qu'elle a longtemps dénoncé avec humour. Sa filmographie mêle fiction, documentaire et autoportrait avec une liberté formelle unique. «**Sans toit ni loi**» (1985, Lion d'Or à Venise) et ses installations artistiques tardives en font une figure précurseure du féminisme et de l'art contemporain.\n\n**Claude Chabrol** (1930–2010) choisit le polar et le thriller bourgeois pour disséquer la province française et l'hypocrisie de la bourgeoisie. «**Les Cousins**» (1959), «**Le Boucher**» (1970), «**La Cérémonie**» (1995) sont ses œuvres les plus connues."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "title": "L'héritage de la Nouvelle Vague dans la culture française contemporaine",
+        "body": "La Nouvelle Vague n'est pas seulement un mouvement cinématographique — c'est une **attitude culturelle** qui imprègne encore la France contemporaine. L'idée que l'art doit prendre des risques, bousculer les conventions, refuser les formats imposés — cette philosophie est héritière directe de la Nouvelle Vague.\n\nDans la **culture populaire française**, les références à la Nouvelle Vague sont omniprésentes : publicités utilisant l'esthétique du jump cut, clips musicaux tournés à l'épaule en noir et blanc, séries télévisées qui s'auto-citent ou brisent le quatrième mur. La marque **Lacoste**, le parfum **Chanel N°5**, les publicités pour les voitures françaises ont toutes utilisé l'esthétique Nouvelle Vague pour signifier «liberté», «modernité» et «French cool».\n\nLa **Cinémathèque française** (actuelle, au Palais de Chaillot puis au Palais de Tokyo, enfin au Frank Gehry de Bercy depuis 2005) reste le temple de la cinéphilie française. Ses rétrospectives régulières de la Nouvelle Vague attirent toujours des files d'attente — même 60 ans après. Pour un étranger s'installant à Paris, adhérer à la Cinémathèque (12€/an, séances à 7€) est l'une des meilleures façons d'entrer dans la culture cinématographique française et d'y faire des rencontres autour d'un amour partagé du septième art."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à La Nouvelle Vague :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**Connaître la Nouvelle Vague est un code culturel majeur en France.** Dans une conversation, pouvoir dire «j'ai vu Les 400 Coups» ou «j'aime beaucoup Varda» ouvrira des portes que beaucoup de sujets de conversation ne peuvent pas ouvrir.\n\n**Pour comprendre la Nouvelle Vague en 5 films :**\n1. «Les 400 Coups» (Truffaut, 1959) — le plus accessible, émotionnellement bouleversant\n2. «À bout de souffle» (Godard, 1960) — le plus iconique stylistiquement\n3. «Cléo de 5 à 7» (Varda, 1962) — le plus beau, féministe avant l'heure\n4. «Le Mépris» (Godard, 1963) — le plus grand, avec Bardot et Piccoli\n5. «La Nuit américaine» (Truffaut, 1973) — le plus joyeux, un hommage au cinéma\n\n**À savoir** : la plupart de ces films sont disponibles sur des plateformes françaises (MUBI, Arte.tv, Henri de la Cinémathèque) et certains sont accessibles gratuitement en ligne. La chaîne **Arte** (franco-allemande) diffuse régulièrement des films de la Nouvelle Vague en soirée — et propose une application gratuite avec un catalogue exceptionnel de cinéma d'auteur."
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
+        "term": "La Nouvelle Vague",
+        "definition": "Mouvement cinématographique français né à la fin des années 1950, regroupant Godard, Truffaut, Chabrol, Rohmer, Varda — révolutionnant les techniques et l'esthétique du cinéma avec des budgets réduits et une liberté totale."
       },
       {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
+        "term": "Le jump cut",
+        "definition": "Technique de montage consistant à couper dans une scène en sautant dans le temps de façon visible et volontaire, créant une rupture délibérée du flux narratif — inventée/théorisée par Godard dans «À bout de souffle» (1960)."
       },
       {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "term": "La Cinémathèque française",
+        "definition": "Institution culturelle parisienne fondée en 1936 par Henri Langlois, préservant et diffusant le patrimoine cinématographique mondial — temple de la cinéphilie française et berceau de la Nouvelle Vague."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "Le son direct",
+        "definition": "Technique consistant à enregistrer le son sur le plateau de tournage (et non en post-production), capturant les ambiances réelles et les imperfections sonores — signature du style Nouvelle Vague."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
+        "term": "Le quatrième mur",
+        "definition": "Convention théâtrale et cinématographique selon laquelle les acteurs ignorent la présence du public/de la caméra — la Nouvelle Vague l'a systématiquement «brisé» en faisant regarder les acteurs directement dans l'objectif."
       },
       {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "Les Cahiers du Cinéma",
+        "definition": "Revue de critique cinématographique fondée en 1951 par André Bazin — principal organe théorique de la Nouvelle Vague, où Truffaut, Godard et Chabrol ont développé leurs idées avant de passer à la réalisation."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «La Nouvelle Vague» dans la République française ?",
+        "question": "Quel film de Truffaut, présenté à Cannes en 1959, marque le coup d'envoi de la Nouvelle Vague ?",
         "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
-        ],
-        "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
-      },
-      {
-        "question": "En France, la laïcité signifie que...",
-        "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
-        ],
-        "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
-      },
-      {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "«Jules et Jim» (1962)",
+          "«La Nuit américaine» (1973)",
+          "«Les 400 Coups» (1959)",
+          "«Baisers volés» (1968)"
         ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
+        "explanation": "«Les 400 Coups» (1959) de François Truffaut est généralement considéré comme le premier film de la Nouvelle Vague. Présenté en compétition à Cannes 1959, il remporte le Prix de la mise en scène. Film autobiographique sur l'enfance difficile de Truffaut, il introduit l'acteur Jean-Pierre Léaud dans le rôle d'Antoine Doinel — personnage que Truffaut suivra dans quatre films suivants."
       },
       {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
+        "question": "Qu'est-ce qu'un «jump cut» dans le cinéma de la Nouvelle Vague ?",
         "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
-        ],
-        "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
-      },
-      {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
-        "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
+          "Une caméra fixée à un câble pour simuler un saut",
+          "Une coupe visible et délibérée sautant dans le temps au sein d'une même scène",
+          "Un plan en contre-plongée donnant l'impression de regarder de bas en haut",
+          "Un fondu enchaîné très rapide entre deux scènes"
         ],
         "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "Le jump cut est une technique de montage où l'on coupe dans une même scène en sautant dans le temps, créant une rupture visible qui perturbe délibérément le flux narratif. Godard l'a utilisé systématiquement dans «À bout de souffle» (1960) — c'est devenu l'une des signatures stylistiques les plus imitées du cinéma mondial."
+      },
+      {
+        "question": "Quelle cinéaste est souvent qualifiée de «seule femme de la Nouvelle Vague» ?",
+        "options": [
+          "Marguerite Duras",
+          "Agnès Varda",
+          "Simone de Beauvoir",
+          "Catherine Deneuve"
+        ],
+        "correct_index": 1,
+        "explanation": "Agnès Varda (1928–2019) est régulièrement désignée comme la seule femme de la Nouvelle Vague — bien qu'elle-même contestait parfois cette étiquette, préférant souligner qu'elle avait travaillé en parallèle du mouvement avec une indépendance totale. Son premier film «La Pointe Courte» (1955) précède même les œuvres fondatrices de Truffaut et Godard."
+      },
+      {
+        "question": "Que s'est-il passé au Festival de Cannes en mai 1968 ?",
+        "options": [
+          "Le festival a élu un film soviétique comme meilleure œuvre",
+          "Truffaut et Godard ont interrompu le festival en solidarité avec le mouvement étudiant",
+          "Le festival a été déplacé à Paris en raison des grèves",
+          "Jean-Luc Godard a remporté la Palme d'Or pour «Week-end»"
+        ],
+        "correct_index": 1,
+        "explanation": "En mai 1968, alors que la France était secouée par les révoltes étudiantes et ouvrières, Truffaut, Godard et d'autres cinéastes sont montés sur la scène du Palais des Festivals de Cannes pour arrêter les projections et appeler à la fermeture du festival en solidarité avec le mouvement social. Le festival a finalement été interrompu."
+      },
+      {
+        "question": "Quelle revue parisienne fut le berceau intellectuel de la Nouvelle Vague ?",
+        "options": [
+          "Le Monde",
+          "L'Express",
+          "Les Cahiers du Cinéma",
+          "Positif"
+        ],
+        "correct_index": 2,
+        "explanation": "Les Cahiers du Cinéma, fondés en 1951 par André Bazin, sont la revue où Truffaut, Godard, Chabrol, Rohmer et Rivette ont développé leurs théories sur le cinéma — notamment la «politique des auteurs» — avant de passer derrière la caméra. Ces critiques devenus cinéastes ont totalement révolutionné le cinéma français et mondial."
       }
     ]
   },
   "ru": {
-    "module_title": "Кино, комиксы и поп-культура",
+    "module_title": "Кино и телевидение",
     "lesson_title": "Новая волна",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Новая волна. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_subtitle": "Как поколение молодых критиков произвело революцию в мировом кинематографе в конце 1950-х",
+    "intro": "Новая волна — вероятно, самая влиятельная художественная революция XX века в области кино. Между 1958 и 1968 годами горстка молодых французов — выходцев из кинокритики, без технической подготовки, с крошечными бюджетами — заново изобрела способ снимать фильмы и повлияла на целые поколения кинематографистов по всему миру, от Скорсезе до Тарантино, от Кубрика до Вонга Кар-Вая. Их наследие повсюду — даже в фильмах, которые не подозревают, что являются их наследниками.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Новая волна** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "Возникновение Новой волны: из журнала на съёмочную площадку",
+        "body": "Новая волна рождается на страницах журнала: **Cahiers du Cinéma**, основанного в 1951 году **Андре Базеном** (теоретик кино, наставник целого поколения). Страстные критики — **Франсуа Трюффо**, **Жан-Люк Годар**, **Клод Шаброль**, **Эрик Ромер**, **Жак Риветт** — на протяжении многих лет разрабатывают здесь свои теории о кино, просматривая и анализируя тысячи фильмов в **Французской синематеке** **Анри Ланглуа**.\n\nСинематека, основанная Ланглуа в **1936 году**, — легендарное место парижской послевоенной культуры: каждый день здесь можно было посмотреть десятки фильмов со всего мира — от голливудских классиков до японского немого кино. Именно здесь молодые критики становятся энциклопедическими киноманами — и накапливают растущее разочарование официальным французским кино, которое они находят «папиным»: слишком литературным, слишком академическим, слишком декоративным.\n\nПерелом наступает в **1959 году** с двумя фильмами, меняющими всё: «**400 ударов**» **Франсуа Трюффо** (25 лет) — Гран-при за режиссуру в Каннах, автобиографический, снятый на улицах Парижа с лёгкой камерой — и «**На последнем дыхании**» **Жан-Люка Годара** (29 лет), снятый с камерой на плече, намеренными монтажными склейками (jump cuts) и импровизированными диалогами. Эти два фильма одновременно закладывают стиль Новой волны."
       },
       {
-        "theme": "Регион",
+        "theme": "География",
         "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
+        "title": "Париж как персонаж: город в Новой волне",
+        "body": "Новая волна коренным образом преобразила кинематографический образ Парижа. До неё Париж на экране в основном воссоздавался в студии — расписные декорации, искусственное освещение, открыточная атмосфера. Новая волна выходит на улицы: **Монмартр**, **Сен-Жермен-де-Пре**, **набережные Сены**, **Монпарнас** становятся полноправными персонажами фильмов.\n\n«На последнем дыхании» начинается с автомобильной погони на Елисейских полях, снятой с камерой на плече из тележки, катящейся по улице, — образ, воплощающий дух свободы и импровизации Новой волны. «**Клео с 5 до 7**» **Аньес Варды** (1962) снимает Париж в реальном времени, следуя за певицей 90 минут по улицам города, — фильм длится ровно столько, сколько прогулка героини.\n\nЭта парижская география Новой волны — ещё и geography **интеллектуальной свободы**: Сен-Жермен-де-Пре с кафе (Le Flore, Les Deux Magots), книжными лавками, джазовыми подвалами, где играл Борис Виан, воплощал интеллектуальную и богемную жизнь послевоенного Парижа в период брожения. Годар, Трюффо и их друзья были завсегдатаями этих мест — и снимали их как дань уважения собственной молодости."
       },
       {
-        "theme": "Политика и общество",
+        "theme": "Политика",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Новая волна и политические потрясения V Республики",
+        "body": "Новая волна неотделима от политического контекста своей эпохи. Она возникает на стыке **IV и V Республики** (1958–1962), в разгар **Алжирской войны** (1954–1962) — конфликта, глубоко раскалывающего французское общество и запрещённого официальной цензурой к показу на экране. Несколько кинематографистов Новой волны подписывают «**Манифест 121**» (1960), призывающий к воинскому неповиновению, — смелый поступок, стоивший им запрета на радио и телевидении.\n\n**Жан-Люк Годар** — наиболее политически ангажированный кинематографист Новой волны. Его фильмы постепенно эволюционируют к всё более выраженному политическому радикализму: «**Жить своей жизнью**» (1962), «**Презрение**» (1963, с Брижит Бардо), «**Безумный Пьеро**» (1965), «**Уикенд**» (1967) — жёсткая сатира на общество потребления и буржуазию. После **мая 1968 года** Годар вступает в группу Дзига Вертов, боевой коллектив, и на несколько лет исчезает из коммерческого кино.\n\nМай **1968 года** ударяет по Новой волне в полную силу: **Каннский кинофестиваль** прерывают Трюффо и Годар, лично выходящие на сцену, чтобы остановить показы в знак солидарности со студенческим движением. Это конец невинности Новой волны — и начало её распада на очень разные индивидуальные траектории."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Повседневная жизнь",
+        "icon": "🏠",
+        "title": "Технические инновации и их наследие в современном кино",
+        "body": "Новая волна родилась из технических и бюджетных ограничений, превратившихся в **революционные эстетические решения**. У кинематографистов не было денег на студии, большие съёмочные группы, операторские краны — и они изобрели другие способы снимать.\n\nИспользование **лёгких камер** (Arriflex 35, Caméflex) на плече освобождает режиссёра от рельсов и штативов — создавая ощущение жизни, нестабильности, физического присутствия, характерное для стиля Новой волны. **Прямой звук** (запись звука на площадке, а не в постпродукции) придаёт фильмам особую звуковую текстуру — уличный шум, побочные разговоры, городские атмосферы.\n\n**Jump cuts** Годара в «На последнем дыхании» — монтажные склейки, «прыгающие» во времени внутри одной сцены, намеренно заметные и дезориентирующие, — стали одной из наиболее имитируемых техник мирового кинематографа. **Разрыв эллипса** (пропуск этапов нарратива), **взгляд в камеру** (слом «четвёртой стены»), **импровизация диалогов** — все эти инновации восприняли сотни кинематографистов, от Брайана Де Пальмы до Квентина Тарантино."
       },
       {
-        "theme": "Художественная культура",
+        "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "title": "Ключевые фигуры: Годар, Трюффо, Варда и другие",
+        "body": "Новая волна объединяет очень разных людей, связанных единой страстью к кино и волей к разрыву.\n\n**Франсуа Трюффо** (1932–1984) — самый романтичный и доступный из них. Трилогия Антуана Дуанеля («400 ударов», «Украденные поцелуи», «Семейный очаг», «Любовь на бегу») прослеживает один автобиографический персонаж от детства до зрелости. «**Американская ночь**» (1973, «Оскар» за лучший иностранный фильм) — признание в любви самому кино.\n\n**Жан-Люк Годар** (1930–2022) — самый радикальный и интеллектуальный. Его фильмы — кинематографические эссе не меньше, чем нарративы: он цитирует Брехта, Фолкнера, Маркса, вставляет текстовые карточки, заставляет актёров говорить в камеру. Его уход в **2022 году** (ассистированная смерть в Швейцарии в 91 год) вызвал мировой траур киносообщества.\n\n**Аньес Варда** (1928–2019) — единственная женщина Новой волны и нередко наиболее забытая, что она долго с юмором обличала. Её фильмография смешивает игровое кино, документальное и автопортрет с неповторимой формальной свободой. «**Без кровли и без закона**» (1985, Золотой лев Венеции) и её поздние художественные инсталляции делают её фигурой-предтечей феминизма и современного искусства.\n\n**Клод Шаброль** (1930–2010) использует детектив и буржуазный триллер для препарирования французской провинции и лицемерия буржуазии. «**Кузены**» (1959), «**Мясник**» (1970), «**Церемония**» (1995) — его наиболее известные работы."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "title": "Наследие Новой волны в современной французской культуре",
+        "body": "Новая волна — не только кинематографическое движение, но и **культурная установка**, пронизывающая современную Францию. Идея о том, что искусство должно рисковать, опрокидывать условности, отвергать навязанные форматы, — эта философия является прямой наследницей Новой волны.\n\nВ **популярной французской культуре** отсылки к Новой волне вездесущи: реклама с эстетикой jump cut, музыкальные клипы, снятые с рук в чёрно-белом цвете, телесериалы, цитирующие самих себя или ломающие четвёртую стену. Бренд **Lacoste**, духи **Chanel N°5**, реклама французских автомобилей — все использовали эстетику Новой волны, чтобы означать «свободу», «современность» и «французский шик».\n\n**Французская синематека** (в нынешнем здании Фрэнка Гери в Берси с 2005 года) остаётся храмом французской синефилии. Её регулярные ретроспективы Новой волны по-прежнему собирают очереди — и это 60 лет спустя. Для иностранца, обустраивающегося в Париже, вступить в Синематеку (12 €/год, сеансы по 7 €) — один из лучших способов войти во французскую кинематографическую культуру и найти собеседников вокруг общей любви к седьмому искусству."
       }
     ],
     "conseil_ami": {
       "title": "Дружеский совет 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Новая волна»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**Знать Новую волну — важный культурный код во Франции.** В разговоре возможность сказать «я смотрел «400 ударов»» или «мне очень нравится Варда» открывает двери, которые многие другие темы для разговора не откроют.\n\n**Понять Новую волну за 5 фильмов:**\n1. «400 ударов» (Трюффо, 1959) — самый доступный, эмоционально потрясающий\n2. «На последнем дыхании» (Годар, 1960) — самый стилистически знаковый\n3. «Клео с 5 до 7» (Варда, 1962) — самый красивый, феминистский avant la lettre\n4. «Презрение» (Годар, 1963) — самый грандиозный, с Бардо и Пикколи\n5. «Американская ночь» (Трюффо, 1973) — самый радостный, гимн кино\n\n**К сведению**: большинство этих фильмов доступны на французских платформах (MUBI, Arte.tv, Henri de la Cinémathèque), некоторые — бесплатно онлайн. Канал **Arte** (франко-германский) регулярно показывает фильмы Новой волны по вечерам — и предлагает бесплатное приложение с исключительным каталогом авторского кино."
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "Новая волна / Nouvelle Vague",
+        "definition": "Французское кинематографическое движение конца 1950-х годов — Годар, Трюффо, Шаброль, Ромер, Варда — революционизировавшее кинотехнику и эстетику с минимальными бюджетами и полной свободой."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "Jump cut",
+        "definition": "Техника монтажа, при которой в сцене делается заметный намеренный срез со скачком во времени, создающий намеренный разрыв нарративного потока — изобретена/теоретизирована Годаром в «На последнем дыхании» (1960)."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "Французская синематека / Cinémathèque française",
+        "definition": "Парижский культурный институт, основанный Анри Ланглуа в 1936 году, сохраняющий и транслирующий мировое кинонаследие — храм французской синефилии и колыбель Новой волны."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "Прямой звук / son direct",
+        "definition": "Техника записи звука непосредственно на съёмочной площадке (а не в постпродукции), захватывающая реальные атмосферы и звуковые несовершенства — подпись стиля Новой волны."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "Четвёртая стена / quatrième mur",
+        "definition": "Театральная и кинематографическая условность, при которой актёры игнорируют присутствие зрителей/камеры — Новая волна систематически её «ломала», заставляя актёров смотреть прямо в объектив."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "Cahiers du Cinéma",
+        "definition": "Журнал кинокритики, основанный в 1951 году Андре Базеном — главный теоретический орган Новой волны, где Трюффо, Годар и Шаброль разрабатывали свои идеи до перехода к режиссуре."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Новая волна» во Французской республике?",
+        "question": "Какой фильм Трюффо, показанный в Каннах в 1959 году, дал старт Новой волне?",
         "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
-        ],
-        "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
-      },
-      {
-        "question": "Светскость во Франции означает, что...",
-        "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
-        ],
-        "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
-      },
-      {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "«Жюль и Джим» (1962)",
+          "«Американская ночь» (1973)",
+          "«400 ударов» (1959)",
+          "«Украденные поцелуи» (1968)"
         ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
+        "explanation": "«400 ударов» (1959) Франсуа Трюффо принято считать первым фильмом Новой волны. Представленный в основном конкурсе Канн 1959 года, он получает Гран-при за режиссуру. Автобиографический фильм о трудном детстве Трюффо вводит актёра Жан-Пьера Лео в роли Антуана Дуанеля — персонажа, которому Трюффо посвятит ещё четыре фильма."
       },
       {
-        "question": "Членом-основателем какой международной организации является Франция?",
+        "question": "Что такое «jump cut» в кино Новой волны?",
         "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
-        ],
-        "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
-      },
-      {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
-        "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
+          "Камера, прикреплённая к тросу для имитации прыжка",
+          "Заметный намеренный срез со скачком во времени внутри одной сцены",
+          "Съёмка снизу вверх, создающая ощущение взгляда снизу",
+          "Очень быстрый переход между двумя сценами"
         ],
         "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "Jump cut — техника монтажа, при которой внутри одной сцены делается срез со скачком во времени, создающий видимый разрыв, намеренно дезориентирующий зрителя. Годар систематически использовал её в «На последнем дыхании» (1960) — и она стала одной из наиболее имитируемых стилистических подписей мирового кинематографа."
+      },
+      {
+        "question": "Какую кинематографистку называют «единственной женщиной Новой волны»?",
+        "options": [
+          "Маргерит Дюрас",
+          "Аньес Варда",
+          "Симона де Бовуар",
+          "Катрин Денёв"
+        ],
+        "correct_index": 1,
+        "explanation": "Аньес Варда (1928–2019) регулярно называют единственной женщиной Новой волны — хотя сама она порой оспаривала этот ярлык, предпочитая подчёркивать, что работала параллельно движению с полной независимостью. Её первый фильм «Пуэнт-Курт» (1955) предшествует даже основополагающим работам Трюффо и Годара."
+      },
+      {
+        "question": "Что произошло на Каннском кинофестивале в мае 1968 года?",
+        "options": [
+          "Фестиваль наградил советский фильм как лучшее произведение",
+          "Трюффо и Годар прервали фестиваль в знак солидарности со студенческим движением",
+          "Фестиваль перенесли в Париж из-за забастовок",
+          "Жан-Люк Годар получил Золотую пальмовую ветвь за «Уикенд»"
+        ],
+        "correct_index": 1,
+        "explanation": "В мае 1968 года, когда Францию сотрясали студенческие и рабочие волнения, Трюффо, Годар и другие кинематографисты вышли на сцену Дворца фестивалей в Каннах, чтобы остановить показы и призвать к закрытию фестиваля в знак солидарности с социальным движением. Фестиваль в итоге был прерван."
+      },
+      {
+        "question": "Какой парижский журнал стал интеллектуальной колыбелью Новой волны?",
+        "options": [
+          "Le Monde",
+          "L'Express",
+          "Les Cahiers du Cinéma",
+          "Positif"
+        ],
+        "correct_index": 2,
+        "explanation": "Cahiers du Cinéma, основанные в 1951 году Андре Базеном, — журнал, на страницах которого Трюффо, Годар, Шаброль, Ромер и Риветт разрабатывали свои теории о кино — в частности, «политику авторов» — прежде чем встать за камеру. Эти критики, ставшие режиссёрами, полностью перевернули французский и мировой кинематограф."
       }
     ]
   }

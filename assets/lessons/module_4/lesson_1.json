@@ -4,274 +4,280 @@
     "lesson_id": 1,
     "module_icon": "🤝",
     "lesson_icon": "👋",
-    "estimated_minutes": 12,
-    "difficulty": "essentiel",
+    "estimated_minutes": 14,
+    "difficulty": "débutant",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr"
+      {
+        "label": "Politeness in France — intercultural studies",
+        "url": "https://www.diplomatie.gouv.fr"
+      },
+      {
+        "label": "Vie-publique.fr — Valeurs de la République",
+        "url": "https://www.vie-publique.fr"
+      }
     ]
   },
   "fr": {
     "module_title": "Les Codes Sociaux Invisibles",
-    "lesson_title": "Bonjour — La règle d'or de la politesse française",
-    "lesson_subtitle": "Ce que personne ne vous dira mais que tout le monde juge",
-    "intro": "En France, il existe un code invisible mais universel qui structure toutes les interactions sociales. Le violer — même involontairement — vous classera immédiatement comme «mal élevé». Ce code tient en un seul mot : **Bonjour**. Et dans sa logique se cache toute la philosophie sociale française.",
+    "lesson_title": "Bonjour, Politesse et Codes de Base",
+    "lesson_subtitle": "Le premier regard que la France pose sur vous",
+    "intro": "En France, la première impression se forme en quelques secondes — et elle repose presque entièrement sur des codes que les étrangers ne soupçonnent pas. Ce ne sont pas vos vêtements, votre accent ou votre argent qui seront jugés en premier. C'est la façon dont vous entrez en relation : est-ce que vous dites bonjour ? Est-ce que vous regardez dans les yeux ? Est-ce que vous respectez la distance sociale ? Ces règles, jamais écrites, jamais enseignées, sont pourtant connues de tous les Français dès l'enfance. Cette leçon les rend explicites.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Pourquoi le «Bonjour» est-il si important ?",
-        "body": "La politesse française n'est pas un vernis superficiel — elle est le résultat de siècles de **civilisation de cour**. À Versailles, sous Louis XIV, les règles de bienséance étaient une science entière. Ignorer quelqu'un était une insulte diplomatique.\n\nAujourd'hui, le «Bonjour» est la **reconnaissance de l'autre comme personne** — et non comme un obstacle ou un client. Ne pas saluer signifie littéralement : «Tu n'existes pas pour moi».\n\nLa Révolution de 1789 a ajouté une dimension égalitaire : on dit «Bonjour» au médecin comme au boulanger. Le «Bonjour» ne souffre aucune exception."
+        "title": "La politesse française, héritage de la cour",
+        "body": "La politesse française telle qu'on la pratique aujourd'hui est héritière d'une longue tradition aristocratique. À la cour de **Versailles** sous Louis XIV (1638–1715), les nobles développèrent un système extrêmement codifié de comportements : qui salue qui en premier, qui entre le premier dans une pièce, comment s'adresser au roi ou à ses pairs. Ces «bonnes manières» n'étaient pas anodines — elles déterminaient le rang, le statut, l'accès au pouvoir.\n\nLa **Révolution française** (1789) brisa symboliquement cette hiérarchie en substituant «Citoyen» et «Citoyenne» aux formes aristocratiques. Mais paradoxalement, elle ne supprima pas la politesse — elle la **démocratisa**. Les formes de politesse se diffusèrent dans toutes les classes sociales, portées par l'école républicaine de Jules Ferry. Dès les années 1880, les instituteurs enseignent aux enfants à dire «Bonjour Monsieur», à ne pas couper la parole, à tenir la porte. Ces règles deviennent le **marqueur d'une citoyenneté partagée** plutôt que d'une élite.\n\nAujourd'hui, la politesse française est à la fois plus démocratique et plus rigide qu'ailleurs : elle s'impose à tous de façon égale, quelle que soit la classe sociale. Un homme politique, un boulanger et un ouvrier disent tous «Bonjour» en entrant dans un commerce. Ce nivelage de la politesse incarne la **fraternité républicaine** — troisième terme de la devise nationale."
       },
       {
-        "theme": "Région",
+        "theme": "Géographie",
         "icon": "🗺️",
-        "title": "Variantes régionales de la politesse",
-        "body": "La politesse française varie selon les régions. **Paris** est réputée pour une certaine froideur — les Parisiens saluent mais restent distants dans les espaces publics. En province, les codes sont souvent plus chaleureux.\n\nDans le **Sud** (Provence, Languedoc), les interactions sont plus expansives : on vous tutoyera plus vite. En **Bretagne** et dans le **Nord**, la réserve initiale cède vite à une grande loyauté une fois la confiance établie.\n\nEn **Alsace**, l'influence germanique donne une politesse plus formelle. En **outre-mer** (Antilles, Réunion), les salutations physiques (bises) sont plus spontanées."
+        "title": "La carte des salutations en France",
+        "body": "La façon de se saluer varie selon les régions françaises, et ces variations peuvent surprendre. Dans le **Sud de la France** (Provence, Languedoc, Pays Basque), les gens sont plus démonstratifs : on s'embrasse (la **bise**) plus facilement avec des inconnus, on parle plus fort, on est plus tactile dans l'espace public. Dans le **Nord** (Paris, Hauts-de-France, Alsace), les gens sont plus réservés en public mais très chaleureux en contexte privé.\n\nLa **bise** — le baiser sur les joues — est un rituel fascinant pour les étrangers. Le nombre de bises varie selon les régions : 1 en Bretagne, 2 dans la majorité de la France, 3 en Provence et dans certaines régions du Centre-Ouest, 4 dans le Nord. Quand deux personnes ne savent pas combien faire, cela donne lieu à ce moment légèrement gênant où l'une des deux avance encore pour une bise de trop. C'est une forme de bonheur social national.\n\n**Paris** est un cas particulier : la vie dans une métropole de 12 millions d'habitants impose un filtre de discrétion publique. Dans le métro, dans la rue, dans les files d'attente — on ne se salue pas, on ne se parle pas spontanément. Ce n'est pas de l'hostilité, c'est une convention urbaine de protection de l'espace personnel. Dès qu'on entre dans un espace défini (un magasin, un cabinet médical, une salle d'attente), les règles reprennent."
       },
       {
-        "theme": "Politique & Social",
+        "theme": "Politique",
         "icon": "⚖️",
-        "title": "Les règles non-écrites de la salutation",
-        "body": "En France, les règles de salutation sont précises mais jamais enseignées explicitement :\n\n**Dans un commerce :** Dites «Bonjour» en entrant, «Merci, bonne journée» en partant.\n\n**Dans un immeuble :** On salue systématiquement les voisins, le gardien, les personnes dans l'ascenseur. Ignorer quelqu'un dans un petit espace est perçu comme de l'arrogance.\n\n**Chez un professionnel :** Médecin, pharmacien, enseignant — le «Bonjour» est attendu avant d'exposer votre demande.\n\n**La bise :** Entre amis, on s'embrasse sur les joues. Le nombre varie : 1 à Paris, 2 en général, 3-4 dans certaines régions du Sud. Entre hommes qui ne se connaissent pas : poignée de main ferme."
+        "title": "Vouvoiement, tutoiement et la question du pouvoir",
+        "body": "La distinction entre **«tu»** et **«vous»** est l'une des grandes particularités de la langue française, et l'une des sources les plus fréquentes de malaise interculturel. Le **vouvoiement** (utilisation de «vous» pour une personne) marque le respect, la distance, la formalité. Le **tutoiement** (utilisation de «tu») marque la proximité, l'amitié, parfois l'égalité.\n\nLes règles générales : on **vouvoie** les personnes âgées, les supérieurs hiérarchiques, les inconnus adultes, les représentants de l'autorité (médecin, juge, fonctionnaire). On **tutoie** les enfants, les amis proches, les collègues dans beaucoup d'entreprises modernes, les membres de sa famille (sauf parfois les grands-parents dans les familles traditionnelles). Dans les entreprises **tech et start-up**, le tutoiement généralisé est de rigueur — signe d'une culture managériale moins hiérarchique.\n\nPasser du vouvoiement au tutoiement nécessite en principe une permission explicite ou implicite. Quand deux adultes décident de se tutoyer, c'est souvent après quelques rencontres, parfois ritualisé par «on se tutoie ?». **Commencer à tutoyer sans permission** quelqu'un qui ne s'y attendait pas peut être perçu comme une impolitesse, voire une forme d'arrogance. À l'inverse, **maintenir le vouvoiement avec quelqu'un qui a proposé le tutoiement** est également maladroit."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "La politesse dans la vie professionnelle",
-        "body": "Dans le monde du travail français, la politesse a un impact direct sur votre carrière.\n\n**Tutoiement vs vouvoiement :** Le vouvoiement («vous») s'utilise avec les inconnus, les supérieurs et les clients. Le tutoiement vient quand le supérieur vous y invite. Attendre cette invitation est toujours la bonne stratégie.\n\n**Les mails professionnels :** Même un mail court commence par «Bonjour [Prénom]» et se termine par «Cordialement». Un mail sans salutation est perçu comme grossier.\n\n**Les réunions :** On commence par des présentations. Couper la parole est mal vu — on dit «Je me permets d'ajouter...» après que l'autre a fini."
+        "theme": "Vie quotidienne",
+        "icon": "🏠",
+        "title": "Codes pratiques du quotidien",
+        "body": "Voici les règles de base qui s'appliquent dans la vie de tous les jours en France :\n\n**Dans un commerce :** Toujours entrer en disant «Bonjour» — et partir en disant «Au revoir, bonne journée» (ou «bonne soirée» après 18h). Ne jamais appeler un serveur en claquant des doigts ou en criant — lever la main et attendre un contact visuel, puis dire «Excusez-moi» ou simplement «S'il vous plaît». La formule «Garçon !» est archaïque et déplacée depuis les années 1980.\n\n**La file d'attente** est sacrée en France. Couper une file est une infraction sociale gravissime, susceptible de déclencher une protestation véhémente. Même si la file semble désorganisée, les Français gardent mentalement l'ordre d'arrivée. La règle est strictement respectée — plus encore dans le Nord que dans le Sud.\n\n**Les portes :** Tenir la porte pour la personne derrière soi est une règle universelle. Si quelqu'un tient une porte pour vous, un «merci» est obligatoire. Passer devant quelqu'un sans dire «pardon» après l'avoir bousculé légèrement est une faute — même si le choc était minime. À l'inverse, dire «pardon» avant de se frayer un passage dans une foule (escalators, couloirs de métro) est attendu.\n\n**Les horaires :** En France, être en retard de 5 à 10 minutes à un dîner chez des amis est une **norme sociale** (le «quart d'heure de politesse»). Arriver à l'heure pile peut embarrasser l'hôte qui n'est pas encore prêt. En revanche, pour un rendez-vous professionnel ou médical, la ponctualité est attendue."
       },
       {
-        "theme": "Culture artistique",
+        "theme": "Culture & Arts",
         "icon": "🎨",
         "title": "La politesse dans la littérature et le cinéma",
-        "body": "La politesse française est au cœur de sa littérature. **Molière** moquait déjà les «faux polis». **Marcel Proust** a écrit des milliers de pages sur les codes de la société française — comment une formule de politesse révèle toute la psychologie d'un personnage.\n\nDans le cinéma, le film **«Le Prénom»** (2012) montre comment un dîner entre amis peut dégénérer en conflit — déclenché par des infractions aux codes de la conversation.\n\n**«Intouchables»** (2011) joue sur le choc de cultures de politesse entre Driss, jeune des banlieues, et Philippe, aristocrate — et montre que l'authenticité peut transcender les codes formels."
+        "body": "La politesse et ses infractions sont un thème récurrent de la culture française. **Molière** (1622–1673) en fit la matière de ses grandes comédies : dans *Le Bourgeois Gentilhomme*, M. Jourdain veut apprendre les codes de l'aristocratie pour s'élever socialement — la satire montre comment la maîtrise (ou l'absence) des codes définit le rang. Dans *Le Misanthrope*, Alceste refuse les conventions de politesse jugées hypocrites — et est socialement marginalisé pour cela.\n\nAu cinéma, le film **«Le Dîner de Cons»** (Francis Veber, 1998) repose entièrement sur les conventions de politesse bourgeoise et leur subversion comique. Plus récemment, **«Intouchables»** (2011) met en scène la collision entre les codes sociaux d'un aristocrate handicapé et d'un banlieusard sans filtre — la comédie naissant précisément de ce décalage.\n\nLa littérature du **savoir-vivre** a une longue tradition en France : les manuels de civilité, de la *Civilité puérile* d'Érasme (traduite en français au XVIe siècle) aux *Bonnes Manières* de la comtesse de Pange au XXe siècle, formalisaient les règles sociales. Ces guides, souvent moqués, ont pourtant profondément modelé les attentes sociales françaises. Aujourd'hui, de nombreux blogs et podcasts **«étiquette française»** s'adressent aux expatriés désireux de déchiffrer ces codes."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🥖",
-        "title": "À table : les codes de la politesse alimentaire",
-        "body": "La table française a ses propres règles de politesse.\n\n**On attend que tout le monde soit servi** avant de commencer à manger. Commencer seul est impoli.\n\n**«Bon appétit»** : très courant en France — on le dit au restaurant, en famille, même dans un couloir. En France c'est une politesse normale.\n\n**Le pain :** Il se pose directement sur la table (pas dans l'assiette). On ne coupe pas le pain — on le rompt à la main.\n\n**Finir son assiette** est un compliment. Laisser de la nourriture peut être interprété comme «ce n'était pas bon»."
+        "title": "Politesse à table et dans les relations",
+        "body": "La politesse à table est une extension naturelle de la politesse générale, et les Français sont particulièrement sensibles à ces codes lors des repas. Quelques règles fondamentales :\n\n**Commencer à manger :** On attend que tout le monde soit servi avant de commencer. L'hôte (ou la maîtresse de maison) dit en général «Bon appétit !» pour donner le signal. En réunion de travail avec un repas, la formule peut être dite simultanément par tous.\n\n**Complimenter la cuisine :** En France, il est attendu et apprécié de complimenter la nourriture — «C'est délicieux», «Vous cuisinez très bien». Ne pas le faire peut être perçu comme de l'indifférence. Mais les compliments doivent être sincères et précis : «Cette sauce est remarquable» vaut mieux que «C'est bon» dit distraitement.\n\n**Refuser un plat :** Si quelque chose ne vous convient pas, la formule polie est «Je vous remercie, mais je ne mange pas de [X]» avec un sourire. Expliquer vos raisons de santé est acceptable ; critiquer le plat ne l'est pas. En France, refuser entièrement de goûter quelque chose (surtout lors d'un dîner chez quelqu'un) peut être vécu comme un rejet social. Une petite portion suffit pour ne pas froisser.\n\n**Le regard :** Lors d'un toast (levée de verre), les Français se regardent dans les yeux au moment du «tchin». Ne pas croiser le regard de son interlocuteur pendant un toast porte malheur selon la croyance populaire — et surtout crée un malaise social réel."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Le piège du silence russe en France.**\n\nEn Russie, ne pas parler à un inconnu dans l'espace public est normal et respectueux. En France, ce même silence est lu comme de l'arrogance ou de l'hostilité.\n\nConcrètement : quand vous entrez dans une boulangerie ou un cabinet médical, **dites «Bonjour» à voix claire, même si personne ne vous regarde**. Ce n'est pas naïf — c'est le code d'entrée social. Sans lui, vous ne serez pas bien servi, et personne ne vous expliquera pourquoi.\n\nEn quittant : «Merci, bonne journée !» — même si la personne ne vous a pas particulièrement aidé. C'est automatique, comme dire «пожалуйста» en russe. En France, c'est un acte de reconnaissance mutuelle."
+      "content": "**Le «Bonjour» est un rite de passage, pas une formalité.** En Russie, ignorer les inconnus dans les espaces publics est tout à fait normal — c'est même une règle implicite de discrétion. En France, c'est l'inverse : ne pas saluer est une violation sociale.\n\nUn exemple concret : vous entrez dans une boulangerie. Il y a deux personnes devant vous. La boulangère finit de servir la première, se retourne vers vous. Si vous dites «Bonjour Madame» AVANT votre commande, la transaction se passe bien. Si vous commencez directement par «Une baguette s'il vous plaît», vous avez commis une faute — la boulangère risque de vous répondre froidement, peut-être de vous reprendre gentiment mais fermement : «Bonjour...»\n\nEt à la sortie : «Merci, bonne journée / bonne soirée» — toujours. Ces trois mots réchauffent un échange commercial, transforment une transaction en contact humain. Les Français ne l'analysent pas — ils le ressentent. Un étranger qui maîtrise ces rituels est immédiatement perçu comme respectueux. Un étranger qui les ignore sera jugé «rude» ou «impoli» — même s'il est charmant par ailleurs."
     },
     "glossary": [
       {
         "term": "Le vouvoiement",
-        "definition": "Usage du «vous» pour marquer la distance et le respect."
-      },
-      {
-        "term": "Le tutoiement",
-        "definition": "Usage du «tu», réservé aux proches ou sur invitation."
+        "definition": "Utilisation de «vous» pour s'adresser à une seule personne, marquant le respect, la distance ou la formalité. Opposé au tutoiement (utilisation de «tu»)."
       },
       {
         "term": "La bise",
-        "definition": "Salutation par un baiser sur la joue entre personnes qui se connaissent."
+        "definition": "Salutation consistant à se toucher les joues et à mimer un baiser. Nombre variable selon les régions (1 à 4). Entre hommes, la bise est plus rare, sauf dans le cercle familial ou entre amis très proches."
       },
       {
-        "term": "La bienséance",
-        "definition": "L'ensemble des règles de comportement considérées comme convenables."
-      },
-      {
-        "term": "Cordialement",
-        "definition": "Formule de clôture de mail professionnel, la plus courante et neutre."
+        "term": "Le quart d'heure de politesse",
+        "definition": "Convention sociale permettant d'arriver 10 à 15 minutes après l'heure prévue à une invitation privée (dîner, fête). Pas applicable aux rendez-vous professionnels ou médicaux."
       },
       {
         "term": "Bon appétit",
-        "definition": "Souhait de bon repas formulé avant de manger — très courant en France."
+        "definition": "Formule prononcée avant de commencer à manger, signalant que chacun peut se servir. Parfois critiquée comme populaire dans les milieux très bourgeois (qui disent simplement «à table»), mais universellement comprise et pratiquée."
+      },
+      {
+        "term": "S'il vous plaît / S'il te plaît",
+        "definition": "Formule de politesse pour faire une demande : «s'il vous plaît» avec le vouvoiement, «s'il te plaît» avec le tutoiement. Obligatoire pour toute demande en contexte public ou professionnel."
+      },
+      {
+        "term": "Pardon / Excusez-moi",
+        "definition": "«Pardon» s'utilise pour une excuse légère (bousculer quelqu'un) ou pour attirer l'attention. «Excusez-moi» est plus formel. Les deux sont différents de «Je suis désolé(e)», qui exprime un vrai regret."
       }
     ],
     "quiz": [
       {
-        "question": "Que signifie ne pas dire «Bonjour» en entrant dans un commerce en France ?",
+        "question": "En France, est-il correct de ne pas dire «Bonjour» en entrant dans un commerce et de commencer directement sa commande ?",
         "options": [
-          "C'est une pratique normale",
-          "C'est une marque d'efficacité",
-          "C'est perçu comme une impolitesse grave, presque une insulte",
-          "C'est réservé aux grandes villes"
+          "Oui, c'est normal dans un contexte commercial",
+          "Oui si on est pressé — les commerçants comprennent",
+          "Non — c'est perçu comme impoli et peut créer une mauvaise ambiance",
+          "Ça dépend de la région"
         ],
         "correct_index": 2,
-        "explanation": "En France, ne pas saluer en entrant est perçu comme une impolitesse grave. Le «Bonjour» est la reconnaissance de l'autre comme personne — son absence signifie «tu n'existes pas pour moi»."
+        "explanation": "En France, entrer dans n'importe quel espace semi-public (commerce, cabinet médical, bureau) sans dire «Bonjour» d'abord est une faute sociale réelle. Les commerçants peuvent répondre froidement, et certains rappellent explicitement la règle. La salutation initiale est le signe de reconnaissance de l'autre comme personne."
       },
       {
-        "question": "Dans un mail professionnel français, que doit-on impérativement inclure ?",
+        "question": "Que signifie «tutoyer» quelqu'un en France ?",
         "options": [
-          "Uniquement le contenu, les formules sont du temps perdu",
-          "Une salutation au début et une formule de politesse à la fin",
-          "Le numéro de téléphone personnel",
-          "Une signature avec photo"
+          "Lui parler en français argotique",
+          "Utiliser «tu» plutôt que «vous» pour lui parler — signe de proximité ou d'égalité",
+          "L'appeler par son prénom plutôt que son nom de famille",
+          "Lui parler sur un ton amical en utilisant des blagues"
         ],
         "correct_index": 1,
-        "explanation": "En France, même un mail bref doit commencer par une salutation et terminer par «Cordialement» minimum. Un mail sans ces éléments est considéré comme grossier."
+        "explanation": "«Tutoyer» signifie utiliser «tu» (forme singulière familière) au lieu de «vous» (forme polie). Ce passage marque une forme de proximité. Il nécessite souvent un accord implicite ou explicite entre les deux personnes. Tutoyer quelqu'un sans permission peut être perçu comme irrespectueux."
       },
       {
-        "question": "Quand peut-on passer au tutoiement avec un collègue ou un supérieur ?",
+        "question": "Quel est le «quart d'heure de politesse» en France ?",
         "options": [
-          "Dès le premier jour",
-          "Jamais en contexte professionnel",
-          "Lorsque la personne vous y invite explicitement",
-          "Après 6 mois"
+          "Le temps minimal d'une conversation polie avant de partir",
+          "L'habitude d'arriver 10 à 15 minutes en retard à une invitation privée",
+          "La durée du repas avant de pouvoir aborder les affaires",
+          "Le délai de réponse attendu pour un mail de politesse"
+        ],
+        "correct_index": 1,
+        "explanation": "Le «quart d'heure de politesse» est la convention française qui autorise d'arriver 10 à 15 minutes après l'heure indiquée pour une invitation privée — pour laisser le temps à l'hôte de se préparer. Cette règle ne s'applique PAS aux rendez-vous professionnels ou médicaux, où la ponctualité est attendue."
+      },
+      {
+        "question": "Lors d'un toast (lever de verre), quel code est important en France ?",
+        "options": [
+          "Boire avant que l'hôte ait levé son verre",
+          "Poser son verre sur la table en signe de modestie",
+          "Regarder son interlocuteur dans les yeux au moment du «tchin»",
+          "Remplir les verres des autres avant le sien"
         ],
         "correct_index": 2,
-        "explanation": "La règle de sécurité est d'attendre que la personne vous propose le tutoiement («On peut se tutoyer ?»). Tutoyer d'emblée un supérieur peut être perçu comme un manque de respect."
+        "explanation": "En France, lors d'un toast, il est essentiel de croiser le regard de chaque personne avec qui on trinque. Ne pas regarder dans les yeux est non seulement associé à la malchance (superstition répandue) mais crée un malaise social réel — cela signifie qu'on n'est pas vraiment «présent» dans le moment partagé."
       },
       {
-        "question": "Comment mange-t-on le pain à table en France ?",
+        "question": "Comment appeler un serveur au restaurant en France ?",
         "options": [
-          "On le coupe avec un couteau",
-          "On le rompt à la main et on le pose directement sur la table",
-          "On le met dans une petite assiette",
-          "On ne mange pas de pain pendant le repas"
+          "Crier «Garçon !» pour être entendu rapidement",
+          "Claquer des doigts pour attirer son attention",
+          "Lever légèrement la main et dire «Excusez-moi» ou «S'il vous plaît»",
+          "Se lever et se diriger vers lui"
         ],
-        "correct_index": 1,
-        "explanation": "Le pain français se rompt à la main (jamais coupé) et se pose directement sur la table à côté de l'assiette. C'est un code de table spécifique à la France."
-      },
-      {
-        "question": "Combien de bises fait-on généralement en France pour se saluer entre amis ?",
-        "options": [
-          "Toujours 1",
-          "Cela varie selon la région, généralement 2, parfois 1 (Paris) ou plus",
-          "Toujours 3",
-          "Jamais, les Français serrent uniquement la main"
-        ],
-        "correct_index": 1,
-        "explanation": "Le nombre varie selon la région : 1 à Paris souvent, 2 dans la plupart des régions, 3 ou 4 dans certaines régions du Sud. C'est une source de confusion même entre Français !"
+        "correct_index": 2,
+        "explanation": "En France, appeler un serveur en criant «Garçon !» (archaïque depuis les années 1980) ou en claquant des doigts est considéré comme très impoli. La norme est d'attendre qu'il soit à portée de regard, lever discrètement la main, établir un contact visuel, puis dire «Excusez-moi» ou «S'il vous plaît»."
       }
     ]
   },
   "ru": {
     "module_title": "Невидимые социальные коды",
-    "lesson_title": "Bonjour — золотое правило французской вежливости",
-    "lesson_subtitle": "То, чего вам никто не скажет, но все осудят",
-    "intro": "Во Франции существует невидимый, но универсальный код, структурирующий все социальные взаимодействия. Нарушить его — даже непреднамеренно — значит сразу прослыть «невоспитанным». Этот код умещается в одно слово: **Bonjour**. И в его логике скрыта вся французская социальная философия.",
+    "lesson_title": "Bonjour, вежливость и базовые коды",
+    "lesson_subtitle": "Первый взгляд, который Франция бросает на вас",
+    "intro": "Во Франции первое впечатление складывается за несколько секунд — и оно почти целиком зависит от кодов, о которых иностранцы не подозревают. Судят не по одежде, акценту или деньгам. Судят по тому, как вы вступаете в контакт: говорите ли вы «здравствуйте», смотрите ли в глаза, соблюдаете ли социальную дистанцию. Эти правила нигде не написаны и нигде не преподаются, но каждый француз знает их с детства. Этот урок делает их явными.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Почему «Bonjour» так важно?",
-        "body": "Французская вежливость — не поверхностный лак. Это результат столетий **придворной цивилизации**. В Версале при Людовике XIV правила этикета были целой наукой. Игнорировать кого-то было дипломатическим оскорблением.\n\nСегодня «Bonjour» — это **признание другого как личности**, а не препятствия. Не поздороваться буквально означает: «Ты для меня не существуешь».\n\nРеволюция 1789 года добавила эгалитарное измерение: «Bonjour» говорят врачу так же, как булочнику. «Bonjour» не терпит исключений."
+        "title": "Французская вежливость — наследие королевского двора",
+        "body": "Французская вежливость в её сегодняшнем виде — наследница долгой аристократической традиции. При дворе **Версаля** при Людовике XIV (1638–1715) придворные выработали крайне кодифицированную систему поведения: кто кого приветствует первым, кто первым входит в комнату, как обращаться к королю или к равным по рангу. Эти «хорошие манеры» не были пустой формальностью — они определяли место человека в иерархии, его статус и доступ к власти.\n\n**Французская революция** (1789) символически сломала эту иерархию, заменив аристократические обращения на «Citoyen» и «Citoyenne». Но парадоксально — она не упразднила вежливость, а **демократизировала** её. Формы вежливости распространились по всем социальным слоям благодаря республиканской школе Жюля Ферри. С 1880-х годов учителя учат детей говорить «Bonjour Monsieur», не перебивать, придерживать дверь. Эти правила становятся **маркером общего гражданства**, а не элитарности.\n\nСегодня французская вежливость одновременно более демократична и более строга, чем в других странах: она равно обязательна для всех, независимо от социального класса. Политик, булочник и рабочий одинаково говорят «Bonjour», входя в магазин. Это нивелирование вежливости воплощает **республиканское братство** — третий элемент национального девиза."
       },
       {
-        "theme": "Регион",
+        "theme": "География",
         "icon": "🗺️",
-        "title": "Региональные варианты вежливости",
-        "body": "Французская вежливость варьируется по регионам. **Париж** известен некоторой холодностью — парижане здороваются, но держат дистанцию. В провинции коды часто теплее.\n\nНа **юге** (Прованс, Лангедок) взаимодействия более открытые: вам быстрее перейдут на «ты». В **Бретани** и на **севере** начальная сдержанность сменяется большой лояльностью после установления доверия.\n\nВ **Эльзасе** германское влияние придаёт вежливости более формальный характер. В **заморских территориях** приветствия более спонтанны."
+        "title": "Карта приветствий во Франции",
+        "body": "Способ приветствия варьируется от региона к региону, и эти различия могут удивить. На **Юге Франции** (Прованс, Лангедок, Страна Басков) люди более экспрессивны: целуются (la **bise**) легче даже с малознакомыми, говорят громче, более физически раскованы в общественных местах. На **Севере** (Париж, О-де-Франс, Эльзас) люди сдержаннее в публичном пространстве, но очень тепло общаются в частном.\n\n**Биз** (поцелуй в щёку) — ритуал, восхищающий иностранцев. Количество поцелуев варьируется: 1 — в Бретани, 2 — в большей части Франции, 3 — в Провансе и некоторых районах Центральной Западной Франции, 4 — на Севере. Когда двое не знают, сколько раз целоваться, возникает тот слегка неловкий момент, когда один уже отстранился, а другой тянется ещё раз. Это своеобразный вид национального социального счастья.\n\n**Париж** — особый случай: жизнь в мегаполисе с 12 миллионами жителей требует публичной дискретности. В метро, на улице, в очередях — незнакомых не приветствуют и не заговаривают спонтанно. Это не враждебность, а городская конвенция защиты личного пространства. Как только человек попадает в определённое пространство (магазин, кабинет врача, зал ожидания), правила вступают в силу."
       },
       {
-        "theme": "Политика и общество",
+        "theme": "Политика",
         "icon": "⚖️",
-        "title": "Негласные правила приветствия",
-        "body": "Правила приветствия во Франции точны, но никогда не преподаются явно:\n\n**В магазине:** «Bonjour» при входе, «Merci, bonne journée» при выходе.\n\n**В доме:** Приветствуют соседей, консьержа, людей в лифте. Игнорировать кого-то в тесном пространстве — признак высокомерия.\n\n**У специалиста:** «Bonjour Docteur» ожидается перед любой просьбой.\n\n**Поцелуй в щёку:** Между друзьями — поцелуи в щёки. Количество: 1 в Париже, 2 в целом, 3-4 на юге. Между малознакомыми мужчинами — крепкое рукопожатие."
+        "title": "«Вы» и «ты» — вопрос власти",
+        "body": "Различие между **«tu»** и **«vous»** — одна из главных особенностей французского языка и один из самых частых источников межкультурного дискомфорта. **«Vous»** (вы) к одному человеку — знак уважения, дистанции, формальности. **«Tu»** (ты) — знак близости, дружбы, иногда равенства.\n\nОбщие правила: на **«vous»** обращаются к пожилым людям, начальникам, незнакомым взрослым, представителям власти (врач, судья, чиновник). На **«tu»** — к детям, близким друзьям, коллегам во многих современных компаниях, членам семьи (иногда за исключением бабушек-дедушек в традиционных семьях). В **tech-компаниях и стартапах** повсеместное «ты» — норма, признак менее иерархической корпоративной культуры.\n\nПереход с «vous» на «tu» в принципе требует явного или неявного разрешения. Когда двое взрослых решают перейти на «ты», это обычно происходит после нескольких встреч и нередко ритуализируется вопросом «On se tutoie ?». **Начать говорить «ты» без разрешения** тому, кто этого не ожидал, может быть воспринято как невежество или даже высокомерие. Напротив, **продолжать «выкать»** тому, кто предложил перейти на «ты», тоже неловко."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Вежливость в профессиональной жизни",
-        "body": "В мире французской работы вежливость напрямую влияет на карьеру.\n\n**Тыканье vs выканье:** «Vous» (вы) — с незнакомыми, руководством и клиентами. «Tu» (ты) — когда начальник сам предлагает. Ждать предложения — всегда верная стратегия.\n\n**Деловые письма:** Даже краткое письмо начинается с «Bonjour [Имя]» и заканчивается «Cordialement». Письмо без этого — грубость.\n\n**Совещания:** Начинаются с представлений. Перебивать — дурной тон. Ждут, пока другой закончит, затем: «Je me permets d'ajouter...»"
+        "theme": "Повседневная жизнь",
+        "icon": "🏠",
+        "title": "Практические коды повседневной жизни",
+        "body": "Основные правила, действующие в повседневной жизни во Франции:\n\n**В магазине:** Всегда входить со словом «Bonjour» — и уходить со словами «Au revoir, bonne journée» (или «bonne soirée» после 18:00). Никогда не подзывать официанта щелчком пальцев или криком — поднять руку, поймать взгляд, затем сказать «Excusez-moi» или просто «S'il vous plaît». Обращение «Garçon !» устарело и неуместно с 1980-х.\n\n**Очередь** священна во Франции. Влезть без очереди — тяжёлое социальное нарушение, способное вызвать резкое возражение. Даже если очередь кажется неорганизованной, французы мысленно помнят порядок прихода. Правило строго соблюдается — особенно на Севере по сравнению с Югом.\n\n**Двери:** Придержать дверь для идущего следом — универсальное правило. Если кто-то держит дверь для вас, «merci» обязательно. Пройти мимо, слегка задев человека, без «pardon» — нарушение, даже если столкновение было минимальным. Напротив, сказать «pardon» перед тем как пробираться сквозь толпу (эскалаторы, коридоры метро) — ожидаемая норма.\n\n**Время:** Опоздать на 5–10 минут на домашний ужин к друзьям — **социальная норма** (le «quart d'heure de politesse»). Прийти минута в минуту может поставить хозяина в неловкое положение. Зато на профессиональную или медицинскую встречу пунктуальность обязательна."
       },
       {
-        "theme": "Художественная культура",
+        "theme": "Культура и искусство",
         "icon": "🎨",
         "title": "Вежливость в литературе и кино",
-        "body": "Французская вежливость занимает центральное место в литературе. **Мольер** высмеивал «фальшиво вежливых». **Марсель Пруст** написал тысячи страниц о социальных кодах — формула вежливости раскрывает всю психологию персонажа.\n\nВ кино фильм **«Prénom» («Имя»)** (2012) показывает, как ужин друзей перерастает в конфликт из-за нарушения кодов разговора.\n\n**«Неприкасаемые» (Intouchables)** (2011) строится на столкновении стилей вежливости: Дрис из пригородов и Филипп-аристократ. Подлинность преодолевает формальные коды."
+        "body": "Вежливость и её нарушения — сквозная тема французской культуры. **Мольер** (1622–1673) сделал её материалом своих великих комедий: в «Мещанине во дворянстве» господин Журден хочет освоить коды аристократии, чтобы подняться социально — сатира показывает, как владение (или незнание) кодов определяет статус. В «Мизантропе» Альцест отказывается от принятых правил вежливости, считая их лицемерными — и оказывается социально изолирован.\n\nВ кино фильм **«Ужин с придурком»** (Франсис Вебер, 1998) целиком строится на условностях буржуазной вежливости и их комическом подрыве. Позднее **«1+1 (Неприкасаемые)»** (2011) показывает столкновение социальных кодов аристократа-инвалида и безбашенного выходца из пригорода — комизм рождается именно из этого несовпадения.\n\nЛитература **«этикета»** имеет во Франции давнюю традицию: пособия по светскому поведению — от «Детской вежливости» Эразма (переведённой на французский в XVI веке) до «Светских манер» графини де Панж в XX веке — кодифицировали социальные нормы. Эти руководства нередко высмеивали, но они глубоко сформировали французские социальные ожидания. Сегодня многие блоги и подкасты о «французском этикете» адресованы экспатам, желающим разобраться в этих кодах."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🥖",
-        "title": "За столом: коды пищевого этикета",
-        "body": "**Ждут, пока все будут обслужены** перед началом еды.\n\n**«Bon appétit»** («Приятного аппетита»): очень распространено во Франции — в ресторане, семье, даже в коридоре. Это нормальная любезность.\n\n**Хлеб:** Кладётся прямо на стол (не в тарелку). Его ломают руками — не режут.\n\n**Съесть всё** — комплимент. Оставить еду могут принять как «было невкусно»."
+        "title": "Вежливость за столом и в отношениях",
+        "body": "Застольная вежливость — естественное продолжение общей вежливости, и французы особенно чуткие к этим кодам во время еды. Несколько фундаментальных правил:\n\n**Начинать есть:** Ждут, пока все будут обслужены. Хозяин (или хозяйка) обычно говорит «Bon appétit!», давая сигнал. На деловом обеде формулу могут произнести одновременно все.\n\n**Хвалить кухню:** Во Франции принято и приятно хвалить еду — «C'est délicieux», «Vous cuisinez très bien». Молчать воспринимается как безразличие. Но похвалы должны быть искренними и конкретными: «Этот соус восхитителен» лучше, чем рассеянное «Вкусно».\n\n**Отказаться от блюда:** Если что-то вам не подходит, вежливая формула — «Je vous remercie, mais je ne mange pas de [X]» с улыбкой. Объяснить по медицинским причинам — допустимо; критиковать блюдо — нет. Во Франции полностью отказаться от пробы чего-то (особенно в гостях) может восприниматься как социальное отторжение. Небольшая порция позволит не обидеть хозяина.\n\n**Взгляд:** При тосте (поднятии бокала) французы смотрят в глаза в момент «tchin». Не встретиться взглядом — по народному поверью, к несчастью, а главное — это вызывает реальный социальный дискомфорт."
       }
     ],
     "conseil_ami": {
-      "title": "Дружеский совет 🤝",
+      "title": "Совет друга 🤝",
       "icon": "💡",
-      "content": "**Ловушка русского молчания во Франции.**\n\nВ России молчать с незнакомым — это норма и уважение. Во Франции то же молчание читается как высокомерие или враждебность.\n\nКонкретно: входя в булочную или кабинет врача, **скажите «Bonjour» вслух, даже если на вас никто не смотрит**. Это не наивность — это социальный код входа. Без него вас плохо обслужат, и никто не объяснит почему.\n\nПри выходе: «Merci, bonne journée!» — даже если человек особо не помог. Это автоматично, как «пожалуйста» по-русски. Во Франции это акт взаимного признания."
+      "content": "**«Bonjour» — это ритуал перехода, а не формальность.** В России молчать с незнакомыми в публичных местах абсолютно нормально — это даже негласное правило дискретности. Во Франции всё наоборот: не поздороваться — социальное нарушение.\n\nКонкретный пример: вы входите в булочную. Перед вами двое. Булочница заканчивает обслуживать первого и оборачивается к вам. Если вы скажете «Bonjour Madame» ДО своего заказа, всё пройдёт хорошо. Если вы сразу начнёте с «Une baguette s'il vous plaît» — вы допустили оплошность. Булочница может ответить холодно, а то и мягко, но твёрдо поправить: «Bonjour...»\n\nИ на выходе: «Merci, bonne journée / bonne soirée» — всегда. Эти три слова согревают коммерческий обмен, превращают сделку в человеческий контакт. Французы не анализируют это — они это чувствуют. Иностранец, владеющий этими ритуалами, сразу воспринимается как уважительный. Иностранец, игнорирующий их, будет сочтён «грубым» или «невоспитанным» — даже если он в целом прекрасный человек."
     },
     "glossary": [
       {
-        "term": "Le vouvoiement / Выканье",
-        "definition": "Использование «vous» для обозначения дистанции и уважения."
+        "term": "«Вы» в обращении (vouvoiement)",
+        "definition": "Использование «vous» при обращении к одному человеку — знак уважения, дистанции или формальности. Противоположность — тутуайман (tutoiement), использование «tu»."
       },
       {
-        "term": "Le tutoiement / Тыканье",
-        "definition": "Использование «tu», зарезервированного для близких или по приглашению."
+        "term": "Биз (bise)",
+        "definition": "Приветствие, при котором касаются щеками и имитируют поцелуй. Количество варьируется от региона к региону (от 1 до 4). Между мужчинами встречается реже, только в семье или среди близких друзей."
       },
       {
-        "term": "La bise / Поцелуй в щёку",
-        "definition": "Приветствие поцелуем в щёку между знакомыми людьми."
+        "term": "Quart d'heure de politesse (четверть часа вежливости)",
+        "definition": "Социальная конвенция, позволяющая опоздать на 10–15 минут на частное приглашение (ужин, вечеринку). Не применяется к деловым или медицинским встречам."
       },
       {
-        "term": "La bienséance / Благопристойность",
-        "definition": "Совокупность правил поведения, считающихся приличными."
+        "term": "Bon appétit",
+        "definition": "Формула, произносимая перед едой — сигнал, что можно приступать. В очень светских кругах иногда считается «народной» (там просто говорят «à table»), но повсеместно принята и практикуется."
       },
       {
-        "term": "Cordialement / Сердечно",
-        "definition": "Самая распространённая нейтральная формула закрытия делового письма."
+        "term": "S'il vous plaît / S'il te plaît",
+        "definition": "«Пожалуйста» в запросе: «s'il vous plaît» при «вы», «s'il te plaît» при «ты». Обязательно при любой просьбе в публичном или профессиональном контексте."
       },
       {
-        "term": "Bon appétit / Приятного аппетита",
-        "definition": "Пожелание хорошей еды перед трапезой — очень распространено во Франции."
+        "term": "Pardon / Excusez-moi",
+        "definition": "«Pardon» — лёгкое извинение (случайно задели) или способ привлечь внимание. «Excusez-moi» — более формально. Оба отличаются от «Je suis désolé(e)» — настоящего сожаления."
       }
     ],
     "quiz": [
       {
-        "question": "Что означает не сказать «Bonjour» при входе в магазин во Франции?",
+        "question": "Во Франции допустимо ли войти в магазин и сразу начать заказывать, не сказав «Bonjour»?",
         "options": [
-          "Это нормальная практика",
-          "Это знак эффективности",
-          "Это серьёзная грубость, почти оскорбление",
-          "Это принято только в больших городах"
+          "Да, это нормально в коммерческом контексте",
+          "Да, если вы спешите — продавцы понимают",
+          "Нет — это воспринимается как грубость и может создать напряжение",
+          "Это зависит от региона"
         ],
         "correct_index": 2,
-        "explanation": "Не поздороваться при входе — серьёзная грубость во Франции. «Bonjour» — признание другого как личности. Его отсутствие означает «ты для меня не существуешь»."
+        "explanation": "Во Франции войти в любое полупубличное пространство (магазин, кабинет врача, офис) без слова «Bonjour» — настоящее социальное нарушение. Продавцы могут ответить холодно, некоторые прямо напомнят правило. Начальное приветствие — знак признания другого человека как личности."
       },
       {
-        "question": "Что обязательно должно быть в деловом письме по-французски?",
+        "question": "Что значит «tutoyer» кого-то во Франции?",
         "options": [
-          "Только содержание",
-          "Приветствие в начале и формула вежливости в конце",
-          "Личный номер телефона",
-          "Фото в подписи"
+          "Говорить с ним на французском арго",
+          "Использовать «tu» вместо «vous» — знак близости или равенства",
+          "Называть его по имени, а не по фамилии",
+          "Говорить дружелюбным тоном, используя шутки"
         ],
         "correct_index": 1,
-        "explanation": "Даже краткое письмо должно начинаться с «Bonjour [Имя]» и заканчиваться «Cordialement». Письмо без этого воспринимается как грубость."
+        "explanation": "«Tutoyer» означает использовать «tu» (фамильярную форму единственного числа) вместо «vous» (вежливой формы). Этот переход означает близость. Обычно требует неявного или явного согласия обеих сторон. Перейти на «ты» без разрешения может быть воспринято как неуважение."
       },
       {
-        "question": "Когда можно перейти на «ты» с коллегой или руководителем?",
+        "question": "Что такое «quart d'heure de politesse» во Франции?",
         "options": [
-          "С первого дня — так теплее",
-          "Никогда в профессиональном контексте",
-          "Когда человек явно предлагает это",
-          "После 6 месяцев работы"
+          "Минимальное время вежливого разговора перед уходом",
+          "Привычка опаздывать на 10–15 минут на частное приглашение",
+          "Длина трапезы до того, как можно перейти к делу",
+          "Ожидаемое время ответа на вежливое письмо"
+        ],
+        "correct_index": 1,
+        "explanation": "«Quart d'heure de politesse» — французская конвенция, допускающая опоздание на 10–15 минут на частное приглашение: чтобы дать хозяину время подготовиться. Это правило НЕ распространяется на деловые или медицинские встречи, где пунктуальность обязательна."
+      },
+      {
+        "question": "При тосте во Франции какой код важно соблюдать?",
+        "options": [
+          "Выпить до того, как хозяин поднял бокал",
+          "Поставить бокал на стол в знак скромности",
+          "Смотреть в глаза собеседнику в момент «tchin»",
+          "Наполнить бокалы других прежде своего"
         ],
         "correct_index": 2,
-        "explanation": "Безопасное правило — ждать, пока предложат («On peut se tutoyer?»). Переходить первым с руководителем может восприняться как неуважение."
+        "explanation": "Во Франции при тосте необходимо встречаться взглядом с каждым, с кем чокаешься. Не посмотреть в глаза связано не только с приметой о несчастье, но и создаёт реальный социальный дискомфорт — это означает, что вы не «присутствуете» в разделяемом моменте."
       },
       {
-        "question": "Как едят хлеб за французским столом?",
+        "question": "Как подозвать официанта в ресторане во Франции?",
         "options": [
-          "Режут специальным ножом",
-          "Ломают руками и кладут прямо на стол",
-          "Кладут в отдельную тарелочку",
-          "Не едят хлеб во время основного блюда"
+          "Громко крикнуть «Garçon!», чтобы вас услышали",
+          "Щёлкнуть пальцами, чтобы привлечь внимание",
+          "Слегка поднять руку и сказать «Excusez-moi» или «S'il vous plaît»",
+          "Встать и подойти к нему"
         ],
-        "correct_index": 1,
-        "explanation": "Хлеб ломают руками (не режут) и кладут прямо на стол рядом с тарелкой — не в неё. Специфический французский этикет стола."
-      },
-      {
-        "question": "Сколько «поцелуев» при приветствии друзей во Франции?",
-        "options": [
-          "Всегда 1 — национальное правило",
-          "Зависит от региона: обычно 2, иногда 1 (Париж) или больше",
-          "Всегда 3 — традиция",
-          "Никогда, только рукопожатие"
-        ],
-        "correct_index": 1,
-        "explanation": "Количество варьируется по регионам: 1 в Париже, 2 в большинстве регионов, 3-4 на юге. Это источник путаницы даже между самими французами!"
+        "correct_index": 2,
+        "explanation": "Во Франции подзывать официанта криком «Garçon!» (устарело с 1980-х) или щелчком пальцев считается очень невежливым. Норма — дождаться, когда он окажется в поле зрения, слегка поднять руку, установить зрительный контакт, затем сказать «Excusez-moi» или «S'il vous plaît»."
       }
     ]
   }

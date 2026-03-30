@@ -3,276 +3,289 @@
     "module_id": 10,
     "lesson_id": 4,
     "module_icon": "🌍",
-    "lesson_icon": "🌺",
-    "estimated_minutes": 12,
+    "lesson_icon": "🕊️",
+    "estimated_minutes": 10,
     "difficulty": "intermédiaire",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "DIHAL — Observatoire de la laïcité (rapports)",
+        "url": "https://www.gouvernement.fr/observatoire-de-la-laicite"
+      },
+      {
+        "label": "Ministère de l'Intérieur — Liberté religieuse",
+        "url": "https://www.interieur.gouv.fr/Le-ministere/Cultes"
+      },
+      {
+        "label": "CFCM — Conseil Français du Culte Musulman",
+        "url": "https://www.lecfcm.fr"
+      },
+      {
+        "label": "Représentants des grandes religions en France",
+        "url": "https://www.vie-publique.fr/eclairage/18869-liberte-religieuse-et-laicite-en-france"
+      }
     ]
   },
   "fr": {
     "module_title": "S'Intégrer en France",
     "lesson_title": "Religions et Laïcité au Pluriel",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : Religions et Laïcité au Pluriel. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "Vivre sa foi dans une République laïque : droits, limites et dialogue",
+    "intro": "La France est officiellement laïque depuis 1905 — mais elle est habitée par des croyants de toutes religions, et les pratiques religieuses font partie de la vie sociale au quotidien. Comprendre comment la laïcité s'articule avec la diversité religieuse réelle de la France — catholicisme historique, islam en forte présence, judaïsme, protestantisme, bouddhisme, orthodoxie — est indispensable pour naviguer dans la société française sans heurts ni malentendus.",
     "sections": [
       {
-        "theme": "Histoire",
+        "theme": "Contexte historique",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**Religions et Laïcité au Pluriel** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "La France plurielle : portrait des religions en France",
+        "body": "La France n'a pas de statistiques officielles sur l'appartenance religieuse — la Constitution interdit de recenser les personnes selon leur religion. Les données disponibles viennent de sondages (IFOP, IPSOS) qui donnent des estimations.\n\nLe **catholicisme** reste de loin la première religion culturelle : environ 41% des Français se déclarent catholiques, mais seulement 8% pratiquent régulièrement (assistent à la messe au moins une fois par mois). La France a longtemps été la «fille aînée de l'Église» — c'est aujourd'hui un catholicisme majoritairement culturel et festif (Noël, Pâques, baptêmes, mariages, enterrements) plus que pratiquant.\n\nL'**islam** est la 2e religion de France : 5 à 6 millions de musulmans (9% de la population) — la plus grande communauté islamique d'Europe occidentale. Très divers dans ses pratiques (du musulman culturel non pratiquant à l'observant strict), l'islam français est en majorité d'origine maghrébine et subsaharienne. Environ 2 500 mosquées et lieux de culte. L'islam manque encore d'imams formés en France et de financement stable — deux sujets de politique publique récurrents.\n\nLe **protestantisme** (1,8% — environ 1 million) est historiquement influent dans certaines régions (Alsace, Cévennes, Paris) et fortement représenté dans les élites économiques et politiques. Le **judaïsme** : 500 000 à 700 000 juifs — 3e communauté mondiale après Israël et les États-Unis. La France est le pays d'Europe occidentale où l'antisémitisme est malheureusement le plus fort (montée des actes antisémites depuis 2000). Le **bouddhisme** compte environ 500 000 pratiquants."
       },
       {
-        "theme": "Région",
-        "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
-      },
-      {
-        "theme": "Politique & Social",
+        "theme": "Cadre légal & textes",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "La laïcité en pratique : ce que dit la loi",
+        "body": "Rappel des principes (voir aussi module 3, leçon 4 sur la laïcité) appliqués à la diversité religieuse concrète :\n\n**Ce que l'État garantit à toutes les religions :**\n— Liberté de culte : chaque religion peut organiser ses offices, célébrations, pèlerinages sans autorisation de l'État\n— Liberté d'enseignement religieux dans les établissements privés sous contrat et dans les lieux de culte\n— Liberté d'association pour les organisations religieuses (loi de 1901)\n— Protection pénale contre la discrimination et la haine religieuse (loi Pleven de 1972)\n\n**Ce que l'État n'offre pas :**\n— Financement public des lieux de culte construits après 1905 (sauf exceptions — Alsace-Moselle)\n— Aumôneries dans les établissements scolaires publics (sauf Alsace-Moselle)\n— Jours fériés officiels liés aux fêtes non chrétiennes (seules les fêtes chrétiennes sont jours fériés légaux)\n\n**La loi de 2021 sur le «séparatisme»** (dite loi confortant le respect des principes de la République) cible notamment certaines associations religieuses considérées comme propagant des idées contraires aux valeurs républicaines : contrôle renforcé des financements étrangers, dissolution d'associations par voie administrative, surveillance renforcée de l'enseignement à domicile. Ses détracteurs y voient une loi stigmatisant les musulmans ; ses partisans une nécessaire défense des principes républicains."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Démarches pratiques",
+        "icon": "📋",
+        "title": "Pratiquer sa religion en France : droits concrets",
+        "body": "**Trouver un lieu de culte :**\n— L'annuaire des lieux de culte par religion et par ville est disponible sur **pages-jaunes.fr** (catégorie «lieux de culte») ou via les fédérations religieuses nationales\n— **Mosquées** : annuaire sur mosquee.com ou via le CFCM (Conseil Français du Culte Musulman)\n— **Synagogues** : via le FSJU (Fonds Social Juif Unifié) ou la CRIF\n— **Temples protestants** : via la Fédération Protestante de France (protestants.org)\n— **Temples bouddhistes** : Union Bouddhiste de France\n\n**Les fêtes religieuses et le monde du travail :**\nLes jours fériés légaux en France sont tous d'origine chrétienne (Noël, Pâques, Ascension, Assomption, Toussaint, Pentecôte). Pour les fêtes des autres religions (Aid, Yom Kippour, Diwali...), le salarié doit poser des **congés ou RTT** — l'employeur ne peut pas refuser sans raison valable, mais il n'est pas obligé d'accorder ces jours automatiquement.\n\n**L'alimentation halal et casher :**\nLes produits halal certifiés sont largement disponibles dans les supermarchés français et dans les boucheries spécialisées. L'abattage rituel (halal et casher) est autorisé en France sous conditions sanitaires strictes. Les cantines scolaires publiques ne sont pas tenues de proposer des menus halal ou casher — mais elles doivent proposer un repas alternatif sans porc si demandé.\n\n**Le port de signes religieux** dans l'espace public est libre. En entreprise privée : possible avec des restrictions si justifiées par le contact client ou des règles de sécurité (voir module 3). Dans les établissements scolaires publics : interdit pour les élèves (loi 2004). Pour les agents de la fonction publique en service : interdit."
       },
       {
-        "theme": "Culture artistique",
-        "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "theme": "Droits & recours",
+        "icon": "🛡️",
+        "title": "Discrimination religieuse : vos droits et recours",
+        "body": "La discrimination fondée sur la religion ou les convictions est **interdite** en France dans tous les domaines de la vie sociale : emploi, logement, éducation, accès aux services.\n\n**Si vous êtes victime de discrimination religieuse :**\n1. Rassemblez les preuves : courriels, SMS, témoignages, audios (si légaux dans le contexte)\n2. Saisissez le **Défenseur des droits** (defenseurdesdroits.fr) — gratuit, efficace, confidentiel\n3. Portez plainte à la police ou à la gendarmerie pour discrimination\n4. Contactez des associations spécialisées : **SOS Racisme**, **LICRA**, **CCIF** (Collectif contre l'Islamophobie en France), **CRIF** (pour l'antisémitisme)\n\n**Les actes antisémites et antimusulmans** constituent des infractions pénales spécifiques (circonstances aggravantes). Les statistiques du ministère de l'Intérieur recensent :\n— Actes antisémites : environ 1 700 actes en 2023 (dont 500 à Paris, en forte hausse depuis octobre 2023)\n— Actes antimusulmans : environ 250 actes en 2023\n\n**L'islamophobie au travail** est un phénomène documenté : des études (CNRS, Défenseur des droits) montrent que des candidats aux noms à consonance arabe reçoivent moins de réponses positives, même à compétences égales. Des actions en justice pour discrimination à l'embauche sont possibles — difficiles à prouver, mais pas impossibles avec des tests comparatifs (dits «testing»)."
       },
       {
-        "theme": "Gastronomie & Codes sociaux",
-        "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "theme": "Impact sur la vie quotidienne",
+        "icon": "🏠",
+        "title": "Religion et vie sociale en France : ce qui se fait et ce qui ne se fait pas",
+        "body": "La France a une culture de la **discrétion religieuse dans l'espace public** — non pas par interdiction légale, mais par habitude sociale. Les Français évitent généralement de parler de religion dans les contextes professionnels et même sociaux peu intimes. «On ne parle pas de politique et de religion en dîner» est une règle non écrite que beaucoup respectent.\n\nDans les **milieux professionnels**, la religion est considérée comme relevant de la vie privée. Mentionner spontanément sa pratique religieuse en entretien d'embauche ou en réunion de travail peut être mal perçu — non par hostilité à la religion, mais parce que cela sort du domaine jugé «professionnel». Cette discrétion n'est pas de l'hypocrisie : c'est la laïcité vécue comme mode de relation sociale.\n\nPour les **fêtes religieuses non officielles**, la pratique la plus courante est de poser des jours de congés. Des employeurs de plus en plus nombreux — notamment dans les grandes entreprises — ont adopté des politiques de «diversité» permettant d'échanger ses jours fériés chrétiens contre des jours pour d'autres fêtes religieuses. Ces pratiques sont encore minoritaires mais en développement.\n\nLe **dialogue interreligieux** est actif en France : le **Conseil français des religions** réunit régulièrement les représentants des grandes religions pour des échanges officiels. Des initiatives locales (semaines du dialogue interreligieux, journées «portes ouvertes» dans les lieux de culte) permettent une connaissance mutuelle souvent révélatrice — dans les deux sens."
+      },
+      {
+        "theme": "Lexique essentiel",
+        "icon": "📖",
+        "title": "Les mots des religions et de la laïcité plurielle",
+        "body": "**Le CFCM (Conseil Français du Culte Musulman)** : instance représentative de l'islam en France, interlocuteur avec les pouvoirs publics pour les sujets concernant les musulmans. Créé en 2003 à l'initiative du ministre de l'Intérieur Nicolas Sarkozy.\n\n**L'abattage rituel** : méthode d'abattage conforme aux prescriptions religieuses halal (islam) ou casher (judaïsme). Autorisé en France sous conditions sanitaires strictes définies par la loi.\n\n**L'aumônerie** : service d'accompagnement spirituel et religieux dans les institutions publiques fermées (prisons, hôpitaux, armée). Financé par l'État — exception au principe de non-financement des cultes de la loi de 1905.\n\n**Le testing** : méthode d'enquête consistant à envoyer des candidatures identiques avec des noms différents (français vs arabe) pour mesurer la discrimination à l'embauche. Reconnu comme preuve dans les procédures judiciaires.\n\n**Le Défenseur des droits** : autorité indépendante saisissable gratuitement pour toute discrimination fondée sur la religion, l'origine, le sexe, l'âge... Site : defenseurdesdroits.fr.\n\n**La loi «séparatisme» (2021)** : loi «confortant le respect des principes de la République» visant les associations religieuses et d'autres organisations diffusant des idées contraires aux valeurs républicaines. Controversée."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à Religions et Laïcité au Pluriel :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**En France, la religion est considérée comme relevant de la vie privée — surtout au travail.** Si vous êtes croyant pratiquant, vous n'êtes pas obligé de le cacher, mais sachez que vos collègues ne l'aborderont probablement pas et s'attendront à la même discrétion de votre part. Ce n'est pas du rejet — c'est la laïcité vécue comme norme sociale.\n\nSi vous rencontrez des difficultés liées à votre religion au travail (refus de congé pour une fête religieuse, propos discriminatoires, refus d'aménagement d'horaires pour la prière), sachez que des recours existent. Commencez par en parler aux **délégués du personnel** ou au **comité social et économique** (CSE) de votre entreprise. Si ce n'est pas suffisant, le Défenseur des droits et les tribunaux sont là."
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
+        "term": "Le CFCM",
+        "definition": "Conseil Français du Culte Musulman — instance représentative de l'islam en France, interlocuteur des pouvoirs publics. Créé en 2003."
       },
       {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
+        "term": "L'abattage rituel",
+        "definition": "Méthode d'abattage conforme aux prescriptions religieuses halal (islam) ou casher (judaïsme) — autorisée en France sous conditions sanitaires strictes."
       },
       {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "term": "L'aumônerie",
+        "definition": "Accompagnement spirituel dans les institutions fermées (prisons, hôpitaux, armée) — financé par l'État, exception au principe de non-financement des cultes de la loi de 1905."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "Le testing",
+        "definition": "Méthode d'enquête envoyant des candidatures identiques avec noms différents pour mesurer la discrimination à l'embauche — reconnu comme preuve judiciaire."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
+        "term": "Le Défenseur des droits",
+        "definition": "Autorité indépendante saisissable gratuitement pour toute discrimination — religieuse, raciale, liée au sexe ou à l'âge. Site : defenseurdesdroits.fr"
       },
       {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "La loi «séparatisme» (2021)",
+        "definition": "Loi «confortant le respect des principes de la République» — vise les associations religieuses diffusant des idées contraires aux valeurs républicaines. Controversée."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «Religions et Laïcité au Pluriel» dans la République française ?",
+        "question": "Quelle est la 2e religion de France par nombre de pratiquants ?",
         "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
-        ],
-        "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
-      },
-      {
-        "question": "En France, la laïcité signifie que...",
-        "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
-        ],
-        "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
-      },
-      {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Le protestantisme",
+          "Le judaïsme",
+          "L'islam",
+          "Le bouddhisme"
         ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
+        "explanation": "L'islam est la 2e religion de France avec 5 à 6 millions de musulmans (environ 9% de la population) — la plus grande communauté islamique d'Europe occidentale. Très divers dans ses pratiques, l'islam français est en majorité d'origine maghrébine et subsaharienne. Environ 2 500 mosquées et lieux de culte. Le catholicisme reste la première religion culturelle avec environ 41% de Français s'identifiant comme catholiques, mais seulement 8% de pratiquants réguliers."
       },
       {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
+        "question": "Un employeur est-il obligé d'accorder des jours de congé pour les fêtes religieuses non officielles (Aid, Yom Kippour...) ?",
         "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
-        ],
-        "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
-      },
-      {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
-        "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
+          "Oui — c'est un droit automatique garanti par la loi",
+          "Non — le salarié doit poser des congés ou RTT, que l'employeur peut refuser pour raisons organisationnelles",
+          "Seulement pour les employés qui pratiquent cette religion depuis plus de 5 ans",
+          "Seulement dans les entreprises de plus de 50 salariés"
         ],
         "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "Les seuls jours fériés légaux en France sont d'origine chrétienne. Pour les fêtes des autres religions, le salarié doit poser des jours de congés ou RTT. L'employeur ne peut pas refuser sans raison valable mais n'est pas obligé d'accepter systématiquement si les nécessités du service s'y opposent. La pratique des «jours fériés flottants» (échange de jours fériés chrétiens contre des jours pour d'autres fêtes) se développe dans certaines grandes entreprises."
+      },
+      {
+        "question": "Les cantines scolaires publiques françaises sont-elles tenues de proposer des menus halal ?",
+        "options": [
+          "Oui — c'est obligatoire depuis 2010 dans les villes de plus de 10 000 habitants",
+          "Non — mais elles doivent proposer un repas alternatif sans porc si demandé",
+          "Non — elles n'ont aucune obligation d'adaptation religieuse",
+          "Oui — si au moins 20% des élèves sont musulmans"
+        ],
+        "correct_index": 1,
+        "explanation": "Les cantines scolaires publiques ne sont pas tenues de proposer des menus halal certifiés. Cependant, elles doivent proposer une alternative sans porc pour les élèves qui ne peuvent pas en manger (qu'ils soient musulmans, juifs ou végétariens). Certaines collectivités locales ont choisi de proposer des menus halal — c'est une décision locale, pas une obligation nationale. Ce sujet est régulièrement débattu en politique locale."
+      },
+      {
+        "question": "Qu'est-ce que le «testing» dans le contexte de la lutte contre les discriminations ?",
+        "options": [
+          "Un test de personnalité utilisé en entretien d'embauche",
+          "L'envoi de candidatures identiques avec des noms différents pour mesurer la discrimination",
+          "Un test médical pour l'accès à certains emplois",
+          "Un test de niveau de langue française pour les immigrants"
+        ],
+        "correct_index": 1,
+        "explanation": "Le testing est une méthode d'enquête consistant à envoyer des candidatures strictement identiques avec des noms différents (par exemple «Jean Dupont» vs «Mohamed Benali») pour mesurer objectivement la discrimination à l'embauche. Les études utilisant cette méthode (CNRS, Défenseur des droits) ont documenté qu'un candidat avec un prénom arabe reçoit en moyenne 2 fois moins de réponses positives que son homologue au prénom français. Le testing est désormais reconnu comme preuve dans les procédures judiciaires."
+      },
+      {
+        "question": "Comment la France traite-t-elle statistiquement les appartenances religieuses de sa population ?",
+        "options": [
+          "Elle recense officiellement les religions lors des recensements",
+          "Elle n'a pas de statistiques officielles — la Constitution interdit le recensement par religion",
+          "Elle utilise les registres des impôts (taxe d'habitation) par lieu de culte",
+          "Elle exige une déclaration de religion à la naissance"
+        ],
+        "correct_index": 1,
+        "explanation": "La Constitution française et la tradition républicaine interdisent de recenser les personnes selon leur appartenance religieuse, ethnique ou raciale. C'est une application du principe d'égalité républicaine — l'État est aveugle aux origines et croyances. Les données sur les religions en France proviennent donc uniquement de sondages d'opinion (IFOP, IPSOS) qui donnent des estimations, pas des chiffres officiels."
       }
     ]
   },
   "ru": {
     "module_title": "Интеграция во Франции",
-    "lesson_title": "Религии и светскость на практике",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Религии и светскость на практике. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_title": "Религии и многогранная светскость",
+    "lesson_subtitle": "Жить своей верой в светской Республике: права, ограничения и диалог",
+    "intro": "Франция официально светская с 1905 года — но в ней живут верующие всех религий, и религиозные практики являются частью повседневной социальной жизни. Понять, как светскость сочетается с реальным религиозным разнообразием Франции — историческим католицизмом, активно присутствующим исламом, иудаизмом, протестантизмом, буддизмом, православием — необходимо, чтобы ориентироваться во французском обществе без конфликтов и недоразумений.",
     "sections": [
       {
-        "theme": "История",
+        "theme": "Исторический контекст",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Религии и светскость на практике** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "Многоликая Франция: портрет религий",
+        "body": "Во Франции нет официальной статистики по религиозной принадлежности — Конституция запрещает переписывать людей по религиозному признаку. Имеющиеся данные получены из опросов (IFOP, IPSOS) и являются оценочными.\n\n**Католицизм** остаётся безусловно первой культурной религией: около 41% французов называют себя католиками, но лишь 8% практикуют регулярно (посещают мессу не реже раза в месяц). Франция долгое время была «старшей дочерью Церкви» — сегодня это преимущественно культурный и праздничный католицизм (Рождество, Пасха, крестины, свадьбы, похороны), а не активная практика.\n\n**Ислам** — вторая религия Франции: 5–6 млн мусульман (9% населения) — крупнейшая исламская община Западной Европы. Очень разнородный в практиках (от культурного непрактикующего мусульманина до строго соблюдающего), французский ислам в большинстве своём магрибского и африканского происхождения. Около 2 500 мечетей и молитвенных домов. Ислам по-прежнему испытывает нехватку имамов, подготовленных во Франции, и стабильного финансирования — постоянные темы государственной политики.\n\n**Протестантизм** (1,8% — около 1 млн) исторически влиятелен в ряде регионов (Эльзас, Севенны, Париж) и значительно представлен в экономических и политических элитах. **Иудаизм**: 500 000–700 000 евреев — 3-я еврейская община мира после Израиля и США. Франция — страна Западной Европы с, к сожалению, наиболее выраженным антисемитизмом (рост антисемитских актов с 2000 года). **Буддизм** насчитывает около 500 000 практикующих."
       },
       {
-        "theme": "Регион",
-        "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
-      },
-      {
-        "theme": "Политика и общество",
+        "theme": "Правовая база и тексты",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Светскость на практике: что говорит закон",
+        "body": "Напоминание о принципах (см. также модуль 3, урок 4 о светскости), применяемых к реальному религиозному разнообразию:\n\n**Что государство гарантирует всем религиям:**\n— Свободу отправления культа: каждая религия может организовывать богослужения, торжества, паломничества без разрешения государства\n— Свободу религиозного обучения в частных учебных заведениях по договору и в местах отправления культа\n— Свободу ассоциаций для религиозных организаций (закон 1901 года)\n— Уголовную защиту от дискриминации и ненависти по религиозному признаку (закон Плевена 1972 года)\n\n**Что государство не предоставляет:**\n— Государственного финансирования для строительства мест отправления культа после 1905 года (кроме исключений — Эльзас-Мозель)\n— Капелланства в государственных учебных заведениях (кроме Эльзас-Мозель)\n— Официальных выходных дней по нехристианским праздникам (официальными праздниками являются только христианские)\n\n**Закон 2021 года о «сепаратизме»** (закон «об укреплении соблюдения принципов Республики») направлен в том числе против определённых религиозных ассоциаций, распространяющих идеи, противоречащие республиканским ценностям: усиленный контроль иностранного финансирования, административный роспуск ассоциаций, усиленный надзор за домашним обучением. Критики видят в нём закон, стигматизирующий мусульман; сторонники — необходимую защиту республиканских принципов."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Практические шаги",
+        "icon": "📋",
+        "title": "Исповедовать свою религию во Франции: конкретные права",
+        "body": "**Найти место отправления культа:**\n— Справочник религиозных мест по религии и городу доступен на **pages-jaunes.fr** (рубрика «lieux de culte») или через национальные религиозные федерации\n— **Мечети**: справочник на mosquee.com или через CFCM (Французский совет мусульманского культа)\n— **Синагоги**: через FSJU (Объединённый еврейский социальный фонд) или CRIF\n— **Протестантские церкви**: через Протестантскую федерацию Франции (protestants.org)\n— **Буддийские храмы**: Французский буддийский союз\n\n**Религиозные праздники и трудовые отношения:**\nОфициальные праздничные дни во Франции все христианского происхождения (Рождество, Пасха, Вознесение, Успение, День Всех Святых, Троица). Для праздников других религий (Ид аль-Адха, Йом Кипур, Дивали...) работник должен брать **очередной отпуск или отгул** — работодатель не может отказать без уважительных причин, но не обязан предоставлять эти дни автоматически.\n\n**Продукты халяль и кошер:**\nСертифицированные халяльные продукты широко представлены во французских супермаркетах и специализированных мясных магазинах. Ритуальный забой (халяль и кошер) разрешён во Франции при строгих санитарных условиях. Государственные школьные столовые не обязаны предлагать меню халяль или кошер — но обязаны предложить альтернативу без свинины по запросу.\n\n**Ношение религиозных знаков** в общественных местах свободно. На частных предприятиях: возможно с ограничениями при контакте с клиентами или требованиях безопасности (см. модуль 3). В государственных учебных заведениях: запрещено для учащихся (закон 2004). Для государственных служащих при исполнении обязанностей: запрещено."
       },
       {
-        "theme": "Художественная культура",
-        "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "theme": "Права и средства защиты",
+        "icon": "🛡️",
+        "title": "Религиозная дискриминация: ваши права и средства защиты",
+        "body": "Дискриминация по религиозному признаку или убеждениям **запрещена** во Франции во всех сферах общественной жизни: занятость, жильё, образование, доступ к услугам.\n\n**Если вы стали жертвой религиозной дискриминации:**\n1. Соберите доказательства: электронные письма, СМС, свидетельские показания, аудиозаписи (если законны в данном контексте)\n2. Обратитесь к **Защитнику прав** (defenseurdesdroits.fr) — бесплатно, эффективно, конфиденциально\n3. Подайте жалобу в полицию или жандармерию за дискриминацию\n4. Свяжитесь со специализированными ассоциациями: **SOS Racisme**, **LICRA**, **CCIF** (Коллектив против исламофобии во Франции), **CRIF** (по антисемитизму)\n\n**Антисемитские и антимусульманские акты** являются конкретными уголовными правонарушениями (отягчающие обстоятельства). По данным Министерства внутренних дел:\n— Антисемитские акты: около 1 700 в 2023 году (в том числе 500 в Париже, резкий рост с октября 2023-го)\n— Антимусульманские акты: около 250 в 2023 году\n\n**Исламофобия на работе** — задокументированное явление: исследования (CNRS, Защитник прав) показывают, что кандидаты с именами арабского звучания получают примерно в 2 раза меньше положительных ответов при равных компетенциях. Судебные иски о дискриминации при трудоустройстве возможны — их сложно доказать, но не невозможно с использованием сравнительных тестов («тестинг»)."
       },
       {
-        "theme": "Гастрономия и социальные коды",
-        "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "theme": "Влияние на повседневную жизнь",
+        "icon": "🏠",
+        "title": "Религия и социальная жизнь во Франции: что принято и что нет",
+        "body": "Во Франции сложилась культура **религиозной сдержанности в общественном пространстве** — не по закону, а в силу социальной привычки. Французы, как правило, избегают разговоров о религии в профессиональных и малознакомых социальных контекстах. «За обеденным столом не говорят о политике и религии» — неписаное правило, которого многие придерживаются.\n\nВ **профессиональной среде** религия считается относящейся к частной жизни. Спонтанное упоминание своей религиозной практики на собеседовании или на рабочей встрече может быть воспринято неоднозначно — не из враждебности к религии, а потому что это выходит за рамки «профессиональной» сферы. Эта сдержанность — не лицемерие: это светскость, ставшая нормой социального общения.\n\nДля **неофициальных религиозных праздников** наиболее распространённая практика — брать дни отпуска. Всё больше работодателей — прежде всего в крупных компаниях — принимают политику «разнообразия», позволяющую обменивать христианские праздничные дни на дни других религиозных торжеств. Эта практика ещё в меньшинстве, но развивается.\n\n**Межрелигиозный диалог** активен во Франции: **Французский совет религий** регулярно собирает представителей крупных конфессий для официального обмена. Местные инициативы (недели межрелигиозного диалога, дни открытых дверей в местах отправления культа) обеспечивают взаимное познание, нередко оказывающееся откровением — с обеих сторон."
+      },
+      {
+        "theme": "Основной словарь",
+        "icon": "📖",
+        "title": "Слова религий и многогранной светскости",
+        "body": "**Le CFCM / ФСМК**: Французский совет мусульманского культа — представительный орган ислама во Франции, собеседник органов власти по вопросам, касающимся мусульман. Создан в 2003 году.\n\n**L'abattage rituel / Ритуальный забой**: метод забоя, соответствующий религиозным предписаниям халяль (ислам) или кошер (иудаизм). Разрешён во Франции при строгих санитарных условиях.\n\n**L'aumônerie / Капелланство**: духовное сопровождение в закрытых государственных учреждениях (тюрьмы, больницы, армия). Финансируется государством — исключение из принципа невмешательства закона 1905 года.\n\n**Le testing / Тестинг**: метод исследования: отправка идентичных заявлений с разными именами для измерения дискриминации при трудоустройстве. Признан доказательством в судах.\n\n**Le Défenseur des droits / Защитник прав**: независимый орган, куда можно бесплатно обратиться при любой дискриминации — религиозной, расовой, по полу или возрасту. Сайт: defenseurdesdroits.fr.\n\n**La loi «séparatisme» (2021) / Закон о «сепаратизме»**: закон «об укреплении соблюдения принципов Республики» — направлен против религиозных ассоциаций, распространяющих идеи, противоречащие республиканским ценностям. Спорный."
       }
     ],
     "conseil_ami": {
       "title": "Дружеский совет 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Религии и светскость на практике»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**Во Франции религия считается делом частной жизни — особенно на работе.** Если вы верующий практикующий человек, вы не обязаны это скрывать, но знайте: коллеги, скорее всего, эту тему не затронут и ожидают от вас той же сдержанности. Это не отвержение — это светскость как социальная норма.\n\nЕсли вы сталкиваетесь с трудностями, связанными с религией на работе (отказ в отгуле на религиозный праздник, дискриминационные высказывания, отказ в гибком расписании для молитвы), знайте: средства защиты существуют. Начните с разговора с **делегатами по персоналу** или **социально-экономическим комитетом** (CSE) вашего предприятия. Если этого недостаточно — обращайтесь к Защитнику прав и в суды."
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "Le CFCM / ФСМК",
+        "definition": "Французский совет мусульманского культа — представительный орган ислама, собеседник органов власти. Создан в 2003 году."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "L'abattage rituel / Ритуальный забой",
+        "definition": "Метод забоя, соответствующий предписаниям халяль (ислам) или кошер (иудаизм) — разрешён во Франции при строгих санитарных условиях."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "L'aumônerie / Капелланство",
+        "definition": "Духовное сопровождение в закрытых учреждениях (тюрьмы, больницы, армия) — финансируется государством, исключение из закона 1905 года."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "Le testing / Тестинг",
+        "definition": "Метод исследования: отправка идентичных заявлений с разными именами для измерения дискриминации при трудоустройстве — признан доказательством в судах."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "Le Défenseur des droits / Защитник прав",
+        "definition": "Независимый орган, куда можно бесплатно обратиться при любой дискриминации — религиозной, расовой, по полу или возрасту. Сайт: defenseurdesdroits.fr."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "La loi «séparatisme» / Закон о «сепаратизме»",
+        "definition": "Закон 2021 года «об укреплении соблюдения принципов Республики» — направлен против организаций, распространяющих идеи, противоречащие республиканским ценностям. Спорный."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Религии и светскость на практике» во Французской республике?",
+        "question": "Какая вторая религия Франции по числу практикующих?",
         "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
-        ],
-        "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
-      },
-      {
-        "question": "Светскость во Франции означает, что...",
-        "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
-        ],
-        "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
-      },
-      {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Протестантизм",
+          "Иудаизм",
+          "Ислам",
+          "Буддизм"
         ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
+        "explanation": "Ислам — вторая религия Франции с 5–6 млн мусульман (около 9% населения) — крупнейшая исламская община Западной Европы. Очень разнородный в практиках, французский ислам в большинстве своём магрибского и африканского происхождения. Около 2 500 мечетей. Католицизм остаётся первой культурной религией: ~41% идентифицирующих себя как католики, но лишь 8% практикующих регулярно."
       },
       {
-        "question": "Членом-основателем какой международной организации является Франция?",
+        "question": "Обязан ли работодатель предоставлять выходные дни на неофициальные религиозные праздники (Ид, Йом Кипур...)?",
         "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
-        ],
-        "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
-      },
-      {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
-        "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
+          "Да — это автоматическое право, гарантированное законом",
+          "Нет — работник должен брать отпуск или отгул, в котором работодатель может отказать по организационным причинам",
+          "Только для сотрудников, практикующих эту религию более 5 лет",
+          "Только на предприятиях с более чем 50 сотрудниками"
         ],
         "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "Единственные официальные праздничные дни во Франции — христианского происхождения. Для праздников других религий работник должен брать дни отпуска или отгула. Работодатель не может отказать без уважительных причин, но не обязан систематически соглашаться при производственной необходимости. Практика «плавающих выходных» (обмен христианских праздников на другие) развивается в ряде крупных компаний."
+      },
+      {
+        "question": "Обязаны ли государственные школьные столовые Франции предлагать меню халяль?",
+        "options": [
+          "Да — обязательно с 2010 года в городах с населением более 10 000 человек",
+          "Нет — но обязаны предлагать альтернативу без свинины по запросу",
+          "Нет — никаких обязательств по религиозной адаптации",
+          "Да — если не менее 20% учеников являются мусульманами"
+        ],
+        "correct_index": 1,
+        "explanation": "Государственные школьные столовые не обязаны предлагать сертифицированные халяльные меню. Однако они обязаны предлагать альтернативу без свинины для учеников, которые не могут её есть (мусульмане, евреи или вегетарианцы). Ряд местных органов власти по собственной инициативе ввёл халяльные меню — это местное решение, а не национальное обязательство."
+      },
+      {
+        "question": "Что такое «тестинг» в контексте борьбы с дискриминацией?",
+        "options": [
+          "Тест личности на собеседовании",
+          "Отправка идентичных заявлений с разными именами для измерения дискриминации",
+          "Медицинский тест для доступа к определённым должностям",
+          "Тест уровня французского для иммигрантов"
+        ],
+        "correct_index": 1,
+        "explanation": "Тестинг — метод исследования: отправка строго идентичных заявлений с разными именами (например, «Жан Дюпон» vs «Мохамед Бенали») для объективного измерения дискриминации при трудоустройстве. Исследования (CNRS, Защитник прав) показали, что кандидат с арабским именем получает в среднем вдвое меньше положительных ответов. Тестинг признан судами как доказательство в делах о дискриминации."
+      },
+      {
+        "question": "Как Франция обращается со статистикой религиозной принадлежности населения?",
+        "options": [
+          "Официально регистрирует религии при переписи",
+          "Не имеет официальной статистики — Конституция запрещает перепись по религиозному признаку",
+          "Использует данные налоговых реестров (налог на проживание) по местам отправления культа",
+          "Требует декларирования религии при рождении"
+        ],
+        "correct_index": 1,
+        "explanation": "Конституция Франции и республиканская традиция запрещают учитывать людей по религиозной, этнической или расовой принадлежности. Это применение принципа республиканского равенства — государство «слепо» к происхождению и убеждениям. Данные о религиях во Франции получают исключительно из опросов (IFOP, IPSOS), дающих оценки, но не официальные цифры."
       }
     ]
   }

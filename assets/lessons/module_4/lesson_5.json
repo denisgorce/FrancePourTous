@@ -4,275 +4,280 @@
     "lesson_id": 5,
     "module_icon": "🤝",
     "lesson_icon": "🏠",
-    "estimated_minutes": 12,
+    "estimated_minutes": 13,
     "difficulty": "intermédiaire",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "CNIL — Protection de la vie privée en France",
+        "url": "https://www.cnil.fr"
+      },
+      {
+        "label": "Vie-publique.fr — Droit au respect de la vie privée",
+        "url": "https://www.vie-publique.fr/fiches/20184-droit-au-respect-de-la-vie-privee"
+      }
     ]
   },
   "fr": {
     "module_title": "Les Codes Sociaux Invisibles",
     "lesson_title": "Chez Soi : Vie Privée Sacrée",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : Chez Soi : Vie Privée Sacrée. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "Le chez-soi comme forteresse intérieure",
+    "intro": "En France, il existe une frontière invisible mais absolue entre la sphère publique et la sphère privée. Dans l'espace public — la rue, le métro, le bureau — les règles de politesse et de discrétion s'appliquent. Mais au-delà du seuil du domicile commence un territoire sacré que personne, pas même l'État, ne peut franchir sans permission. Cette sacralité du «chez-soi» est une valeur juridique (protégée par la Constitution), sociale et psychologique. Comprendre où s'arrête le public et où commence le privé en France est essentiel pour déchiffrer les comportements des Français.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**Chez Soi : Vie Privée Sacrée** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "L'inviolabilité du domicile, une conquête républicaine",
+        "body": "La protection du domicile contre les intrusions de l'État est l'une des grandes conquêtes de la Révolution française. Sous l'**Ancien Régime**, le roi et ses représentants pouvaient entrer dans les maisons, perquisitionner, emprisonner sans jugement (les «lettres de cachet»). La Révolution instaure le principe d'**inviolabilité du domicile** — repris ensuite dans toutes les Constitutions françaises. Aujourd'hui, une perquisition policière requiert un mandat judiciaire, sauf exceptions précises (flagrant délit, terrorisme).\n\nAu XIXe siècle, la bourgeoisie française développe une culture intense de l'intérieur domestique. Les romans de **Balzac** et de **Flaubert** décrivent minutieusement les intérieurs — meubles, bibelots, disposition des pièces — comme révélateurs du caractère et du statut social des personnages. Le «chez-soi» est le miroir de l'âme. Cette attention à l'intérieur domestique perdure : les Français investissent beaucoup dans la décoration, et une visite chez quelqu'un révèle quelque chose d'essentiel sur lui.\n\nLa **loi de 1905** sur la séparation de l'Église et de l'État a aussi renforcé l'idée de sphère privée : ce que l'on croit, comment on prie, comment on organise sa vie intime — tout cela appartient au domaine privé où l'État n'intervient pas. Cette séparation juridique a renforcé culturellement l'idée que la vie privée est un droit fondamental, pas un privilège."
       },
       {
-        "theme": "Région",
+        "theme": "Géographie",
         "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
+        "title": "L'habitat français et la culture de l'intérieur",
+        "body": "La France a une culture de l'habitat très différente de celle de ses voisins. Contrairement à l'Allemagne ou aux Pays-Bas où les fenêtres sont souvent sans voilage (signalant une transparence sociale assumée), en France les **rideaux et voilages** sont une norme : on ne donne pas à voir l'intérieur de son logement depuis la rue. Cette discrétion physique reflète la frontière symbolique entre dedans et dehors.\n\nLa **clôture** et les **haies** des maisons individuelles françaises sont hautes — beaucoup plus hautes que dans les pays anglo-saxons où les jardins de devant sont ouverts. En France, le jardin fait partie de la sphère privée, même s'il est visible de la rue. Les relations de **voisinage** en France sont marquées par une politesse distante : on se dit bonjour, on est aimable, mais on n'entre pas spontanément chez son voisin, on ne lui propose pas de bière impromptu comme en Australie ou dans les pays nordiques.\n\nParis est un cas particulier : l'**immeuble haussmannien** crée une promiscuité sonore (murs minces, cages d'escalier partagées) mais une étanchéité sociale forte. Dans un immeuble parisien, on peut habiter dix ans sans vraiment connaître ses voisins de palier au-delà du «Bonjour». Les **copropriétés** organisent des réunions annuelles (Assemblées Générales) pour gérer l'immeuble — c'est souvent le seul contact structuré entre voisins. Les **syndics de copropriété** sont des acteurs essentiels de la vie urbaine française."
       },
       {
-        "theme": "Politique & Social",
+        "theme": "Politique",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "Le droit à la vie privée, entre loi et culture",
+        "body": "La France est l'un des pays où la **protection juridique de la vie privée** est la plus avancée. L'article 9 du Code civil dispose que «chacun a droit au respect de sa vie privée». La **CNIL** (Commission Nationale de l'Informatique et des Libertés), créée en 1978, protège les données personnelles — la France fut l'un des premiers pays à légiférer en la matière, bien avant le RGPD européen (2018).\n\nCette protection juridique a des conséquences pratiques surprenantes pour les étrangers : il est par exemple **interdit de photographier** des personnes dans un espace privé sans leur consentement, et même dans certains espaces publics si elles sont reconnaissables et si la photo est publiée. La **presse française** s'est longtemps astreinte à ne pas révéler les liaisons amoureuses des personnages publics — François Mitterrand eut une fille cachée (Mazarine) révélée seulement en 1994, en fin de mandat ; les médias connaissaient la situation mais ne l'avaient pas publiée par respect de la vie privée.\n\nLe **droit à l'image** est également très protégé : une photo prise lors d'un événement public ne peut être réutilisée commercialement sans accord de la personne photographiée. Les entreprises françaises doivent faire signer des **autorisations de droit à l'image** pour utiliser la photo d'un salarié dans leurs communications. Ce droit, méconnu des étrangers, fait l'objet de nombreux litiges."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Vie quotidienne",
+        "icon": "🏠",
+        "title": "Codes pratiques de la vie privée au quotidien",
+        "body": "Voici les situations concrètes où la frontière public/privé se manifeste dans la vie quotidienne en France :\n\n**Être invité à un domicile :** C'est un acte de confiance significatif. Les Français n'invitent pas spontanément à leur domicile lors d'une première rencontre. On se retrouve d'abord «en dehors» (café, restaurant, bar) plusieurs fois avant d'être invité chez quelqu'un. Une invitation à dîner chez quelqu'un signifie que la relation a franchi un cap. En revanche, dans certains milieux professionnels ou parmi les expatriés, les dîners à domicile arrivent plus vite.\n\n**Pendant la visite :** On n'explore pas spontanément la maison de son hôte. Visiter les chambres, ouvrir des portes fermées, s'approcher d'un bureau personnel — ce sont des intrusions même chez un ami proche. Si l'hôte veut montrer quelque chose, il le fera. Les toilettes sont généralement indiquées par l'hôte ; y aller sans demander où elles sont peut sembler présomptueux dans un premier temps.\n\n**Questions intrusives :** En France, certaines questions sont considérées comme des intrusions dans la sphère privée : «Pourquoi tu n'as pas d'enfants ?», «Tu comptes te marier quand ?», «Tu as eu combien de relations ?», «Pourquoi vous vous êtes séparés ?». Ces questions, normales dans certaines cultures slaves ou méditerranéennes, sont en France des infractions à la discrétion. Si quelqu'un voulait vous le dire, il l'aurait dit spontanément.\n\n**Les réseaux sociaux :** Partager une photo de quelqu'un sur les réseaux sociaux sans sa permission est de plus en plus mal vu, et juridiquement questionnable. Même une photo de groupe prise lors d'une fête privée peut poser problème si une personne ne souhaite pas être visible en ligne."
       },
       {
-        "theme": "Culture artistique",
+        "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "title": "L'intérieur comme espace d'expression et d'identité",
+        "body": "En France, la décoration intérieure est une forme d'expression culturelle et identitaire très sérieuse. Le magazine **«Elle Décoration»** (lancé en 1989) et les émissions de décoration comme **«La Maison France 5»** ont un public immense — la façon dont on arrange son intérieur est une déclaration de goût, de valeurs, de personnalité. **IKEA**, présent en France depuis 1981, a démocratisé la décoration sans la banaliser : le Français achète chez IKEA mais y ajoute des objets personnalisés, des pièces anciennes, des livres.\n\nLa littérature française abonde de descriptions d'intérieurs révélatrices. Dans **«À la recherche du temps perdu»** de Proust, la chambre de la tante Léonie, le salon des Guermantes, la chambre de Marcel lui-même sont des espaces chargés de sens psychologique et social. **Georges Perec** (1936–1982), dans **«La Vie mode d'emploi»** (1978), décrit immeuble par immeuble, pièce par pièce, les intérieurs d'un immeuble parisien fictif — un chef-d'œuvre littéraire qui est aussi une anthropologie de l'espace privé français.\n\nL'**art de recevoir** — *savoir-recevoir* — est une compétence sociale valorisée en France. Mettre une belle table, choisir l'éclairage, sélectionner la musique d'ambiance, adapter les plats aux convives — tout cela est une forme d'art social. Les livres sur **«l'art de la table»** et les cours de **«savoir-vivre»** sont un genre éditorial constant en France. La maison est la scène sur laquelle on se met en valeur — discrètement, mais avec soin."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "title": "La maison ouverte : codes de l'invitation et de la réception",
+        "body": "Être reçu chez des Français est une expérience à déchiffrer soigneusement :\n\n**L'invitation :** Elle se fait généralement à l'avance — quelques jours à deux semaines. Une invitation de dernière minute («ce soir, tu es libre ?») est possible entre amis proches, mais moins fréquente que dans les cultures méditerranéennes ou russes. Confirmer sa présence et prévenir rapidement en cas d'empêchement est une règle absolue de politesse.\n\n**L'arrivée :** On sonne à la porte, on ne frappe jamais directement. Le «quart d'heure de politesse» s'applique (10–15 minutes de retard acceptable, voir Leçon 1). On enlève ses chaussures si l'hôte le fait ou si c'est l'usage dans la maison — observez l'entrée. Certains foyers ont cette pratique, d'autres non. Demander si on doit enlever ses chaussures est toujours apprécié.\n\n**Pendant la soirée :** On complimente sincèrement le décor, la cuisine. On ne critique pas le quartier, l'appartement ou les choix de décoration de son hôte — même gentiment. Ne pas proposer spontanément d'aider à débarrasser, faire la vaisselle ou ranger : certains hôtes apprécient, d'autres préfèrent le faire seuls après le départ des invités. Proposer une fois est poli ; insister est intrusif.\n\n**Le départ :** On part après le café et le digestif, en lisant les signaux de fatigue de l'hôte. Les **au revoir français** peuvent être longs — on met son manteau et on continue à parler 20 minutes dans l'entrée. C'est un rituel de prolongement du plaisir de la soirée, pas un signe d'indécision. Le lendemain, un message de remerciement chaleureux est la norme — «Merci pour cette belle soirée, c'était délicieux»."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à Chez Soi : Vie Privée Sacrée :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**La plus grande erreur des étrangers en France : confondre la chaleur d'un premier contact avec une vraie invitation à l'intimité.** Un Français peut être très chaleureux, très bavard, très sympathique lors d'une première rencontre — et pourtant ne pas envisager de vous inviter chez lui avant plusieurs mois.\n\nCela ne veut pas dire qu'il ne vous apprécie pas. Cela veut dire que pour lui, le «chez-soi» est un espace qui se mérite et se construit lentement. La relation se développe d'abord «en dehors» — cafés, restaurants, événements culturels — avant d'entrer dans la sphère privée.\n\nUn conseil pratique : si vous souhaitez approfondir une relation avec un Français, **prenez l'initiative de l'inviter d'abord chez vous**. C'est un signal fort que vous ouvrez votre propre sphère privée — ce à quoi il répondra souvent en vous invitant à son tour. C'est un échange de confiance, pas une simple logistique de repas."
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
+        "term": "L'inviolabilité du domicile",
+        "definition": "Principe constitutionnel français interdisant à toute autorité d'entrer dans un domicile privé sans mandat judiciaire. Conquête de la Révolution française contre les «lettres de cachet» de l'Ancien Régime."
       },
       {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
+        "term": "La CNIL",
+        "definition": "Commission Nationale de l'Informatique et des Libertés, créée en 1978. Autorité indépendante qui protège les données personnelles des citoyens français. Précurseur du RGPD européen."
       },
       {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "term": "Le droit à l'image",
+        "definition": "Droit français protégeant chaque personne contre l'utilisation non consentie de son image (photo, vidéo). Une photo prise en public ne peut être publiée ou utilisée commercialement sans autorisation de la personne reconnaissable."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "La copropriété",
+        "definition": "Régime juridique d'un immeuble dont les parties privatives appartiennent à différents propriétaires et les parties communes à tous. Gérée par un syndic et une Assemblée Générale annuelle. Forme dominante d'habitat collectif en France."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
+        "term": "Le savoir-recevoir",
+        "definition": "Art social français de bien accueillir ses invités : mise en scène de la table, choix des plats, ambiance, timing. Compétence valorisée en France comme une forme de culture et d'attention portée à l'autre."
       },
       {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "Les au revoir français",
+        "definition": "Rituel de départ souvent long en France : on met son manteau mais la conversation continue 15 à 30 minutes dans l'entrée ou sur le pas de la porte. C'est une façon de prolonger le plaisir de la soirée, non une indécision."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «Chez Soi : Vie Privée Sacrée» dans la République française ?",
+        "question": "En France, combien de temps faut-il généralement connaître quelqu'un avant d'être invité à son domicile ?",
         "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
+          "Dès la première rencontre si le courant passe bien",
+          "Après quelques rencontres «en dehors» — la relation se construit d'abord dans l'espace public",
+          "Uniquement dans le cadre familial — les amis ne reçoivent pas chez eux",
+          "Après une demande explicite de votre part"
         ],
         "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
+        "explanation": "En France, le domicile est une sphère privée qui se mérite progressivement. On se rencontre d'abord dans l'espace public (cafés, restaurants, événements) plusieurs fois avant d'être invité chez quelqu'un. Ce n'est pas de la froideur — c'est la façon dont la confiance se construit."
       },
       {
-        "question": "En France, la laïcité signifie que...",
+        "question": "Qu'est-ce que la CNIL en France ?",
         "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
+          "La Commission Nationale d'Inspection du Logement",
+          "La Commission Nationale de l'Informatique et des Libertés — autorité de protection des données personnelles",
+          "Le syndicat national des propriétaires immobiliers",
+          "L'autorité de régulation des médias audiovisuels"
         ],
         "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
+        "explanation": "La CNIL (Commission Nationale de l'Informatique et des Libertés), créée en 1978, est l'autorité française indépendante chargée de protéger les données personnelles. La France fut l'un des premiers pays au monde à légiférer sur ce sujet, bien avant le RGPD européen (2018)."
       },
       {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
+        "question": "Pourquoi les fenêtres des logements français sont-elles souvent équipées de rideaux ou voilages, contrairement aux pays germaniques ?",
         "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Pour économiser l'énergie et réduire les courants d'air",
+          "Pour se protéger du soleil dans un pays plus ensoleillé",
+          "Par culture de la discrétion : l'intérieur du foyer ne se donne pas à voir depuis la rue",
+          "Par tradition architecturale haussmannienne imposée au XIXe siècle"
         ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
+        "explanation": "Les rideaux et voilages des logements français reflètent la culture française de la discrétion et de la protection de la sphère privée. L'intérieur du domicile est une extension de la personne — le donner à voir depuis la rue serait une intrusion dans l'espace intime. Cette pratique contraste avec la transparence assumée des maisons germaniques ou néerlandaises."
       },
       {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
+        "question": "Quel type de question est considéré comme intrusif en France ?",
         "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
+          "«Vous habitez quel quartier ?»",
+          "«Vous travaillez dans quel secteur ?»",
+          "«Pourquoi vous n'avez pas d'enfants ?»",
+          "«Vous êtes originaire de quelle région ?»"
         ],
         "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
+        "explanation": "En France, les questions sur les choix de vie intimes — enfants, mariage, relations amoureuses — sont considérées comme intrusives, même entre connaissances. La règle implicite : si la personne voulait partager cette information, elle l'aurait fait spontanément. Poser la question revient à forcer l'entrée dans sa sphère privée."
       },
       {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
+        "question": "Que signifie le rituel des «au revoir français» — quand les invités restent à parler 20 minutes dans l'entrée après avoir mis leur manteau ?",
         "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
+          "C'est un signe d'indécision — ils ne savent pas s'ils veulent vraiment partir",
+          "C'est une façon de prolonger le plaisir de la soirée — un rituel de clôture chaleureux",
+          "C'est une politesse formelle obligatoire avant de pouvoir partir",
+          "C'est un signe que la soirée n'était pas assez longue"
         ],
         "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "Les «au revoir français» — cette longue conversation dans l'entrée après avoir mis son manteau — sont un rituel de clôture chaleureux, pas une indécision. On prolonge le plaisir de la soirée, on termine les sujets en cours, on prend congé progressivement. C'est une façon de signifier que l'on a passé un bon moment et qu'on n'est pas pressé de partir."
       }
     ]
   },
   "ru": {
     "module_title": "Невидимые социальные коды",
     "lesson_title": "Домашний очаг: священная частная жизнь",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Домашний очаг: священная частная жизнь. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_subtitle": "Дом как внутренняя крепость",
+    "intro": "Во Франции существует невидимая, но абсолютная граница между публичной и частной сферой. В общественном пространстве — на улице, в метро, в офисе — действуют правила вежливости и дискретности. Но за порогом домашнего жилища начинается священная территория, которую никто — даже государство — не может пересечь без разрешения. Эта святость «своего дома» — юридическая ценность (защищённая Конституцией), социальная и психологическая. Понять, где заканчивается публичное и начинается частное во Франции, — значит научиться расшифровывать поведение французов.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Домашний очаг: священная частная жизнь** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "Неприкосновенность жилища — республиканское завоевание",
+        "body": "Защита жилища от вторжений государства — одно из великих завоеваний Французской революции. При **Старом режиме** король и его представители могли входить в дома, проводить обыски, заключать под стражу без суда (по «lettres de cachet» — именным указам). Революция вводит принцип **неприкосновенности жилища** — закреплённый затем во всех французских Конституциях. Сегодня полицейский обыск требует судебного ордера, за исключением строго определённых случаев (поимка на месте преступления, терроризм).\n\nВ XIX веке французская буржуазия развивает интенсивную культуру домашнего интерьера. Романы **Бальзака** и **Флобера** с педантичной точностью описывают интерьеры — мебель, безделушки, расположение комнат — как зеркало характера и социального положения персонажей. «Свой дом» — это отражение души. Это внимание к домашнему пространству сохраняется: французы много вкладывают в декор, и визит к кому-то домой открывает нечто существенное о человеке.\n\n**Закон 1905 года** о разделении церкви и государства тоже укрепил идею частной сферы: во что веришь, как молишься, как организуешь интимную жизнь — всё это относится к личному пространству, в которое государство не вмешивается. Это юридическое разделение культурно закрепило убеждение, что частная жизнь — фундаментальное право, а не привилегия."
       },
       {
-        "theme": "Регион",
+        "theme": "География",
         "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
+        "title": "Французское жильё и культура интерьера",
+        "body": "Культура жилья во Франции разительно отличается от соседних стран. В отличие от Германии или Нидерландов, где окна часто без занавесок (демонстрируя сознательную социальную прозрачность), во Франции **шторы и тюлевые занавески** — норма: интерьер жилища не открывают взгляду с улицы. Эта физическая дискретность отражает символическую границу между внутренним и внешним.\n\n**Заборы** и **живые изгороди** французских частных домов высокие — намного выше, чем в англосаксонских странах, где палисадники открыты. Во Франции сад — часть частной сферы, даже если виден с улицы. **Отношения с соседями** во Франции отличаются вежливой дистанцированностью: здороваются, приветливы, но спонтанно в гости не заходят, не предлагают выпить пиво «по-соседски», как это принято в Австралии или скандинавских странах.\n\nПариж — особый случай: **османовский дом** создаёт акустическую тесноту (тонкие стены, общие лестничные клетки), но сильную социальную непроницаемость. В парижском доме можно прожить десять лет, почти не зная соседей по лестничной площадке дальше «Bonjour». **Товарищества собственников** проводят ежегодные собрания (Assemblées Générales) для управления зданием — нередко это единственный структурированный контакт между соседями."
       },
       {
-        "theme": "Политика и общество",
+        "theme": "Политика",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Право на частную жизнь: между законом и культурой",
+        "body": "Франция — одна из стран с наиболее развитой **юридической защитой частной жизни**. Статья 9 Гражданского кодекса гласит: «Каждый имеет право на уважение своей частной жизни». **CNIL** (Национальная комиссия по информатике и свободам), созданная в 1978 году, защищает персональные данные — Франция была одной из первых стран, принявших законодательство в этой сфере, задолго до европейского GDPR (2018).\n\nЭта правовая защита имеет практические последствия, удивляющие иностранцев: например, **фотографировать** людей в частном пространстве без их согласия запрещено, а публикация фото с узнаваемым человеком в некоторых публичных местах также требует разрешения. **Французская пресса** долгие годы воздерживалась от публикаций о романтических связях публичных персон — у Франсуа Миттерана была внебрачная дочь (Мазарин), о которой стало известно только в 1994 году, в конце президентства; СМИ были в курсе, но не публиковали из уважения к частной жизни.\n\n**Право на изображение** также очень хорошо защищено: фото, сделанное на публичном мероприятии, не может быть использовано в коммерческих целях без согласия человека. Французские компании должны получать **разрешения на использование изображения** для фотографий сотрудников в корпоративных материалах. Это право, малоизвестное иностранцам, становится предметом многочисленных споров."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Повседневная жизнь",
+        "icon": "🏠",
+        "title": "Практические коды частной жизни в повседневности",
+        "body": "Вот конкретные ситуации, в которых граница публичного и частного проявляется в повседневной жизни во Франции:\n\n**Быть приглашённым в чей-то дом:** Это значимый акт доверия. Французы не приглашают спонтанно к себе при первой встрече. Сначала несколько раз встречаются «вне дома» (кафе, ресторан, бар), и лишь затем появляется приглашение домой. Приглашение на ужин означает, что отношения перешли на новый уровень. Впрочем, в некоторых профессиональных кругах или среди экспатов домашние ужины случаются быстрее.\n\n**Во время визита:** Самостоятельно не исследуют дом хозяина. Заходить в спальни, открывать закрытые двери, приближаться к личному рабочему столу — вторжение, даже у близкого друга. Если хозяин хочет что-то показать, он сделает это сам. Туалет обычно указывает хозяин; искать его самостоятельно без предупреждения при первом визите может показаться самонадеянным.\n\n**Навязчивые вопросы:** Во Франции ряд вопросов считается вторжением в частную сферу: «Почему у тебя нет детей?», «Когда вы поженитесь?», «Сколько у тебя было отношений?», «Почему вы расстались?». Эти вопросы, нормальные в некоторых славянских или средиземноморских культурах, во Франции нарушают правила дискретности. Если человек хотел бы сообщить об этом — сказал бы сам.\n\n**Социальные сети:** Публиковать чью-то фотографию в сети без разрешения становится всё более неприемлемым — и юридически сомнительным. Даже групповое фото с частной вечеринки может стать проблемой, если кто-то не хочет быть виден онлайн."
       },
       {
-        "theme": "Художественная культура",
+        "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "title": "Интерьер как пространство выражения и идентичности",
+        "body": "Во Франции оформление интерьера — вполне серьёзная форма культурного и личностного самовыражения. Журнал **«Elle Décoration»** (основан в 1989 году) и такие программы, как **«La Maison France 5»**, собирают огромную аудиторию — то, как устроен ваш интерьер, есть декларация вкуса, ценностей, личности. **IKEA**, появившаяся во Франции в 1981 году, демократизировала декор, не обесценив его: француз покупает в IKEA, но добавляет персональные предметы, старинные вещи, книги.\n\nФранцузская литература пестрит красноречивыми описаниями интерьеров. В **«В поисках утраченного времени»** Пруста комната тётушки Леони, гостиная Германтов, комната самого Марселя — пространства, насыщенные психологическим и социальным смыслом. **Жорж Перек** (1936–1982) в **«Жизни способ употребления»** (1978) описывает дом за домом, комнату за комнатой, интерьеры вымышленного парижского дома — литературный шедевр и одновременно антропология французского частного пространства.\n\n**Искусство принимать гостей** («savoir-recevoir») — ценимое социальное умение во Франции. Красиво накрыть стол, выбрать освещение, подобрать фоновую музыку, адаптировать меню к гостям — всё это форма социального искусства. Книги об «искусстве стола» и курсы «светского этикета» — постоянный издательский жанр. Дом — сцена, на которой себя представляют — сдержанно, но тщательно."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "title": "Открытый дом: коды приглашения и приёма",
+        "body": "Быть принятым в доме французов — опыт, требующий внимательного прочтения:\n\n**Приглашение:** Обычно заблаговременно — за несколько дней или за две недели. Приглашение в последний момент («Сегодня вечером свободен?») возможно между близкими друзьями, но реже, чем в средиземноморских или русских культурах. Подтвердить своё присутствие и быстро предупредить о вынужденной отмене — абсолютное правило вежливости.\n\n**Приход:** Звонят в звонок, в дверь не стучат. «Четверть часа вежливости» действует (10–15 минут допустимого опоздания, см. урок 1). Снимают обувь, если так делает хозяин или если это принято в этом доме — понаблюдайте за прихожей. Одни семьи так делают, другие нет. Спросить, нужно ли снять обувь, всегда воспринимается с благодарностью.\n\n**Во время вечера:** Искренне хвалят декор, кухню. Не критикуют район, квартиру или выбор хозяев в оформлении — даже с добрыми намерениями. Не стоит спонтанно предлагать помочь убрать посуду или помыть тарелки: одни хозяева это ценят, другие предпочитают всё сделать после ухода гостей. Предложить один раз — вежливо; настаивать — навязчиво.\n\n**Уход:** Уходят после кофе и дижестива, считывая сигналы усталости хозяина. **Французские прощания** могут быть долгими — надели пальто и ещё 20 минут разговариваем в прихожей. Это ритуал продления удовольствия от вечера, а не нерешительность. На следующий день тёплое сообщение с благодарностью — норма: «Merci pour cette belle soirée, c'était délicieux»."
       }
     ],
     "conseil_ami": {
-      "title": "Дружеский совет 🤝",
+      "title": "Совет друга 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Домашний очаг: священная частная жизнь»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**Главная ошибка иностранцев во Франции: принять теплоту первого контакта за приглашение в близость.** Француз может быть очень душевным, разговорчивым, симпатичным при первой встрече — и при этом не думать о приглашении домой ещё несколько месяцев.\n\nЭто не значит, что вы ему не нравитесь. Это значит, что для него «свой дом» — пространство, которое заслуживается и строится медленно. Отношения сначала развиваются «снаружи» — в кафе, ресторанах, на культурных мероприятиях, — и лишь потом входят в частную сферу.\n\nПрактический совет: если хотите углубить отношения с французом — **сами первыми пригласите его к себе**. Это сильный сигнал того, что вы открываете свою частную сферу, — и на него часто отвечают взаимным приглашением. Это обмен доверием, а не просто организация ужина."
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "Неприкосновенность жилища",
+        "definition": "Конституционный принцип Франции, запрещающий любой власти входить в частное жилище без судебного ордера. Завоевание Французской революции против «именных указов» Старого режима."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "CNIL",
+        "definition": "Национальная комиссия по информатике и свободам, созданная в 1978 году. Независимый орган по защите персональных данных французских граждан. Предшественник европейского GDPR."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "Право на изображение (droit à l'image)",
+        "definition": "Французское право, защищающее каждого от несанкционированного использования его изображения (фото, видео). Фотография, сделанная в публичном месте, не может быть опубликована или использована в коммерческих целях без согласия узнаваемого человека."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "Товарищество собственников (copropriété)",
+        "definition": "Правовой режим дома, где частные части принадлежат разным собственникам, а общие — всем. Управляется управляющей компанией (syndic) и ежегодным Общим собранием. Основная форма коллективного жилья во Франции."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "Искусство принимать гостей (savoir-recevoir)",
+        "definition": "Французское социальное искусство хорошо принимать гостей: сервировка стола, выбор блюд, атмосфера, тайминг. Ценимое умение во Франции как форма культуры и внимания к другому."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "Французские прощания",
+        "definition": "Ритуал долгого прощания во Франции: надели пальто, но разговор продолжается 15–30 минут в прихожей или у порога. Способ продлить удовольствие вечера, а не нерешительность."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Домашний очаг: священная частная жизнь» во Французской республике?",
+        "question": "Сколько обычно нужно знать человека во Франции, прежде чем он пригласит вас к себе домой?",
         "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
+          "С первой встречи, если контакт наладился",
+          "После нескольких встреч «вне дома» — отношения сначала строятся в публичном пространстве",
+          "Только в семейном кругу — друзья домой не приглашают",
+          "После прямой просьбы с вашей стороны"
         ],
         "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
+        "explanation": "Во Франции дом — частная сфера, доступ в которую открывается постепенно. Сначала встречаются в публичном пространстве (кафе, рестораны, мероприятия) несколько раз, и лишь потом появляется приглашение домой. Это не холодность — так строится доверие."
       },
       {
-        "question": "Светскость во Франции означает, что...",
+        "question": "Что такое CNIL во Франции?",
         "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
+          "Национальная комиссия по жилищной инспекции",
+          "Национальная комиссия по информатике и свободам — орган по защите персональных данных",
+          "Национальный синдикат владельцев недвижимости",
+          "Орган по регулированию аудиовизуальных СМИ"
         ],
         "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
+        "explanation": "CNIL (Национальная комиссия по информатике и свободам), созданная в 1978 году, — независимый французский орган по защите персональных данных. Франция была одной из первых стран в мире, принявших законодательство в этой сфере, намного опередив европейский GDPR (2018)."
       },
       {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
+        "question": "Почему окна французских квартир часто закрыты занавесками, в отличие от германских стран?",
         "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Для экономии энергии и защиты от сквозняков",
+          "Для защиты от солнца в более тёплой стране",
+          "По культуре дискретности: интерьер дома не открывают взгляду с улицы",
+          "По архитектурной традиции, обязательной со времён Осмaна"
         ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
+        "explanation": "Занавески французских домов отражают культуру дискретности и защиты частной сферы. Интерьер жилища — продолжение личности человека: открывать его взгляду с улицы — значит допускать вторжение в интимное пространство. Это контрастирует с намеренной прозрачностью германских или нидерландских домов."
       },
       {
-        "question": "Членом-основателем какой международной организации является Франция?",
+        "question": "Какой вопрос считается навязчивым во Франции?",
         "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
+          "«В каком квартале вы живёте?»",
+          "«В какой отрасли вы работаете?»",
+          "«Почему у вас нет детей?»",
+          "«Из какого вы региона?»"
         ],
         "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
+        "explanation": "Во Франции вопросы об интимных жизненных выборах — дети, брак, романтические отношения — считаются навязчивыми, даже между знакомыми. Негласное правило: если человек хотел бы поделиться этим — сам бы сказал. Задать такой вопрос — значит силой проникнуть в чужую частную сферу."
       },
       {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
+        "question": "Что означает ритуал «французских прощаний» — когда гости ещё 20 минут разговаривают в прихожей, уже надев пальто?",
         "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
+          "Это признак нерешительности — они не знают, хотят ли уходить",
+          "Это способ продлить удовольствие от вечера — тёплый прощальный ритуал",
+          "Это обязательная формальная вежливость перед уходом",
+          "Это знак того, что вечер был слишком коротким"
         ],
         "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "«Французские прощания» — долгий разговор в прихожей уже в пальто — это ритуал тёплого завершения вечера, а не нерешительность. Продолжают начатые темы, прощаются постепенно. Это способ дать понять, что вечер удался и расставаться не хочется."
       }
     ]
   }

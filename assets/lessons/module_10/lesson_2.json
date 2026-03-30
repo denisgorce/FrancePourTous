@@ -4,275 +4,288 @@
     "lesson_id": 2,
     "module_icon": "🌍",
     "lesson_icon": "🗣️",
-    "estimated_minutes": 12,
+    "estimated_minutes": 10,
     "difficulty": "intermédiaire",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "Organisation Internationale de la Francophonie (OIF)",
+        "url": "https://www.francophonie.org"
+      },
+      {
+        "label": "TV5Monde — Apprendre le français",
+        "url": "https://apprendre.tv5monde.com"
+      },
+      {
+        "label": "Institut français — Réseau culturel mondial",
+        "url": "https://www.institutfrancais.com"
+      },
+      {
+        "label": "Campus France — Études en France",
+        "url": "https://www.campusfrance.org"
+      }
     ]
   },
   "fr": {
     "module_title": "S'Intégrer en France",
     "lesson_title": "La Francophonie Mondiale",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : La Francophonie Mondiale. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "320 millions de locuteurs, 5 continents, une langue partagée",
+    "intro": "Le français est parlé par 320 millions de personnes dans le monde — sur les 5 continents — et ce nombre croît : d'ici 2050, les projections démographiques indiquent que 700 millions à 1 milliard de personnes pourraient parler français, portées par la croissance démographique africaine. Comprendre la Francophonie — sa géographie, son histoire, ses enjeux politiques et culturels — c'est comprendre pourquoi le français reste une langue de pouvoir mondial, et pourquoi apprendre le français en France vous ouvre des portes sur tous les continents.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**La Francophonie Mondiale** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "De l'empire colonial à la communauté francophone",
+        "body": "La Francophonie est l'héritière directe de l'**empire colonial français** — le 2e empire colonial mondial après le britannique. Au XIXe et début XXe siècle, la France colonise l'Afrique subsaharienne, le Maghreb, l'Indochine, les Antilles, la Polynésie, la Nouvelle-Calédonie. Elle y impose le français comme langue d'administration et d'éducation, réprimant souvent les langues locales.\n\nLa **décolonisation** des années 1950–1960 amène l'indépendance politique, mais le français reste la langue officielle ou co-officielle dans la plupart des anciens pays colonisés — par pragmatisme (pas d'autre langue commune entre ethnies) et par choix des élites formées en français. Cette persistance est à la fois une richesse (accès à un espace linguistique mondial) et une blessure (rappel de la domination coloniale).\n\nL'**Organisation Internationale de la Francophonie** (OIF) est fondée en 1970 à Niamey (Niger) par le Sénégalais Léopold Sédar Senghor, le Tunisien Habib Bourguiba, le Cambodgien Norodom Sihanouk et le Nigérien Hamani Diori. Sa création est une initiative des pays du Sud souhaitant bâtir une communauté linguistique active autour du français — pas une initiative française. Aujourd'hui, l'OIF compte **93 États membres et observateurs** et son siège est à Paris."
       },
       {
-        "theme": "Région",
-        "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
-      },
-      {
-        "theme": "Politique & Social",
+        "theme": "Cadre légal & textes",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "Le français dans le monde : statuts et institutions",
+        "body": "Le français est **langue officielle de 29 pays** — plus que toute autre langue à l'exception de l'anglais. C'est aussi une des langues de travail des principales organisations internationales :\n— **ONU** : langue officielle (l'une des 6)\n— **Union Européenne** : langue de travail (l'une des 24)\n— **Union Africaine** : langue officielle\n— **Jeux Olympiques** : langue officielle (avec l'anglais)\n— **Cour Internationale de Justice**, **Cour Pénale Internationale** : langue officielle\n\nCe statut confère au français un **poids diplomatique** considérable — être francophone ouvre des portes dans les instances internationales que l'anglais seul ne peut pas ouvrir.\n\nEn France, la **loi Toubon de 1994** impose l'usage du français dans les services publics, les entreprises (communication interne et externe), la publicité, les offres d'emploi et l'enseignement public. Elle est régulièrement invoquée contre l'usage de l'anglais dans les réunions d'entreprises multinationales établies en France. La **Délégation Générale à la Langue Française et aux Langues de France** (DGLFLF) est l'organisme d'État chargé de promouvoir le français et les langues régionales (alsacien, breton, occitan, corse...)."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Démarches pratiques",
+        "icon": "📋",
+        "title": "Apprendre le français en France et dans le monde",
+        "body": "**Ressources gratuites ou peu coûteuses pour apprendre le français :**\n\n— **TV5Monde** (tv5monde.com/apprendre) : plateforme gratuite de cours de français par niveaux (A1 à C2), avec des milliers d'exercices basés sur des émissions TV. La meilleure ressource gratuite en ligne.\n— **RFI Savoirs** (savoirs.rfi.fr) : journal en français facile, actualité du monde francophone, exercices de compréhension.\n— **Duolingo** : appli ludique pour débuter, maintenir ou renforcer le français — 30 minutes/jour suffisent pour progresser.\n— **Alliance Française** : réseau mondial de 850 centres d'enseignement du français présents dans 132 pays — cours payants mais de qualité certifiée, avec passation des diplômes DELF/DALF.\n— **Instituts français** : centres culturels français à l'étranger et en France, proposant cours de langue, médiathèques, événements culturels.\n\n**Les diplômes officiels de français :**\n— **DELF** (Diplôme d'Études en Langue Française) : niveaux A1 à B2 — reconnu pour les titres de séjour et la naturalisation\n— **DALF** (Diplôme Approfondi de Langue Française) : niveaux C1 et C2 — requis pour certaines universités françaises\n— **TCF** (Test de Connaissance du Français) : test de positionnement rapide, utilisé pour Parcoursup et les demandes de naturalisation\n— **TEF** (Test d'Évaluation du Français) : reconnu pour l'immigration au Canada (Québec)"
       },
       {
-        "theme": "Culture artistique",
-        "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "theme": "Droits & recours",
+        "icon": "🛡️",
+        "title": "La Francophonie face aux défis : diversité culturelle et numérique",
+        "body": "La Francophonie est traversée par des tensions réelles qui méritent une discussion franche.\n\nLa **domination de l'anglais dans le numérique** est un défi majeur : moins de 4% du contenu d'internet est en français, malgré 320 millions de locuteurs. Les GAFA (Google, Apple, Facebook, Amazon) et leurs algorithmes sont conçus en anglais. Des initiatives existent — **Qwant** (moteur de recherche français), **OVHcloud** (hébergement européen), le **cloud souverain** — mais le combat est inégal.\n\nLes **variétés du français** sont une richesse parfois source de tensions : le français québécois, le français africain, le français belge, le créole haïtien — toutes ces variétés sont du français, mais les locuteurs de certaines variétés se sentent parfois dévalorisés face au français «standard» de Paris. L'OIF défend le principe que «les francophones ne parlent pas tous le même français et c'est une richesse».\n\nLe **néocolonialisme culturel** est une critique récurrente : certains intellectuels africains (Ngũgĩ wa Thiong'o, Frantz Fanon) soulignent que continuer à écrire en français plutôt qu'en langues africaines perpétue la domination culturelle. La **littérature francophone** africaine (Ahmadou Kourouma, Alain Mabanckou, Léonora Miano) a su se réapproprier et transformer le français en arme artistique — une démonstration que la langue du colonisateur peut devenir celle de la résistance.\n\nLes **pays du Maghreb** (Maroc, Tunisie, Algérie) ont une relation particulièrement ambivalente avec le français : langue des études supérieures, des affaires et de la modernité, mais aussi langue de la colonisation. L'Algérie a officiellement «arabisé» son administration et son école depuis 1962, mais le français reste omniprésent dans la société."
       },
       {
-        "theme": "Gastronomie & Codes sociaux",
-        "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "theme": "Impact sur la vie quotidienne",
+        "icon": "🏠",
+        "title": "Être francophone en France : atout ou évidence ?",
+        "body": "Pour les locuteurs de français venant de pays francophones (Maghreb, Afrique, Belgique, Suisse, Québec, Liban...), arriver en France avec déjà la langue est un avantage considérable pour l'intégration — mais peut créer d'autres difficultés inattendues.\n\nL'**accent** est la première source de discrimination linguistique : des études montrent qu'un accent maghrébin ou africain est perçu négativement dans les entretiens d'embauche, même pour des candidats parlant un français parfait. Un accent belge ou suisse est au contraire perçu positivement. Ces biais sont inconscients mais documentés — et peuvent justifier un travail sur la prononciation pour les personnes exposées à ce type de discrimination.\n\nLes **différences culturelles dans l'usage du français** peuvent surprendre : en France, le français est très direct, peu indirecte, peu euphémique — on dit les choses clairement, y compris les critiques. Le français africain est souvent plus élaboré, plus imagé, plus métaphorique. Le français québécois utilise des expressions très différentes. Ces variations peuvent créer des malentendus communicationnels au-delà de la langue elle-même.\n\nLe **réseau francophone** est un atout réel : dans de nombreux pays africains et asiatiques, parler français crée immédiatement un lien. Les expatriés français utilisent ce réseau pour travailler et vivre à l'international. Pour un immigrant francophone en France, ce réseau peut faciliter la recherche d'emploi dans les entreprises françaises implantées à l'étranger ou dans les organisations internationales basées à Paris."
+      },
+      {
+        "theme": "Lexique essentiel",
+        "icon": "📖",
+        "title": "Les mots de la Francophonie",
+        "body": "**La Francophonie** : ensemble des pays et peuples utilisant le français comme langue officielle, courante ou d'enseignement. 320 millions de locuteurs, 93 États membres de l'OIF.\n\n**L'OIF** : Organisation Internationale de la Francophonie — organisation intergouvernementale regroupant 93 États membres et observateurs autour de la langue française et de la promotion de la diversité culturelle. Siège à Paris.\n\n**Le DELF** : Diplôme d'Études en Langue Française — diplôme officiel du ministère français de l'Éducation certifiant les niveaux A1 à B2. Reconnu pour les titres de séjour, la naturalisation, et l'entrée à l'université.\n\n**La loi Toubon** : loi de 1994 imposant l'usage du français dans les services publics, entreprises, publicité et enseignement en France. Protège le français face à l'anglicisation.\n\n**La littérature francophone** : ensemble des œuvres littéraires en langue française produites hors de France — Afrique, Québec, Maghreb, Antilles, Belgique, Suisse. Souvent plus innovante et subversive que la littérature hexagonale.\n\n**Le créole** : langue née du contact entre le français et les langues africaines et amérindiennes dans les colonies — parlé aux Antilles, à La Réunion, en Haïti. Langue à part entière, ni patois ni argot."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à La Francophonie Mondiale :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**Si vous venez d'un pays francophone, ne présumez pas que votre français est «parfait» pour le marché du travail français.** Les niveaux de langue, les registres (formel/informel), la prononciation et les codes communicationnels varient selon les pays. Un séjour en France révèle souvent des lacunes inattendues — notamment dans le français professionnel écrit (courriels, rapports, présentations).\n\nUn investissement rentable : suivre quelques heures de cours de **français professionnel** (FOS — Français sur Objectifs Spécifiques) dans votre domaine — médical, juridique, commercial, technique. Ces formations courtes et ciblées peuvent transformer votre employabilité. Demandez à Pôle Emploi / France Travail ou à votre opérateur de formation : ces formations sont souvent financées par le **Compte Personnel de Formation (CPF)**."
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
+        "term": "La Francophonie",
+        "definition": "Ensemble des pays et peuples utilisant le français : 320 millions de locuteurs, 93 États membres de l'OIF. Prévu à 700 millions–1 milliard d'ici 2050 grâce à la croissance démographique africaine."
       },
       {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
+        "term": "L'OIF",
+        "definition": "Organisation Internationale de la Francophonie — 93 États membres et observateurs, siège à Paris. Fondée en 1970 à Niamey à l'initiative de pays du Sud."
       },
       {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "term": "Le DELF",
+        "definition": "Diplôme d'Études en Langue Française (niveaux A1 à B2) — certification officielle du ministère français de l'Éducation. Reconnu pour titres de séjour, naturalisation, universités."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "La loi Toubon",
+        "definition": "Loi de 1994 imposant l'usage du français dans les services publics, entreprises, publicité et enseignement en France — protège contre l'anglicisation."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
+        "term": "La littérature francophone",
+        "definition": "Œuvres littéraires en français produites hors de France (Afrique, Québec, Maghreb, Antilles, Belgique, Suisse) — souvent plus innovante que la littérature hexagonale."
       },
       {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "Le créole",
+        "definition": "Langue née du contact entre le français et les langues africaines/amérindiennes dans les colonies — parlé aux Antilles, à La Réunion, en Haïti. Langue à part entière, classée à l'UNESCO."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «La Francophonie Mondiale» dans la République française ?",
+        "question": "Combien de personnes parlent français dans le monde aujourd'hui ?",
         "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
-        ],
-        "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
-      },
-      {
-        "question": "En France, la laïcité signifie que...",
-        "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
-        ],
-        "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
-      },
-      {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Environ 100 millions",
+          "Environ 200 millions",
+          "Environ 320 millions",
+          "Environ 500 millions"
         ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
+        "explanation": "Environ 320 millions de personnes parlent français en 2023, sur les 5 continents. C'est la 5e langue mondiale par nombre de locuteurs natifs, mais la 2e langue apprise dans le monde après l'anglais. Les projections de l'OIF estiment qu'il pourrait y avoir 700 millions à 1 milliard de francophones d'ici 2050, portés par la croissance démographique africaine."
       },
       {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
+        "question": "Dans quelle ville l'Organisation Internationale de la Francophonie a-t-elle été fondée en 1970 ?",
         "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
+          "Paris",
+          "Dakar",
+          "Niamey (Niger)",
+          "Bruxelles"
         ],
         "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
+        "explanation": "L'OIF a été fondée le 20 mars 1970 à Niamey (Niger) — une date devenue la Journée internationale de la Francophonie. Ce n'est pas une initiative française mais une initiative des pays du Sud, portée par Senghor (Sénégal), Bourguiba (Tunisie), Sihanouk (Cambodge) et Diori (Niger). La France ne rejoint l'organisation que tardivement, en 1970 également."
       },
       {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
+        "question": "Que protège la loi Toubon de 1994 ?",
         "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
+          "Les droits d'auteur des auteurs français",
+          "L'usage obligatoire du français dans les services publics, entreprises et publicité en France",
+          "Les langues régionales françaises (breton, alsacien, occitan)",
+          "Le financement public du cinéma français"
         ],
         "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "La loi Toubon (du nom du ministre de la Culture Jacques Toubon) impose l'usage du français dans les services publics, les entreprises (communications internes et externes, offres d'emploi), la publicité et l'enseignement public. Elle vise à protéger le français face à l'anglicisation croissante. Elle est régulièrement invoquée devant les tribunaux contre des entreprises multinationales qui tiennent leurs réunions uniquement en anglais."
+      },
+      {
+        "question": "Quel diplôme officiel de français est reconnu pour les demandes de naturalisation française ?",
+        "options": [
+          "Le TOEFL",
+          "Le DELF (Diplôme d'Études en Langue Française)",
+          "Le IELTS",
+          "Le Certificat Voltaire"
+        ],
+        "correct_index": 1,
+        "explanation": "Le DELF (Diplôme d'Études en Langue Française) est le diplôme officiel du ministère français de l'Éducation nationale certifiant les niveaux A1 à B2. Il est reconnu pour les demandes de titre de séjour et de naturalisation française (niveau B1 minimum requis). Le DALF (niveaux C1 et C2) est requis pour certaines universités françaises. Ces diplômes sont passés dans 3 500 centres dans 170 pays."
+      },
+      {
+        "question": "Quelle critique les intellectuels africains comme Frantz Fanon adressent-ils à la Francophonie ?",
+        "options": [
+          "Que le français est trop difficile à apprendre pour les Africains",
+          "Que continuer à écrire en français perpétue la domination culturelle coloniale",
+          "Que l'OIF dépense trop d'argent dans ses institutions",
+          "Que le français devrait être remplacé par l'anglais en Afrique"
+        ],
+        "correct_index": 1,
+        "explanation": "Des intellectuels comme Frantz Fanon (Martiniquais), Ngũgĩ wa Thiong'o (Kényan) et d'autres ont critiqué le fait qu'écrire en langue coloniale (français, anglais) plutôt qu'en langues africaines perpétue la domination culturelle. Cette critique a stimulé une riche littérature francophone africaine (Kourouma, Mabanckou) qui s'est réapproprié le français pour en faire un outil de résistance — démontrant que la langue du colonisateur peut devenir celle de la libération."
       }
     ]
   },
   "ru": {
     "module_title": "Интеграция во Франции",
     "lesson_title": "Мировая франкофония",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Мировая франкофония. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_subtitle": "320 миллионов носителей, 5 континентов, один общий язык",
+    "intro": "Французским языком владеют 320 миллионов человек по всему миру — на 5 континентах — и это число растёт: к 2050 году демографические прогнозы указывают на 700 миллионов — 1 миллиард франкофонов, подкреплённых африканским демографическим ростом. Понять Франкофонию — её географию, историю, политическое и культурное измерение — значит понять, почему французский остаётся языком мирового влияния и почему, выучив французский во Франции, вы открываете для себя двери на всех континентах.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Мировая франкофония** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "От колониальной империи к франкоязычному сообществу",
+        "body": "Франкофония — прямая наследница **французской колониальной империи** — второй по величине в мире после британской. В XIX и начале XX века Франция колонизирует Африку к югу от Сахары, Магриб, Индокитай, Антилы, Полинезию, Новую Каледонию. Она насаждает французский язык как язык управления и образования, нередко подавляя местные языки.\n\n**Деколонизация** 1950–1960-х годов приносит политическую независимость, но французский остаётся официальным или co-официальным языком в большинстве бывших колоний — прагматически (нет другого языка, общего для всех этнических групп) и по выбору элит, получивших образование на французском. Это сохранение — одновременно богатство (доступ к мировому языковому пространству) и рана (напоминание о колониальном господстве).\n\n**Международная организация Франкофонии** (МОФ) основана в 1970 году в Ниамее (Нигер) по инициативе сенегальца Леопольда Седара Сенгора, тунисца Хабиба Бургибы, камбоджийца Нородома Сианука и нигерца Хамани Диори. Её создание — инициатива стран Юга, стремившихся выстроить активное языковое сообщество вокруг французского, а не французская инициатива. Сегодня МОФ насчитывает **93 государства-члена и наблюдателя**, её штаб-квартира находится в Париже."
       },
       {
-        "theme": "Регион",
-        "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
-      },
-      {
-        "theme": "Политика и общество",
+        "theme": "Правовая база и тексты",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Французский язык в мире: статусы и институты",
+        "body": "Французский — **официальный язык 29 стран** — больше, чем любой другой язык, за исключением английского. Он также один из рабочих языков крупнейших международных организаций:\n— **ООН**: официальный язык (один из 6)\n— **Европейский союз**: рабочий язык (один из 24)\n— **Африканский союз**: официальный язык\n— **Олимпийские игры**: официальный язык (наряду с английским)\n— **Международный суд справедливости**, **Международный уголовный суд**: официальный язык\n\nЭтот статус обеспечивает французскому значительный **дипломатический вес** — быть франкофоном открывает двери в международных инстанциях, которые один лишь английский не открывает.\n\nВо Франции **закон Тубона 1994 года** обязывает использовать французский в государственных службах, на предприятиях (внутренняя и внешняя коммуникация), в рекламе, объявлениях о работе и государственном образовании. Он регулярно применяется против использования английского на совещаниях транснациональных компаний, обосновавшихся во Франции. **Генеральная делегация по французскому языку и языкам Франции** (DGLFLF) — государственный орган, продвигающий французский и региональные языки (эльзасский, бретонский, окситанский, корсиканский...)."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Практические шаги",
+        "icon": "📋",
+        "title": "Изучать французский — во Франции и в мире",
+        "body": "**Бесплатные или доступные ресурсы для изучения французского:**\n\n— **TV5Monde** (tv5monde.com/apprendre): бесплатная платформа курсов французского по уровням (A1–C2) с тысячами упражнений на основе телепередач. Лучший бесплатный онлайн-ресурс.\n— **RFI Savoirs** (savoirs.rfi.fr): новости на простом французском, актуальные события франкоязычного мира, упражнения на понимание.\n— **Duolingo**: игровое приложение для начинающих, поддержки или совершенствования французского — 30 минут в день достаточно для прогресса.\n— **Альянс Франсез**: мировая сеть из 850 учебных центров в 132 странах — платные, но сертифицированные курсы, с возможностью сдачи дипломов DELF/DALF.\n— **Французские институты**: французские культурные центры за рубежом и во Франции — языковые курсы, медиатеки, культурные события.\n\n**Официальные дипломы по французскому:**\n— **DELF** (Диплом по изучению французского языка): уровни A1–B2 — признаётся для видов на жительство и натурализации\n— **DALF** (Углублённый диплом): уровни C1 и C2 — требуется рядом французских университетов\n— **TCF** (Тест знания французского): быстрый тест позиционирования, используется для Parcoursup и ходатайств о натурализации\n— **TEF** (Тест оценки французского): признаётся для иммиграции в Канаду (Квебек)"
       },
       {
-        "theme": "Художественная культура",
-        "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "theme": "Права и средства защиты",
+        "icon": "🛡️",
+        "title": "Франкофония перед вызовами: культурное и цифровое разнообразие",
+        "body": "Франкофония пронизана реальными противоречиями, заслуживающими откровенного обсуждения.\n\n**Доминирование английского в цифровом пространстве** — главный вызов: менее 4% контента интернета — на французском, несмотря на 320 миллионов носителей. GAFA (Google, Apple, Facebook, Amazon) и их алгоритмы созданы на английском. Инициативы существуют — **Qwant** (французский поисковик), **OVHcloud** (европейский хостинг), **суверенное облако** — но борьба неравная.\n\n**Разновидности французского** — богатство, порой порождающее напряжённость: квебекский, африканский, бельгийский французский, гаитянский креольский — всё это французский, но носители некоторых вариантов порой чувствуют себя обесцененными перед «стандартным» парижским. МОФ отстаивает принцип: «франкофоны говорят не на одинаковом французском, и это богатство».\n\n**Неоколониальный культурный критицизм** — постоянный упрёк: ряд африканских интеллектуалов (Нгуги ва Тхионго, Франц Фанон) указывают, что продолжать писать по-французски, а не на африканских языках, означает увековечивать культурное господство. **Африканская франкоязычная литература** (Ахмаду Курума, Ален Мабанку, Леонора Миано) сумела присвоить и преобразить французский в художественное оружие — доказательство того, что язык колонизатора может стать языком сопротивления.\n\n**Страны Магриба** (Марокко, Тунис, Алжир) имеют особенно двойственные отношения с французским: язык высшего образования, бизнеса и современности — но и язык колонизации. Алжир официально «арабизировал» администрацию и школу с 1962 года, но французский по-прежнему вездесущ в обществе."
       },
       {
-        "theme": "Гастрономия и социальные коды",
-        "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "theme": "Влияние на повседневную жизнь",
+        "icon": "🏠",
+        "title": "Быть франкофоном во Франции: преимущество или само собой разумеющееся?",
+        "body": "Для носителей французского из франкоязычных стран (Магриб, Африка, Бельгия, Швейцария, Квебек, Ливан...) приезд во Францию с уже усвоенным языком — значительное преимущество для интеграции — но может порождать и неожиданные трудности.\n\n**Акцент** — первый источник языковой дискриминации: исследования показывают, что магрибский или африканский акцент воспринимается негативно на собеседованиях, даже у кандидатов с безупречным французским. Бельгийский или швейцарский акцент, напротив, воспринимается положительно. Эти предубеждения бессознательны, но задокументированы — и могут оправдывать работу над произношением для подверженных такой дискриминации лиц.\n\n**Культурные различия в использовании французского** могут удивлять: во Франции французский очень прямолинеен, почти без эвфемизмов — говорят прямо, в том числе критику. Африканский французский нередко более витиеватый, образный, метафоричный. Квебекский использует совсем другие выражения. Эти вариации могут создавать коммуникативные недоразумения за пределами собственно языка.\n\n**Сеть франкоязычных связей** — реальное преимущество: во многих африканских и азиатских странах французский мгновенно устанавливает связь. Французские эмигранты пользуются этой сетью для работы и жизни за рубежом. Для франкоязычного иммигранта во Франции эта сеть может облегчить поиск работы во французских компаниях, действующих за рубежом, или в международных организациях, базирующихся в Париже."
+      },
+      {
+        "theme": "Основной словарь",
+        "icon": "📖",
+        "title": "Слова франкофонии",
+        "body": "**La Francophonie / Франкофония**: совокупность стран и народов, использующих французский как официальный, разговорный или учебный язык. 320 млн носителей, 93 государства-члена МОФ.\n\n**L'OIF / МОФ**: Международная организация Франкофонии — 93 государства-члена и наблюдателя, штаб-квартира в Париже. Основана в 1970 году в Ниамее по инициативе стран Юга.\n\n**Le DELF / DELF**: Диплом по изучению французского языка — официальный диплом Министерства образования Франции, уровни A1–B2. Признаётся для видов на жительство, натурализации, университетов.\n\n**La loi Toubon / Закон Тубона**: закон 1994 года об обязательном использовании французского в государственных службах, на предприятиях, в рекламе и образовании во Франции.\n\n**La littérature francophone / Франкоязычная литература**: литературные произведения на французском языке, создаваемые за пределами Франции (Африка, Квебек, Магриб, Антилы, Бельгия, Швейцария) — нередко более новаторские, чем метропольная литература.\n\n**Le créole / Креольский**: язык, рождённый из контакта французского с африканскими и американскими индейскими языками в колониях — распространён на Антилах, Реюньоне, в Гаити. Самостоятельный язык, признанный ЮНЕСКО."
       }
     ],
     "conseil_ami": {
       "title": "Дружеский совет 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Мировая франкофония»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**Если вы из франкоязычной страны, не считайте, что ваш французский «идеален» для французского рынка труда.** Уровни языка, регистры (официальный/неформальный), произношение и коммуникативные коды варьируются в зависимости от страны. Пребывание во Франции нередко обнаруживает неожиданные пробелы — особенно в профессиональном письменном французском (электронные письма, отчёты, презентации).\n\nВыгодное вложение: несколько часов курсов **профессионального французского** (FOS — французский для конкретных целей) в вашей области — медицинской, юридической, коммерческой, технической. Эти короткие и точечные программы могут преобразить вашу востребованность на рынке труда. Спросите в Pôle Emploi / France Travail или у оператора обучения: такие курсы нередко финансируются через **Личный счёт обучения (CPF)**."
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "La Francophonie / Франкофония",
+        "definition": "Совокупность стран и народов, использующих французский: 320 млн носителей, 93 государства-члена МОФ. К 2050 году — прогноз 700 млн–1 млрд."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "L'OIF / МОФ",
+        "definition": "Международная организация Франкофонии — 93 государства-члена и наблюдателя, штаб-квартира в Париже. Основана в 1970 году в Ниамее по инициативе стран Юга."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "Le DELF / DELF",
+        "definition": "Диплом по изучению французского (уровни A1–B2) — официальная сертификация Министерства образования Франции. Признаётся для видов на жительство, натурализации, университетов."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "La loi Toubon / Закон Тубона",
+        "definition": "Закон 1994 года об обязательном использовании французского в государственных службах, на предприятиях, в рекламе и образовании во Франции."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "La littérature francophone / Франкоязычная литература",
+        "definition": "Произведения на французском вне Франции (Африка, Квебек, Магриб, Антилы) — нередко более новаторские, чем метропольная литература."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "Le créole / Креольский",
+        "definition": "Язык, рождённый из контакта французского с африканскими/индейскими языками — распространён на Антилах, Реюньоне, в Гаити. Самостоятельный язык, признанный ЮНЕСКО."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Мировая франкофония» во Французской республике?",
+        "question": "Сколько человек говорят по-французски в мире сегодня?",
         "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
-        ],
-        "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
-      },
-      {
-        "question": "Светскость во Франции означает, что...",
-        "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
-        ],
-        "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
-      },
-      {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Около 100 миллионов",
+          "Около 200 миллионов",
+          "Около 320 миллионов",
+          "Около 500 миллионов"
         ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
+        "explanation": "По данным на 2023 год, по-французски говорят около 320 миллионов человек на 5 континентах. Это 5-й язык мира по числу носителей, но 2-й по числу изучающих после английского. МОФ прогнозирует 700 млн–1 млрд франкофонов к 2050 году благодаря демографическому росту Африки."
       },
       {
-        "question": "Членом-основателем какой международной организации является Франция?",
+        "question": "В каком городе была основана Международная организация Франкофонии в 1970 году?",
         "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
+          "Париж",
+          "Дакар",
+          "Ниамей (Нигер)",
+          "Брюссель"
         ],
         "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
+        "explanation": "МОФ была основана 20 марта 1970 года в Ниамее (Нигер) — дата стала Международным днём франкофонии. Это инициатива не Франции, а стран Юга: Сенгор (Сенегал), Бургиба (Тунис), Сианук (Камбоджа) и Диори (Нигер). Франция присоединилась к организации позднее, в том же 1970 году."
       },
       {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
+        "question": "Что защищает закон Тубона 1994 года?",
         "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
+          "Авторские права французских авторов",
+          "Обязательное использование французского в государственных службах, на предприятиях и в рекламе во Франции",
+          "Региональные языки Франции (бретонский, эльзасский, окситанский)",
+          "Государственное финансирование французского кино"
         ],
         "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "Закон Тубона (по имени министра культуры Жака Тубона) обязывает использовать французский в государственных службах, на предприятиях (внутренние и внешние коммуникации, объявления о вакансиях), в рекламе и государственном образовании. Направлен против нарастающей англицизации. Регулярно применяется в судах против транснациональных компаний, проводящих совещания исключительно на английском."
+      },
+      {
+        "question": "Какой официальный диплом по французскому признаётся для ходатайств о натурализации?",
+        "options": [
+          "TOEFL",
+          "DELF (Диплом по изучению французского)",
+          "IELTS",
+          "Сертификат Вольтера"
+        ],
+        "correct_index": 1,
+        "explanation": "DELF (Диплом по изучению французского) — официальный диплом Министерства образования Франции, удостоверяющий уровни A1–B2. Признаётся для оформления видов на жительство и ходатайств о натурализации (требуется минимум B1). DALF (уровни C1 и C2) требуется рядом французских университетов. Оба диплома сдаются в 3 500 центрах в 170 странах."
+      },
+      {
+        "question": "Какую критику выдвигают африканские интеллектуалы, как Франц Фанон, в адрес франкофонии?",
+        "options": [
+          "Французский слишком сложен для африканцев",
+          "Продолжение писать по-французски увековечивает колониальное культурное господство",
+          "МОФ тратит слишком много на свои институты",
+          "Французский в Африке следует заменить английским"
+        ],
+        "correct_index": 1,
+        "explanation": "Интеллектуалы — Франц Фанон (мартиниканец), Нгуги ва Тхионго (кениец) и другие — критиковали то, что писать на колониальном языке (французском, английском), а не на африканских, означает продолжать культурное господство. Эта критика дала импульс богатой африканской франкоязычной литературе (Курума, Мабанку), превратившей французский в орудие сопротивления — доказательство того, что язык колонизатора может стать языком освобождения."
       }
     ]
   }

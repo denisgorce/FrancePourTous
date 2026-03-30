@@ -4,275 +4,288 @@
     "lesson_id": 5,
     "module_icon": "🎬",
     "lesson_icon": "🎮",
-    "estimated_minutes": 12,
-    "difficulty": "intermédiaire",
+    "estimated_minutes": 11,
+    "difficulty": "débutant",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "SELL — Syndicat des Éditeurs de Logiciels de Loisirs",
+        "url": "https://www.sell.fr/jeux-video/essentiel-du-jeu-video"
+      },
+      {
+        "label": "Angoulême International Comics Festival",
+        "url": "https://www.bdangouleme.com"
+      },
+      {
+        "label": "BNF — La bande dessinée, patrimoine culturel",
+        "url": "https://gallica.bnf.fr/bd"
+      },
+      {
+        "label": "SNEP — Industrie musicale française",
+        "url": "https://www.snepmusique.com"
+      }
     ]
   },
   "fr": {
-    "module_title": "Cinéma, BD et Culture Pop",
+    "module_title": "Cinéma & Télévision",
     "lesson_title": "Jeux Vidéo, BD et Culture Pop",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : Jeux Vidéo, BD et Culture Pop. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "La France, puissance mondiale du jeu vidéo, berceau de la bande dessinée européenne et laboratoire de culture populaire",
+    "intro": "La France n'est pas seulement le pays de Molière et du cinéma d'auteur — c'est aussi une puissance mondiale méconnue dans des domaines de culture populaire souvent sous-estimés. Le deuxième éditeur de jeux vidéo mondial est français (Ubisoft). La bande dessinée est le «neuvième art» en France — une forme artistique respectée et subventionnée. Et la chanson française, de Piaf à Daft Punk, a inventé des sons qui ont fait le tour de la planète. Cette leçon explore ces dimensions moins académiques mais tout aussi importantes de la culture française contemporaine.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**Jeux Vidéo, BD et Culture Pop** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "La France et les jeux vidéo : une histoire de pionniers",
+        "body": "La France est une puissance mondiale du jeu vidéo — un fait souvent méconnu même des Français. Cette histoire commence dès les années **1980** avec des studios pionniers : **Infogrames** (fondée à Lyon en 1983), **Coktel Vision**, **Delphine Software** (créateurs de «Another World» en 1991, chef-d'œuvre de narration visuelle qui influence encore les game designers aujourd'hui).\n\nLe tournant majeur est la création d'**Ubisoft** par les **cinq frères Guillemot** à Carentoir (Bretagne) en **1986** — d'abord distributeur de jeux, puis développeur. Ubisoft devient l'un des plus grands éditeurs mondiaux et crée des franchises iconiques : «**Rayman**» (1995), «**Assassin's Creed**» (2007, et sa vingtaine de suites), «**Far Cry**», «**Watch Dogs**», «**Just Dance**». En 2024, Ubisoft emploie plus de **21 000 personnes** dans 55 pays.\n\nD'autres studios français ont marqué l'histoire : **Gameloft** (jeux mobiles, fondé par Michel Guillemot), **Quantic Dream** (David Cage — narrateur de jeux d'auteur : «Heavy Rain», «Detroit: Become Human»), **Eugen Systems** (jeux de stratégie militaire). La France est le **4e marché mondial** du jeu vidéo et le **2e en Europe** (derrière le Royaume-Uni). Le marché français du jeu vidéo représente plus de **5 milliards d'euros** de chiffre d'affaires annuel."
       },
       {
-        "theme": "Région",
+        "theme": "Géographie",
         "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
+        "title": "Angoulême, capitale mondiale de la bande dessinée",
+        "body": "La **bande dessinée** (BD) est en France ce qu'elle n'est nulle part ailleurs : le **9e art** — une forme d'expression artistique à part entière, enseignée dans les écoles d'art, exposée dans les musées, récompensée dans les festivals. Cette reconnaissance culturelle est unique en Europe.\n\n**Angoulême** (Charente, 100 000 habitants) est devenue malgré sa petite taille la **capitale mondiale de la bande dessinée**. Le **Festival International de la Bande Dessinée d'Angoulême** (FIBD), créé en **1974**, attire chaque année en janvier plus de **200 000 visiteurs** — c'est le deuxième festival de BD du monde (après le San Diego Comic-Con) et le premier d'Europe. Son «Grand Prix» — le prix le plus important de la BD mondiale — a été décerné à **Art Spiegelman** («Maus»), **Moebius**, **Hergé**, **Alan Moore**, **Marjane Satrapi** («Persepolis»).\n\nLa BD franco-belge a produit des œuvres universelles : **Tintin** de **Hergé** (Belge mais publié en français, traduit en 100 langues, 230 millions d'albums vendus), **Astérix** de **René Goscinny** et **Albert Uderzo** (380 millions d'albums vendus — le personnage de BD français le plus vendu au monde), **Lucky Luke**, **Gaston Lagaffe**, **Spirou et Fantasio**, **Les Schtroumpfs** (Les Schtroumpfs, belges, connus mondialement sous le nom «Smurfs»). Ces héros sont de véritables icônes culturelles partagées entre générations."
       },
       {
-        "theme": "Politique & Social",
+        "theme": "Politique",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "La politique culturelle envers la BD et le jeu vidéo",
+        "body": "La France soutient activement la BD et le jeu vidéo comme formes culturelles légitimes — une position politique cohérente avec l'«exception culturelle».\n\nPour la **bande dessinée**, le CNC finance depuis 2021 la **création de BD** via un fonds dédié. La BD bénéficie du même **taux de TVA réduit à 5,5%** que les livres — une reconnaissance de son statut culturel. Des aides régionales et des résidences d'artistes spécialisées existent dans de nombreuses villes. Le **Musée de la BD** d'Angoulême, rénové en 2023, est un équipement culturel majeur.\n\nPour le **jeu vidéo**, le **Crédit d'Impôt Jeu Vidéo (CIJV)**, créé en **2008**, permet aux studios français de récupérer 30% de leurs dépenses de développement sous forme de crédit d'impôt — à condition que le jeu ait une dimension culturelle ou créative. Ce dispositif, inspiré du CIR, a fortement contribué au maintien et au développement de l'industrie française du jeu. Des studios comme **Don't Nod** («Life is Strange», «Tell Me Why»), **Dontnod**, **Asobo Studio** ont bénéficié de ce crédit pour créer des jeux narratifs ambitieux reconnus mondialement.\n\nLe **label «Jeu vidéo culturel français»** (créé en 2024 par le CNC) vise à mettre en valeur les jeux développés en France avec une dimension artistique ou culturelle forte — une première mondiale."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Vie quotidienne",
+        "icon": "🏠",
+        "title": "La culture pop française au quotidien",
+        "body": "La culture populaire française s'exprime dans des pratiques quotidiennes très concrètes.\n\nLe **manga** a conquis la France de façon spectaculaire : la France est le **deuxième marché mondial du manga** (derrière le Japon, devant les États-Unis) avec plus de 45 millions d'albums vendus par an. Les librairies spécialisées manga, les conventions (**Japan Expo** à Paris — 250 000 visiteurs, plus grand rassemblement culturel japonais hors Asie) et les cosplays font partie du paysage culturel français contemporain. Cette «japan-mania» est un phénomène de masse, pas une niche.\n\nLes **jeux de société** connaissent un renouveau spectaculaire : la France est le **2e marché européen** avec plus de 40 millions de jeux vendus par an. Des éditeurs français comme **Asmodée** (groupe devenu le premier éditeur mondial de jeux de société avec «Ticket to Ride», «Carcassonne», «Pandémie», «Codenames») et **Repos Production** dominent le marché mondial. La culture du jeu de société, longtemps perçue comme «démodée», est devenue branchée — les cafés-jeux («ludothèques») fleurissent dans toutes les grandes villes.\n\n**YouTube et les créateurs de contenu** français ont construit une industrie culturelle significative : **Norman Fait des Vidéos**, **Cyprien**, **Squeezie** (30 millions d'abonnés), **McFly & Carlito** ont popularisé la culture internet française. Le **podcast** a explosé avec des créateurs comme **Alex Vizorek**, **Léa Salamé**, **Charline Vanhoenacker** (France Inter). La France est l'un des marchés du podcast les plus dynamiques d'Europe."
       },
       {
-        "theme": "Culture artistique",
+        "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "title": "La musique pop française : de Piaf à Daft Punk",
+        "body": "La **chanson française** est un genre musical à part entière, enraciné dans une tradition qui remonte au XIXe siècle (cabarets montmartrois, chansonniers). **Édith Piaf** (1915–1963) en est l'icône absolue : «Non, je ne regrette rien», «La Vie en rose», «L'Accordéoniste» — des chansons qui ont traversé les frontières et les décennies pour devenir des symboles de la culture française dans le monde entier.\n\nLes années 1960–1970 sont l'âge d'or de la chanson française : **Serge Gainsbourg** (provocateur, poète, scandaleux — «Je t'aime moi non plus», «La Javanaise»), **Jacques Brel** (Belge, mais figure de la chanson française par excellence — «Ne me quitte pas», «Amsterdam»), **Barbara**, **Georges Brassens**, **Françoise Hardy**, **Michel Polnareff**. Ces artistes ont inventé un art de la chanson-poème qui n'existe nulle part ailleurs.\n\nLa contribution française à la **musique électronique** mondiale est immense et sous-reconnue. **Daft Punk** (Thomas Bangalter et Guy-Manuel de Homem-Christo) — le duo fondé à Paris en 1993 — a inventé un son unique qui a influencé toute la house music, le funk électronique et la pop mondiale. «**Random Access Memories**» (2013) et ses singles «Get Lucky» et «Harder Better Faster Stronger» restent parmi les albums les plus vendus de l'histoire. Leur dissolution en 2021 a provoqué un deuil mondial. **Air**, **Justice**, **Cassius**, **Bob Sinclar**, **David Guetta** — autant d'artistes français qui ont façonné la scène électronique mondiale."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "title": "Les codes de la culture pop française : être geek ou cinéphile ?",
+        "body": "La culture pop française a ses propres **hiérarchies culturelles** qui peuvent surprendre les étrangers. En France, être passionné de jeux vidéo ou de manga peut encore être perçu avec une légère condescendance dans certains milieux — bien que cette hiérarchie soit en rapide dissolution chez les moins de 35 ans.\n\nLe terme «**geek**» (adopté de l'anglais) est devenu positif dans la culture française depuis les années 2010 : être geek signifie maintenant être passionné de technologies, de jeux vidéo, de science-fiction, de fantasy — une identité valorisée. Les «**conventions**» (Comic Con Paris, Japan Expo, Les Utopiales à Nantes pour la SF) sont des événements culturels grand public, non plus des rassemblements de niche.\n\nLa **BD** est un bon exemple de cette évolution : longtemps considérée comme de la littérature pour enfants, elle est aujourd'hui reconnue comme une forme artistique adulte depuis le succès de la «**bande dessinée pour adultes**» des années 1970 (revue «Métal Hurlant», auteurs comme Moebius, Bilal) et du roman graphique contemporain (**«Maus»** de Spiegelman, **«Persepolis»** de Satrapi — qui a été adapté en film d'animation sélectionné à Cannes). Offrir un album de BD à un adulte en France est tout à fait normal — et même valorisant si c'est une œuvre graphiquement ou narrativement ambitieuse."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à Jeux Vidéo, BD et Culture Pop :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**La culture pop est un excellent terrain de connexion sociale en France.** Si vous aimez les jeux vidéo, les mangas ou la BD, vous trouverez facilement des communautés passionnées prêtes à vous accueillir — les barrières sociales tombent facilement autour d'une passion commune.\n\n**Pour apprendre le français via la culture pop :**\n- Les **mangas en français** (disponibles dans toutes les librairies) permettent d'apprendre le vocabulaire courant dans des contextes vivants\n- Les **podcasts français** (France Inter, Binge Audio, Nouvelles Écoutes) offrent un français oral naturel sur des sujets variés\n- Les **jeux vidéo en langue française** — mettez vos jeux en français ! La plupart des jeux AAA sont entièrement traduits et doublés en français (souvent de très haute qualité)\n- **Astérix** : lire un album en français est un excellent exercice — les jeux de mots, les anachronismes et les références culturelles sont une mine d'apprentissage\n\n**Cadeau culturel sûr pour un Français** : un album Astérix ou Tintin (pour un adulte nostalgique), un album de la nouvelle génération de BD franco-belge (Enki Bilal, Manu Larcenet, Riad Sattouf), ou les vinyles de Daft Punk ou Gainsbourg. Ces cadeaux traversent les classes sociales et les générations."
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
+        "term": "La bande dessinée (BD)",
+        "definition": "Forme artistique narrative combinant texte et images séquentielles — considérée en France comme le «9e art», enseignée dans les écoles d'art et célébrée au Festival d'Angoulême chaque janvier."
       },
       {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
+        "term": "Ubisoft",
+        "definition": "Entreprise française de jeux vidéo fondée en 1986 par les frères Guillemot en Bretagne — deuxième éditeur mondial de jeux vidéo, créateur d'Assassin's Creed, Far Cry, Rayman, Just Dance, emploie 21 000 personnes dans 55 pays."
       },
       {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "term": "Le FIBD d'Angoulême",
+        "definition": "Festival International de la Bande Dessinée d'Angoulême — créé en 1974, premier festival européen et deuxième mondial de BD (200 000 visiteurs en janvier), décerne le «Grand Prix» le plus important de la BD mondiale."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "Astérix",
+        "definition": "Personnage de BD créé par René Goscinny et Albert Uderzo en 1959 — 380 millions d'albums vendus dans le monde, personnage de BD français le plus populaire, parodie humoristique de la Gaule romaine et de la culture française."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
+        "term": "Daft Punk",
+        "definition": "Duo de musique électronique français (Thomas Bangalter et Guy-Manuel de Homem-Christo), fondé à Paris en 1993, dissous en 2021 — auteurs de «Around the World», «Get Lucky», «Harder Better Faster Stronger», révolution mondiale de la house et du funk électronique."
       },
       {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "Le CIJV",
+        "definition": "Crédit d'Impôt Jeu Vidéo — dispositif fiscal français (2008) remboursant 30% des dépenses de développement aux studios créant des jeux à dimension culturelle, ayant fortement contribué au maintien de l'industrie française du jeu."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «Jeux Vidéo, BD et Culture Pop» dans la République française ?",
+        "question": "Quel est le studio de jeux vidéo français le plus connu, créateur d'Assassin's Creed ?",
         "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
-        ],
-        "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
-      },
-      {
-        "question": "En France, la laïcité signifie que...",
-        "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
-        ],
-        "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
-      },
-      {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Gameloft",
+          "Quantic Dream",
+          "Ubisoft",
+          "Infogrames"
         ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
+        "explanation": "Ubisoft, fondé en 1986 par les cinq frères Guillemot à Carentoir (Bretagne), est le studio de jeux vidéo français le plus connu au monde. Deuxième éditeur mondial de jeux vidéo, il a créé des franchises iconiques comme Assassin's Creed, Far Cry, Rayman, Watch Dogs et Just Dance, et emploie 21 000 personnes dans 55 pays."
       },
       {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
+        "question": "Quelle ville française est la capitale mondiale de la bande dessinée ?",
         "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
+          "Paris",
+          "Lyon",
+          "Angoulême",
+          "Bruxelles"
         ],
         "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
+        "explanation": "Angoulême (Charente) est la capitale mondiale de la bande dessinée grâce au Festival International de la Bande Dessinée (FIBD), créé en 1974. Ce festival attire chaque janvier plus de 200 000 visiteurs et décerne le «Grand Prix» — la récompense la plus importante de la BD mondiale. La ville abrite également le Musée de la BD."
       },
       {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
+        "question": "Quel personnage de BD français a vendu le plus d'albums dans le monde ?",
         "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
+          "Tintin (Hergé)",
+          "Astérix (Goscinny et Uderzo)",
+          "Lucky Luke (Morris)",
+          "Gaston Lagaffe (Franquin)"
         ],
         "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "Astérix, créé par René Goscinny et Albert Uderzo en 1959, est le personnage de BD franco-belge le plus vendu au monde avec 380 millions d'albums dans 111 langues. Tintin suit avec 230 millions. Astérix est une parodie humoristique de la résistance gauloise aux Romains — ses jeux de mots, ses anachronismes et ses références culturelles en font un trésor de culture française."
+      },
+      {
+        "question": "Quel duo musical français a révolutionné la musique électronique mondiale ?",
+        "options": [
+          "Air",
+          "Justice",
+          "Daft Punk",
+          "Bob Sinclar"
+        ],
+        "correct_index": 2,
+        "explanation": "Daft Punk (Thomas Bangalter et Guy-Manuel de Homem-Christo), fondé à Paris en 1993 et dissous en 2021, est le duo électronique le plus influent de l'histoire. Leurs albums «Homework» (1997), «Discovery» (2001) et «Random Access Memories» (2013) ont révolutionné la house music, le funk électronique et la pop mondiale. «Get Lucky» (2013) reste l'une des chansons les plus diffusées de l'histoire."
+      },
+      {
+        "question": "La France est le deuxième marché mondial de quelle forme de culture japonaise ?",
+        "options": [
+          "Les films d'animation (anime) en salle",
+          "Les mangas (bandes dessinées japonaises)",
+          "Les jeux vidéo japonais (Nintendo, Sony)",
+          "La musique J-pop"
+        ],
+        "correct_index": 1,
+        "explanation": "La France est le deuxième marché mondial du manga (bande dessinée japonaise), derrière le Japon et devant les États-Unis, avec plus de 45 millions d'albums vendus par an. La Japan Expo à Paris réunit 250 000 visiteurs chaque année — plus grand rassemblement culturel japonais hors d'Asie. Cette «japan-mania» française est un phénomène de masse unique en Europe."
       }
     ]
   },
   "ru": {
-    "module_title": "Кино, комиксы и поп-культура",
+    "module_title": "Кино и телевидение",
     "lesson_title": "Видеоигры, комиксы и поп-культура",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Видеоигры, комиксы и поп-культура. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_subtitle": "Франция — мировая держава в области видеоигр, колыбель европейских комиксов и лаборатория массовой культуры",
+    "intro": "Франция — не только страна Мольера и авторского кино. Это и недооценённая мировая держава в областях массовой культуры, которые принято недооценивать. Второй мировой издатель видеоигр — французский (Ubisoft). Комикс — «девятое искусство» во Франции, признанная и субсидируемая художественная форма. А французская песня — от Пиаф до Daft Punk — изобрела звуки, объехавшие планету. Этот урок исследует менее академические, но не менее важные измерения современной французской культуры.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Видеоигры, комиксы и поп-культура** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "Франция и видеоигры: история первопроходцев",
+        "body": "Франция — мировая держава в области видеоигр, что нередко неизвестно даже самим французам. Эта история начинается с **1980-х годов** с пионерскими студиями: **Infogrames** (основана в Лионе в 1983 году), **Coktel Vision**, **Delphine Software** (создатели «Another World» в 1991 году — шедевра визуального сторителлинга, по сей день влияющего на геймдизайнеров).\n\nКлючевой поворот — создание **Ubisoft** **пятью братьями Гийемо** в Каранти (Бретань) в **1986 году**: сначала дистрибьютор игр, затем разработчик. Ubisoft становится одним из крупнейших мировых издателей и создаёт культовые франшизы: «**Rayman**» (1995), «**Assassin's Creed**» (2007 и около двадцати сиквелов), «**Far Cry**», «**Watch Dogs**», «**Just Dance**». В 2024 году Ubisoft насчитывает более **21 000 сотрудников** в 55 странах.\n\nДругие французские студии оставили след в истории: **Gameloft** (мобильные игры, основана Мишелем Гийемо), **Quantic Dream** (Давид Кейдж — автор нарративных игр: «Heavy Rain», «Detroit: Become Human»), **Eugen Systems** (военные стратегии). Франция — **4-й мировой рынок** видеоигр и **2-й в Европе** (после Великобритании). Французский рынок видеоигр составляет более **5 миллиардов евро** годового оборота."
       },
       {
-        "theme": "Регион",
+        "theme": "География",
         "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
+        "title": "Ангулем — мировая столица комиксов",
+        "body": "**Bande dessinée** (BD, комикс) во Франции — то, чем она не является нигде в мире: **9-е искусство** — самостоятельная художественная форма, преподаваемая в художественных школах, экспонируемая в музеях, отмечаемая на фестивалях. Это культурное признание уникально в Европе.\n\n**Ангулем** (Шаранта, 100 000 жителей) вопреки своим скромным размерам стал **мировой столицей комикса**. **Международный фестиваль комикса в Ангулеме** (FIBD), основанный в **1974 году**, ежегодно в январе привлекает более **200 000 посетителей** — это второй фестиваль комикса в мире (после San Diego Comic-Con) и первый в Европе. Его «Гран-при» — важнейшая награда мирового комикса — вручался **Арту Шпигельману** («Маус»), **Мёбиусу**, **Эрже**, **Алану Муру**, **Маржан Сатрапи** («Персеполис»).\n\nФранко-бельгийский комикс создал универсальные произведения: **Тантан** **Эрже** (бельгиец, но публиковавшийся на французском, переведён на 100 языков, 230 миллионов проданных альбомов), **Астерикс** **Рене Госинни** и **Альбера Удерзо** (380 миллионов альбомов — самый продаваемый в мире французский комикс-персонаж), **Слоу Форт**, **Гастон Лагафф**, **Spirou и Фантазио**, **Смурфы** (Schtroumpfs, бельгийцы, известные в мире как Smurfs). Эти герои — настоящие культурные иконы, объединяющие поколения."
       },
       {
-        "theme": "Политика и общество",
+        "theme": "Политика",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Культурная политика в отношении комиксов и видеоигр",
+        "body": "Франция активно поддерживает комикс и видеоигры как законные культурные формы — позиция, последовательная в духе «культурного исключения».\n\nДля **комикса** CNC с 2021 года финансирует **создание BD** через специальный фонд. Комиксы пользуются той же **пониженной ставкой НДС в 5,5%**, что и книги, — признание их культурного статуса. Региональные субсидии и специализированные творческие резиденции существуют во многих городах. **Музей комикса** в Ангулеме, отреставрированный в 2023 году, — значимое культурное учреждение.\n\nДля **видеоигр** **Налоговый кредит на видеоигры (CIJV)**, введённый в **2008 году**, позволяет французским студиям возвращать 30% расходов на разработку в форме налогового кредита — при условии культурного или творческого измерения игры. Этот механизм, вдохновлённый CIR, существенно способствовал сохранению и развитию французской игровой индустрии. Студии вроде **Don't Nod** («Life is Strange», «Tell Me Why»), **Asobo Studio** воспользовались этим кредитом для создания амбициозных нарративных игр, признанных во всём мире.\n\n**Знак «Французская культурная видеоигра»** (введён в 2024 году CNC) призван выделять игры, разработанные во Франции с сильным художественным или культурным измерением, — мировая первая."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Повседневная жизнь",
+        "icon": "🏠",
+        "title": "Французская поп-культура в повседневной жизни",
+        "body": "Популярная французская культура выражается в очень конкретных повседневных практиках.\n\n**Манга** завоевала Францию поразительным образом: Франция — **второй мировой рынок манги** (после Японии, опережая США) с более 45 миллионов проданных альбомов в год. Специализированные магазины манги, конвенции (**Japan Expo** в Париже — 250 000 посетителей, крупнейшее культурное японское мероприятие за пределами Азии) и косплей стали частью современного французского культурного ландшафта. Эта «япономания» — массовое явление, а не нишевое.\n\n**Настольные игры** переживают впечатляющее возрождение: Франция — **2-й европейский рынок** с более 40 миллионов проданных игр в год. Французские издатели как **Asmodée** (группа, ставшая первым мировым издателем настольных игр с «Ticket to Ride», «Каркассон», «Пандемия», «Кодовые имена») и **Repos Production** доминируют на мировом рынке. Культура настольных игр, долгое время воспринимавшаяся как «устаревшая», стала модной — кафе-игры («ludothèques») расцветают во всех крупных городах.\n\n**YouTube и французские контент-мейкеры** выстроили значимую культурную индустрию: **Norman Fait des Vidéos**, **Cyprien**, **Squeezie** (30 миллионов подписчиков), **McFly & Carlito** популяризировали французскую интернет-культуру. **Подкасты** резко выросли с такими создателями, как **Алекс Визорек**, **Леа Салам**, **Шарлин Ванунакер** (France Inter). Франция — один из самых динамичных рынков подкастов в Европе."
       },
       {
-        "theme": "Художественная культура",
+        "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "title": "Французская поп-музыка: от Пиаф до Daft Punk",
+        "body": "**Французская песня** (chanson française) — самостоятельный музыкальный жанр, уходящий корнями в традицию XIX века (кабаре Монмартра, шансонье). **Эдит Пиаф** (1915–1963) — её абсолютная икона: «Non, je ne regrette rien», «La Vie en rose», «L'Accordéoniste» — песни, пересекшие границы и десятилетия, чтобы стать символами французской культуры в мире.\n\n1960–1970-е годы — золотой век французской песни: **Серж Гензбур** (провокатор, поэт, скандальный — «Je t'aime moi non plus», «La Javanaise»), **Жак Брель** (бельгиец, но образцовая фигура французской песни — «Ne me quitte pas», «Amsterdam»), **Барбара**, **Жорж Брассанс**, **Франсуаза Арди**, **Мишель Польнарев**. Эти художники изобрели искусство песни-стихотворения, которого нет больше нигде.\n\nФранцузский вклад в **мировую электронную музыку** огромен и недооценён. **Daft Punk** (Тома Бангальтер и Ги-Мануэль де Омем-Кристо) — дуэт, основанный в Париже в 1993 году, — изобрёл уникальный звук, повлиявший на всю хаус-музыку, электро-фанк и мировую поп-музыку. «**Random Access Memories**» (2013) с синглами «Get Lucky» и «Harder Better Faster Stronger» остаётся одним из самых продаваемых альбомов в истории. Их распад в 2021 году вызвал мировой траур. **Air**, **Justice**, **Cassius**, **Bob Sinclar**, **David Guetta** — французские артисты, формировавшие мировую электронную сцену."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "title": "Коды французской поп-культуры: гик или синефил?",
+        "body": "Французская поп-культура имеет собственные **культурные иерархии**, способные удивить иностранцев. Во Франции увлечение видеоиграми или мангой может ещё встречать лёгкое снисхождение в определённых кругах — хотя эта иерархия стремительно рушится среди молодёжи до 35 лет.\n\nСлово «**geek**» (заимствованное из английского) приобрело позитивную коннотацию во французской культуре с 2010-х годов: быть гиком теперь означает увлекаться технологиями, видеоиграми, научной фантастикой, фэнтези — ценимая идентичность. **Конвенции** (Comic Con Paris, Japan Expo, Les Utopiales в Нанте для научной фантастики) — широкая публичная культура, а не нишевые тусовки.\n\n**Комикс** — хороший пример этой эволюции: долгое время считавшийся детской литературой, он сегодня признан самостоятельной художественной формой для взрослых — с успехом «**взрослого комикса**» 1970-х (журнал «Métal Hurlant», авторы вроде Мёбиуса, Билаля) и современного графического романа (**«Маус»** Шпигельмана, **«Персеполис»** Сатрапи — адаптированного в мультфильм, отобранный в Канны). Подарить взрослому альбом комиксов во Франции совершенно нормально — и даже престижно, если это графически или нарративно амбициозная работа."
       }
     ],
     "conseil_ami": {
       "title": "Дружеский совет 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Видеоигры, комиксы и поп-культура»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**Поп-культура — отличная почва для социальных связей во Франции.** Если вы увлекаетесь видеоиграми, мангой или комиксами, вы легко найдёте сообщества страстных людей, готовых вас принять — социальные барьеры легко падают вокруг общего увлечения.\n\n**Изучать французский через поп-культуру:**\n- **Манга на французском** (доступна в любом книжном) — учит повседневной лексике в живых контекстах\n- **Французские подкасты** (France Inter, Binge Audio, Nouvelles Écoutes) — естественный разговорный французский на разные темы\n- **Видеоигры на французском** — переключите игры на французский! Большинство крупных игр полностью переведены и озвучены на французском (часто очень высокого качества)\n- **Астерикс**: читать альбом по-французски — отличное упражнение. Игра слов, анахронизмы и культурные отсылки — настоящее учебное сокровище\n\n**Беспроигрышный культурный подарок французу**: альбом Астерикса или Тантана (для ностальгирующего взрослого), альбом нового поколения франко-бельгийских комиксов (Энки Билаль, Ману Ларсне, Риад Саттуф) или винил Daft Punk или Генсбура. Эти подарки работают вне зависимости от социального положения и поколения."
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "Bande dessinée (BD) / Комикс",
+        "definition": "Нарративная художественная форма, сочетающая текст и последовательные изображения — во Франции признана «девятым искусством», преподаётся в художественных школах и чествуется на фестивале в Ангулеме каждый январь."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "Ubisoft",
+        "definition": "Французская компания по разработке видеоигр, основанная в 1986 году братьями Гийемо в Бретани — второй мировой издатель видеоигр, создатель Assassin's Creed, Far Cry, Rayman, Just Dance, 21 000 сотрудников в 55 странах."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "FIBD в Ангулеме",
+        "definition": "Международный фестиваль комикса в Ангулеме — основан в 1974 году, первый европейский и второй мировой фестиваль комикса (200 000 посетителей в январе), вручает «Гран-при» — важнейшую мировую награду в области комикса."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "Астерикс / Astérix",
+        "definition": "Персонаж комикса, созданный Рене Госинни и Альбером Удерзо в 1959 году — 380 миллионов проданных альбомов по всему миру, самый популярный французский комикс-персонаж, юмористическая пародия на галльское сопротивление Риму и французскую культуру."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "Daft Punk",
+        "definition": "Французский электронный дуэт (Тома Бангальтер и Ги-Мануэль де Омем-Кристо), основан в Париже в 1993 году, распался в 2021-м — авторы «Around the World», «Get Lucky», «Harder Better Faster Stronger», мировая революция хаус-музыки и электро-фанка."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "CIJV — Налоговый кредит на видеоигры",
+        "definition": "Французский налоговый механизм (2008), возвращающий 30% расходов на разработку студиям, создающим игры с культурным измерением — существенно способствовал сохранению французской игровой индустрии."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Видеоигры, комиксы и поп-культура» во Французской республике?",
+        "question": "Какая известная французская студия видеоигр создала серию Assassin's Creed?",
         "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
-        ],
-        "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
-      },
-      {
-        "question": "Светскость во Франции означает, что...",
-        "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
-        ],
-        "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
-      },
-      {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Gameloft",
+          "Quantic Dream",
+          "Ubisoft",
+          "Infogrames"
         ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
+        "explanation": "Ubisoft, основанная в 1986 году пятью братьями Гийемо в Каранти (Бретань) — самая известная в мире французская студия видеоигр. Второй мировой издатель, она создала культовые франшизы: Assassin's Creed, Far Cry, Rayman, Watch Dogs и Just Dance, насчитывает 21 000 сотрудников в 55 странах."
       },
       {
-        "question": "Членом-основателем какой международной организации является Франция?",
+        "question": "Какой французский город является мировой столицей комикса?",
         "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
+          "Париж",
+          "Лион",
+          "Ангулем",
+          "Брюссель"
         ],
         "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
+        "explanation": "Ангулем (Шаранта) является мировой столицей комикса благодаря Международному фестивалю комикса (FIBD), основанному в 1974 году. Фестиваль ежегодно в январе привлекает более 200 000 посетителей и вручает «Гран-при» — важнейшую мировую награду в области комикса. В городе также находится Музей комикса."
       },
       {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
+        "question": "Какой французский комикс-персонаж продал больше всего альбомов в мире?",
         "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
+          "Тантан (Эрже)",
+          "Астерикс (Госинни и Удерзо)",
+          "Слоу Форт (Моррис)",
+          "Гастон Лагафф (Франкен)"
         ],
         "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "Астерикс, созданный Рене Госинни и Альбером Удерзо в 1959 году — самый продаваемый в мире франко-бельгийский комикс-персонаж с 380 миллионами альбомов на 111 языках. Тантан на втором месте с 230 миллионами. Астерикс — юмористическая пародия на галльское сопротивление римлянам, игра слов, анахронизмы и культурные отсылки делают его сокровищницей французской культуры."
+      },
+      {
+        "question": "Какой французский музыкальный дуэт произвёл революцию в мировой электронной музыке?",
+        "options": [
+          "Air",
+          "Justice",
+          "Daft Punk",
+          "Bob Sinclar"
+        ],
+        "correct_index": 2,
+        "explanation": "Daft Punk (Тома Бангальтер и Ги-Мануэль де Омем-Кристо), основан в Париже в 1993 году, распался в 2021-м — самый влиятельный электронный дуэт в истории. Их альбомы «Homework» (1997), «Discovery» (2001) и «Random Access Memories» (2013) революционизировали хаус-музыку, электро-фанк и мировую поп-музыку. «Get Lucky» (2013) остаётся одной из самых транслируемых песен в истории."
+      },
+      {
+        "question": "Франция является вторым мировым рынком какой формы японской культуры?",
+        "options": [
+          "Анимационные фильмы (аниме) в кинозалах",
+          "Манга (японские комиксы)",
+          "Японские видеоигры (Nintendo, Sony)",
+          "Музыка J-pop"
+        ],
+        "correct_index": 1,
+        "explanation": "Франция — второй мировой рынок манги (японского комикса) после Японии и опережает США — более 45 миллионов продаваемых альбомов в год. Japan Expo в Париже собирает 250 000 посетителей ежегодно — крупнейшее культурное японское мероприятие за пределами Азии. Эта французская «япономания» — массовое явление, уникальное в Европе."
       }
     ]
   }

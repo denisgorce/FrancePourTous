@@ -3,276 +3,269 @@
     "module_id": 5,
     "lesson_id": 1,
     "module_icon": "💼",
-    "lesson_icon": "📋",
+    "lesson_icon": "🔍",
     "estimated_minutes": 12,
     "difficulty": "intermédiaire",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "France Travail (ex-Pôle Emploi) — Chercher un emploi",
+        "url": "https://www.francetravail.fr/candidat/chercher-un-emploi.html"
+      },
+      {
+        "label": "Service-public.fr — Droits du demandeur d'emploi",
+        "url": "https://www.service-public.fr/particuliers/vosdroits/N549"
+      },
+      {
+        "label": "APEC — Cadres et recrutement",
+        "url": "https://www.apec.fr"
+      },
+      {
+        "label": "INSEE — Marché du travail en France",
+        "url": "https://www.insee.fr/fr/statistiques/marche-travail"
+      }
     ]
   },
   "fr": {
-    "module_title": "Travailler et Entreprendre",
+    "module_title": "Travailler en France",
     "lesson_title": "Trouver et Décrocher un Emploi",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : Trouver et Décrocher un Emploi. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "CV, lettre de motivation, entretien : les codes du recrutement à la française",
+    "intro": "Trouver un emploi en France est un processus codifié qui obéit à des règles culturelles très précises — et très différentes de ce qu'on trouve dans d'autres pays. Le CV français a un format attendu. La lettre de motivation est un exercice littéraire à part entière. L'entretien d'embauche est un rituel de séduction professionnelle qui valorise l'éloquence autant que la compétence. Comprendre ces codes, c'est se donner une vraie chance sur un marché du travail qui reste l'un des plus protégés d'Europe.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**Trouver et Décrocher un Emploi** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "Du livret ouvrier au CDI : histoire du travail en France",
+        "body": "Le rapport au travail en France est profondément marqué par l'histoire ouvrière. Au XIXe siècle, les ouvriers devaient porter un **livret ouvrier** — document contrôlé par les patrons, sans lequel il était impossible de changer d'employeur. Ce symbole de servitude industrielle est aboli en **1890**.\n\nLe **Front Populaire** de **1936** (gouvernement Léon Blum) arrache aux patrons deux conquêtes majeures qui structurent encore le travail français : les **congés payés** (2 semaines, portées depuis à 5) et la **semaine de 40 heures**. Ces acquis, obtenus après des grèves massives, sont vécus comme des victoires historiques — et toute tentative de les remettre en cause provoque encore aujourd'hui des mobilisations sociales intenses.\n\nLe **Code du travail** français, né en 1910 et régulièrement enrichi, est l'un des plus volumineux du monde (plus de 3 500 articles). Il encadre quasi intégralement la relation entre employeur et salarié : durée du travail, salaire minimum, conditions de licenciement, représentation syndicale. Cette protection très forte du salarié est une fierté nationale — et une source de tensions permanentes avec les employeurs, qui la jugent parfois dissuasive à l'embauche."
       },
       {
-        "theme": "Région",
+        "theme": "Géographie",
         "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
+        "title": "Les bassins d'emploi en France",
+        "body": "Le marché de l'emploi français est géographiquement très inégal. L'**Île-de-France** concentre environ **30% des emplois** du secteur privé national pour seulement 18% de la population. Paris et sa région sont le moteur économique incontesté : sièges sociaux des grandes entreprises, institutions financières, médias, consultants. Pour les cadres et les professions libérales, Paris est quasi incontournable.\n\nLes grandes métropoles régionales ont cependant développé des spécialisations fortes : **Toulouse** pour l'aéronautique et le spatial, **Lyon** pour la chimie/pharmacie et la gastronomie, **Bordeaux** pour la vitiviniculture et le numérique, **Grenoble** pour la haute technologie et les semi-conducteurs, **Sophia Antipolis** (Côte d'Azur) pour les technologies de l'information.\n\nLe **taux de chômage** national est d'environ **7,3%** en 2024 — un des plus bas depuis 40 ans, mais avec de très forts contrastes : il atteint 20% chez les jeunes de moins de 25 ans, dépasse 15% dans certains départements du Nord et de l'Outre-Mer. La **fracture numérique** et la **mobilité géographique** sont des facteurs déterminants : un chômeur du Havre ne trouvera pas facilement un emploi à Toulouse s'il ne peut pas déménager."
       },
       {
-        "theme": "Politique & Social",
+        "theme": "Politique",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "Le service public de l'emploi et la réforme France Travail",
+        "body": "Le service public de l'emploi a connu une refonte majeure en **2024** : **Pôle Emploi** est devenu **France Travail**, avec une ambition élargie — non plus seulement accompagner les chômeurs inscrits, mais suivre l'ensemble des personnes éloignées de l'emploi (allocataires du RSA, personnes handicapées, jeunes sans qualification). Cette réforme, controversée, vise à atteindre le **plein emploi** (taux de chômage sous 5%) d'ici 2027.\n\nLes **allocations chômage** (ARE — Allocation d'aide au Retour à l'Emploi) sont versées par **l'Unédic** (organisme paritaire géré par syndicats et patronat). En 2024, elles représentent environ **57% du salaire brut précédent**, versées pendant une durée variable selon l'ancienneté (6 mois minimum, 24 mois maximum en général, 36 mois pour les plus de 53 ans). La réforme de **2023** a instauré un système de **contracyclicalité** : la durée d'indemnisation est modulée selon le taux de chômage national — plus le chômage est bas, plus la durée d'indemnisation est courte, pour inciter à reprendre un emploi plus rapidement.\n\nL'**apprentissage** a explosé ces dernières années : de 300 000 apprentis en 2018 à plus de **1 million** en 2024, grâce à des aides massives aux entreprises. Cette révolution silencieuse a transformé l'image de l'apprentissage — longtemps considéré comme une voie de relégation sociale — en alternative valorisée aux filières générales."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Vie quotidienne",
+        "icon": "🏠",
+        "title": "Le CV, la lettre de motivation et l'entretien à la française",
+        "body": "Le **CV français** obéit à des normes précises. Il tient sur **une page** (maximum deux pour les profils expérimentés), est rédigé en français soigné, et comporte : état civil (nom, prénom, date de naissance — contrairement aux CV anglophones où la date de naissance est exclue), coordonnées, photo (attendue dans la plupart des secteurs, contrairement aux pratiques anglo-saxonnes), formation (en ordre antéchronologique), expériences professionnelles (idem), compétences et langues. Le design doit être sobre et professionnel — les CV trop colorés ou créatifs peuvent dérouter les recruteurs traditionnels.\n\nLa **lettre de motivation** est un exercice très français : un texte d'environ 300–400 mots, structuré en trois paragraphes (pourquoi cette entreprise, pourquoi ce poste, pourquoi moi), rédigé dans un français élégant. En France, la qualité de l'écriture est un signal fort — une lettre avec des fautes d'orthographe est éliminatoire dans la plupart des secteurs. Pour un étranger, faire corriger sa lettre par un natif est quasi indispensable.\n\nL'**entretien d'embauche** valorise l'expression orale, la capacité à argumenter et la «posture» — cette façon de se tenir, de regarder son interlocuteur, de maîtriser le langage corporel. En France, on attend du candidat qu'il se vende sans paraître arrogant — un équilibre délicat. Les questions illégales (religion, situation familiale, origine ethnique) existent malgré leur interdiction — un candidat peut poliment refuser d'y répondre sans que cela soit mal perçu."
       },
       {
-        "theme": "Culture artistique",
+        "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "title": "Le rapport des Français au travail : ambivalence et fierté",
+        "body": "La culture française du travail est profondément **ambivalente**. D'un côté, les Français travaillent relativement peu en heures (35h légales, 5 semaines de congés) et revendiquent le droit à la vie privée, aux loisirs, à la famille. De l'autre, la **valeur travail** reste centrale : avoir un bon métier, une carrière, un statut est essentiel à l'identité sociale française. Un Français sans emploi se sent souvent dévalorisé — le chômage reste un stigmate, même si les allocations protègent matériellement.\n\nLe **diplôme** occupe une place considérable dans la culture du travail français. Les **Grandes Écoles** (Polytechnique, ENA/INSP, HEC, Sciences Po) forment une élite qui accède aux postes dirigeants des entreprises et de l'État — un système méritocratique mais très élitiste, parfois accusé de reproduire les inégalités sociales. Le diplôme de l'école fréquentée peut rester déterminant 30 ans après l'obtention.\n\nLe **réseau** est fondamental dans le recrutement français. On estime que **60 à 70% des postes sont pourvus sans offre publiée** — par cooptation, recommandation, relations personnelles. Pour un étranger sans réseau, c'est le principal obstacle. Les réseaux professionnels comme **LinkedIn** ont partiellement démocratisé l'accès à ces réseaux informels — mais les dîners, les associations d'anciens élèves et les clubs professionnels restent des vecteurs de recrutement majeurs."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "title": "Le déjeuner d'affaires et les codes professionnels à table",
+        "body": "Le **déjeuner d'affaires** est une institution française. Contrairement aux cultures anglosaxonnes où les repas d'affaires sont souvent des petits-déjeuners rapides ou des sandwichs de travail, en France un repas d'affaires dure **1h30 à 2h** et comprend généralement une entrée, un plat, un dessert et — de plus en plus rarement — un verre de vin. Ce temps long est vécu non pas comme du temps perdu mais comme un investissement relationnel : on ne signe pas un contrat sans d'abord «se connaître» autour d'une table.\n\nLes **codes à respecter** lors d'un repas professionnel : ne pas commander le plat le plus cher de la carte, mais ne pas non plus choisir le moins cher (ce serait malaise). Attendre que son hôte commande avant soi. Ne pas parler d'argent trop directement — en France, les négociations salariales ou commerciales se font rarement à table ; la table est le lieu de la relation, pas de la transaction. Ne pas consulter son téléphone.\n\n**Pour les étrangers cherchant un emploi en France** : soigner particulièrement le **français écrit** (le moindre SMS professionnel avec des fautes est remarqué négativement), s'habiller sobrement mais soigneusement pour les entretiens (le costume-cravate n'est plus systématique dans les start-ups, mais reste la norme dans la banque, le droit, le conseil), et être préparé à des entretiens longs — il n'est pas rare d'avoir 3 à 5 entretiens pour un même poste dans une grande entreprise française."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à Trouver et Décrocher un Emploi :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**Pour un Russe qui cherche un emploi en France, le principal obstacle n'est généralement pas la compétence technique — c'est la maîtrise du français écrit et oral à un niveau professionnel.** Les recruteurs français sont très sensibles à la qualité de la langue, et un accent étranger fort peut inconsciemment jouer en défaveur d'un candidat — même si la discrimination à l'embauche est illégale.\n\n**Conseil pratique n°1** : investissez dans votre niveau de français avant de postuler. Le niveau **B2 du CECRL** est le minimum pour être crédible dans la plupart des secteurs. Le niveau **C1** ouvre les portes des entreprises exigeantes.\n\n**Conseil pratique n°2** : faites valider votre diplôme étranger. Le site **ENIC-NARIC France** (enic-naric.net) permet d'obtenir une attestation de comparabilité de votre diplôme avec le système français — document précieux à joindre à votre candidature.\n\n**Conseil pratique n°3** : ne sous-estimez pas les **associations de la diaspora russe** et les réseaux franco-russes (CCI Franco-Russe, associations culturelles) comme sources de mise en réseau professionnel. Même en période de tensions diplomatiques, des professionnels bilingues russo-français restent très recherchés dans certains secteurs (luxe, tourisme, finance, technologie)."
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
+        "term": "Le CDI",
+        "definition": "Contrat à Durée Indéterminée — le contrat de travail standard en France, sans date de fin, qui ne peut être rompu que par démission, licenciement ou rupture conventionnelle."
       },
       {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
+        "term": "Le CDD",
+        "definition": "Contrat à Durée Déterminée — contrat temporaire avec une date de fin fixée, limité à 18 mois renouvelable une fois, réservé à des besoins précis et non permanents."
+      },
+      {
+        "term": "France Travail",
+        "definition": "Opérateur public de l'emploi (ex-Pôle Emploi, rebaptisé en 2024) chargé d'accompagner les demandeurs d'emploi et de verser les allocations chômage."
       },
       {
         "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "definition": "Salaire Minimum Interprofessionnel de Croissance — salaire horaire légal minimum (environ 11,65€ brut en 2024), révisé au 1er janvier chaque année et lors de hausses importantes de l'inflation."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "Les Grandes Écoles",
+        "definition": "Établissements d'enseignement supérieur d'excellence sélectifs (Polytechnique, HEC, Sciences Po, ENA/INSP...) formant les élites dirigeantes de la France — leur diplôme reste un passeport social déterminant."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
-      },
-      {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "La rupture conventionnelle",
+        "definition": "Mode de rupture amiable du CDI entre employeur et salarié, créé en 2008 — permet au salarié de toucher les allocations chômage, contrairement à la démission."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «Trouver et Décrocher un Emploi» dans la République française ?",
+        "question": "Quel gouvernement a instauré les congés payés en France en 1936 ?",
         "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
+          "Le gouvernement de Charles de Gaulle",
+          "Le gouvernement du Front Populaire de Léon Blum",
+          "Le gouvernement de Georges Pompidou",
+          "Le gouvernement de François Mitterrand"
         ],
         "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
+        "explanation": "Le Front Populaire, gouvernement de coalition de gauche dirigé par Léon Blum, a instauré les congés payés (2 semaines) et la semaine de 40 heures en juin 1936, à la suite de grèves massives. Ces acquis sociaux, négociés dans les accords Matignon, restent des symboles fondateurs du droit du travail français."
       },
       {
-        "question": "En France, la laïcité signifie que...",
-        "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
-        ],
+        "question": "Quelle proportion des postes en France est pourvue sans offre d'emploi publiée ?",
+        "options": ["20-30%", "40-50%", "60-70%", "80-90%"],
+        "correct_index": 2,
+        "explanation": "On estime que 60 à 70% des postes en France sont pourvus via le réseau — par cooptation, recommandation ou relations personnelles — sans offre publiée sur les plateformes de recrutement. Ce «marché caché de l'emploi» rend le réseau professionnel absolument déterminant."
+      },
+      {
+        "question": "Quel est le nom actuel (depuis 2024) de l'opérateur public de l'emploi en France ?",
+        "options": ["Pôle Emploi", "France Travail", "L'ANPE", "L'Unédic"],
         "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
+        "explanation": "Pôle Emploi a été rebaptisé France Travail en janvier 2024, dans le cadre d'une réforme élargissant son périmètre d'action à toutes les personnes éloignées de l'emploi (pas seulement les chômeurs inscrits), dans l'objectif affiché d'atteindre le plein emploi d'ici 2027."
       },
       {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
+        "question": "Quelle est la particularité de la lettre de motivation en France par rapport aux candidatures dans d'autres pays ?",
         "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Elle doit être manuscrite obligatoirement",
+          "Elle est souvent remplacée par une vidéo de présentation",
+          "C'est un texte littéraire élaboré valorisant la qualité de l'écriture",
+          "Elle ne doit pas dépasser 100 mots"
         ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
+        "explanation": "La lettre de motivation française est un exercice de style à part entière — environ 300-400 mots, structurée en trois paragraphes, dans un français élégant. La qualité de l'écriture est en elle-même un signal fort de la candidature : des fautes d'orthographe ou un style maladroit peuvent éliminer un candidat techniquement compétent."
       },
       {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
+        "question": "Qu'est-ce que la rupture conventionnelle en France ?",
         "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
+          "Un licenciement économique imposé par l'employeur",
+          "Une démission donnant droit aux allocations chômage",
+          "Une rupture amiable du CDI ouvrant droit aux allocations chômage",
+          "Un congé sans solde précédant un départ à la retraite"
         ],
         "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
-      },
-      {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
-        "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
-        ],
-        "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "La rupture conventionnelle (créée en 2008) est un mode de rupture amiable du CDI négocié entre employeur et salarié. Contrairement à la démission, elle donne droit aux allocations chômage — ce qui en fait un dispositif très prisé quand les deux parties souhaitent se séparer à l'amiable."
       }
     ]
   },
   "ru": {
-    "module_title": "Работа и предпринимательство",
+    "module_title": "Работа во Франции",
     "lesson_title": "Найти и получить работу",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Найти и получить работу. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_subtitle": "Резюме, сопроводительное письмо, собеседование: коды французского рекрутинга",
+    "intro": "Поиск работы во Франции — кодифицированный процесс, подчиняющийся очень точным культурным правилам, весьма отличным от практики других стран. Французское резюме имеет ожидаемый формат. Сопроводительное письмо — самостоятельное литературное упражнение. Собеседование — ритуал профессионального соблазнения, ценящий красноречие наравне с компетентностью. Понять эти коды — значит дать себе реальный шанс на рынке труда, остающемся одним из самых защищённых в Европе.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Найти и получить работу** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "От рабочей книжки до бессрочного договора: история труда во Франции",
+        "body": "Отношение к труду во Франции глубоко отмечено рабочей историей. В XIX веке рабочие были обязаны носить **рабочую книжку** — документ, контролируемый работодателями, без которого нельзя было сменить нанимателя. Этот символ промышленного закабаления упразднён в **1890 году**.\n\n**Народный фронт** **1936 года** (правительство Леона Блюма) вырывает у работодателей два крупных завоевания, по-прежнему структурирующих французский труд: **оплачиваемый отпуск** (2 недели, впоследствии расширенные до 5) и **40-часовая рабочая неделя**. Эти права, завоёванные в ходе массовых забастовок, воспринимаются как исторические победы — и любая попытка их пересмотра по сей день вызывает мощные социальные мобилизации.\n\n**Французский Трудовой кодекс**, рождённый в 1910 году и регулярно пополняемый, — один из самых объёмных в мире (более 3 500 статей). Он охватывает практически все аспекты отношений между работодателем и работником: продолжительность труда, минимальная зарплата, условия увольнения, профсоюзное представительство. Эта очень сильная защита наёмных работников — национальная гордость и постоянный источник напряжённости с работодателями, считающими её порой сдерживающим фактором при найме."
       },
       {
-        "theme": "Регион",
+        "theme": "География",
         "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
+        "title": "Рынки труда во Франции",
+        "body": "Французский рынок труда географически очень неравномерен. **Иль-де-Франс** сосредотачивает около **30% рабочих мест** частного сектора при 18% населения страны. Париж и его регион — бесспорный экономический двигатель: штаб-квартиры крупных компаний, финансовые институты, СМИ, консалтинг. Для руководителей и свободных профессий Париж практически незаменим.\n\nКрупные региональные мегаполисы тем не менее развили сильные специализации: **Тулуза** — авиастроение и космос, **Лион** — химия/фармацевтика и гастрономия, **Бордо** — виноделие и цифровые технологии, **Гренобль** — высокие технологии и полупроводники, **София Антиполис** (Лазурный берег) — информационные технологии.\n\n**Уровень безработицы** в стране составляет около **7,3%** в 2024 году — один из самых низких за 40 лет, но с очень сильными контрастами: он достигает 20% среди молодёжи до 25 лет, превышает 15% в ряде департаментов Севера и заморских территорий. **Цифровой разрыв** и **географическая мобильность** — определяющие факторы: безработному из Гавра сложно найти работу в Тулузе, если он не может переехать."
       },
       {
-        "theme": "Политика и общество",
+        "theme": "Политика",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Государственная служба занятости и реформа France Travail",
+        "body": "Государственная служба занятости претерпела крупную реорганизацию в **2024 году**: **Pôle Emploi** стал **France Travail** с расширенными амбициями — сопровождать не только зарегистрированных безработных, но и всех лиц, далёких от рынка труда (получатели RSA, люди с инвалидностью, молодёжь без квалификации). Эта спорная реформа нацелена на достижение **полной занятости** (безработица ниже 5%) к 2027 году.\n\n**Пособие по безработице** (ARE — Allocation d'aide au Retour à l'Emploi) выплачивается **Unédic** (паритетная организация, управляемая профсоюзами и работодателями). В 2024 году оно составляет около **57% предыдущей брутто-зарплаты** и выплачивается в течение переменного срока в зависимости от стажа (минимум 6 месяцев, максимум 24 месяца в общем случае, 36 месяцев для лиц старше 53 лет). Реформа **2023 года** ввела систему **контрцикличности**: продолжительность выплат зависит от национального уровня безработицы — чем ниже безработица, тем короче срок выплат, чтобы стимулировать скорейшее возвращение на рынок труда.\n\n**Ученичество** резко выросло в последние годы: с 300 000 учеников в 2018 году до более **1 миллиона** в 2024-м благодаря масштабным субсидиям компаниям. Эта тихая революция изменила образ ученичества — долгое время считавшегося путём социальной деградации — на ценную альтернативу общеобразовательным направлениям."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Повседневная жизнь",
+        "icon": "🏠",
+        "title": "Резюме, сопроводительное письмо и собеседование по-французски",
+        "body": "**Французское резюме** подчиняется точным нормам. Оно занимает **одну страницу** (максимум две для опытных специалистов), составляется на грамотном французском и содержит: личные данные (имя, фамилия, дата рождения — в отличие от англоязычных резюме, где дата рождения исключена), контакты, фото (ожидается в большинстве секторов, в отличие от англосаксонской практики), образование (в обратном хронологическом порядке), опыт работы (аналогично), навыки и языки. Дизайн должен быть сдержанным и профессиональным — слишком яркие или креативные резюме могут отпугнуть традиционных рекрутеров.\n\n**Сопроводительное письмо** — сугубо французское упражнение: текст около 300–400 слов, структурированный в три абзаца (почему эта компания, почему эта должность, почему я), написанный изящным французским. Во Франции качество письменной речи — сильный сигнал: письмо с орфографическими ошибками является выбывающим в большинстве секторов. Иностранцу проверка письма носителем языка почти обязательна.\n\n**Собеседование** ценит устную речь, способность аргументировать и «осанку» — манеру держаться, смотреть на собеседника, владеть языком тела. Во Франции от кандидата ожидается умение подать себя, не выглядя самонадеянно — тонкий баланс. Незаконные вопросы (вероисповедание, семейное положение, этническое происхождение) встречаются, несмотря на их запрет — кандидат вправе вежливо отказаться отвечать без негативных последствий."
       },
       {
-        "theme": "Художественная культура",
+        "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "title": "Отношение французов к труду: амбивалентность и гордость",
+        "body": "Французская культура труда глубоко **амбивалентна**. С одной стороны, французы работают относительно мало по часам (35-часовая неделя, 5 недель отпуска) и отстаивают право на частную жизнь, досуг, семью. С другой стороны, **ценность труда** остаётся центральной: иметь хорошую профессию, карьеру, статус существенно для французской социальной идентичности. Безработный француз нередко чувствует себя обесцененным — безработица остаётся стигмой, даже если пособия обеспечивают материальную защиту.\n\n**Диплом** занимает исключительное место во французской культуре труда. **Grandes Écoles** (Политехническая школа, ENA/INSP, HEC, Sciences Po) готовят элиту, получающую доступ к руководящим должностям в компаниях и государстве — меритократическая, но очень элитарная система, которую порой обвиняют в воспроизводстве социального неравенства. Диплом окончённой школы может оставаться определяющим и через 30 лет после его получения.\n\n**Связи** принципиально важны для французского рекрутинга. По оценкам, **60–70% должностей замещаются без публикации объявления** — через коптацию, рекомендации, личные контакты. Для иностранца без связей — это главный барьер. Профессиональные сети вроде **LinkedIn** частично демократизировали доступ к этим неформальным связям — но деловые ужины, ассоциации выпускников и профессиональные клубы остаются основными векторами рекрутинга."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "title": "Деловой обед и профессиональные коды за столом",
+        "body": "**Деловой обед** — французский институт. В отличие от англосаксонских культур, где деловые встречи часто проходят за быстрым завтраком или рабочим сэндвичем, во Франции деловой обед длится **1,5–2 часа** и включает, как правило, закуску, горячее, десерт и — всё реже — бокал вина. Это долгое время воспринимается не как потраченное впустую, а как вложение в отношения: во Франции не подписывают контракт, предварительно не «познакомившись» за столом.\n\n**Правила поведения** на деловом обеде: не заказывать самое дорогое блюдо в меню, но и не выбирать самое дешёвое (это создало бы неловкость). Подождать, пока хозяин сделает заказ. Не говорить о деньгах слишком прямо — во Франции переговоры по зарплате или коммерческие переговоры редко ведутся за столом; стол — место отношений, а не сделки. Не смотреть в телефон.\n\n**Для иностранцев, ищущих работу во Франции**: особенно тщательно следить за **письменным французским** (малейшая профессиональная SMS с ошибками замечается негативно), одеваться сдержанно, но аккуратно на собеседованиях (костюм с галстуком уже не обязателен в стартапах, но остаётся нормой в банковском деле, праве, консалтинге), и быть готовым к длинным собеседованиям — 3–5 собеседований на одну должность в крупной французской компании не редкость."
       }
     ],
     "conseil_ami": {
       "title": "Дружеский совет 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Найти и получить работу»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**Для россиянина, ищущего работу во Франции, главный барьер — как правило, не техническая компетентность, а владение французским письменным и устным языком на профессиональном уровне.** Французские рекрутеры очень чувствительны к качеству речи, и сильный иностранный акцент может бессознательно играть против кандидата — даже если дискриминация при найме незаконна.\n\n**Практический совет №1**: инвестируйте в уровень французского перед тем, как подавать заявки. Уровень **B2 CECR** — минимум для убедительного выступления в большинстве секторов. Уровень **C1** открывает двери требовательных компаний.\n\n**Практический совет №2**: подтвердите свой иностранный диплом. Сайт **ENIC-NARIC France** (enic-naric.net) позволяет получить справку о сопоставимости вашего диплома с французской системой — ценный документ для прикладывания к заявкам.\n\n**Практический совет №3**: не недооценивайте **ассоциации русской диаспоры** и французско-российские сети (ТПП Франко-Российская, культурные ассоциации) как источник профессиональных связей. Даже в период дипломатических напряжённостей двуязычные специалисты (русский/французский) остаются востребованными в ряде секторов (предметы роскоши, туризм, финансы, технологии)."
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "Бессрочный договор / CDI",
+        "definition": "Contrat à Durée Indéterminée — стандартный трудовой договор во Франции без даты окончания, расторгаемый только по собственному желанию, увольнению или соглашению сторон."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "Срочный договор / CDD",
+        "definition": "Contrat à Durée Déterminée — временный договор с установленной датой окончания, ограниченный 18 месяцами с однократным продлением, применяемый только для конкретных и непостоянных нужд."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "France Travail",
+        "definition": "Государственный оператор занятости (бывший Pôle Emploi, переименованный в 2024 году), ведущий сопровождение безработных и выплату пособий по безработице."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "СМИК / SMIC",
+        "definition": "Минимальная межотраслевая заработная плата — законный минимальный часовой тариф (около 11,65 € брутто в 2024 году), пересматриваемый 1 января каждого года и при значительном росте инфляции."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "Grandes Écoles / Grandes Écoles",
+        "definition": "Отборные элитные высшие учебные заведения (Политехническая школа, HEC, Sciences Po, ENA/INSP...), готовящие управленческую элиту Франции — их диплом остаётся ключевым социальным пропуском."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "Соглашение о расторжении / rupture conventionnelle",
+        "definition": "Форма мирного расторжения бессрочного договора между работодателем и работником, созданная в 2008 году — позволяет работнику получать пособие по безработице в отличие от увольнения по собственному желанию."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Найти и получить работу» во Французской республике?",
+        "question": "Какое правительство ввело оплачиваемый отпуск во Франции в 1936 году?",
         "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
+          "Правительство Шарля де Голля",
+          "Правительство Народного фронта Леона Блюма",
+          "Правительство Жоржа Помпиду",
+          "Правительство Франсуа Миттерана"
         ],
         "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
+        "explanation": "Народный фронт, левое коалиционное правительство под руководством Леона Блюма, ввёл оплачиваемый отпуск (2 недели) и 40-часовую рабочую неделю в июне 1936 года после массовых забастовок. Эти социальные завоевания, закреплённые в Матиньонских соглашениях, остаются основополагающими символами французского трудового права."
       },
       {
-        "question": "Светскость во Франции означает, что...",
-        "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
-        ],
+        "question": "Какая доля вакансий во Франции заполняется без публикации объявления?",
+        "options": ["20–30%", "40–50%", "60–70%", "80–90%"],
+        "correct_index": 2,
+        "explanation": "По оценкам, 60–70% вакансий во Франции заполняются через связи — по коптации, рекомендации или личным контактам — без публикации на рекрутинговых платформах. Этот «скрытый рынок труда» делает профессиональные связи абсолютно определяющими."
+      },
+      {
+        "question": "Как называется государственный оператор занятости во Франции с 2024 года?",
+        "options": ["Pôle Emploi", "France Travail", "L'ANPE", "L'Unédic"],
         "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
+        "explanation": "Pôle Emploi был переименован в France Travail в январе 2024 года в рамках реформы, расширившей сферу его действия на всех лиц, далёких от рынка труда (не только зарегистрированных безработных), с заявленной целью достижения полной занятости к 2027 году."
       },
       {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
+        "question": "В чём особенность сопроводительного письма во Франции по сравнению с заявками в других странах?",
         "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Оно должно быть написано от руки",
+          "Его всё чаще заменяет видеопрезентация",
+          "Это проработанный литературный текст, в котором ценится качество письма",
+          "Оно не должно превышать 100 слов"
         ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
+        "explanation": "Французское сопроводительное письмо — самостоятельное стилистическое упражнение: около 300–400 слов, три абзаца, изящный французский язык. Качество письменной речи само по себе является сильным сигналом: орфографические ошибки или неловкий стиль могут отсеять технически компетентного кандидата."
       },
       {
-        "question": "Членом-основателем какой международной организации является Франция?",
+        "question": "Что такое соглашение о расторжении (rupture conventionnelle) во Франции?",
         "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
+          "Экономическое увольнение, навязанное работодателем",
+          "Увольнение по собственному желанию, дающее право на пособие",
+          "Мирное расторжение бессрочного договора, открывающее право на пособие",
+          "Отпуск без сохранения зарплаты перед выходом на пенсию"
         ],
         "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
-      },
-      {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
-        "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
-        ],
-        "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "Соглашение о расторжении (введено в 2008 году) — форма мирного расторжения бессрочного договора, согласованная между работодателем и работником. В отличие от увольнения по собственному желанию, оно даёт право на пособие по безработице — что делает его очень популярным, когда обе стороны хотят разойтись по-хорошему."
       }
     ]
   }

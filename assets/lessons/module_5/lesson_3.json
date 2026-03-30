@@ -3,276 +3,269 @@
     "module_id": 5,
     "lesson_id": 3,
     "module_icon": "💼",
-    "lesson_icon": "🏭",
-    "estimated_minutes": 12,
+    "lesson_icon": "🏢",
+    "estimated_minutes": 11,
     "difficulty": "intermédiaire",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "Fortune Global 500 — Entreprises françaises",
+        "url": "https://fortune.com/global500"
+      },
+      {
+        "label": "CAC 40 — Composition et profil",
+        "url": "https://www.euronext.com/fr/products/indices/FR0003500008-XPAR"
+      },
+      {
+        "label": "Business France — Investir en France",
+        "url": "https://www.businessfrance.fr"
+      },
+      {
+        "label": "INSEE — Les entreprises en France",
+        "url": "https://www.insee.fr/fr/statistiques/entreprises"
+      }
     ]
   },
   "fr": {
-    "module_title": "Travailler et Entreprendre",
+    "module_title": "Travailler en France",
     "lesson_title": "Les Grandes Entreprises Françaises",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : Les Grandes Entreprises Françaises. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "Le CAC 40, les champions nationaux et les secteurs d'excellence de l'économie française",
+    "intro": "La France est souvent perçue comme un pays hostile aux entreprises — trop de charges, trop de grèves, trop de réglementation. Cette image est partiellement vraie et largement caricaturale : la France abrite certaines des entreprises les plus puissantes et les plus innovantes du monde. Du luxe à l'aéronautique, de l'énergie au retail, des champions français dominent leurs marchés à l'échelle planétaire. Connaître ces entreprises, c'est comprendre l'ADN économique de la France et les opportunités de carrière qui s'y trouvent.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**Les Grandes Entreprises Françaises** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "De la France colbertiste aux multinationales du CAC 40",
+        "body": "L'économie française a été historiquement marquée par le **colbertisme** — cette doctrine du ministre de Louis XIV, Jean-Baptiste Colbert, qui préconise un État interventionniste pour développer l'industrie nationale et les exportations. Cette tradition de l'État entrepreneur a traversé les siècles : sous Napoléon (Banque de France, lycées, code commercial), sous les Républiques (chemins de fer nationalisés, industries stratégiques), et surtout sous la **Ve République** avec les **nationalisations de 1981–82** sous Mitterrand (banques, acier, chimie, électronique) puis les **privatisations de 1986–1993**.\n\nC'est paradoxalement de ces privatisations qu'émergent les grands groupes du **CAC 40** actuel : France Télécom (devenu Orange), Elf Aquitaine (devenu Total/TotalEnergies), Pechiney, Saint-Gobain, Rhône-Poulenc (devenu Sanofi). L'État français reste actionnaire significatif de nombreuses grandes entreprises : il détient des participations dans EDF, Airbus, Orange, Renault, Safran, Air France-KLM — une particularité française qui entretient l'idée de «champions nationaux» à protéger.\n\nLe **CAC 40** (Cotation Assistée en Continu), créé en **1988**, regroupe les 40 plus grandes capitalisations boursières françaises. Il est l'un des principaux indices boursiers européens et un baromètre de la santé économique française."
       },
       {
-        "theme": "Région",
+        "theme": "Géographie",
         "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
+        "title": "La carte des sièges sociaux et des clusters industriels",
+        "body": "La géographie des grandes entreprises françaises est très concentrée. Plus de **60% des sièges sociaux du CAC 40** sont établis dans l'**Île-de-France**, principalement dans les arrondissements de la Défense (premier quartier d'affaires européen), dans Paris intra-muros, et dans les communes de l'ouest parisien (Neuilly-sur-Seine, Levallois, Issy-les-Moulineaux — berceau des médias et du numérique).\n\n**La Défense** (Hauts-de-Seine) mérite une attention particulière : ce quartier d'affaires est artificiel et fonctionnel, dominé par ses tours de verre et d'acier. Il abrite les sièges de TotalEnergies, LVMH, Société Générale, Assurances AXA, EDF... — une concentration de pouvoir économique sans équivalent en Europe continentale.\n\nMais certains clusters industriels majeurs sont hors Paris : **Toulouse** (Airbus, ATR, Safran, Thalès Alenia Space), **Lyon** (Sanofi, bioMérieux, Renault Trucks), **Grenoble** (STMicroelectronics, Soitec, Schneider Electric), **Bordeaux** (MBDA missiles, Naval Group), **Nantes** (Airbus Atlantic — fuselages), et le **triangle Chartres-Dreux-Évreux** pour la cosmétique et la pharmacie (L'Oréal a son principal centre R&D à Aulnay-sous-Bois)."
       },
       {
-        "theme": "Politique & Social",
+        "theme": "Politique",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "L'État actionnaire et la politique industrielle française",
+        "body": "La France est l'un des rares pays développés à maintenir une **politique industrielle active** — c'est-à-dire une intervention délibérée de l'État pour orienter le développement économique vers des secteurs jugés stratégiques. Cette tradition, souvent critiquée comme protectionniste, a aussi produit des succès retentissants.\n\nL'**Agence des participations de l'État (APE)** gère un portefeuille de participations dans environ 80 entreprises — pour une valeur totale de plusieurs centaines de milliards d'euros. L'État y exerce des droits d'actionnaire : nomination de représentants aux conseils d'administration, approbation des grandes décisions stratégiques. Cette présence étatique crée parfois des tensions avec les actionnaires privés qui jugent l'État un actionnaire peu efficace mais très présent.\n\n**Le plan France 2030** lancé par Macron (2021) illustre cette politique : 54 milliards d'euros investis sur 10 ans dans des secteurs clés — hydrogène vert, semi-conducteurs (avec le projet STMicroelectronics à Crolles), nucléaire nouvelle génération (EPR2, SMR), santé et bioproduction, industrie culturelle et créative. Ce plan, inspiré du modèle **Hamilton** américain de soutien industriel, vise à «réindustrialiser» une France qui a perdu 2 millions d'emplois industriels depuis 1980."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Vie quotidienne",
+        "icon": "🏠",
+        "title": "Travailler dans une grande entreprise française",
+        "body": "Travailler dans une grande entreprise française (un grand groupe ou une ETI — Entreprise de Taille Intermédiaire) présente des caractéristiques particulières. La **hiérarchie** est marquée mais moins rigide que dans les entreprises japonaises ou américaines : les titres («Directeur», «Responsable») ont leur importance, mais la proximité informelle avec la hiérarchie est valorisée dans les cultures d'entreprise modernes.\n\nLa **mobilité internationale** est un atout majeur dans les grands groupes français. LVMH, TotalEnergies, Sanofi, Airbus, Michelin opèrent dans des dizaines de pays et recrutent des profils internationaux. Pour un salarié étranger maîtrisant le français et ayant une expertise technique, les opportunités de carrière internationale au sein de ces groupes sont réelles.\n\nLes **avantages salariaux** dans les grandes entreprises françaises sont souvent conséquents au-delà du salaire : **plan d'épargne entreprise (PEE)**, **plan d'épargne retraite (PER)**, **intéressement et participation** (partage des bénéfices avec les salariés, obligatoire dans les entreprises de plus de 50 salariés), **comité social et économique (CSE)** offrant des avantages culturels et sportifs (places de spectacle, voyages, chèques vacances). Pour un travailleur étranger, ce package peut représenter 15 à 20% de rémunération supplémentaire non visible sur la fiche de paie."
       },
       {
-        "theme": "Culture artistique",
+        "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "title": "Le luxe français : LVMH, Hermès et l'art de l'exception",
+        "body": "Le secteur du **luxe** est l'une des contributions les plus originales de la France à l'économie mondiale. La France est la première nation exportatrice de produits de luxe, et le groupe **LVMH** (Louis Vuitton Moët Hennessy), dirigé par Bernard Arnault, est la **première capitalisation boursière européenne** — dépassant les géants américains de la technologie par moments.\n\nLVMH regroupe 75 maisons de luxe (Louis Vuitton, Dior, Givenchy, Bulgari, Tiffany, Sephora, Le Bon Marché...) et emploie 200 000 personnes dans le monde. **Hermès** (famille Hermès-Dumas), **Kering** (Gucci, Yves Saint Laurent, Bottega Veneta — famille Pinault) et **Richemont** (Cartier, Van Cleef, Montblanc — groupe suisse avec forte influence française) complètent le tableau d'une industrie qui représente plus de **80 milliards d'euros d'exportations annuelles**.\n\nCe que l'on appelle «l'exception française» dans le luxe tient à une philosophie : la **rareté calculée** (Hermès produit intentionnellement moins que la demande pour maintenir le désir), l'**artisanat d'excellence** (les sacs Hermès sont fabriqués à la main par un seul artisan pendant des jours), la **narration culturelle** (acheter un Dior, c'est acheter un fragment de l'histoire de la mode française). Cette philosophie, née dans des ateliers parisiens du XIXe siècle, est devenue un modèle économique mondial."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "title": "La culture d'entreprise française : entre formalisme et convivialité",
+        "body": "La **culture d'entreprise française** est un mélange particulier de formalisme hiérarchique et de convivialité informelle. La distance entre «patron» et «salarié» est en général plus grande qu'aux États-Unis ou dans les pays nordiques — mais moins grande que dans les entreprises japonaises ou coréennes. Le **vouvoiement** (tutoyer son patron est rare en dehors des start-ups) est la norme dans la plupart des grandes entreprises.\n\nLa **réunion** (meeting) est une institution — et souvent un sujet de plaisanterie. Les Français réunissent beaucoup, débattent longtemps, et décident parfois peu. Une étude d'HEC Paris estimait qu'un cadre français passe en moyenne **4 heures par jour en réunion**. Paradoxalement, les décisions finales remontent souvent à un seul décideur (le DG, le directeur de service) — la culture de la concertation et celle de la décision verticale coexistent de façon inconfortable.\n\n**Le pot** (apéritif ou buffet offert par l'entreprise ou l'équipe) est un rituel social important : pot de départ, pot de bienvenue, pot de Noël, pot de promotion. Ne pas y participer est remarqué. C'est un moment informel où les hiérarchies s'aplatissent temporairement, où les informations circulent hors des canaux officiels, et où se jouent des dynamiques sociales cruciales pour une bonne intégration. Pour un nouveau venu — et surtout un étranger — la participation au pot est un investissement social indispensable."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à Les Grandes Entreprises Françaises :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**Pour un Russe qui travaille ou veut travailler dans une grande entreprise française, quelques clés culturelles sont essentielles.**\n\nPremière clé : **la discrétion sur le salaire**. En France, révéler son salaire à ses collègues est un tabou social très fort — même si juridiquement rien ne l'interdit. Les Français trouvent cela indécent. Si vous venez d'une culture où parler argent entre collègues est normal, adaptez-vous rapidement — l'indiscrétion salariale peut créer des tensions durables.\n\nDeuxième clé : **la critique constructive ne se dit pas en public**. En France, critiquer le travail de quelqu'un devant un groupe est considéré comme une humiliation — cela se fait en aparté, en tête-à-tête. L'inverse est vrai pour les compliments : les félicitations collectives sont appréciées.\n\nTroisième clé : **comprendre les non-dits**. Les Français disent souvent «c'est intéressant» là où ils pensent «c'est problématique», «on va voir» pour dire «non», et «je vais y réfléchir» pour dire «je ne suis pas convaincu». Apprendre à décoder ces euphémismes est fondamental pour naviguer dans un environnement professionnel français."
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
+        "term": "Le CAC 40",
+        "definition": "Cotation Assistée en Continu — indice boursier des 40 plus grandes capitalisations françaises, créé en 1988. Baromètre de la santé économique française et principale référence pour les investisseurs."
       },
       {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
+        "term": "Le colbertisme",
+        "definition": "Doctrine économique interventionniste héritée du ministre de Louis XIV (Jean-Baptiste Colbert) préconisant le soutien étatique aux industries nationales — encore très présente dans la politique économique française."
       },
       {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "term": "LVMH",
+        "definition": "Louis Vuitton Moët Hennessy — premier groupe mondial de luxe, contrôlé par Bernard Arnault, regroupant 75 maisons (Dior, Givenchy, Tiffany, Sephora...) et première capitalisation boursière européenne."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "L'intéressement et la participation",
+        "definition": "Dispositifs légaux de partage des bénéfices avec les salariés — l'intéressement est facultatif, la participation obligatoire dans les entreprises de plus de 50 salariés. Les sommes sont placées dans un plan d'épargne."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
+        "term": "Le CSE",
+        "definition": "Comité Social et Économique — instance représentative du personnel dans les entreprises de plus de 11 salariés, gérant les avantages sociaux (chèques vacances, places de spectacle, activités sportives) et assurant la représentation des salariés auprès de la direction."
       },
       {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "ETI",
+        "definition": "Entreprise de Taille Intermédiaire — entreprise de 250 à 4 999 salariés ou dont le chiffre d'affaires est inférieur à 1,5 milliard d'euros. Épine dorsale de l'industrie française, souvent méconnue."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «Les Grandes Entreprises Françaises» dans la République française ?",
+        "question": "Qu'est-ce que le CAC 40 ?",
         "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
+          "Un programme d'aide aux 40 plus grandes entreprises françaises en difficulté",
+          "L'indice boursier des 40 plus grandes capitalisations françaises, créé en 1988",
+          "Les 40 conventions collectives les plus importantes de France",
+          "Un classement des 40 meilleures universités françaises"
         ],
         "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
+        "explanation": "Le CAC 40 (Cotation Assistée en Continu) est l'indice boursier principal de la Bourse de Paris, regroupant les 40 sociétés françaises à plus grande capitalisation. Créé en 1988 avec une base de 1 000 points, il est le principal indicateur de la santé de l'économie française et un des grands indices européens."
       },
       {
-        "question": "En France, la laïcité signifie que...",
+        "question": "Quelle est la philosophie économique qui explique la puissance du luxe français ?",
         "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
+          "La production de masse à bas coût pour maximiser les volumes",
+          "La rareté calculée, l'artisanat d'excellence et la narration culturelle",
+          "Le recours systématique à la technologie numérique",
+          "La délocalisation en Asie pour réduire les coûts de production"
         ],
         "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
+        "explanation": "Le luxe français repose sur trois piliers : la rareté calculée (produire intentionnellement moins que la demande pour entretenir le désir), l'artisanat d'excellence (fabrication manuelle par des artisans spécialisés), et la narration culturelle (vendre un fragment de l'histoire et du patrimoine culturel français). C'est cette philosophie qui fait la différence avec les simples produits de qualité."
       },
       {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
+        "question": "Qu'est-ce que l'intéressement et la participation en France ?",
         "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Des primes versées uniquement aux cadres dirigeants",
+          "Des dispositifs légaux de partage des bénéfices avec tous les salariés",
+          "Des actions gratuites données aux actionnaires fondateurs",
+          "Des cotisations syndicales prélevées sur les salaires"
         ],
+        "correct_index": 1,
+        "explanation": "L'intéressement (facultatif) et la participation (obligatoire dans les entreprises de plus de 50 salariés) sont des dispositifs légaux permettant aux salariés de bénéficier d'une part des bénéfices de l'entreprise. Les sommes sont généralement placées dans un Plan d'Épargne Entreprise (PEE) avec avantages fiscaux."
+      },
+      {
+        "question": "Dans quelle ville de France se trouve le siège mondial d'Airbus ?",
+        "options": ["Paris", "Lyon", "Toulouse", "Bordeaux"],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
+        "explanation": "Airbus a son siège mondial et ses principaux sites d'assemblage à Toulouse depuis 1970. La ville est devenue la capitale européenne de l'aéronautique, avec un écosystème de 100 000 emplois directs (Airbus, ATR, Thalès, Safran, Latécoère...) qui fait de la métropole toulousaine la plus dynamique démographiquement de France."
       },
       {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
-        "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
-        ],
-        "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
-      },
-      {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
-        "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
-        ],
+        "question": "Quel est le principal quartier d'affaires en Europe continentale, situé en banlieue parisienne ?",
+        "options": ["Châtelet-Les Halles", "La Défense", "Montparnasse", "Bercy"],
         "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "La Défense (Hauts-de-Seine), en banlieue ouest de Paris, est le premier quartier d'affaires européen avec ses 72 tours, 3 600 entreprises et 180 000 salariés. Il abrite les sièges de TotalEnergies, LVMH, Société Générale, EDF, AXA... et son symbole architectural est la Grande Arche (1989)."
       }
     ]
   },
   "ru": {
-    "module_title": "Работа и предпринимательство",
+    "module_title": "Работа во Франции",
     "lesson_title": "Крупные французские компании",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Крупные французские компании. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_subtitle": "CAC 40, национальные чемпионы и отрасли превосходства французской экономики",
+    "intro": "Франция нередко воспринимается как страна, враждебная бизнесу — слишком высокие налоги, слишком много забастовок, слишком много регулирования. Этот образ частично верен и во многом карикатурен: Франция является домом для одних из самых мощных и инновационных компаний мира. От предметов роскоши до авиастроения, от энергетики до ретейла — французские чемпионы доминируют на своих рынках в глобальном масштабе. Знать эти компании — значит понимать экономическую ДНК Франции и карьерные возможности, которые в ней заключены.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Крупные французские компании** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "От кольберистской Франции до транснационалов CAC 40",
+        "body": "Французская экономика исторически отмечена **кольберизмом** — доктриной министра Людовика XIV Жан-Батиста Кольбера, предписывавшей государственный интервенционизм для развития национальной промышленности и экспорта. Эта традиция государства-предпринимателя прошла через века: при Наполеоне (Банк Франции, лицеи, торговый кодекс), при Республиках (национализированные железные дороги, стратегические отрасли) и прежде всего при **V Республике** с **национализациями 1981–82 годов** при Миттеране (банки, сталь, химия, электроника), а затем **приватизациями 1986–1993 годов**.\n\nПарадоксально, именно из этих приватизаций вырастают крупные группы нынешнего **CAC 40**: France Télécom (ставшая Orange), Elf Aquitaine (ставшая Total/TotalEnergies), Péchiney, Saint-Gobain, Rhône-Poulenc (ставшая Sanofi). Французское государство остаётся значительным акционером многих крупных компаний: оно имеет доли в EDF, Airbus, Orange, Renault, Safran, Air France-KLM — французская особенность, питающая идею «национальных чемпионов», которых нужно защищать.\n\n**CAC 40** (Cotation Assistée en Continu), созданный в **1988 году**, объединяет 40 крупнейших по биржевой капитализации французских компаний. Он является одним из основных европейских фондовых индексов и барометром экономического здоровья Франции."
       },
       {
-        "theme": "Регион",
+        "theme": "География",
         "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
+        "title": "Карта штаб-квартир и промышленных кластеров",
+        "body": "География крупных французских компаний очень сконцентрирована. Более **60% штаб-квартир CAC 40** расположены в **Иль-де-Франс** — главным образом в Дефансе (первый европейский деловой квартал), в Париже в пределах бульваров и в западных пригородных коммунах (Нёйи-сюр-Сен, Левалуа, Исси-ле-Мулино — колыбель СМИ и цифровой экономики).\n\n**Дефанс** (О-де-Сен) заслуживает особого внимания: этот деловой квартал искусственен и функционален, доминирован стеклянными и стальными башнями. Здесь расположены штаб-квартиры TotalEnergies, LVMH, Société Générale, AXA, EDF... — концентрация экономической власти, не имеющая аналогов в континентальной Европе.\n\nНо ряд крупных промышленных кластеров находится за пределами Парижа: **Тулуза** (Airbus, ATR, Safran, Thalès Alenia Space), **Лион** (Sanofi, bioMérieux, Renault Trucks), **Гренобль** (STMicroelectronics, Soitec, Schneider Electric), **Бордо** (ракеты MBDA, Naval Group), **Нант** (Airbus Atlantic — фюзеляжи), а также треугольник **Шартр–Дрё–Эврё** для косметики и фармацевтики (основной исследовательский центр L'Oréal расположен в Оне-су-Буа)."
       },
       {
-        "theme": "Политика и общество",
+        "theme": "Политика",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Государство-акционер и французская промышленная политика",
+        "body": "Франция — одна из немногих развитых стран, сохраняющих активную **промышленную политику**, то есть намеренное вмешательство государства для ориентации экономического развития в стратегически важные отрасли. Эта традиция, нередко критикуемая как протекционизм, принесла и громкие успехи.\n\n**Агентство по участию государства (APE)** управляет портфелем долей примерно в 80 компаниях общей стоимостью в несколько сотен миллиардов евро. Государство реализует права акционера: назначение представителей в советы директоров, одобрение крупных стратегических решений. Это государственное присутствие порой создаёт напряжённость с частными акционерами, считающими государство неэффективным, но очень активным акционером.\n\n**План «Франция 2030»**, запущенный Макроном (2021), иллюстрирует эту политику: 54 миллиарда евро, инвестируемых на 10 лет в ключевые отрасли — зелёный водород, полупроводники (проект STMicroelectronics в Кроле), новое поколение атомной энергетики (EPR2, SMR), здравоохранение и биопроизводство, культурная и креативная индустрия. Этот план, вдохновлённый американской **гамильтоновской** моделью промышленной поддержки, нацелен на «реиндустриализацию» Франции, потерявшей 2 миллиона промышленных рабочих мест с 1980 года."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Повседневная жизнь",
+        "icon": "🏠",
+        "title": "Работа в крупной французской компании",
+        "body": "Работа в крупной французской компании (большом группе или ETI — предприятии промежуточного размера) имеет свои особенности. **Иерархия** выражена, но менее жёстко, чем в японских или американских компаниях: звания («директор», «руководитель») важны, но неформальная близость к руководству ценится в современных корпоративных культурах.\n\n**Международная мобильность** — крупный актив в больших французских группах. LVMH, TotalEnergies, Sanofi, Airbus, Michelin работают в десятках стран и набирают международные профили. Для иностранного работника, владеющего французским языком и имеющего техническую экспертизу, карьерные возможности в этих группах реальны.\n\n**Льготы** в крупных французских компаниях нередко весомы помимо зарплаты: **план накопления (PEE)**, **план пенсионных накоплений (PER)**, **участие в прибыли и интересование** (обязательное для компаний более 50 сотрудников), **Комитет социального и экономического развития (CSE)**, предоставляющий культурные и спортивные льготы (билеты на зрелищные мероприятия, путёвки, чеки на отдых). Для иностранного работника этот пакет может представлять 15–20% дополнительного вознаграждения, не видного в расчётном листке."
       },
       {
-        "theme": "Художественная культура",
+        "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "title": "Французский люкс: LVMH, Hermès и искусство исключительности",
+        "body": "Отрасль **предметов роскоши** — один из наиболее самобытных вкладов Франции в мировую экономику. Франция является первой страной-экспортёром предметов роскоши, а группа **LVMH** (Louis Vuitton Moët Hennessy), управляемая Бернаром Арно, — **первая по капитализации компания Европы**, временами превосходящая американских технологических гигантов.\n\nLVMH объединяет 75 домов люкса (Louis Vuitton, Dior, Givenchy, Bulgari, Tiffany, Sephora, Le Bon Marché...) и насчитывает 200 000 сотрудников по всему миру. **Hermès** (семья Эрме-Дюма), **Kering** (Gucci, Yves Saint Laurent, Bottega Veneta — семья Пино) и **Richemont** (Cartier, Van Cleef, Montblanc — швейцарская группа с сильным французским влиянием) дополняют картину отрасли, генерирующей более **80 миллиардов евро ежегодного экспорта**.\n\nТо, что называют «французским исключением» в люксе, основано на философии: **просчитанная редкость** (Hermès намеренно производит меньше, чем спрос, чтобы поддерживать желание), **мастерство превосходства** (сумки Hermès изготавливаются вручную одним мастером несколько дней), **культурный нарратив** (купить Dior — значит купить фрагмент истории французской моды). Эта философия, рождённая в парижских мастерских XIX века, стала мировой бизнес-моделью."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "title": "Французская корпоративная культура: между формализмом и непринуждённостью",
+        "body": "**Французская корпоративная культура** — особое сочетание иерархического формализма и неформальной непринуждённости. Дистанция между «боссом» и «работником» в целом больше, чем в США или в странах Северной Европы, — но меньше, чем в японских или корейских компаниях. **Обращение на «вы»** (тыкать начальнику редко, кроме стартапов) — норма в большинстве крупных компаний.\n\n**Совещание** — институт и нередко предмет шуток. Французы много совещаются, долго спорят и порой мало решают. Исследование HEC Paris оценивало, что французский руководитель тратит в среднем **4 часа в день на совещания**. Парадоксально, окончательные решения нередко принимает единолично один человек (генеральный директор, начальник отдела) — культура совещаний и вертикального решения неловко сосуществуют.\n\n**Накрытый стол** (аперитив или фуршет, устраиваемый компанией или командой) — важный социальный ритуал: прощальный стол, welcome party, новогодний корпоратив, праздник по случаю повышения. Не участвовать — заметно. Это неформальный момент, когда иерархия временно уплощается, информация циркулирует вне официальных каналов и разворачиваются социальные динамики, важные для хорошей интеграции. Для нового сотрудника — и тем более иностранца — участие в таких мероприятиях является незаменимой социальной инвестицией."
       }
     ],
     "conseil_ami": {
       "title": "Дружеский совет 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Крупные французские компании»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**Для россиянина, работающего или желающего работать в крупной французской компании, несколько культурных ключей принципиально важны.**\n\nПервый ключ: **молчание о зарплате**. Во Франции раскрывать свою зарплату коллегам — очень сильное социальное табу, даже если юридически это ничем не запрещено. Французы считают это неуместным. Если вы привыкли к культуре, где говорить о деньгах с коллегами нормально, быстро адаптируйтесь — «зарплатная нескромность» может создать длительную напряжённость.\n\nВторой ключ: **конструктивная критика не высказывается публично**. Во Франции критиковать чью-то работу при группе считается унижением — это делается с глазу на глаз. Обратное верно для похвалы: коллективное признание ценится.\n\nТретий ключ: **понимать невысказанное**. Французы нередко говорят «это интересно», думая «это проблематично», «посмотрим» — имея в виду «нет», «я подумаю» — имея в виду «я не убеждён». Умение декодировать эти эвфемизмы фундаментально для работы в французской профессиональной среде."
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "CAC 40",
+        "definition": "Cotation Assistée en Continu — фондовый индекс 40 крупнейших по капитализации французских компаний, созданный в 1988 году. Барометр экономического здоровья Франции и основной ориентир для инвесторов."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "Кольберизм / colbertisme",
+        "definition": "Интервенционистская экономическая доктрина, унаследованная от министра Людовика XIV (Жан-Батиста Кольбера), предписывающая государственную поддержку национальной промышленности — по-прежнему очень присутствующая во французской экономической политике."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "LVMH",
+        "definition": "Louis Vuitton Moët Hennessy — первая мировая группа предметов роскоши, контролируемая Бернаром Арно, объединяющая 75 домов (Dior, Givenchy, Tiffany, Sephora...) и являющаяся первой по капитализации компанией Европы."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "Участие в прибыли / intéressement et participation",
+        "definition": "Законодательно закреплённые механизмы участия работников в прибыли — интересование факультативно, участие обязательно для компаний с более чем 50 сотрудниками. Суммы размещаются в плане накоплений."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "КСЭ / CSE",
+        "definition": "Comité Social et Économique — представительный орган персонала на предприятиях с более чем 11 сотрудниками, управляющий социальными льготами (чеки на отдых, билеты, спортивные мероприятия) и представляющий работников перед руководством."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "ЕТИ / ETI",
+        "definition": "Предприятие промежуточного размера — компания от 250 до 4 999 сотрудников или с оборотом менее 1,5 млрд евро. Позвоночник французской промышленности, нередко недооценённый."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Крупные французские компании» во Французской республике?",
+        "question": "Что такое CAC 40?",
         "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
+          "Программа помощи 40 крупнейшим испытывающим трудности французским компаниям",
+          "Фондовый индекс 40 крупнейших по капитализации французских компаний, созданный в 1988 году",
+          "40 важнейших коллективных договоров Франции",
+          "Рейтинг 40 лучших французских университетов"
         ],
         "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
+        "explanation": "CAC 40 (Cotation Assistée en Continu) — главный фондовый индекс Парижской биржи, объединяющий 40 компаний с наибольшей капитализацией. Созданный в 1988 году с базой в 1 000 пунктов, он является основным индикатором состояния французской экономики и одним из крупнейших европейских индексов."
       },
       {
-        "question": "Светскость во Франции означает, что...",
+        "question": "Какова философия, объясняющая силу французских товаров класса «люкс»?",
         "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
+          "Массовое производство по низкой цене для максимизации объёмов",
+          "Просчитанная редкость, мастерство превосходства и культурный нарратив",
+          "Системное использование цифровых технологий",
+          "Перенос производства в Азию для снижения себестоимости"
         ],
         "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
+        "explanation": "Французский люкс держится на трёх столпах: просчитанная редкость (намеренно производить меньше, чем спрос, для поддержания желания), мастерство превосходства (ручное изготовление специалистами-ремесленниками), культурный нарратив (продажа фрагмента французской истории и культурного наследия). Именно эта философия отличает люкс от просто качественных товаров."
       },
       {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
+        "question": "Что такое участие в прибыли (intéressement et participation) во Франции?",
         "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Премии, выплачиваемые только топ-менеджерам",
+          "Законодательные механизмы участия всех работников в прибыли компании",
+          "Бесплатные акции, выдаваемые акционерам-основателям",
+          "Профсоюзные взносы, удерживаемые из зарплаты"
         ],
+        "correct_index": 1,
+        "explanation": "Интересование (факультативное) и участие в прибыли (обязательное для компаний с более чем 50 сотрудниками) — это законодательно закреплённые механизмы, позволяющие работникам получать долю от прибыли предприятия. Суммы, как правило, размещаются в Плане накопления предприятия (PEE) с налоговыми льготами."
+      },
+      {
+        "question": "В каком французском городе находится мировая штаб-квартира Airbus?",
+        "options": ["Париж", "Лион", "Тулуза", "Бордо"],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
+        "explanation": "Airbus располагает мировой штаб-квартирой и основными сборочными предприятиями в Тулузе с 1970 года. Город стал европейской столицей авиастроения с экосистемой 100 000 прямых рабочих мест (Airbus, ATR, Thalès, Safran, Latécoère...), что делает Тулузскую метрополию демографически самой динамичной во Франции."
       },
       {
-        "question": "Членом-основателем какой международной организации является Франция?",
-        "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
-        ],
-        "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
-      },
-      {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
-        "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
-        ],
+        "question": "Какой главный деловой квартал континентальной Европы расположен в парижском пригороде?",
+        "options": ["Шатле-Ле-Аль", "Дефанс", "Монпарнас", "Берси"],
         "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "Дефанс (О-де-Сен), западный пригород Парижа, — первый европейский деловой квартал с 72 башнями, 3 600 компаниями и 180 000 сотрудниками. Здесь расположены штаб-квартиры TotalEnergies, LVMH, Société Générale, EDF, AXA... Его архитектурный символ — Большая арка (1989)."
       }
     ]
   }

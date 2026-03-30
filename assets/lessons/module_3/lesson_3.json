@@ -3,276 +3,255 @@
     "module_id": 3,
     "lesson_id": 3,
     "module_icon": "⚖️",
-    "lesson_icon": "🏘️",
-    "estimated_minutes": 12,
+    "lesson_icon": "🏛️",
+    "estimated_minutes": 11,
     "difficulty": "intermédiaire",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "Vie publique — Les collectivités territoriales",
+        "url": "https://www.vie-publique.fr/fiches/collectivites-territoriales"
+      },
+      {
+        "label": "Ministère de l'Intérieur — Organisation territoriale",
+        "url": "https://www.interieur.gouv.fr/Le-ministere/Organisation-territoriale-de-l-Etat"
+      },
+      {
+        "label": "AMF — Association des Maires de France",
+        "url": "https://www.amf.asso.fr"
+      }
     ]
   },
   "fr": {
-    "module_title": "La République au Quotidien",
+    "module_title": "La République et l'État",
     "lesson_title": "Communes, Départements, Régions",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : Communes, Départements, Régions. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "L'organisation territoriale de la France : du village à la région",
+    "intro": "La France est un pays profondément centralisé — et pourtant découpé en une multitude d'échelons administratifs qui la rendent parfois opaque même pour ses propres habitants. Communes, départements, régions, métropoles, intercommunalités : chaque niveau a ses compétences, son budget, ses élus. Comprendre cette organisation, c'est comprendre pourquoi les Français ont à la fois un fort attachement à leur commune (le «clocher») et une relation complexe avec l'État central.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**Communes, Départements, Régions** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "La Révolution crée les communes et les départements",
+        "body": "L'organisation territoriale française est directement héritée de la **Révolution de 1789**. Avant elle, la France était découpée en provinces historiques (Normandie, Bretagne, Bourgogne...) aux limites floues et aux statuts variés — un héritage médiéval peu rationnel.\n\nEn **1789–1790**, l'Assemblée constituante crée deux échelons fondamentaux : les **départements** (83 au départ, aujourd'hui 101) et les **communes**. Les départements sont conçus comme des unités administratives rationnelles, de taille homogène, dont le chef-lieu doit être accessible à cheval en une journée depuis n'importe quel point — d'où leur forme approximativement circulaire et leur taille similaire. Leurs noms sont délibérément neutres : on choisit des rivières, des montagnes, des caractéristiques géographiques (*Haute-Garonne*, *Côte-d'Or*, *Bas-Rhin*) pour effacer les identités provinciales jugées «féodales».\n\nLes **communes** (environ **35 000** en France aujourd'hui — de très loin le pays d'Europe qui en a le plus) sont souvent des entités millénaires : beaucoup correspondent aux anciennes paroisses de l'Ancien Régime. La France a plus de communes à elle seule que tous les autres pays de l'Union européenne réunis — une mosaïque communale qui reflète l'attachement des Français à leur clocher local."
       },
       {
-        "theme": "Région",
+        "theme": "Géographie",
         "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
+        "title": "Lire la carte administrative de la France",
+        "body": "La France métropolitaine est organisée en **13 régions** (depuis la réforme de 2016 qui a fusionné les 22 régions précédentes), **101 départements** (96 métropolitains + 5 ultra-marins), et **environ 35 000 communes**.\n\nLes **départements** sont identifiés par un numéro (de 01 à 95 pour la métropole, hors Corse) — numérotation alphabétique qui explique pourquoi le 01 est l'Ain et le 95 le Val-d'Oise. Ces numéros sont présents partout : sur les plaques d'immatriculation historiques (remplacées depuis 2009 mais encore très usitées pour identifier l'origine d'un conducteur), sur les codes postaux (les deux premiers chiffres = le département), et dans la tête de chaque Français.\n\nLes **régions** issues de la réforme de 2016 sont très grandes : la **Nouvelle-Aquitaine** (Bordeaux) est plus grande que l'Autriche. Certaines sont des mariages forcés mal digérés : la région **Auvergne-Rhône-Alpes** regroupe des territoires aux identités très différentes (Lyon la commerçante et Clermont-Ferrand la volcanique). À l'inverse, la fusion Alsace-Champagne-Ardenne-Lorraine en **Grand Est** a choqué les Alsaciens qui ont obtenu en retour une «Collectivité Européenne d'Alsace» à statut particulier."
       },
       {
-        "theme": "Politique & Social",
+        "theme": "Politique",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "Qui fait quoi : les compétences de chaque échelon",
+        "body": "Chaque échelon territorial a des **compétences propres**, définies par les lois de décentralisation. Voici la répartition (simplifiée) :\n\n**La commune** (maire + conseil municipal) : état civil (naissances, mariages, décès), écoles primaires, urbanisme local (permis de construire), voirie communale, police municipale, bibliothèques, centres de loisirs.\n\n**Le département** (président du Conseil départemental + conseillers) : aide sociale (RSA, aide aux personnes âgées et handicapées), collèges, routes départementales, pompiers (SDIS).\n\n**La région** (président du Conseil régional + conseillers) : lycées, formation professionnelle, transports régionaux (TER), développement économique.\n\n**L'État** conserve : police nationale, justice, défense, universités, hôpitaux, autoroutes nationales, fisc.\n\nCette répartition, issue des lois **Defferre de 1982** (première grande décentralisation sous Mitterrand), est régulièrement critiquée pour sa complexité et ses doublons. La réforme de 2016 a notamment créé les **métropoles** — structures intercommunales renforcées pour les grandes agglomérations (Paris, Lyon, Marseille, Bordeaux, Lille...) qui ont récupéré certaines compétences départementales."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Vie quotidienne",
+        "icon": "🏠",
+        "title": "La mairie, premier guichet de l'État",
+        "body": "La **mairie** est le premier point de contact de tout habitant avec l'administration française. C'est là que l'on obtient : l'**acte de naissance** (indispensable pour toute démarche officielle), l'**acte de mariage**, le **certificat de résidence**, l'**inscription sur les listes électorales**, le dépôt du **dossier de mariage** ou de **PACS**. C'est aussi là que l'on déclare un décès, que l'on demande un permis de construire, que l'on consulte le **Plan Local d'Urbanisme (PLU)**.\n\nLe **maire** est la personnalité politique la plus proche des Français. Selon les sondages, c'est l'élu le plus apprécié et le plus fréquemment rencontré. Il ou elle est joignable — souvent physiquement, lors des **permanences** hebdomadaires — ce qui n'est pas le cas des députés ou des ministres. Dans les petites communes, le maire fait office de médiateur, d'administrateur, de représentant de l'État et parfois d'ami.\n\n**Donnée étonnante** : la France compte **36 000 maires** — dont **32 000** pour des communes de moins de 2 000 habitants. Ces maires de petites communes, souvent bénévoles ou quasi-bénévoles, sont les chevilles ouvrières de la démocratie locale française. Leur nombre diminue cependant : les difficultés du mandat (charges administratives, incivilités, budget contraint) découragent les vocations, et les élections municipales peinent à trouver des candidats dans les villages."
       },
       {
-        "theme": "Culture artistique",
+        "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "title": "Le clocher et le terroir : géographie culturelle française",
+        "body": "L'attachement au **clocher** — le clocher de l'église du village comme symbole de la communauté locale — est une constante de la culture française. On est de Bretagne, d'Auvergne, de Normandie avant d'être «Français du Nord-Ouest» ou «Français du Centre». Cette identité territoriale infra-nationale coexiste avec un fort patriotisme républicain — sans contradiction apparente.\n\nLe **terroir** est le concept culturel qui exprime le mieux cette géographie : l'idée que les aliments, les vins, les modes de vie portent la marque du lieu qui les a produits — son sol, son climat, ses traditions humaines. Le **vin de Bordeaux** n'est pas «un vin» mais l'expression de la Gironde. Le **camembert** n'est pas «un fromage» mais la Normandie en forme ronde. Cette philosophie du terroir, codifiée dans le système des **AOP/AOC** (Appellations d'Origine Protégée/Contrôlée), structure une part importante de l'économie agroalimentaire française et de son rayonnement mondial.\n\nLes **festivals locaux** sont le lieu d'expression le plus vivace des identités régionales : la **Fête de la Musique** (21 juin, dans toutes les communes), les **fêtes votives** du Midi, les **pardons** bretons, les **carnavals** alsaciens, le **Festival Interceltique de Lorient** — autant de moments où la France «locale» s'exprime avec une vitalité que Paris n'efface jamais complètement."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "title": "Le marché et la mairie : les deux temples de la vie communale",
+        "body": "Dans toute commune française, grande ou petite, deux lieux structurent la vie sociale : la **mairie** (lieu du pouvoir et des démarches) et le **marché** (lieu du commerce et du lien social). Le marché hebdomadaire ou bihebdomadaire, en plein air ou couvert, est l'occasion de retrouver ses voisins, de choisir ses légumes, d'écouter les nouvelles du village.\n\nLe **marché** français est beaucoup plus qu'un lieu d'achat : c'est un espace de sociabilité ritualisée. Le marchand de fruits connaît ses clients par leurs prénoms. L'achat se fait souvent avec une conversation — sur la météo, sur la qualité des produits, sur les dernières nouvelles. Ne pas dire bonjour en arrivant sur un étalage est une impolitesse. Marchander est rare et mal vu — contrairement aux marchés d'autres cultures.\n\n**La vie de village** impose des codes sociaux très précis : saluer ses voisins chaque matin, ne pas stationner devant chez quelqu'un sans autorisation, participer aux fêtes locales et aux associations (le **tissu associatif** français est extrêmement dense : la France compte 1,3 million d'associations, soit une pour 50 habitants). Un étranger qui s'investit dans la vie associative locale (club de sport, chorale, association caritative) sera beaucoup mieux intégré qu'un «reclus» qui garde sa porte fermée."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à Communes, Départements, Régions :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**La mairie est votre premier allié en France.** Quelle que soit votre situation — installation, naissance d'un enfant, recherche d'informations sur les droits — la mairie peut vous orienter, parfois même en plusieurs langues dans les grandes villes.\n\n**Code pratique** : en France, tout acte de naissance ou de mariage étranger doit être traduit par un **traducteur assermenté** pour être reconnu. La liste des traducteurs assermentés est disponible auprès de la Cour d'appel de votre région. Pour un acte russe, comptez environ 80–150€ de traduction et quelques jours de délai.\n\n**Curiosité culturelle** : les Français connaissent souvent par cœur le numéro de leur département. Dire «je suis du 31» (= Haute-Garonne, Toulouse) ou «du 67» (= Bas-Rhin, Strasbourg) est une façon rapide de se situer géographiquement. Si quelqu'un vous demande «vous êtes de quel département ?», c'est une façon de comprendre d'où vous venez — non une question administrative !"
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
+        "term": "La commune",
+        "definition": "La plus petite division administrative française — elles sont environ 35 000, dont la grande majorité comptent moins de 2 000 habitants. Chacune est dirigée par un maire et un conseil municipal."
       },
       {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
+        "term": "Le département",
+        "definition": "Division administrative créée en 1790, identifiée par un numéro — 101 en France (96 métropolitains + 5 ultra-marins). Compétences : aide sociale, collèges, routes, pompiers."
       },
       {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "term": "Le PLU",
+        "definition": "Plan Local d'Urbanisme — document municipal définissant les règles de construction et d'usage des sols sur le territoire d'une commune. Consultable en mairie."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "La décentralisation",
+        "definition": "Transfert de compétences de l'État vers les collectivités territoriales — engagé depuis les lois Defferre de 1982, qui ont accordé l'autonomie aux régions et départements."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
+        "term": "L'AOP/AOC",
+        "definition": "Appellation d'Origine Protégée/Contrôlée — label garantissant qu'un produit (vin, fromage, charcuterie...) est produit et transformé dans une zone géographique précise selon un cahier des charges défini."
       },
       {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "L'intercommunalité",
+        "definition": "Structure regroupant plusieurs communes voisines pour mutualiser des services (eau, déchets, transports) ou des projets d'aménagement — en plein développement depuis les années 1990."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «Communes, Départements, Régions» dans la République française ?",
-        "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
-        ],
-        "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
-      },
-      {
-        "question": "En France, la laïcité signifie que...",
-        "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
-        ],
-        "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
-      },
-      {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
-        ],
+        "question": "Combien de communes la France compte-t-elle approximativement ?",
+        "options": ["5 000", "15 000", "35 000", "80 000"],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
+        "explanation": "La France compte environ 35 000 communes — de très loin le pays européen qui en a le plus. Ce chiffre exceptionnel reflète l'attachement des Français à leur village ou quartier historique, beaucoup correspondant à d'anciennes paroisses."
       },
       {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
+        "question": "Quelle grande réforme a créé les communes et les départements français ?",
         "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
-        ],
-        "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
-      },
-      {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
-        "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
+          "La réforme napoléonienne de 1800",
+          "La Révolution française de 1789–1790",
+          "La loi de décentralisation de 1982",
+          "La Constitution de la Ve République (1958)"
         ],
         "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "C'est l'Assemblée constituante révolutionnaire qui, en 1789–1790, a créé les 83 premiers départements et rationalisé le découpage en communes, remplaçant les provinces historiques de l'Ancien Régime par des unités administratives uniformes."
+      },
+      {
+        "question": "Quelle collectivité territoriale est responsable des collèges en France ?",
+        "options": ["La commune", "Le département", "La région", "L'État"],
+        "correct_index": 1,
+        "explanation": "Le département est responsable des collèges (11–15 ans) : construction, entretien, personnels non-enseignants. La région est responsable des lycées (15–18 ans). L'État est responsable des enseignants (nommés par l'Éducation nationale) à tous les niveaux."
+      },
+      {
+        "question": "Combien de régions compte la France métropolitaine depuis la réforme de 2016 ?",
+        "options": ["8", "13", "22", "27"],
+        "correct_index": 1,
+        "explanation": "La réforme territoriale de 2016 a réduit les 22 régions métropolitaines à 13, par fusion. L'objectif était de créer des régions plus grandes, plus compétitives à l'échelle européenne — mais certaines fusions ont été mal vécues (notamment en Alsace)."
+      },
+      {
+        "question": "Que signifie être «du 31» en France ?",
+        "options": [
+          "Être né le 31 d'un mois",
+          "Être originaire du département de Haute-Garonne (Toulouse)",
+          "Appartenir au 31e arrondissement de Paris",
+          "Avoir le 31e rang dans un classement administratif"
+        ],
+        "correct_index": 1,
+        "explanation": "En France, chaque département a un numéro : le 31 est la Haute-Garonne, dont la capitale est Toulouse. Dire «je suis du 31» est une façon culturelle de se situer géographiquement. Ces numéros figurent sur les codes postaux (les deux premiers chiffres) et les anciennes plaques d'immatriculation."
       }
     ]
   },
   "ru": {
-    "module_title": "Республика в повседневной жизни",
+    "module_title": "Республика и государство",
     "lesson_title": "Коммуны, департаменты, регионы",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Коммуны, департаменты, регионы. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_subtitle": "Территориальная организация Франции: от деревни до региона",
+    "intro": "Франция — глубоко централизованная страна, и всё же нарезанная на множество административных уровней, что порой делает её непрозрачной даже для собственных жителей. Коммуны, департаменты, регионы, метрополии, межкоммунальные объединения: у каждого уровня — свои полномочия, бюджет, избранники. Понять эту организацию — значит понять, почему французы одновременно глубоко привязаны к своей коммуне («колокольне») и имеют сложные отношения с центральным государством.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Коммуны, департаменты, регионы** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "Революция создаёт коммуны и департаменты",
+        "body": "Территориальная организация Франции прямо унаследована от **Революции 1789 года**. До неё Франция делилась на исторические провинции (Нормандия, Бретань, Бургундия...) с размытыми границами и разным статусом — нерациональное средневековое наследие.\n\nВ **1789–1790 годах** Учредительное собрание создаёт два основополагающих уровня: **департаменты** (изначально 83, сегодня 101) и **коммуны**. Департаменты задуманы как рациональные административные единицы однородного размера, чей административный центр должен быть достижим верхом в течение одного дня из любой точки — отсюда их приблизительно круглая форма и схожие размеры. Их названия намеренно нейтральны: реки, горы, географические особенности (*Верхняя Гаронна*, *Золотой берег*, *Нижний Рейн*) — чтобы стереть провинциальные идентичности, считавшиеся «феодальными».\n\n**Коммуны** (около **35 000** во Франции сегодня — с большим отрывом страна Европы с наибольшим их числом) нередко являются тысячелетними образованиями: многие соответствуют старинным приходам Старого режима. У Франции коммун больше, чем у всех остальных стран Евросоюза вместе взятых — коммунальная мозаика, отражающая привязанность французов к местной «колокольне»."
       },
       {
-        "theme": "Регион",
+        "theme": "География",
         "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
+        "title": "Как читать административную карту Франции",
+        "body": "Французская метрополия организована в **13 регионов** (после реформы 2016 года, объединившей прежние 22 региона), **101 департамент** (96 метропольных + 5 заморских) и **около 35 000 коммун**.\n\n**Департаменты** обозначены номером (от 01 до 95 для метрополии, исключая Корсику) — алфавитная нумерация объясняет, почему 01 — это Эн, а 95 — Валь-д'Уаз. Эти номера встречаются повсюду: на исторических автомобильных номерах (заменены в 2009 году, но по-прежнему позволяют определить происхождение водителя), в почтовых индексах (первые две цифры = департамент) и в голове каждого француза.\n\n**Регионы** после реформы 2016 года очень велики: **Новая Аквитания** (Бордо) по площади больше Австрии. Некоторые — результат вынужденных и плохо принятых слияний: регион **Овернь-Рона-Альпы** объединяет территории с очень разными идентичностями (торговый Лион и вулканический Клермон-Ферран). Напротив, слияние Эльзаса, Шампани-Арденн и Лотарингии в **Гран-Эст** возмутило эльзасцев, добившихся взамен «Европейской коллективности Эльзаса» с особым статусом."
       },
       {
-        "theme": "Политика и общество",
+        "theme": "Политика",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Кто за что отвечает: полномочия каждого уровня",
+        "body": "У каждого территориального уровня — **свои полномочия**, определённые законами о децентрализации. Упрощённое распределение:\n\n**Коммуна** (мэр + муниципальный совет): регистрация актов гражданского состояния (рождения, браки, смерти), начальные школы, местный градостроительный план (разрешения на строительство), коммунальные дороги, муниципальная полиция, библиотеки, центры досуга.\n\n**Департамент** (председатель Генерального совета + советники): социальная помощь (RSA, помощь пожилым и инвалидам), коллежи, департаментские дороги, пожарные (SDIS).\n\n**Регион** (председатель Регионального совета + советники): лицеи, профессиональное обучение, региональный транспорт (TER), экономическое развитие.\n\n**Государство** сохраняет за собой: национальную полицию, правосудие, оборону, университеты, больницы, национальные автострады, налоговую службу.\n\nЭто распределение, результат **законов Деффера 1982 года** (первая крупная децентрализация при Миттеране), регулярно критикуется за сложность и дублирование функций. Реформа 2016 года создала **метрополии** — усиленные межкоммунальные структуры для крупных агломераций (Париж, Лион, Марсель, Бордо, Лилль...), перехватившие часть департаментских полномочий."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Повседневная жизнь",
+        "icon": "🏠",
+        "title": "Мэрия — первое окно государства",
+        "body": "**Мэрия** — первый контактный пункт любого жителя с французской администрацией. Здесь получают: **свидетельство о рождении** (необходимое для любой официальной процедуры), **свидетельство о браке**, **справку о проживании**, **регистрируются в избирательных списках**, подают **досье на бракосочетание** или **PACS** (гражданский союз). Здесь же регистрируют смерть, подают на разрешение на строительство, консультируются с **Местным градостроительным планом (PLU)**.\n\n**Мэр** — ближайший к французам политик. По данным опросов, это самый популярный и наиболее часто встречаемый выборный представитель. Он или она доступны — нередко физически, на еженедельных **приёмных часах** — чего нельзя сказать о депутатах или министрах. В небольших коммунах мэр выступает в роли посредника, администратора, представителя государства и порой — доверенного лица.\n\n**Удивительный факт**: во Франции **36 000 мэров** — из них **32 000** для коммун с населением менее 2 000 человек. Эти мэры небольших коммун, зачастую работающие на общественных началах или почти бесплатно, — главная движущая сила французской местной демократии. Их число, однако, сокращается: трудности мандата (административная нагрузка, хамство, ограниченный бюджет) отпугивают претендентов, и муниципальные выборы всё сложнее находят кандидатов в деревнях."
       },
       {
-        "theme": "Художественная культура",
+        "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "title": "Колокольня и терруар: культурная география Франции",
+        "body": "Привязанность к **колокольне** — колокольне деревенской церкви как символу местного сообщества — постоянная черта французской культуры. Человек — бретонец, овернец, нормандец прежде, чем он «французский северо-западник» или «французский центральный житель». Эта субнациональная территориальная идентичность сосуществует с сильным республиканским патриотизмом — без видимого противоречия.\n\n**Терруар** — культурная концепция, лучше всего выражающая эту географию: идея о том, что продукты питания, вина, образ жизни несут отпечаток породившего их места — его почвы, климата, человеческих традиций. **Бордоское вино** — не просто «вино», а выражение Жиронды. **Камамбер** — не просто «сыр», а Нормандия в круглой форме. Эта философия терруара, закреплённая в системе **АОС/АОП** (Апелласьон охраняемого происхождения), структурирует значительную часть французской агропродовольственной экономики и её мирового влияния.\n\n**Местные фестивали** — живейшее выражение региональных идентичностей: **Праздник музыки** (21 июня, во всех коммунах), **деревенские праздники** Юга, **бретонские пардоны**, **эльзасские карнавалы**, **Интеркельтский фестиваль в Лорьяне** — моменты, когда «местная» Франция проявляется с той жизненностью, которую Париж никогда окончательно не гасит."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "title": "Рынок и мэрия: два храма общинной жизни",
+        "body": "В каждой французской коммуне, большой или малой, два места структурируют социальную жизнь: **мэрия** (место власти и документов) и **рынок** (место торговли и социальной связи). Еженедельный или двухнедельный рынок — на открытом воздухе или крытый — это повод встретить соседей, выбрать овощи, услышать новости деревни.\n\n**Французский рынок** — куда больше, чем место покупок: это пространство ритуализированной общительности. Торговец фруктами знает постоянных покупателей по именам. Покупка нередко сопровождается разговором — о погоде, о качестве товара, о последних новостях. Не поздороваться, подойдя к прилавку, — грубость. Торговаться — редко и воспринимается плохо, в отличие от рынков других культур.\n\n**Деревенская жизнь** предполагает очень конкретные социальные коды: ежеутренне приветствовать соседей, не парковаться перед чужим домом без разрешения, участвовать в местных праздниках и ассоциациях (**французская ассоциативная жизнь** чрезвычайно насыщена: 1,3 млн ассоциаций — одна на 50 жителей). Иностранец, включившийся в местную ассоциативную жизнь (спортивный клуб, хор, благотворительность), интегрируется несравнимо лучше «затворника» за закрытой дверью."
       }
     ],
     "conseil_ami": {
       "title": "Дружеский совет 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Коммуны, департаменты, регионы»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**Мэрия — ваш первый союзник во Франции.** Какова бы ни была ваша ситуация — обустройство, рождение ребёнка, поиск информации о правах — мэрия может вас сориентировать, а в крупных городах иногда даже на нескольких языках.\n\n**Практический совет**: во Франции любой иностранный акт о рождении или браке должен быть переведён **присяжным переводчиком** для официального признания. Список присяжных переводчиков размещён на сайте Апелляционного суда вашего региона. Для русского документа рассчитывайте примерно на 80–150 € за перевод и несколько дней ожидания.\n\n**Культурная курьёзность**: французы нередко знают наизусть номер своего департамента. Сказать «я из 31-го» (= Верхняя Гаронна, Тулуза) или «из 67-го» (= Нижний Рейн, Страсбург) — быстрый способ обозначить своё географическое происхождение. Если кто-то спросит «из какого вы департамента?» — это не административный вопрос, а попытка понять, откуда вы родом!"
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "Коммуна / commune",
+        "definition": "Наименьшая административная единица Франции — их около 35 000, большинство с населением менее 2 000 человек. Каждую возглавляют мэр и муниципальный совет."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "Департамент / département",
+        "definition": "Административное деление, созданное в 1790 году, обозначаемое номером — 101 во Франции (96 метропольных + 5 заморских). Полномочия: социальная помощь, коллежи, дороги, пожарные."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "ПМУ / PLU",
+        "definition": "Местный градостроительный план (Plan Local d'Urbanisme) — муниципальный документ, определяющий правила строительства и использования земли на территории коммуны. Доступен в мэрии."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "Децентрализация / décentralisation",
+        "definition": "Передача полномочий от государства территориальным коллективностям — проводится с законов Деффера 1982 года, предоставивших регионам и департаментам самостоятельность."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "АОС/АОП / AOC/AOP",
+        "definition": "Апелласьон охраняемого происхождения/контролируемого происхождения — знак качества, гарантирующий, что продукт (вино, сыр, мясные изделия...) произведён и переработан в строго определённом месте по утверждённому регламенту."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "Межкоммунальное объединение / intercommunalité",
+        "definition": "Структура, объединяющая несколько соседних коммун для совместного управления услугами (водоснабжение, отходы, транспорт) или проектами развития — активно развивается с 1990-х годов."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Коммуны, департаменты, регионы» во Французской республике?",
-        "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
-        ],
-        "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
-      },
-      {
-        "question": "Светскость во Франции означает, что...",
-        "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
-        ],
-        "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
-      },
-      {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
-        ],
+        "question": "Сколько коммун насчитывается во Франции приблизительно?",
+        "options": ["5 000", "15 000", "35 000", "80 000"],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
+        "explanation": "Во Франции около 35 000 коммун — с большим отрывом больше, чем в любой другой европейской стране. Это исключительное число отражает привязанность французов к своей деревне или историческому кварталу, многие из которых восходят к старинным приходам."
       },
       {
-        "question": "Членом-основателем какой международной организации является Франция?",
+        "question": "Какая крупная реформа создала французские коммуны и департаменты?",
         "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
-        ],
-        "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
-      },
-      {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
-        "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
+          "Наполеоновская реформа 1800 года",
+          "Французская революция 1789–1790 годов",
+          "Закон о децентрализации 1982 года",
+          "Конституция V Республики (1958)"
         ],
         "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "Именно революционное Учредительное собрание в 1789–1790 годах создало 83 первых департамента и рационализировало деление на коммуны, заменив исторические провинции Старого режима единообразными административными единицами."
+      },
+      {
+        "question": "Какая территориальная коллективность отвечает за коллежи во Франции?",
+        "options": ["Коммуна", "Департамент", "Регион", "Государство"],
+        "correct_index": 1,
+        "explanation": "Департамент отвечает за коллежи (11–15 лет): строительство, обслуживание, непедагогический персонал. Регион отвечает за лицеи (15–18 лет). Государство отвечает за учителей (назначаемых Министерством образования) на всех уровнях."
+      },
+      {
+        "question": "Сколько регионов насчитывает французская метрополия после реформы 2016 года?",
+        "options": ["8", "13", "22", "27"],
+        "correct_index": 1,
+        "explanation": "Территориальная реформа 2016 года сократила 22 метропольных региона до 13 путём слияний. Целью было создание более крупных регионов, конкурентоспособных на европейском уровне — однако некоторые слияния были восприняты болезненно (в частности, в Эльзасе)."
+      },
+      {
+        "question": "Что означает быть «из 31-го» во Франции?",
+        "options": [
+          "Быть рождённым 31-го числа",
+          "Быть родом из департамента Верхняя Гаронна (Тулуза)",
+          "Принадлежать к 31-му округу Парижа",
+          "Занимать 31-е место в административном рейтинге"
+        ],
+        "correct_index": 1,
+        "explanation": "Во Франции у каждого департамента есть номер: 31 — Верхняя Гаронна, столица — Тулуза. Сказать «я из 31-го» — культурный способ обозначить географическое происхождение. Эти номера присутствуют в почтовых индексах (первые две цифры) и на старых автомобильных номерах."
       }
     ]
   }

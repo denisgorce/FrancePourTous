@@ -4,275 +4,288 @@
     "lesson_id": 1,
     "module_icon": "🎨",
     "lesson_icon": "🖼️",
-    "estimated_minutes": 12,
+    "estimated_minutes": 10,
     "difficulty": "intermédiaire",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "Musée d'Orsay — Collections impressionnistes",
+        "url": "https://www.musee-orsay.fr/fr/collections/oeuvres-commentees/peinture"
+      },
+      {
+        "label": "Musée du Louvre — Histoire de la peinture française",
+        "url": "https://www.louvre.fr/decouvrir/les-collections/peintures-francaises"
+      },
+      {
+        "label": "Centre Pompidou — Art moderne et contemporain",
+        "url": "https://www.centrepompidou.fr/fr/collection"
+      },
+      {
+        "label": "RMN — Ressources pédagogiques sur l'impressionnisme",
+        "url": "https://www.grandpalais.fr/fr/article/limpressionnisme"
+      }
     ]
   },
   "fr": {
     "module_title": "Arts, Lettres et Musique",
     "lesson_title": "Impressionnisme et Peinture Française",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : Impressionnisme et Peinture Française. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "De Versailles aux Nymphéas : cinq siècles de génie pictural",
+    "intro": "La peinture française a bouleversé l'art mondial à plusieurs reprises : avec le classicisme de Poussin au XVIIe siècle, le romantisme de Delacroix au XIXe, et surtout l'impressionnisme — ce mouvement né à Paris dans les années 1860 qui a définitivement cassé les codes de la représentation artistique et ouvert la voie à tout l'art moderne. Comprendre la peinture française, c'est comprendre comment un pays a appris à voir différemment.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**Impressionnisme et Peinture Française** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "Du classicisme à l'impressionnisme : une révolution en deux siècles",
+        "body": "La peinture française connaît sa première grande période sous **Louis XIV** : Nicolas Poussin (1594–1665) et Charles Le Brun définissent le **classicisme français** — peinture d'histoire, mythologie antique, compositions équilibrées, primauté du dessin sur la couleur. L'**Académie Royale de Peinture et de Sculpture** (fondée en 1648) fixe les règles et organise le **Salon**, exposition officielle annuelle qui devient l'arbitre absolu du goût pendant deux siècles.\n\nLa rupture arrive avec l'**impressionnisme**. En 1874, Monet, Renoir, Degas, Pissarro, Sisley et Berthe Morisot — refusés ou marginalisés par le Salon officiel — organisent leur propre exposition. Un critique hostile raille le tableau de Monet «Impression, soleil levant» : les peintres reprennent le mot «impression» comme étendard. Leur révolution est double : technique (peindre en extérieur, saisir la lumière fugace, touches visibles) et thématique (la vie moderne, les gares, les cafés, les bords de Seine, les danseuses de Degas).\n\nL'impressionnisme ouvre une cascade de mouvements : **post-impressionnisme** (Cézanne, Van Gogh, Gauguin — exilés de la génération suivante mais passés par Paris), **fauvisme** (Matisse, Derain — couleurs pures explosives, 1905), **cubisme** (Picasso et Braque à Paris, 1907 — fragmentation de la forme). Paris reste jusqu'en 1940 la capitale mondiale de l'art vivant."
       },
       {
-        "theme": "Région",
-        "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
-      },
-      {
-        "theme": "Politique & Social",
+        "theme": "Cadre légal & textes",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "Les musées français : accès, collections, politiques culturelles",
+        "body": "La France possède le réseau muséal le plus dense d'Europe. Les **musées nationaux** (sous tutelle du ministère de la Culture) appliquent une politique d'accès progressiste : **gratuité permanente** pour les moins de 26 ans ressortissants de l'UE dans les collections permanentes des musées nationaux (Louvre, Orsay, Pompidou, Rodin, Cluny...). Premier dimanche du mois : gratuité pour tous.\n\nLe **droit d'auteur** sur les œuvres d'art court 70 ans après la mort de l'auteur (code de la propriété intellectuelle). Après ce délai, l'œuvre tombe dans le domaine public — mais l'établissement qui conserve l'œuvre conserve un droit sur les reproductions photographiques de haute qualité. Photographier pour usage personnel dans la plupart des musées français est autorisé (sans flash, sans pied) ; toute reproduction commerciale nécessite une licence.\n\nLa **politique d'acquisition** des musées est contrôlée par l'État : le **droit de préemption** permet à l'État d'acquérir en priorité toute œuvre mise en vente aux enchères jugée d'intérêt patrimonial. Le **trésor national** désigne les œuvres dont l'exportation est interdite hors de France — procédure complexe permettant à l'État de bloquer les ventes à l'étranger pendant 30 mois pour tenter de les acquérir."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Démarches pratiques",
+        "icon": "📋",
+        "title": "Visiter les grands musées parisiens : conseils pratiques",
+        "body": "**Le Louvre** est le musée le plus visité du monde (9,6 millions de visiteurs en 2023) mais aussi l'un des plus grands (73 000 m² d'exposition, 35 000 œuvres exposées sur 380 000 conservées). Conseil crucial : **réservez en ligne** sur louvre.fr — les files d'attente sans réservation peuvent dépasser 3 heures. Choisissez vos salles prioritaires : la salle Denon (Vénus de Milo, Victoire de Samothrace, Joconde) sera bondée ; les salles de peinture flamande ou d'antiquités orientales sont souvent vides. Prévoir 3–4 heures minimum.\n\n**Le Musée d'Orsay** est le temple de l'impressionnisme mondial. Installé dans une ancienne gare (1900), il accueille les collections du XIXe siècle. Les salles impressionnistes sont au 5e niveau — l'essentiel à voir : Monet (*La Cathédrale de Rouen*, *Les Coquelicots*), Renoir (*Le Moulin de la Galette*), Degas (*La Classe de danse*, *L'Absinthe*), Van Gogh (*La Chambre à Arles*), Cézanne (*Les Joueurs de cartes*). Réservation en ligne recommandée.\n\n**Le Centre Pompidou** abrite le Musée national d'Art moderne — 2e collection d'art moderne et contemporain au monde après le MoMA de New York. Matisse, Picasso, Kandinsky, Duchamp, Warhol... La vue depuis la terrasse sur Paris vaut à elle seule la visite. Fermeture prévue pour rénovation de **2025 à 2030** — vérifier avant de vous déplacer.\n\n**Hors Paris** : le Musée de l'**Orangerie** (Nymphéas de Monet dans deux salles ovales — expérience immersive unique), la **Fondation Vuitton** (architecture Gehry, collections contemporaines), le musée **Picasso** (Marais — 5 000 œuvres du peintre), le musée **Marmottan** (plus grande collection Monet au monde)."
       },
       {
-        "theme": "Culture artistique",
-        "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "theme": "Droits & recours",
+        "icon": "🛡️",
+        "title": "Art et société : controverses, restitutions, patrimoine",
+        "body": "L'art français est au cœur de débats politiques majeurs ces dernières années.\n\nLes **restitutions d'œuvres d'art africaines** : en 2017, le président Macron annonce que la France restituera les œuvres africaines acquises pendant la colonisation. Le rapport Sarr-Savoy (2018) préconise la restitution de 90 000 œuvres africaines conservées dans les musées français. En 2021, 26 œuvres béninoises sont restituées — une première historique. Le débat sur les modalités et l'ampleur des restitutions est toujours vif.\n\nLes **pillages nazis** : environ 100 000 œuvres ont été volées aux familles juives en France sous l'Occupation. La France a créé la **Mission de recherche et de restitution des biens culturels spoliés** pour identifier et restituer ces œuvres. Depuis 1995 et le discours de Chirac reconnaissant la responsabilité de l'État français dans la déportation, les restitutions se sont accélérées.\n\nLe **patrimoine en péril** : l'incendie de Notre-Dame de Paris (avril 2019) a mis en lumière la vulnérabilité du patrimoine architectural. La reconstruction (rouverte en décembre 2024) a mobilisé 846 millions d'euros de dons du monde entier — dont un milliard promis par les grandes fortunes françaises (Pinault, Arnault). Ce «capitalisme philanthropique» autour du patrimoine est lui-même source de débat."
       },
       {
-        "theme": "Gastronomie & Codes sociaux",
-        "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "theme": "Impact sur la vie quotidienne",
+        "icon": "🏠",
+        "title": "L'art dans la vie française : omniprésent et ordinaire",
+        "body": "La France est le seul pays au monde où l'**art fait partie du programme scolaire obligatoire** à tous les niveaux — des arts plastiques en primaire jusqu'à l'histoire des arts au lycée, avec une épreuve orale au baccalauréat. Cette éducation artistique universelle crée une familiarité avec l'art que peu de pays connaissent.\n\nLe **1% artistique** est une loi française unique : depuis 1951, 1% du budget de toute construction publique (école, hôpital, tribunal, bibliothèque) doit être consacré à une œuvre d'art originale. Cette loi a permis d'intégrer des dizaines de milliers d'œuvres dans l'espace public — parfois des chefs-d'œuvre, parfois des créations contestées qui animent les débats locaux.\n\nLes **galeries d'art** sont particulièrement nombreuses à Paris : le **Marais** (3e et 4e arrondissements) concentre des centaines de galeries contemporaines. La **FIAC** (Foire Internationale d'Art Contemporain, au Grand Palais chaque octobre) et **Art Basel Paris** sont les grandes foires mondiales du marché de l'art. La France est le 3e marché mondial de l'art après les États-Unis et le Royaume-Uni.\n\nPour les amateurs : les **Journées du Patrimoine** (3e week-end de septembre) ouvrent gratuitement des centaines de monuments et lieux normalement fermés au public — palais présidentiel, ambassades, ateliers d'artistes, châteaux privés. C'est l'un des événements culturels les plus fréquentés de France (12 millions de visiteurs)."
+      },
+      {
+        "theme": "Lexique essentiel",
+        "icon": "📖",
+        "title": "Les mots de la peinture et des musées",
+        "body": "**L'impressionnisme** : mouvement pictural né en France vers 1860–1870 (Monet, Renoir, Degas, Pissarro, Sisley, Morisot) privilégiant la captation de la lumière fugace, les touches visibles et les sujets de la vie moderne sur la peinture académique.\n\n**Le Salon** : exposition officielle de peinture organisée annuellement par l'Académie des Beaux-Arts jusqu'en 1880. Arbitre du goût pendant deux siècles — refuser d'y être admis poussait les impressionnistes à créer leurs propres expositions.\n\n**Le domaine public** : statut d'une œuvre dont les droits d'auteur sont expirés (70 ans après la mort de l'auteur) — elle peut être librement reproduite par tous.\n\n**Le trésor national** : désignation officielle d'une œuvre d'art dont l'État peut bloquer l'exportation hors de France pendant 30 mois pour tenter de l'acquérir.\n\n**Les Journées du Patrimoine** : événement annuel (3e week-end de septembre) ouvrant gratuitement des centaines de monuments et lieux normalement fermés — palais, ambassades, ateliers, châteaux.\n\n**Le 1% artistique** : loi de 1951 imposant que 1% du budget de toute construction publique soit consacré à une œuvre d'art originale — a permis d'intégrer des dizaines de milliers d'œuvres dans l'espace public français."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à Impressionnisme et Peinture Française :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**Pour visiter le Louvre sans stress : arrivez à l'ouverture (9h) un mercredi ou vendredi (ouverture jusqu'à 21h45) et entrez par l'entrée des Tuileries ou du Carrousel — pas par la pyramide.** Ces entrées alternatives sont beaucoup moins fréquentées. Les détenteurs d'une carte Louvre Friends (50 €/an) entrent à tout moment sans file d'attente.\n\nSi vous voulez comprendre l'impressionnisme en profondeur avant de visiter l'Orsay : le documentaire «Les Impressionnistes» (France 5) est disponible en ligne et donne une introduction historique excellente. Et sachez que Berthe Morisot — souvent oubliée dans les récits — est l'une des figures les plus importantes du mouvement, et l'une des premières femmes artistes reconnues de son vivant en France."
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
+        "term": "L'impressionnisme",
+        "definition": "Mouvement pictural né en France ~1860–1870 (Monet, Renoir, Degas...) : captation de la lumière fugace, touches visibles, sujets modernes — rupture avec l'académisme."
       },
       {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
+        "term": "Le Salon",
+        "definition": "Exposition officielle de peinture de l'Académie des Beaux-Arts, arbitre du goût pendant deux siècles. Le refus des impressionnistes au Salon les pousse à exposer de façon indépendante."
       },
       {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "term": "Le domaine public",
+        "definition": "Statut d'une œuvre dont les droits d'auteur sont expirés (70 ans après la mort de l'auteur) — reproduction libre par tous."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "Le trésor national",
+        "definition": "Désignation permettant à l'État de bloquer pendant 30 mois l'exportation d'une œuvre jugée d'intérêt patrimonial majeur, pour tenter de l'acquérir."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
+        "term": "Les Journées du Patrimoine",
+        "definition": "Événement annuel (3e week-end de septembre) ouvrant gratuitement des centaines de monuments et lieux normalement fermés : palais, ambassades, ateliers, châteaux."
       },
       {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "Le 1% artistique",
+        "definition": "Loi de 1951 : 1% du budget de toute construction publique doit être consacré à une œuvre d'art originale — des dizaines de milliers d'œuvres intégrées dans l'espace public français."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «Impressionnisme et Peinture Française» dans la République française ?",
+        "question": "Quel tableau de Monet a donné son nom au mouvement impressionniste ?",
         "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
-        ],
-        "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
-      },
-      {
-        "question": "En France, la laïcité signifie que...",
-        "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
-        ],
-        "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
-      },
-      {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Les Nymphéas",
+          "La Cathédrale de Rouen",
+          "Impression, soleil levant",
+          "Le Déjeuner sur l'herbe"
         ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
+        "explanation": "«Impression, soleil levant» (1872) de Claude Monet est présenté lors de la première exposition indépendante des futurs impressionnistes en 1874. Le critique Louis Leroy raille ce tableau dans un article intitulé «L'exposition des impressionnistes» — et les peintres s'emparent de ce qualificatif ironique comme étendard. Le tableau est conservé au Musée Marmottan à Paris."
       },
       {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
+        "question": "Quelle politique d'accès les musées nationaux français appliquent-ils aux moins de 26 ans ressortissants de l'UE ?",
         "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
-        ],
-        "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
-      },
-      {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
-        "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
+          "Tarif réduit de 50%",
+          "Gratuité permanente pour les collections permanentes",
+          "Gratuité uniquement le premier dimanche du mois",
+          "Accès libre uniquement les jours de semaine"
         ],
         "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "Les musées nationaux français (Louvre, Orsay, Pompidou, Rodin, Cluny, Orangerie...) accordent la gratuité permanente pour les collections permanentes à tous les jeunes de moins de 26 ans ressortissants de l'UE. De plus, le premier dimanche de chaque mois, l'entrée est gratuite pour tous. Cette politique volontariste vise à démocratiser l'accès à la culture."
+      },
+      {
+        "question": "Qu'est-ce que le «1% artistique» en France ?",
+        "options": [
+          "La part du PIB consacrée à la culture",
+          "La loi de 1951 imposant que 1% du budget de toute construction publique finance une œuvre d'art originale",
+          "Le taux de TVA réduit sur les œuvres d'art",
+          "La commission perçue par les galeries sur les ventes"
+        ],
+        "correct_index": 1,
+        "explanation": "Le 1% artistique est une loi française de 1951 unique au monde : elle oblige tous les maîtres d'ouvrage publics (État, collectivités) à consacrer 1% du coût de toute construction publique (école, hôpital, tribunal, bibliothèque) à la commande ou l'acquisition d'une œuvre d'art originale. Ce mécanisme a permis l'intégration de dizaines de milliers d'œuvres dans l'espace public."
+      },
+      {
+        "question": "Dans quel musée parisien se trouve la plus grande collection d'art impressionniste au monde ?",
+        "options": [
+          "Le Louvre",
+          "Le Centre Pompidou",
+          "Le Musée d'Orsay",
+          "Le Musée Marmottan"
+        ],
+        "correct_index": 2,
+        "explanation": "Le Musée d'Orsay, installé dans une ancienne gare construite en 1900, abrite la plus grande collection d'art impressionniste et post-impressionniste au monde : Monet, Renoir, Degas, Pissarro, Sisley, Morisot, Van Gogh, Cézanne, Gauguin, Seurat... Les salles impressionnistes se trouvent au 5e niveau et constituent le cœur de la visite."
+      },
+      {
+        "question": "Que sont les «Journées du Patrimoine» en France ?",
+        "options": [
+          "Des ventes aux enchères d'art organisées par l'État",
+          "Un week-end annuel ouvrant gratuitement des centaines de monuments normalement fermés",
+          "Des journées de formation pour les conservateurs de musées",
+          "Un festival de cinéma sur le patrimoine architectural"
+        ],
+        "correct_index": 1,
+        "explanation": "Les Journées européennes du Patrimoine (3e week-end de septembre) ouvrent gratuitement des centaines de lieux normalement fermés au public : Palais de l'Élysée, ambassades, ministères, ateliers d'artistes, châteaux privés, monuments classés. Créées en France en 1984, elles ont été étendues à toute l'Europe en 1991. 12 millions de visiteurs en France chaque année."
       }
     ]
   },
   "ru": {
     "module_title": "Искусство, литература и музыка",
     "lesson_title": "Импрессионизм и французская живопись",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Импрессионизм и французская живопись. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_subtitle": "От Версаля до «Кувшинок»: пять веков живописного гения",
+    "intro": "Французская живопись несколько раз перевернула мировое искусство: классицизм Пуссена в XVII веке, романтизм Делакруа в XIX-м, и прежде всего импрессионизм — движение, зародившееся в Париже в 1860-х годах, окончательно разрушившее каноны художественного изображения и открывшее путь всему современному искусству. Понять французскую живопись — значит понять, как страна научилась видеть иначе.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Импрессионизм и французская живопись** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "От классицизма к импрессионизму: революция за два века",
+        "body": "Французская живопись переживает свой первый великий период при **Людовике XIV**: Никола Пуссен (1594–1665) и Шарль Лебрен определяют **французский классицизм** — историческая живопись, античная мифология, уравновешенные композиции, первенство рисунка над цветом. **Королевская академия живописи и скульптуры** (основана в 1648 году) устанавливает правила и организует **Салон** — официальную ежегодную выставку, на два века становящуюся абсолютным арбитром вкуса.\n\nРазрыв приходит с **импрессионизмом**. В 1874 году Моне, Ренуар, Дега, Писсарро, Сислей и Берта Моризо — отвергнутые или маргинализированные официальным Салоном — организуют собственную выставку. Недоброжелательный критик высмеивает картину Моне «Впечатление. Восходящее солнце»: художники подхватывают слово «impression» как знамя. Их революция двойная: техническая (писать на пленэре, запечатлевать мимолётный свет, видимые мазки) и тематическая (современная жизнь, вокзалы, кафе, берега Сены, танцовщицы Дега).\n\nИмпрессионизм открывает каскад движений: **постимпрессионизм** (Сезанн, Ван Гог, Гоген — изгнанники следующего поколения, прошедшие через Париж), **фовизм** (Матисс, Дерен — взрывные чистые цвета, 1905), **кубизм** (Пикассо и Брак в Париже, 1907 — дробление формы). Париж остаётся до 1940 года мировой столицей живого искусства."
       },
       {
-        "theme": "Регион",
-        "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
-      },
-      {
-        "theme": "Политика и общество",
+        "theme": "Правовая база и тексты",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Французские музеи: доступ, коллекции, культурная политика",
+        "body": "Франция располагает самой плотной музейной сетью в Европе. **Национальные музеи** (в ведении Министерства культуры) проводят прогрессивную политику доступа: **постоянная бесплатность** для молодёжи до 26 лет — граждан ЕС — в постоянных коллекциях национальных музеев (Лувр, Орсе, Помпиду, Роден, Клюни...). Первое воскресенье месяца: бесплатный вход для всех.\n\n**Авторское право** на произведения искусства действует 70 лет после смерти автора (кодекс интеллектуальной собственности). По истечении этого срока произведение переходит в общественное достояние — но учреждение, хранящее произведение, сохраняет право на высококачественные фотографические репродукции. Фотографировать для личного пользования в большинстве французских музеев разрешено (без вспышки и штатива); любое коммерческое воспроизведение требует лицензии.\n\n**Политика приобретения** музеев контролируется государством: **право преимущественной покупки** позволяет государству приоритетно приобрести любое произведение, выставленное на аукцион и признанное представляющим патримониальный интерес. Статус **национального сокровища** означает запрет экспорта — сложная процедура, позволяющая государству блокировать зарубежные продажи на 30 месяцев для попытки выкупа."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Практические шаги",
+        "icon": "📋",
+        "title": "Посещение крупных парижских музеев: практические советы",
+        "body": "**Лувр** — самый посещаемый музей мира (9,6 млн человек в 2023 году) и один из крупнейших (73 000 м² экспозиции, 35 000 выставленных работ из 380 000 хранящихся). Ключевой совет: **бронируйте онлайн** на louvre.fr — без брони очередь может превышать 3 часа. Выбирайте приоритетные залы: зал Денон (Венера Милосская, Ника Самофракийская, Джоконда) будет переполнен; залы фламандской живописи или восточных древностей часто пусты. Планируйте не менее 3–4 часов.\n\n**Музей Орсе** — мировой храм импрессионизма. Расположен в бывшем вокзале (1900 год), хранит коллекции XIX века. Импрессионистские залы — на 5-м уровне. Обязательно увидеть: Моне (*Руанский собор*, *Маки*), Ренуар (*Мулен де ла Галет*), Дега (*Урок танца*, *Абсент*), Ван Гог (*Спальня в Арле*), Сезанн (*Игроки в карты*). Рекомендуется бронировать онлайн.\n\n**Центр Помпиду** — Национальный музей современного искусства: 2-я в мире коллекция после нью-йоркского МоМА. Матисс, Пикассо, Кандинский, Дюшан, Уорхол... Вид с террасы на Париж стоит посещения сам по себе. Плановое закрытие на реновацию с **2025 по 2030 год** — проверяйте перед визитом.\n\n**За пределами Парижа**: музей **Оранжери** (Кувшинки Моне в двух овальных залах — уникальный иммерсивный опыт), **Фонд Луи Виттон** (архитектура Гери, современные коллекции), музей **Пикассо** (Маре — 5 000 работ художника), музей **Мармоттан** (крупнейшая в мире коллекция Моне)."
       },
       {
-        "theme": "Художественная культура",
-        "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "theme": "Права и средства защиты",
+        "icon": "🛡️",
+        "title": "Искусство и общество: споры, реституции, наследие",
+        "body": "Французское искусство в последние годы находится в центре крупных политических дискуссий.\n\n**Реституции африканских произведений**: в 2017 году президент Макрон объявил, что Франция вернёт произведения, приобретённые в эпоху колониализма. Доклад Сарр-Савуа (2018) рекомендовал реституцию 90 000 африканских произведений, хранящихся во французских музеях. В 2021 году 26 бенинских произведений были возвращены — историческое первое. Дискуссия о масштабах и условиях реституций по-прежнему остра.\n\n**Нацистские мародёрства**: около 100 000 произведений были похищены у еврейских семей во Франции в годы Оккупации. Франция создала **Миссию по розыску и реституции культурных ценностей** для их идентификации и возвращения. После признания Шираком в 1995 году ответственности французского государства за депортации реституции ускорились.\n\n**Наследие в опасности**: пожар Нотр-Дам де Пари (апрель 2019 года) наглядно показал уязвимость архитектурного наследия. Восстановление (открытие в декабре 2024 года) привлекло 846 млн € пожертвований со всего мира — в том числе миллиард, обещанный крупнейшими французскими состояниями (Пино, Арно). Этот «благотворительный капитализм» вокруг наследия сам по себе стал предметом споров."
       },
       {
-        "theme": "Гастрономия и социальные коды",
-        "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "theme": "Влияние на повседневную жизнь",
+        "icon": "🏠",
+        "title": "Искусство в повседневной жизни Франции: повсеместное и обыденное",
+        "body": "Франция — единственная страна в мире, где **искусство является обязательным предметом** на всех ступенях школьного образования — от изобразительного искусства в начальной школе до истории искусств в лицее с устным экзаменом на бакалавриате. Это повсеместное художественное воспитание создаёт знакомость с искусством, которую знают немногие страны.\n\n**Правило 1%** — уникальный французский закон: с 1951 года 1% бюджета любого государственного строительства (школа, больница, суд, библиотека) должен расходоваться на оригинальное произведение искусства. Этот закон позволил интегрировать десятки тысяч произведений в общественное пространство — порой шедевры, порой спорные работы, оживляющие местные дискуссии.\n\n**Художественные галереи** особенно многочисленны в Париже: **Маре** (3-й и 4-й округа) концентрирует сотни современных галерей. **FIAC** (Международная ярмарка современного искусства, в Большом Дворце каждый октябрь) и **Art Basel Paris** — крупнейшие мировые ярмарки рынка искусства. Франция — 3-й мировой рынок искусства после США и Великобритании.\n\nДля любителей: **Дни наследия** (3-е воскресенье сентября) открывают бесплатно сотни памятников и мест, обычно закрытых для публики — президентский дворец, посольства, мастерские художников, частные замки. Это одно из наиболее посещаемых культурных событий Франции (12 млн посетителей)."
+      },
+      {
+        "theme": "Основной словарь",
+        "icon": "📖",
+        "title": "Слова живописи и музеев",
+        "body": "**L'impressionnisme / Импрессионизм**: живописное движение, зародившееся во Франции ~1860–1870-х (Моне, Ренуар, Дега...) — фиксация мимолётного света, видимые мазки, современные сюжеты, разрыв с академизмом.\n\n**Le Salon / Салон**: официальная выставка живописи Академии изящных искусств, на два века ставшая арбитром вкуса. Отказ принять импрессионистов подтолкнул их к самостоятельным выставкам.\n\n**Le domaine public / Общественное достояние**: статус произведения, авторские права на которое истекли (70 лет после смерти автора) — свободно воспроизводимое всеми.\n\n**Le trésor national / Национальное сокровище**: обозначение, позволяющее государству блокировать экспорт произведения на 30 месяцев для попытки его приобретения.\n\n**Les Journées du Patrimoine / Дни наследия**: ежегодное событие (3-е воскресенье сентября), открывающее бесплатно сотни обычно закрытых памятников: дворцы, посольства, мастерские, замки.\n\n**Le 1% artistique / Правило 1%**: закон 1951 года: 1% бюджета любого государственного строительства должен расходоваться на оригинальное произведение искусства — десятки тысяч работ интегрированы в французское общественное пространство."
       }
     ],
     "conseil_ami": {
       "title": "Дружеский совет 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Импрессионизм и французская живопись»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**Чтобы посетить Лувр без стресса: приходите к открытию (9:00) в среду или пятницу (работает до 21:45) и входите через Тюильри или Карусель — не через пирамиду.** Эти альтернативные входы значительно менее загружены. Обладатели карты Louvre Friends (50 €/год) входят в любое время без очереди.\n\nЕсли хотите глубже понять импрессионизм перед посещением Орсе: документальный фильм «Les Impressionnistes» (France 5) доступен онлайн и даёт отличное историческое введение. И знайте, что Берта Моризо — нередко забытая в исторических повествованиях — является одной из важнейших фигур движения и одной из первых женщин-художников, признанных при жизни во Франции."
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "L'impressionnisme / Импрессионизм",
+        "definition": "Живописное движение ~1860–1870-х (Моне, Ренуар, Дега...): фиксация мимолётного света, видимые мазки, современные сюжеты — разрыв с академизмом."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "Le Salon / Салон",
+        "definition": "Официальная выставка живописи Академии изящных искусств, два века определявшая вкусы. Отказ принять импрессионистов толкнул их к самостоятельным выставкам."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "Le domaine public / Общественное достояние",
+        "definition": "Статус произведения, авторские права на которое истекли (70 лет после смерти автора) — свободно воспроизводимое всеми."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "Le trésor national / Национальное сокровище",
+        "definition": "Обозначение, позволяющее государству блокировать экспорт произведения на 30 месяцев для попытки его приобретения."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "Les Journées du Patrimoine / Дни наследия",
+        "definition": "Ежегодное событие (3-е воскресенье сентября), бесплатно открывающее сотни обычно закрытых мест: дворцы, посольства, мастерские, замки."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "Le 1% artistique / Правило 1%",
+        "definition": "Закон 1951 года: 1% бюджета любого государственного строительства идёт на оригинальное произведение искусства — десятки тысяч работ в французском общественном пространстве."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Импрессионизм и французская живопись» во Французской республике?",
+        "question": "Какая картина Моне дала название движению импрессионистов?",
         "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
-        ],
-        "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
-      },
-      {
-        "question": "Светскость во Франции означает, что...",
-        "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
-        ],
-        "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
-      },
-      {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Кувшинки",
+          "Руанский собор",
+          "Впечатление. Восходящее солнце",
+          "Завтрак на траве"
         ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
+        "explanation": "«Впечатление. Восходящее солнце» (1872) Клода Моне было представлено на первой независимой выставке будущих импрессионистов в 1874 году. Критик Луи Лерой высмеял картину в статье «Выставка импрессионистов» — и художники подхватили это ироническое определение как знамя. Картина хранится в Музее Мармоттан в Париже."
       },
       {
-        "question": "Членом-основателем какой международной организации является Франция?",
+        "question": "Какую политику доступа национальные музеи Франции применяют к молодёжи до 26 лет — гражданам ЕС?",
         "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
-        ],
-        "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
-      },
-      {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
-        "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
+          "Скидка 50%",
+          "Постоянный бесплатный вход в постоянные коллекции",
+          "Бесплатно только в первое воскресенье месяца",
+          "Бесплатный доступ только в будние дни"
         ],
         "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "Национальные музеи Франции (Лувр, Орсе, Помпиду, Роден, Клюни, Оранжери...) предоставляют постоянный бесплатный вход в постоянные коллекции всем молодым людям до 26 лет — гражданам ЕС. Кроме того, в первое воскресенье каждого месяца вход бесплатен для всех. Эта активная политика направлена на демократизацию доступа к культуре."
+      },
+      {
+        "question": "Что такое «правило 1%» во Франции?",
+        "options": [
+          "Доля ВВП, направляемая на культуру",
+          "Закон 1951 года, обязывающий выделять 1% бюджета любого государственного строительства на оригинальное произведение искусства",
+          "Сниженная ставка НДС на произведения искусства",
+          "Комиссия галерей с продаж"
+        ],
+        "correct_index": 1,
+        "explanation": "Правило 1% — уникальный французский закон 1951 года: все государственные заказчики строительства (государство, коллективности) обязаны направлять 1% стоимости любого строительства (школа, больница, суд, библиотека) на заказ или приобретение оригинального произведения искусства. Этот механизм позволил интегрировать десятки тысяч произведений в общественное пространство."
+      },
+      {
+        "question": "В каком парижском музее хранится крупнейшая в мире коллекция импрессионистского искусства?",
+        "options": [
+          "Лувр",
+          "Центр Помпиду",
+          "Музей Орсе",
+          "Музей Мармоттан"
+        ],
+        "correct_index": 2,
+        "explanation": "Музей Орсе, расположенный в бывшем вокзале 1900 года, хранит крупнейшую в мире коллекцию импрессионистского и постимпрессионистского искусства: Моне, Ренуар, Дега, Писсарро, Сислей, Моризо, Ван Гог, Сезанн, Гоген, Сёра... Залы импрессионистов находятся на 5-м уровне и составляют сердце посещения."
+      },
+      {
+        "question": "Что такое «Дни наследия» во Франции?",
+        "options": [
+          "Аукционы произведений искусства, организуемые государством",
+          "Ежегодный уик-энд, открывающий бесплатно сотни обычно закрытых памятников",
+          "Дни повышения квалификации музейных хранителей",
+          "Кинофестиваль об архитектурном наследии"
+        ],
+        "correct_index": 1,
+        "explanation": "Европейские дни наследия (3-е воскресенье сентября) бесплатно открывают сотни обычно закрытых для публики мест: Елисейский дворец, посольства, министерства, мастерские художников, частные замки, классифицированные памятники. Созданные во Франции в 1984 году, они распространились на всю Европу в 1991-м. 12 млн посетителей ежегодно во Франции."
       }
     ]
   }

@@ -3,276 +3,285 @@
     "module_id": 2,
     "lesson_id": 2,
     "module_icon": "🗺️",
-    "lesson_icon": "🏔️",
-    "estimated_minutes": 12,
+    "lesson_icon": "⚓",
+    "estimated_minutes": 13,
     "difficulty": "intermédiaire",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "Normandie Tourisme — Histoire du débarquement",
+        "url": "https://www.normandie-tourisme.fr"
+      },
+      {
+        "label": "Alsace — culture et gastronomie",
+        "url": "https://www.alsace.eu"
+      },
+      {
+        "label": "Hauts-de-France — patrimoine industriel",
+        "url": "https://www.hautsdefrancetourisme.com"
+      }
     ]
   },
   "fr": {
-    "module_title": "La France et ses Régions",
+    "module_title": "Paris et ses Régions",
     "lesson_title": "Nord, Normandie et Grand Est",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : Nord, Normandie et Grand Est. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "Frontières, mémoires et cultures frontalières",
+    "intro": "Le nord et l'est de la France portent les cicatrices et les richesses de leur histoire particulière : des siècles de guerres et d'échanges avec l'Angleterre, l'Allemagne, les Flandres et la Belgique. De la Manche aux Vosges, ces régions combinent une identité française forte avec des influences extérieures qui les distinguent du reste du pays. C'est ici que se lisent le plus clairement les pages les plus douloureuses — mais aussi les plus héroïques — de l'histoire de France.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**Nord, Normandie et Grand Est** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "Guerres, résistances et mémoires",
+        "body": "Le nord de la France et la Normandie sont indissociables de l'histoire des guerres. La Normandie est le lieu du **Débarquement du 6 juin 1944** (D-Day), l'une des plus grandes opérations militaires de l'histoire : 156 000 soldats alliés débarquent sur cinq plages (Utah, Omaha, Gold, Juno, Sword) pour libérer la France occupée. Les **cimetières militaires** américain de Colleville-sur-Mer (9 387 tombes face à la mer) et allemand de La Cambe sont devenus des lieux de mémoire et de réconciliation. Chaque année, le 6 juin, des cérémonies officielles réunissent chefs d'État et vétérans.\n\nMais la Normandie, c'est aussi **Guillaume le Conquérant** (1028–1087), duc de Normandie qui envahit l'Angleterre en 1066, y devint roi, et fit du normand la langue de la cour anglaise pendant deux siècles. La **Tapisserie de Bayeux** (XIe siècle, 70 mètres de long) relate cet épisode en images — c'est la bande dessinée la plus ancienne du monde, classée à l'**UNESCO**.\n\nL'**Alsace-Lorraine** a un destin particulièrement douloureux : rattachée à l'Allemagne après la guerre franco-prussienne de 1870–71, puis rendue à la France en 1918, réannexée de force par le IIIe Reich en 1940, définitivement française en 1945. Ces allers-retours ont forgé une identité forte, double et fière : alsacienne d'abord, française profondément, avec un bilinguisme français-allemand qui s'entretient. La ville de **Strasbourg** est devenue le symbole de la réconciliation franco-allemande et accueille le **Parlement européen**."
       },
       {
-        "theme": "Région",
+        "theme": "Géographie",
         "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
+        "title": "De la Manche au Rhin : paysages du nord",
+        "body": "La **Normandie** est une région de collines verdoyantes, de bocages, de falaises calcaires blanches et de plages. Les **Falaises d'Étretat**, peintes par Monet, sont parmi les plus photographiées de France. La côte Normande borde la **Manche**, ce bras de mer de 560 km séparant la France de l'Angleterre — le détroit du Pas-de-Calais (entre Calais et Douvres) n'est large que de **33 km**. Le **tunnel sous la Manche** (Eurotunnel, ouvert en 1994) relie Calais à Folkestone en train en 35 minutes.\n\nLes **Hauts-de-France** (ex-Nord-Pas-de-Calais et Picardie) forment une grande plaine agricole et industrielle, bordée par la mer du Nord. **Lille** (230 000 hab.) est la métropole régionale, ville universitaire dynamique à 1h de Paris en TGV et à 1h de Bruxelles. La région a longtemps vécu du charbon et du textile — les **terrils** (haldes de déchets miniers) font partie du paysage et sont classés à l'UNESCO.\n\nLe **Grand Est** regroupe l'Alsace, la Lorraine et la Champagne-Ardenne. L'**Alsace** est un étroit couloir entre le **Rhin** (frontière naturelle avec l'Allemagne) et les **Vosges** — 190 km de long pour 50 km de large. La **Lorraine** accueille la ville de **Metz** et **Nancy**, et le plateau lorrain est traversé par la **Moselle**. La Champagne, à l'ouest, est connue mondialement pour ses vignobles et ses cathédrales gothiques (Reims, Châlons-en-Champagne)."
       },
       {
-        "theme": "Politique & Social",
+        "theme": "Politique",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "Régions frontalières et coopération européenne",
+        "body": "La fusion des régions en 2016 a créé trois grandes régions dans le nord et l'est : les **Hauts-de-France** (chef-lieu Lille), la **Normandie** (chef-lieu Rouen), et le **Grand Est** (chef-lieu Strasbourg). Ces fusions, décidées par la loi NOTRe, ont suscité des résistances locales : les Alsaciens en particulier regrettent la fusion avec la Lorraine et la Champagne, estimant que leur identité régionale distincte est diluée.\n\n**Strasbourg** occupe un statut unique : elle accueille le **Parlement européen** (siège officiel), le **Conseil de l'Europe** et la **Cour européenne des droits de l'homme**. C'est une ville à double vie — française en semaine, cosmopolite en permanence. Elle est le symbole vivant de la réconciliation franco-allemande voulue par de Gaulle et Adenauer (Traité de l'Élysée, 1963).\n\nLes régions frontalières bénéficient d'accords spéciaux de **coopération transfrontalière** avec la Belgique, le Luxembourg, l'Allemagne et la Suisse. Des dizaines de milliers de **travailleurs frontaliers** (les «frontaliers») vivent en France et travaillent en Allemagne, au Luxembourg ou en Suisse, où les salaires sont plus élevés. Ce phénomène social et économique est une réalité quotidienne dans ces régions."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Vie quotidienne",
+        "icon": "🏠",
+        "title": "Industrie, agriculture et littoral",
+        "body": "La Normandie est l'une des premières régions agricoles de France : élevage bovin, pommes (plus de 800 variétés cultivées), lait, crème et fromages. L'**agriculture normande** nourrit une industrie agroalimentaire puissante. Le port du **Havre** est le premier port de commerce français et le 2e d'Europe du Nord, avec 70 millions de tonnes de marchandises par an. La région accueille aussi une centrale nucléaire (Flamanville) et des sites pétrochimiques.\n\nDans les **Hauts-de-France**, le bassin minier est en reconversion depuis la fermeture des dernières mines (1990). La reconversion économique s'appuie sur la logistique (carrefour de l'Europe), l'agroalimentaire, le numérique (Euratechnologies à Lille). Le taux de chômage reste structurellement plus élevé qu'ailleurs en France, un héritage de la désindustrialisation des années 1980.\n\nL'**Alsace** est l'une des régions les plus prospères de France, grâce à sa position stratégique entre la France et l'Allemagne. Le **Rhin** est l'une des artères fluviales les plus chargées d'Europe. Strasbourg est un centre bancaire et institutionnel majeur. L'industrie chimique, pharmaceutique et mécanique y est très développée. Le tourisme joue aussi un rôle clé grâce à la **Route des Vins d'Alsace** et aux marchés de Noël (les plus anciens d'Europe, depuis 1570 à Strasbourg)."
       },
       {
-        "theme": "Culture artistique",
+        "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "title": "Cathédrales, impressionnisme et art de vivre rhénan",
+        "body": "La Normandie a inspiré les plus grands impressionnistes. **Claude Monet** (1840–1926) peignait les falaises d'Étretat, la cathédrale de Rouen (en plus de 30 versions selon les heures du jour) et vivait à **Giverny**, où son célèbre jardin aquatique avec les nymphéas est devenu l'un des sites les plus visités de France. **Gustave Flaubert** est né à Rouen — son roman **Madame Bovary** (1857) se déroule en Normandie et révolutionna la littérature mondiale.\n\nLe **Mont-Saint-Michel**, abbaye bénédictine construite à partir du VIIIe siècle sur un rocher qui devient île à marée haute, est le monument le plus visité de France hors Paris avec 3 millions de visiteurs par an. Classé **UNESCO** en 1979, il est entouré de la plus grande amplitude de marées d'Europe (15 mètres). La traversée des grèves à pied avec un guide reste une expérience unique.\n\nL'**Alsace** a un art de vivre très particulier, mi-français mi-germanique : les villages à **colombages** (Colmar, Eguisheim, Riquewihr) sont parmi les plus beaux de France. La tradition des **marchés de Noël** alsaciens (Christkindelsmarik à Strasbourg, créé en 1570) est la plus ancienne d'Europe. Les **winstubs** (tavernes alsaciennes) servent de la bière artisanale et une cuisine roborative dans une atmosphère chaleureuse que les Alsaciens appellent la **Gemütlichkeit** — l'art de la convivialité."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "title": "Cidre, choucroute et fromages du Nord",
+        "body": "La Normandie est une terre de produits laitiers d'exception. Le **camembert** (AOP, de Normandie) est l'un des fromages les plus connus au monde : un disque de pâte molle à croûte fleurie, créé selon la légende par Marie Harel à Camembert au XVIIIe siècle. Le **livarot**, le **pont-l'évêque** et le **neufchâtel** (en forme de cœur) complètent les grands fromages normands. La **crème fraîche** et le **beurre de Normandie** sont des ingrédients de base de la cuisine française.\n\nLa boisson normande emblématique est le **cidre** — une boisson légèrement pétillante à base de pommes fermentées (2–5% d'alcool), parfaite avec une galette de sarrasin. Le **calvados** est le grand alcool normand : une eau-de-vie de pomme vieillie en fût de chêne, dont les meilleures cuvées rivalisent avec les grands cognacs.\n\nEn Alsace, la cuisine reflète son identité double. La **choucroute garnie** (chou fermenté avec saucisses, jarret et lard) est le plat national alsacien. La **flammekueche** (tarte flambée : crème fraîche, lardons, oignons sur fine pâte) est le snack alsacien universel. Les **Bredeles** (petits gâteaux de Noël) sont confectionnés en famille dès novembre. Et dans les winstubs, on trinque avec une **bière artisanale** (Kronenbourg est né à Strasbourg en 1664) ou un **Riesling** d'Alsace — le vin blanc le plus aromatique de France."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à Nord, Normandie et Grand Est :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**En Normandie, la politesse passe par la lenteur.** Ne brusquez pas les échanges. Un Normand peut dire «Peut-être bien qu'oui, peut-être bien qu'non» — et c'est culturellement légendaire. Cette prudence, ce refus de s'engager trop vite, n'est pas de la froideur : c'est une forme de respect.\n\nEn Alsace, la culture de la **convivialité** (la Gemütlichkeit) est centrale. On invite volontiers chez soi, on aime accueillir. Mais attention : si vous êtes invité à dîner, n'arrivez **jamais en avance** (c'est gênant pour l'hôte) et apportez toujours quelque chose — du vin, des Bredeles, des fleurs.\n\nDans les Hauts-de-France, la solidarité ouvrière reste vivace. Les habitants du nord de la France (les «Ch'tis», d'après le film éponyme de 2008) ont une réputation de chaleur humaine et d'humour autodérisoire. Le fameux film «Bienvenue chez les Ch'tis» a renversé les clichés sur cette région : si vous en parlez, c'est une bonne entrée en matière avec un habitant du Nord."
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
+        "term": "Le D-Day",
+        "definition": "Le 6 juin 1944, le Débarquement allié en Normandie : la plus grande opération amphibie de l'histoire. Point de départ de la libération de la France occupée par l'Allemagne nazie."
       },
       {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
+        "term": "L'AOP (Appellation d'Origine Protégée)",
+        "definition": "Label européen garantissant qu'un produit (fromage, vin, charcuterie) est fabriqué dans une zone géographique précise selon un savoir-faire traditionnel. Exemple : camembert de Normandie AOP."
       },
       {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "term": "Le calvados",
+        "definition": "Eau-de-vie de pomme (ou de poire) distillée en Normandie, vieillie en fût de chêne. Appellation protégée. Sert parfois de «trou normand» (petit verre entre deux plats pour stimuler l'appétit)."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "La choucroute",
+        "definition": "Chou blanc fermenté dans du sel (sauerkraut en allemand), base de la «choucroute garnie» alsacienne servie avec saucisses et viandes fumées. Symbole de la cuisine alsacienne."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
+        "term": "Le Mont-Saint-Michel",
+        "definition": "Abbaye médiévale sur un rocher insulaire en baie de Normandie, classée UNESCO. Entourée des plus grandes marées d'Europe (jusqu'à 15 m). 3 millions de visiteurs/an."
       },
       {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "La Tapisserie de Bayeux",
+        "definition": "Broderie du XIe siècle (70 m de long) racontant la conquête de l'Angleterre par Guillaume le Conquérant en 1066. Classée UNESCO, conservée à Bayeux (Normandie). Souvent surnommée «la plus ancienne BD du monde»."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «Nord, Normandie et Grand Est» dans la République française ?",
+        "question": "Quel événement historique majeur s'est produit en Normandie le 6 juin 1944 ?",
         "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
-        ],
-        "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
-      },
-      {
-        "question": "En France, la laïcité signifie que...",
-        "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
-        ],
-        "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
-      },
-      {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "La signature du traité de paix franco-allemand",
+          "La libération de Paris par le général de Gaulle",
+          "Le Débarquement allié — D-Day — début de la libération de la France",
+          "La capitulation allemande en Europe"
         ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
+        "explanation": "Le 6 juin 1944 (D-Day), 156 000 soldats alliés (américains, britanniques, canadiens) débarquent sur 5 plages normandes. C'est le début de la libération de la France occupée depuis 1940. Le cimetière américain de Colleville-sur-Mer (9 387 tombes) et les plages sont devenus des lieux de pèlerinage mondiaux."
       },
       {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
+        "question": "Quelle institution européenne majeure siège à Strasbourg ?",
         "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
+          "La Commission européenne",
+          "La Cour de Justice de l'Union Européenne",
+          "Le Parlement européen",
+          "La Banque Centrale Européenne"
         ],
         "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
+        "explanation": "Le Parlement européen a son siège officiel à Strasbourg, symbole de réconciliation franco-allemande. Il y tient 12 sessions plénières par an. Le Conseil de l'Europe (distinct de l'UE) et la Cour européenne des droits de l'homme y siègent également."
       },
       {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
+        "question": "Quel artiste impressionniste peignait les falaises normandes et vivait à Giverny ?",
         "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
+          "Pierre-Auguste Renoir",
+          "Paul Cézanne",
+          "Edgar Degas",
+          "Claude Monet"
+        ],
+        "correct_index": 3,
+        "explanation": "Claude Monet (1840–1926) est intimement lié à la Normandie. Il peignit les falaises d'Étretat, la cathédrale de Rouen en plus de 30 versions, et créa à Giverny son jardin aquatique avec les nymphéas. La maison de Monet à Giverny est aujourd'hui l'un des sites les plus visités de France."
+      },
+      {
+        "question": "Quel est le plat emblématique de la cuisine alsacienne ?",
+        "options": [
+          "Le bouillabaisse",
+          "Le cassoulet",
+          "La choucroute garnie",
+          "Le pot-au-feu"
+        ],
+        "correct_index": 2,
+        "explanation": "La choucroute garnie — chou fermenté servi avec saucisses, jarret de porc et lard — est le plat national alsacien. Héritée de la tradition germanique (Sauerkraut), elle est devenue emblématique de la double identité franco-allemande de l'Alsace."
+      },
+      {
+        "question": "La Tapisserie de Bayeux représente quel événement historique ?",
+        "options": [
+          "La prise de la Bastille en 1789",
+          "La conquête de l'Angleterre par Guillaume le Conquérant en 1066",
+          "La bataille d'Azincourt de 1415",
+          "Le couronnement de Charlemagne en 800"
         ],
         "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "La Tapisserie de Bayeux (XIe siècle, 70 m de long) raconte en images la conquête de l'Angleterre par Guillaume, duc de Normandie, qui bat le roi Harold à Hastings en 1066 et devient roi d'Angleterre. Souvent appelée «la plus ancienne BD du monde», elle est classée à la mémoire du monde de l'UNESCO."
       }
     ]
   },
   "ru": {
-    "module_title": "Франция и её регионы",
+    "module_title": "Париж и регионы",
     "lesson_title": "Север, Нормандия и Гран-Эст",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Север, Нормандия и Гран-Эст. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_subtitle": "Границы, памятники и пограничные культуры",
+    "intro": "Север и восток Франции несут на себе шрамы и богатство своей особой истории: века войн и обменов с Англией, Германией, Фландрией и Бельгией. От пролива Ла-Манш до Рейна эти регионы сочетают сильную французскую идентичность с внешними влияниями, отличающими их от остальной страны. Именно здесь наиболее отчётливо читаются самые болезненные — но и самые героические — страницы истории Франции.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Север, Нормандия и Гран-Эст** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "Войны, сопротивление и память",
+        "body": "Север Франции и Нормандия неотделимы от военной истории. Нормандия — место **Высадки 6 июня 1944 года** (День «Д»), одной из крупнейших военных операций в истории: 156 000 союзных солдат высаживаются на пять пляжей (Юта, Омаха, Голд, Джуно, Суорд), чтобы освободить оккупированную Францию. Американское **военное кладбище** в Коллевиль-сюр-Мер (9 387 могил у моря) и немецкое в Ла-Камб стали местами памяти и примирения. Ежегодно 6 июня официальные церемонии собирают глав государств и ветеранов.\n\nНо Нормандия — это ещё и **Вильгельм Завоеватель** (1028–1087), герцог Нормандии, завоевавший Англию в 1066 году, ставший её королём и сделавший нормандский диалект языком английского двора на два века. **Гобелен из Байё** (XI век, 70 метров в длину) рассказывает об этом в картинках — это древнейший в мире «комикс», включённый в реестр **ЮНЕСКО**.\n\n**Эльзас-Лотарингия** имеет особенно болезненную судьбу: присоединена к Германии после франко-прусской войны 1870–71 годов, возвращена Франции в 1918 году, насильно аннексирована Третьим рейхом в 1940 году, окончательно французская с 1945 года. Эти перипетии сформировали сильную, двойственную и гордую идентичность: прежде всего эльзасская, глубоко французская, с поддерживаемым французско-немецким двуязычием. **Страсбург** стал символом французско-германского примирения и принимает **Европейский парламент**."
       },
       {
-        "theme": "Регион",
+        "theme": "География",
         "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
+        "title": "От Ла-Манша до Рейна: пейзажи севера",
+        "body": "**Нормандия** — регион зелёных холмов, живых изгородей, белых меловых скал и пляжей. **Скалы Этрета**, написанные Моне, входят в число самых фотографируемых мест Франции. Нормандское побережье омывается **Ла-Маншем** — проливом длиной 560 км, отделяющим Францию от Англии. В самом узком месте — Па-де-Кале (между Кале и Дувром) — ширина составляет всего **33 км**. **Тоннель под Ла-Маншем** (Eurotunnel, открыт в 1994 году) соединяет Кале с Фолкстоном поездом за 35 минут.\n\n**О-де-Франс** (бывшие Нор-Па-де-Кале и Пикардия) — большая сельскохозяйственная и промышленная равнина, омываемая Северным морем. **Лилль** (230 000 жит.) — региональная метрополия, динамичный студенческий город в 1 часе от Парижа на TGV и в 1 часе от Брюсселя. Регион долго жил углём и текстилем — **терриконы** (отвалы шахтных пород) вошли в пейзаж и внесены в список ЮНЕСКО.\n\n**Гран-Эст** объединяет Эльзас, Лотарингию и Шампань-Арденны. **Эльзас** — узкий коридор между **Рейном** (естественная граница с Германией) и **Вогезами** — 190 км в длину и 50 км в ширину. В **Лотарингии** — города **Мец** и **Нанси**, плато пересекает **Мозель**. Шампань на западе всемирно известна виноградниками и готическими соборами (Реймс, Шалон-ан-Шампань)."
       },
       {
-        "theme": "Политика и общество",
+        "theme": "Политика",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Приграничные регионы и европейское сотрудничество",
+        "body": "Слияние регионов в 2016 году создало три крупных региона на севере и востоке: **О-де-Франс** (административный центр Лилль), **Нормандия** (Руан) и **Гран-Эст** (Страсбург). Эти слияния, предусмотренные законом NOTRe, вызвали местное сопротивление: эльзасцы в особенности сожалели об объединении с Лотарингией и Шампанью, считая, что их самобытная идентичность растворяется.\n\n**Страсбург** занимает уникальное положение: он принимает **Европейский парламент** (официальная резиденция), **Совет Европы** и **Европейский суд по правам человека**. Это город двойной жизни — французский в будни, космополитичный всегда. Он — живой символ французско-германского примирения, задуманного де Голлем и Аденауэром (Елисейский договор, 1963).\n\nПриграничные регионы пользуются специальными соглашениями о **трансграничном сотрудничестве** с Бельгией, Люксембургом, Германией и Швейцарией. Десятки тысяч **трансграничных работников** (les frontaliers) живут во Франции и работают в Германии, Люксембурге или Швейцарии, где зарплаты выше. Это социально-экономическое явление — повседневная реальность этих регионов."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Повседневная жизнь",
+        "icon": "🏠",
+        "title": "Промышленность, сельское хозяйство и побережье",
+        "body": "Нормандия — один из ведущих аграрных регионов Франции: мясное скотоводство, яблоки (более 800 культивируемых сортов), молоко, сливки и сыры. **Нормандское сельское хозяйство** питает мощную пищевую промышленность. Порт **Гавр** — первый торговый порт Франции и второй в Северной Европе, через который проходит 70 миллионов тонн грузов в год. В регионе также работают атомная электростанция (Фламанвиль) и нефтехимические предприятия.\n\nВ **О-де-Франс** угольный бассейн находится в состоянии реструктуризации после закрытия последних шахт (1990). Экономическая конверсия опирается на логистику (перекрёсток Европы), агропром и цифровые технологии (Euratechnologies в Лилле). Уровень безработицы структурно выше, чем в среднем по Франции — наследие деиндустриализации 1980-х годов.\n\n**Эльзас** — один из самых процветающих регионов Франции благодаря стратегическому положению между Францией и Германией. **Рейн** — одна из самых загруженных речных артерий Европы. Страсбург — крупный банковский и институциональный центр. Развита химическая, фармацевтическая и машиностроительная промышленность. Туризм тоже играет ключевую роль благодаря **Эльзасской винной дороге** и рождественским ярмаркам (старейшие в Европе — в Страсбурге с 1570 года)."
       },
       {
-        "theme": "Художественная культура",
+        "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "title": "Соборы, импрессионизм и рейнское искусство жить",
+        "body": "Нормандия вдохновляла величайших импрессионистов. **Клод Моне** (1840–1926) писал скалы Этрета, Руанский собор (в более чем 30 вариантах по часам дня) и жил в **Живерни**, где его знаменитый водный сад с кувшинками стал одним из самых посещаемых мест Франции. **Гюстав Флобер** родился в Руане — его роман **«Мадам Бовари»** (1857) разворачивается в Нормандии и произвёл революцию в мировой литературе.\n\n**Мон-Сен-Мишель**, бенедиктинское аббатство на скале, превращающейся в остров при приливе (с VIII века), — самый посещаемый памятник Франции за пределами Парижа: 3 миллиона туристов в год. Включён в список **ЮНЕСКО** в 1979 году; омывается приливами с самой большой амплитудой в Европе (15 метров). Пешеходный переход по осушённому дну бухты с гидом — незабываемый опыт.\n\nВ **Эльзасе** особый образ жизни — полуфранцузский, полунемецкий: деревни с **фахверковыми домами** (Кольмар, Эгисхайм, Рикевир) входят в число красивейших во Франции. Традиция **рождественских ярмарок** (Christkindelsmarik в Страсбурге с 1570 года) — старейшая в Европе. В **вин-штубах** (эльзасских тавернах) подают крафтовое пиво и сытную кухню в атмосфере того, что эльзасцы называют **Gemütlichkeit** — искусством душевного уюта."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "title": "Сидр, квашеная капуста и северные сыры",
+        "body": "Нормандия — земля исключительных молочных продуктов. **Камамбер** (АОП Нормандии) — один из самых известных в мире сыров: диск мягкого сыра с белой плесневой корочкой, созданный, по легенде, Мари Арель в деревне Камамбер в XVIII веке. **Ливаро**, **пон-л'эвек** и **нёфшатель** (в форме сердца) — другие великие нормандские сыры. **Нормандские сливки** и **масло** — базовые ингредиенты французской кухни.\n\nПитьевой символ Нормандии — **сидр** (слабоалкогольный газированный напиток из сброженных яблок, 2–5% алкоголя), идеально сочетающийся с гречневой галетой. **Кальвадос** — великий нормандский алкоголь: яблочный бренди, выдержанный в дубовых бочках, лучшие образцы которого соперничают с великими коньяками.\n\nВ Эльзасе кухня отражает двойственную идентичность. **Шукрут гарни** (квашеная капуста с колбасками, рулькой и салом) — национальное блюдо Эльзаса. **Фламмекуш** (тарт фламбе: сметана, кусочки бекона, лук на тонком тесте) — универсальный эльзасский снек. **Бределе** (рождественское печенье) выпекают семьями с ноября. В вин-штубах чокаются крафтовым **пивом** (Kronenbourg основана в Страсбурге в 1664 году) или эльзасским **Рислингом** — самым ароматным белым вином Франции."
       }
     ],
     "conseil_ami": {
-      "title": "Дружеский совет 🤝",
+      "title": "Совет друга 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Север, Нормандия и Гран-Эст»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**В Нормандии вежливость измеряется неспешностью.** Не торопите общение. Нормандец может сказать «Peut-être bien qu'oui, peut-être bien qu'non» («может, да, может, нет») — и это культурно легендарно. Такая осторожность, нежелание торопиться с выводами — не холодность, а форма уважения.\n\nВ Эльзасе культура **гостеприимства** (Gemütlichkeit) центральна. Здесь охотно принимают дома, любят угощать. Но помните: если вас пригласили на ужин, **никогда не приходите раньше** (это ставит хозяина в неловкое положение) и всегда приносите что-нибудь — вино, бределе, цветы.\n\nВ О-де-Франс рабочая солидарность по-прежнему жива. Жители севера Франции (les Ch'tis, по названию фильма 2008 года) имеют репутацию душевных и самоироничных людей. Фильм «Добро пожаловать к ш'тям» опроверг клише об этом регионе — если упомянуть его, это хорошее начало разговора с жителем Севера."
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "День «Д» (D-Day)",
+        "definition": "6 июня 1944 года — высадка союзников в Нормандии, крупнейшая в истории морская десантная операция. Начало освобождения Франции от немецкой оккупации."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "АОП (Appellation d'Origine Protégée)",
+        "definition": "Европейский знак, гарантирующий, что продукт (сыр, вино, колбаса) произведён в определённом географическом районе по традиционным технологиям. Пример: камамбер де Нормандии АОП."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "Кальвадос",
+        "definition": "Яблочный (или грушевый) бренди, перегоняемый в Нормандии и выдержанный в дубовых бочках. Защищённое наименование. Иногда подаётся как «нормандская дырка» (маленькая рюмка между блюдами для возбуждения аппетита)."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "Шукрут (choucroute)",
+        "definition": "Квашеная белокочанная капуста (Sauerkraut по-немецки), основа эльзасского «шукрут гарни» с колбасками и копчёным мясом. Символ эльзасской кухни."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "Мон-Сен-Мишель",
+        "definition": "Средневековое аббатство на скале в нормандском заливе, внесённое в список ЮНЕСКО. Окружено приливами с самой большой амплитудой в Европе (до 15 м). 3 миллиона посетителей в год."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "Гобелен из Байё",
+        "definition": "Вышивка XI века (70 м в длину), рассказывающая о завоевании Англии Вильгельмом Завоевателем в 1066 году. Включена в реестр памяти мира ЮНЕСКО. Часто называется «старейшим комиксом в мире»."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Север, Нормандия и Гран-Эст» во Французской республике?",
+        "question": "Какое важное историческое событие произошло в Нормандии 6 июня 1944 года?",
         "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
-        ],
-        "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
-      },
-      {
-        "question": "Светскость во Франции означает, что...",
-        "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
-        ],
-        "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
-      },
-      {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Подписание французско-германского мирного договора",
+          "Освобождение Парижа генералом де Голлем",
+          "Высадка союзников — День «Д» — начало освобождения Франции",
+          "Капитуляция Германии в Европе"
         ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
+        "explanation": "6 июня 1944 года (День «Д») 156 000 союзных солдат (американских, британских, канадских) высадились на 5 нормандских пляжах. Это начало освобождения Франции, оккупированной с 1940 года. Американское кладбище в Коллевиль-сюр-Мер (9 387 могил) и пляжи стали местами всемирного паломничества."
       },
       {
-        "question": "Членом-основателем какой международной организации является Франция?",
+        "question": "Какой крупный европейский институт находится в Страсбурге?",
         "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
+          "Европейская комиссия",
+          "Суд Европейского союза",
+          "Европейский парламент",
+          "Европейский центральный банк"
         ],
         "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
+        "explanation": "Европейский парламент имеет официальную резиденцию в Страсбурге — символе французско-германского примирения. Здесь проходят 12 пленарных сессий в год. Совет Европы (отдельный от ЕС) и Европейский суд по правам человека также заседают в Страсбурге."
       },
       {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
+        "question": "Какой импрессионист писал нормандские скалы и жил в Живерни?",
         "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
+          "Пьер-Огюст Ренуар",
+          "Поль Сезанн",
+          "Эдгар Дега",
+          "Клод Моне"
+        ],
+        "correct_index": 3,
+        "explanation": "Клод Моне (1840–1926) неразрывно связан с Нормандией. Он писал скалы Этрета, Руанский собор в более чем 30 вариантах и создал в Живерни водный сад с кувшинками. Дом Моне в Живерни сегодня — одно из самых посещаемых мест Франции."
+      },
+      {
+        "question": "Какое блюдо является эмблемой эльзасской кухни?",
+        "options": [
+          "Буйабес",
+          "Кассуле",
+          "Шукрут гарни",
+          "Пот-о-фё"
+        ],
+        "correct_index": 2,
+        "explanation": "Шукрут гарни — квашеная капуста с колбасками, рулькой и беконом — национальное блюдо Эльзаса. Унаследованное от германской традиции (Sauerkraut), оно стало символом двойной франко-германской идентичности Эльзаса."
+      },
+      {
+        "question": "Что изображает Гобелен из Байё?",
+        "options": [
+          "Взятие Бастилии в 1789 году",
+          "Завоевание Англии Вильгельмом Завоевателем в 1066 году",
+          "Битву при Азенкуре в 1415 году",
+          "Коронацию Карла Великого в 800 году"
         ],
         "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "Гобелен из Байё (XI век, 70 м в длину) рассказывает в картинках о завоевании Англии Вильгельмом, герцогом Нормандии, победившим короля Гарольда при Гастингсе в 1066 году и ставшим королём Англии. Его часто называют «старейшим комиксом в мире»; внесён в реестр памяти мира ЮНЕСКО."
       }
     ]
   }

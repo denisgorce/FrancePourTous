@@ -4,275 +4,280 @@
     "lesson_id": 2,
     "module_icon": "🤝",
     "lesson_icon": "🍽️",
-    "estimated_minutes": 12,
+    "estimated_minutes": 14,
     "difficulty": "intermédiaire",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "UNESCO — Le repas gastronomique des Français",
+        "url": "https://ich.unesco.org/fr/RL/le-repas-gastronomique-des-francais-00437"
+      },
+      {
+        "label": "Culture.gouv — Gastronomie patrimoine",
+        "url": "https://www.culture.gouv.fr"
+      }
     ]
   },
   "fr": {
     "module_title": "Les Codes Sociaux Invisibles",
     "lesson_title": "À Table : Codes et Rituels",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : À Table : Codes et Rituels. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "Le repas français, théâtre de la vie sociale",
+    "intro": "Pour un Français, inviter quelqu'un à sa table n'est pas un acte anodin. C'est une déclaration de confiance, d'appartenance, d'hospitalité. Le repas est le lieu où les relations se fondent, où les affaires se concluent, où les familles se retrouvent. Mais cette scène sociale obéit à des règles précises — et invisibles pour qui n'a pas grandi dans cette culture. Cette leçon décrypte les rituels de la table française, de l'invitation jusqu'au dessert.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**À Table : Codes et Rituels** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "La table française à travers les siècles",
+        "body": "Le repas en France a une dimension symbolique et politique profonde. À Versailles, sous Louis XIV, les repas du roi (**«le Grand Couvert»**) étaient un spectacle public : les courtisans pouvaient assister au roi mangeant, debout derrière des barrières. Ce repas-théâtre codifiait une hiérarchie sociale et constituait un enjeu de pouvoir. Être invité à la table du roi, c'était être élevé au rang suprême.\n\nLa grande **cuisine française** se structure au XVIIe siècle avec le cuisinier **François Pierre de La Varenne**, qui rompt avec la tradition médiévale des épices masquant les saveurs, et introduit les sauces, les fonds et la valorisation du goût naturel des ingrédients. La France invente la **haute cuisine** — cuisine d'artiste, d'auteur — qui influencera toutes les cuisines du monde. Au XIXe siècle, **Auguste Escoffier** (1846–1935) codifie les recettes et les brigades de cuisine, créant le modèle de la restauration professionnelle mondiale.\n\nEn **2010**, l'UNESCO classe le «repas gastronomique des Français» au **Patrimoine Culturel Immatériel de l'Humanité** — non pour les plats eux-mêmes, mais pour le **rituel social** du repas : la façon dont il structure les relations humaines, célèbre les moments de vie (naissance, mariage, deuil, promotion), favorise le dialogue et la transmission culturelle. C'est la première fois qu'une pratique alimentaire d'un pays développé reçoit ce classement."
       },
       {
-        "theme": "Région",
+        "theme": "Géographie",
         "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
+        "title": "Les cuisines régionales de France",
+        "body": "La France n'a pas une cuisine — elle en a des dizaines. Chaque région a ses spécialités, ses produits, ses techniques, ses saisons. Cette diversité gastronomique reflète la diversité géographique et culturelle du pays. Quelques exemples :\n\n**Bretagne :** crêpes et galettes de sarrasin, fruits de mer (huîtres de Cancale, moules, homards), cidre, beurre salé. Le beurre salé breton est un cas particulier : dans une France où tout le monde utilisait du beurre doux, les Bretons avaient droit de saler leur beurre (car exemptés de la **gabelle**, l'impôt sur le sel, jusqu'à la Révolution). C'est aujourd'hui une fierté régionale.\n\n**Lyon** est la «capitale gastronomique de la France» (titre contesté, mais universellement admis). Les **bouchons lyonnais** sont des restaurants populaires servant une cuisine traditionnelle roborative : quenelles de brochet (au beurre de homard), andouillette (saucisse de tripes), salade lyonnaise (avec lardons et œuf poché), tarte à la praline rose. **Paul Bocuse** (1926–2018), cuisinier lyonnais, fut le plus célèbre chef du monde.\n\n**La Côte Atlantique et la Méditerranée** offrent des cuisines de la mer radicalement différentes : sole meunière, marmite de pêcheur, huîtres en Atlantique ; loup grillé, rouget, moules de Bouzigues, brandade de morue en Méditerranée. Les deux cuisines partagent une valorisation des produits frais et locaux, l'huile d'olive au Sud remplaçant le beurre du Nord."
       },
       {
-        "theme": "Politique & Social",
+        "theme": "Politique",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "Le repas comme espace politique et de représentation",
+        "body": "En France, les repas sont des espaces politiques au sens le plus large. Les **dîners d'État** à l'Élysée sont des instruments de diplomatie — on reçoit un chef d'État étranger avec un dîner soigneusement orchestré : menu du chef, vins sélectionnés pour le pays d'origine du visiteur, table dressée avec la vaisselle de la République. C'est un message politique autant qu'une marque d'hospitalité.\n\nLes **déjeuners d'affaires** sont une institution en France. Contrairement à l'Amérique du Nord où le business breakfast (7h-9h) ou le working lunch (repas pris au bureau) dominent, en France, un déjeuner d'affaires dure **1h30 à 2h00**, se déroule dans un restaurant (pas un sandwich à la cafétéria), comprend une entrée, un plat, éventuellement un dessert, et souvent un verre de vin. Pendant ce repas, les affaires sont abordées — mais après quelques échanges de politesse initials. Venir au déjeuner en disant «bon, on attaque le sujet ?» dès la mise en place de la serviette est très maladroit.\n\nLe **«déjeuner politique»** est une tradition vieille de siècles. Les «petits déjeuners» de l'Assemblée nationale, les déjeuners des «mardis» à l'Élysée avec les groupes parlementaires — tout le système politique français est rythmé par des repas. La table est l'espace où se nouent les alliances, où se règlent les conflits, où s'échangent les informations dans un cadre informel protégé."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Vie quotidienne",
+        "icon": "🏠",
+        "title": "Règles pratiques du repas français",
+        "body": "Le repas français suit une structure bien définie que tout convive doit connaître :\n\n**La structure du repas :** Un repas complet comprend une **entrée** (soupe, salade, charcuterie), un **plat principal** (viande ou poisson avec légumes ou féculents), éventuellement un **plateau de fromages**, et un **dessert**. Le pain accompagne tout, de l'entrée au fromage. On ne réserve pas son morceau de pain dans son assiette — il se pose directement sur la nappe ou sur le bord de l'assiette.\n\n**La bouteille de vin :** L'hôte ou l'hôtesse sert le vin à ses convives — on ne se sert pas soi-même. Si votre verre est encore à moitié plein et qu'on vous propose de resservir, il est poli de terminer d'abord son verre avant de tendre pour resservi. Couvrir son verre avec la main signifie «non merci, je n'en veux plus». Pour l'eau, il est courant de se servir soi-même.\n\n**Couteaux et fourchettes :** La fourchette se tient dans la main gauche, dents vers le bas, et le couteau dans la main droite — c'est la **méthode européenne continentale**, différente de la méthode américaine (couper puis transférer la fourchette dans la main droite). La cuillère à soupe s'utilise en poussant vers l'extérieur (loin de soi), pas en tirant vers soi. Croiser ses couverts sur l'assiette en fin de repas signale qu'on a terminé.\n\n**L'assiette :** Finir son assiette est un compliment en France — cela montre que c'était bon et qu'on avait faim. Laisser de la nourriture dans l'assiette n'est pas une grossièreté en soi, mais peut interroger l'hôte. En revanche, saucer son assiette avec du pain (éponger la sauce) est toléré — même apprécié dans les milieux populaires et familiaux, bien que réputé déplacé dans les milieux très formels."
       },
       {
-        "theme": "Culture artistique",
+        "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "title": "La table dans la peinture, la littérature et le cinéma",
+        "body": "La table est l'un des sujets artistiques les plus récurrents de la culture française. En peinture, **Édouard Manet** peint *Le Déjeuner sur l'herbe* (1863) — tableau scandaleux qui représente une femme nue assise avec des hommes en habit lors d'un repas champêtre. Ce tableau ne parle pas de la nourriture mais de la transgression sociale et du regard que les personnages échangent. En littérature, **Marcel Proust** ouvre sa recherche avec la madeleine trempée dans du thé — une saveur qui libère des torrents de mémoire. Le goût et l'olfactif sont, chez Proust, les déclencheurs de la mémoire involontaire.\n\nAu cinéma, **«Babette's Feast»** (Gabriel Axel, 1987, film danois mais tiré d'une nouvelle d'Isak Dinesen) montre comment un festin préparé par une cuisinière française transforme une communauté austère. **«Ratatouille»** (Pixar, 2007) met en scène un rat cuisinier dans un restaurant parisien — et sa scène finale, où le critique gastronomique Anton Ego goûte la ratatouille et est transporté dans son enfance, illustre magistralement le pouvoir émotionnel de la cuisine française.\n\nLa **critique gastronomique** est un genre littéraire en France. **Grimod de La Reynière** (1758–1837) invente le **restaurant criticism** avec son *Almanach des Gourmands* (1803–1812). Le **Guide Michelin**, créé en 1900 par les frères Michelin pour encourager l'automobilisme, publie dès 1926 des étoiles pour les restaurants d'exception. Aujourd'hui, une **étoile Michelin** peut transformer un restaurant inconnu en lieu incontournable — et la perte d'une étoile a conduit des chefs au désespoir (l'affaire Bernard Loiseau, 2003, est emblématique)."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "title": "L'invitation à dîner — décryptage complet",
+        "body": "Être invité à dîner chez un Français est un honneur — et une responsabilité sociale. Voici le protocole complet :\n\n**Avant le repas :** On arrive avec un **cadeau** : une bonne bouteille de vin, des fleurs (attention : pas de chrysanthèmes, qui symbolisent le deuil), des chocolats, des macarons. Les bougies ou les bougies parfumées sont aussi appréciées. N'apportez pas de fleurs coupées jaunes (infidélité) ni de fleurs en nombre pair (nombres pairs réservés aux deuils dans la tradition).\n\n**L'apéritif :** C'est le moment d'arrivée et de socialisation. On boit un verre (champagne, vin blanc, pastis, jus de fruit) en grignotant des amuse-bouches. L'apéritif peut durer 30 à 60 minutes. C'est le moment des politesses, des nouvelles. Parler de soi trop longuement à l'apéritif est maladroit.\n\n**Pendant le repas :** L'hôte dirige. Ne vous levez pas de table sans raison pendant le repas. Attendez que l'hôte vous propose une deuxième assiette avant de vous resservir (ou demandez la permission). Les sujets de conversation au dîner : culture, actualité, voyages, livres, films — jamais l'argent, rarement la politique (trop clivant) et jamais de problèmes personnels graves qui assombriraient l'ambiance.\n\n**Après le repas :** Une fois les desserts terminés, l'hôte propose souvent un café et éventuellement un digestif (cognac, armagnac, calvados). Ce moment marque la transition vers une conversation plus libre et détendue. Partir trop tôt après le café (moins de 30 minutes) peut paraître brusque. Rester trop longtemps (après 23h si le dîner a commencé à 20h) implique d'attendre un signe de l'hôte (bâillements, regards à la montre). Le lendemain, un SMS ou un message pour remercier est fortement apprécié."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à À Table : Codes et Rituels :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**Les Français ne parlent pas affaires pendant le repas — mais c'est pendant le repas que tout se joue.** Cette contradiction apparente s'explique ainsi : le repas crée d'abord une relation de confiance et d'humanité. Ce n'est qu'une fois cette confiance établie que les affaires peuvent vraiment se conclure. Un Français qui ne vous a pas «vu manger» ne vous connaît pas vraiment.\n\nPour un Russe habitué à une culture de la réunion formelle (ordre du jour, durée limitée, résultats concrets), le déjeuner d'affaires français peut sembler une perte de temps. C'est l'inverse : c'est l'essentiel. Si vous repartez du déjeuner avec un accord vague «on va y réfléchir», c'est bon signe — les Français formalisent après. Si le repas s'est bien passé humainement, le contrat suivra.\n\nUne erreur classique des étrangers : **refuser le vin** brusquement. «Je ne bois pas» sans explication peut créer un moment de gêne. Mieux vaut dire «Je fais attention en ce moment, mais je prends un peu pour trinquer» — et tremper les lèvres. La participation au rituel compte plus que la quantité consommée."
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
+        "term": "L'apéritif (l'apéro)",
+        "definition": "Moment convivial avant le repas, avec des boissons et amuse-bouches. Culturellement très important en France — c'est souvent une invitation à «l'apéro» plutôt qu'au dîner qui marque le début d'une amitié."
       },
       {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
+        "term": "Le digestif",
+        "definition": "Alcool fort servi après le repas (cognac, armagnac, calvados, eau-de-vie). Censé «aider à digérer» — mythe gastronomique, mais rituel social réel. Marque la transition vers la conversation informelle de fin de soirée."
       },
       {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "term": "La méthode européenne (couteaux et fourchettes)",
+        "definition": "Style de tenu des couverts : fourchette dans la main gauche (dents vers le bas), couteau dans la main droite, sans changer de main. Contrairement à la méthode américaine (couper puis transférer la fourchette)."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "Le Guide Michelin",
+        "definition": "Guide gastronomique annuel (depuis 1900) décernant 1, 2 ou 3 étoiles aux meilleurs restaurants. Une étoile = «une très bonne cuisine» ; deux étoiles = «vaut le détour» ; trois étoiles = «vaut le voyage». Standard mondial de l'excellence gastronomique."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
+        "term": "Saucer l'assiette",
+        "definition": "Éponger la sauce restante dans son assiette avec un morceau de pain. Techniquement impoli dans les contextes très formels, mais accepté et même apprécié en contexte familial ou populaire comme marque d'appréciation de la cuisine."
       },
       {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "L'entrée",
+        "definition": "Premier plat d'un repas français (soupe, salade, charcuterie, carpaccio...). Attention : en anglais, «entree» signifie le plat principal — source de confusion fréquente pour les anglophones en France."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «À Table : Codes et Rituels» dans la République française ?",
+        "question": "Pourquoi le «repas gastronomique des Français» est-il classé à l'UNESCO depuis 2010 ?",
         "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
-        ],
-        "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
-      },
-      {
-        "question": "En France, la laïcité signifie que...",
-        "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
-        ],
-        "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
-      },
-      {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Pour la qualité nutritionnelle supérieure de la cuisine française",
+          "Pour le nombre de chefs étoilés Michelin en France",
+          "Pour le rituel social du repas : la façon dont il structure les relations humaines",
+          "Pour l'exportation mondiale des recettes françaises"
         ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
+        "explanation": "L'UNESCO a classé non pas les recettes ou les ingrédients, mais le rituel social du repas français — la façon dont il célèbre les moments importants de la vie, favorise le dialogue, transmets la culture. C'est la première fois qu'une pratique alimentaire d'un pays développé reçoit ce classement."
       },
       {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
+        "question": "Dans un repas formel en France, à qui revient la responsabilité de servir le vin ?",
         "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
-        ],
-        "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
-      },
-      {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
-        "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
+          "Chaque convive se sert lui-même",
+          "C'est au serveur ou à l'hôte de servir les convives",
+          "L'invité le plus âgé sert les autres",
+          "On fait circuler la bouteille dans le sens des aiguilles d'une montre"
         ],
         "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "En France, dans un contexte formel ou semi-formel, c'est l'hôte (ou le serveur) qui sert le vin aux convives. Se servir soi-même sans attendre l'hôte est considéré comme impoli. Si vous souhaitez du vin, il est poli d'attendre un regard ou une proposition de l'hôte."
+      },
+      {
+        "question": "Que signifie croiser ses couverts sur l'assiette à la fin d'un repas en France ?",
+        "options": [
+          "Que l'on souhaite être reservi",
+          "Que le repas était mauvais",
+          "Que l'on a terminé son assiette",
+          "Que l'on veut du pain"
+        ],
+        "correct_index": 2,
+        "explanation": "Croiser ses couverts (fourchette et couteau en X) sur l'assiette signale que l'on a terminé. C'est un signal visuel pour le serveur ou l'hôte. En revanche, laisser ses couverts de part et d'autre de l'assiette (couteau à droite, fourchette à gauche, séparés) indique qu'on fait une pause mais qu'on n'a pas terminé."
+      },
+      {
+        "question": "Quel cadeau est déconseillé en France quand on est invité à dîner chez quelqu'un ?",
+        "options": [
+          "Une bouteille de champagne",
+          "Des fleurs jaunes ou des chrysanthèmes",
+          "Une boîte de chocolats",
+          "Un livre de recettes"
+        ],
+        "correct_index": 1,
+        "explanation": "En France, les chrysanthèmes sont les fleurs du deuil et des cimetières — les apporter en cadeau serait très maladroit. Les fleurs jaunes symbolisent l'infidélité dans la tradition française. À éviter aussi : les bouquets en nombre pair (associés aux funérailles). Optez pour des fleurs colorées en nombre impair, ou du vin, des chocolats."
+      },
+      {
+        "question": "Quand est-il approprié d'aborder les affaires lors d'un déjeuner professionnel en France ?",
+        "options": [
+          "Dès que tout le monde est assis, pour ne pas perdre de temps",
+          "Après quelques échanges de politesse initiaux, en milieu de repas",
+          "Uniquement après le café, jamais pendant le repas",
+          "Seulement si l'hôte prend l'initiative d'aborder le sujet"
+        ],
+        "correct_index": 1,
+        "explanation": "En France, le déjeuner professionnel commence toujours par quelques échanges informels (météo, actualités, comment se passe la vie). Les affaires peuvent être abordées en milieu de repas, mais jamais d'emblée. Foncer sur le sujet sans ces préliminaires sociaux est vécu comme brutal et irrespectueux — cela signifie que vous n'êtes là que pour la transaction, pas pour la relation."
       }
     ]
   },
   "ru": {
     "module_title": "Невидимые социальные коды",
     "lesson_title": "За столом: коды и ритуалы",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: За столом: коды и ритуалы. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_subtitle": "Французский обед — театр социальной жизни",
+    "intro": "Для француза пригласить кого-то к своему столу — не мелочь. Это декларация доверия, принадлежности, гостеприимства. Трапеза — место, где закладываются отношения, заключаются сделки, воссоединяются семьи. Но эта социальная сцена подчиняется чётким — и невидимым для тех, кто не вырос в этой культуре — правилам. Этот урок расшифровывает ритуалы французского стола — от приглашения до десерта.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**За столом: коды и ритуалы** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "Французский стол сквозь века",
+        "body": "Трапеза во Франции несёт глубокое символическое и политическое измерение. В Версале при Людовике XIV королевские обеды (**«Grand Couvert»**) были публичным зрелищем: придворные могли наблюдать за едящим королём, стоя за барьером. Этот «обед-театр» кодифицировал социальную иерархию и являлся ставкой во власти. Быть приглашённым за королевский стол означало быть возведённым в высший ранг.\n\nВеликая **французская кухня** оформляется в XVII веке с поваром **Франсуа Пьером де Ла Варенном**, который порывает со средневековой традицией специй, маскирующих вкус, и вводит соусы, бульонные основы и уважение к естественному вкусу ингредиентов. Франция изобретает **высокую кухню** — кухню художника и автора — которая повлияет на все кухни мира. В XIX веке **Огюст Эскофье** (1846–1935) кодифицирует рецепты и кухонные бригады, создавая модель мировой профессиональной ресторации.\n\nВ **2010 году** ЮНЕСКО внесло «гастрономическую трапезу французов» в список **нематериального культурного наследия человечества** — не за блюда как таковые, а за **социальный ритуал** трапезы: за то, как она структурирует человеческие отношения, отмечает важные моменты жизни (рождение, свадьба, утрата, повышение), способствует диалогу и культурной передаче. Впервые пищевая практика развитой страны получила такую классификацию."
       },
       {
-        "theme": "Регион",
+        "theme": "География",
         "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
+        "title": "Региональные кухни Франции",
+        "body": "У Франции не одна кухня — их десятки. У каждого региона свои специалитеты, свои продукты, свои техники, своя сезонность. Это гастрономическое разнообразие отражает географическое и культурное многообразие страны. Несколько примеров:\n\n**Бретань:** блины и гречневые галеты, морепродукты (устрицы из Канкаля, мидии, омары), сидр, солёное масло. Бретонское солёное масло — особый случай: в стране, где все использовали сладкое масло, бретонцам разрешалось солить своё (они были освобождены от **габели**, соляного налога, до Революции). Сегодня это региональная гордость.\n\n**Лион** — «гастрономическая столица Франции» (звание оспариваемое, но повсеместно признанное). **Лионские «бушоны»** — народные рестораны с сытной традиционной кухней: кнели из щуки (с лобстерным маслом), андуйет (колбаса из требухи), лионский салат (с беконом и яйцом-пашот), пирог с розовой пралине. **Поль Бокюз** (1926–2018), лионский повар, был самым знаменитым шеф-поваром мира.\n\n**Атлантическое побережье и Средиземноморье** предлагают радикально разные морские кухни: подошва по-мёньер, рыбное рагу, устрицы на Атлантике; дорада на гриле, красная кефаль, мидии из Бузига, бренда из трески на Средиземноморье. Обе кухни объединяет уважение к свежим местным продуктам — оливковое масло на Юге заменяет сливочное масло Севера."
       },
       {
-        "theme": "Политика и общество",
+        "theme": "Политика",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Обед как политическое пространство и представительство",
+        "body": "Во Франции обеды — политические пространства в самом широком смысле. **Государственные обеды** в Елисейском дворце — инструменты дипломатии: принять иностранного главу государства — значит тщательно оркестрировать ужин: меню от шеф-повара, вина, подобранные под страну гостя, стол, сервированный посудой Республики. Это политическое послание, а не только жест гостеприимства.\n\n**Деловые обеды** — институт во Франции. В отличие от Северной Америки, где доминируют деловой завтрак (7–9 утра) или «рабочий ланч» (за рабочим столом), во Франции деловой обед длится **1,5–2 часа**, проходит в ресторане (не бутерброд в кафетерии), включает закуску, горячее, возможно десерт и нередко бокал вина. Дела поднимаются за обедом — но после нескольких вводных светских реплик. Начать обед словами «ну, приступим к теме?» сразу после раскладывания салфетки — очень неловко.\n\n**«Политический обед»** — традиция с многовековой историей. «Утренние завтраки» Национального собрания, «вторничные обеды» в Елисейском дворце с парламентскими группами — вся французская политическая система ритмизирована трапезами. Стол — пространство, где завязываются альянсы, урегулируются конфликты, обмениваются сведениями в защищённой неформальной обстановке."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Повседневная жизнь",
+        "icon": "🏠",
+        "title": "Практические правила французской трапезы",
+        "body": "Французская трапеза следует чёткой структуре, которую должен знать каждый гость:\n\n**Структура обеда:** Полный обед включает **закуску** (суп, салат, нарезка), **горячее** (мясо или рыба с гарниром), возможно **сырную тарелку** и **десерт**. Хлеб сопровождает всё — от закуски до сыра. Свой кусок хлеба не кладут в тарелку — он лежит прямо на скатерти или на краю тарелки.\n\n**Бутылка вина:** Хозяин разливает вино гостям — себе не наливают. Если ваш бокал ещё наполовину полон и вам предлагают долить — вежливо сначала допить, потом подставить бокал. Прикрыть бокал ладонью означает «нет, спасибо». Воду обычно наливают себе сами.\n\n**Ножи и вилки:** Вилку держат в левой руке (зубцами вниз), нож — в правой. Это **европейский континентальный стиль**, в отличие от американского (разрезать, затем переложить вилку в правую руку). Суповую ложку ведут от себя, а не к себе. Скрещенные приборы на тарелке в конце трапезы сигнализируют о завершении.\n\n**Тарелка:** Доесть всё — комплимент во Франции: значит, было вкусно и вы были голодны. Оставить еду — не грубость само по себе, но заставит хозяина задуматься. Зато «подбирать соус» кусочком хлеба — терпимо и даже поощряется в семейной или народной обстановке, хотя формально считается неприличным на очень торжественных обедах."
       },
       {
-        "theme": "Художественная культура",
+        "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "title": "Стол в живописи, литературе и кино",
+        "body": "Стол — один из самых частых художественных сюжетов французской культуры. В живописи **Эдуард Мане** создал «Завтрак на траве» (1863) — скандальную картину, изображающую обнажённую женщину с одетыми мужчинами на пикнике. Картина говорит не о еде, а о социальной transgression и взглядах, которыми обмениваются персонажи. В литературе **Марсель Пруст** открывает своё «В поисках утраченного времени» мадленой, обмоченной в чай: вкус и запах становятся у Пруста спусковым крючком непроизвольной памяти.\n\nВ кино **«Пир Бабетты»** (Габриэль Аксель, 1987) показывает, как пиршество, приготовленное французской поварихой, преображает аскетичную общину. **«Рататуй»** (Pixar, 2007) изображает крысу-повара в парижском ресторане, а финальная сцена — когда гастрономический критик Антон Эго пробует рататуй и переносится в детство — блестяще иллюстрирует эмоциональную силу французской кухни.\n\n**Гастрономическая критика** — литературный жанр во Франции. **Гримо де Ла Реньер** (1758–1837) изобрёл ресторанную критику в «Альманахе гурманов» (1803–1812). **Гид Мишлен**, созданный в 1900 году братьями Мишлен для стимулирования автомобилизма, с 1926 года публикует звёзды для исключительных ресторанов. Сегодня одна **звезда Мишлен** способна превратить неизвестный ресторан в обязательное место посещения — а потеря звезды доводила поваров до отчаяния (дело Бернара Луазо, 2003, показательно)."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "title": "Приглашение на ужин — полное декодирование",
+        "body": "Быть приглашённым на ужин к французу — честь и социальная ответственность. Полный протокол:\n\n**До трапезы:** Приходят с **подарком**: хорошая бутылка вина, цветы (осторожно: не хризантемы — они символизируют траур), шоколад, макарон. Свечи или ароматические свечи тоже приветствуются. Не приносите жёлтые цветы (неверность) и цветы в чётном количестве (чётные числа — для траура).\n\n**Аперитив:** Время прихода и светского общения. Пьют бокал (шампанское, белое вино, пастис, сок), закусывая амюз-буш. Аперитив может длиться 30–60 минут. Это момент вежливостей и обмена новостями. Долго говорить о себе на аперитиве — неловко.\n\n**За столом:** Хозяин ведёт. Не вставайте из-за стола без причины. Ждите, пока хозяин предложит добавку, прежде чем брать самостоятельно (или спросите разрешения). Темы за ужином: культура, новости, путешествия, книги, фильмы — никогда деньги, редко политика (слишком разделяет) и никаких тяжёлых личных проблем, портящих атмосферу.\n\n**После трапезы:** После десертов хозяин нередко предлагает кофе и дижестив (коньяк, арманьяк, кальвадос). Этот момент — переход к более свободной и непринуждённой беседе. Уйти сразу после кофе (менее чем через 30 минут) — резко. Задержаться слишком долго (после 23:00, если ужин начался в 20:00) — ждать сигнала хозяина (зевки, взгляды на часы). На следующий день СМС или сообщение с благодарностью — очень высоко ценится."
       }
     ],
     "conseil_ami": {
-      "title": "Дружеский совет 🤝",
+      "title": "Совет друга 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «За столом: коды и ритуалы»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**Французы не обсуждают дела за едой — но именно за едой всё решается.** Это кажущееся противоречие объясняется так: трапеза сначала создаёт доверие и человечность. И лишь когда это доверие сложилось, дела могут по-настоящему решиться. Француз, который «не видел вас за столом», не знает вас по-настоящему.\n\nДля россиянина, привыкшего к культуре формальных совещаний (повестка дня, ограниченное время, конкретные результаты), деловой обед по-французски может казаться потерей времени. Это не так — это суть. Если вы уходите с обеда с расплывчатым «мы подумаем», это хороший знак: французы формализуют потом. Если за трапезой сложился человеческий контакт, контракт последует.\n\nТипичная ошибка иностранцев: **резкий отказ от вина**. «Я не пью» без объяснений может создать неловкость. Лучше сказать «Я сейчас слежу за собой, но немного возьму, чтобы чокнуться» — и просто пригубить. Участие в ритуале важнее выпитого количества."
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "Аперитив (l'apéro)",
+        "definition": "Дружеский момент перед едой с напитками и закусками. Культурно очень важен во Франции — именно приглашение на «апéро», а не на ужин, часто знаменует начало дружбы."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "Дижестив (digestif)",
+        "definition": "Крепкий алкоголь после трапезы (коньяк, арманьяк, кальвадос, фруктовая водка). Призван «помочь пищеварению» — гастрономический миф, но реальный социальный ритуал. Знаменует переход к непринуждённой беседе конца вечера."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "Европейский стиль столовых приборов",
+        "definition": "Вилка в левой руке (зубцами вниз), нож в правой, без смены рук. В отличие от американского стиля (разрезать, потом переложить вилку)."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "Гид Мишлен",
+        "definition": "Ежегодный гастрономический справочник (с 1900 года), присваивающий 1, 2 или 3 звезды лучшим ресторанам. Одна звезда — «очень хорошая кухня»; две — «стоит крюка»; три — «стоит путешествия». Мировой стандарт гастрономического совершенства."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "Подбирать соус хлебом (saucer l'assiette)",
+        "definition": "Собирать остаток соуса со своей тарелки кусочком хлеба. Технически неприлично в очень официальных ситуациях, но принято и даже приветствуется в семейном или народном контексте как знак восхищения кухней."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "Закуска (entrée)",
+        "definition": "Первое блюдо французской трапезы (суп, салат, нарезка...). Внимание: по-английски «entree» означает главное блюдо — частая путаница у англоязычных во Франции."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «За столом: коды и ритуалы» во Французской республике?",
+        "question": "Почему «гастрономическая трапеза французов» с 2010 года внесена в список ЮНЕСКО?",
         "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
-        ],
-        "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
-      },
-      {
-        "question": "Светскость во Франции означает, что...",
-        "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
-        ],
-        "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
-      },
-      {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "За высокие питательные качества французской кухни",
+          "За количество ресторанов со звёздами Мишлен во Франции",
+          "За социальный ритуал трапезы: то, как она структурирует человеческие отношения",
+          "За мировое распространение французских рецептов"
         ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
+        "explanation": "ЮНЕСКО включило в список не рецепты и не ингредиенты, а социальный ритуал французской трапезы — то, как она отмечает важные события жизни, способствует диалогу, передаёт культуру. Впервые пищевая практика развитой страны получила такой статус."
       },
       {
-        "question": "Членом-основателем какой международной организации является Франция?",
+        "question": "На официальном обеде во Франции кто отвечает за разливание вина?",
         "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
-        ],
-        "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
-      },
-      {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
-        "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
+          "Каждый наливает себе сам",
+          "Официант или хозяин разливает гостям",
+          "Самый старший гость за столом",
+          "Бутылку пускают по кругу по часовой стрелке"
         ],
         "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "Во Франции в официальном или полуофициальном контексте именно хозяин (или официант) разливает вино гостям. Налить себе, не дожидаясь хозяина, считается невежливым. Если хотите вина, вежливее подождать взгляда или предложения хозяина."
+      },
+      {
+        "question": "Что означают скрещенные приборы на тарелке в конце французской трапезы?",
+        "options": [
+          "Что хотят добавки",
+          "Что блюдо было невкусным",
+          "Что тарелку можно убирать — человек закончил есть",
+          "Что нужен хлеб"
+        ],
+        "correct_index": 2,
+        "explanation": "Скрещенные приборы (вилка и нож крест-накрест) на тарелке сигнализируют, что вы закончили. Это визуальный знак для официанта или хозяина. Если же вилка и нож лежат по разные стороны тарелки — вы взяли паузу, но не закончили."
+      },
+      {
+        "question": "Какой подарок НЕ рекомендуется приносить на ужин к французам?",
+        "options": [
+          "Бутылку шампанского",
+          "Жёлтые цветы или хризантемы",
+          "Коробку шоколада",
+          "Книгу рецептов"
+        ],
+        "correct_index": 1,
+        "explanation": "Хризантемы во Франции — цветы траура и кладбищ: принести их в подарок было бы очень неловко. Жёлтые цветы во французской традиции символизируют неверность. Лучше избегать также букеты с чётным числом цветов (ассоциация с похоронами). Выбирайте разноцветные цветы в нечётном количестве, вино или шоколад."
+      },
+      {
+        "question": "Когда уместно поднимать деловую тему на профессиональном обеде во Франции?",
+        "options": [
+          "Сразу после того, как все сели — чтобы не терять время",
+          "После нескольких вводных светских реплик, в середине трапезы",
+          "Только после кофе — никогда за едой",
+          "Только по инициативе хозяина"
+        ],
+        "correct_index": 1,
+        "explanation": "Во Франции деловой обед всегда начинается с нескольких неформальных реплик (погода, новости, как дела). Дела уместно поднимать в середине трапезы — но никогда сразу. Перейти сразу к теме без этих социальных прелюдий воспринимается как грубость — это означает, что вы пришли только за транзакцией, а не за отношениями."
       }
     ]
   }

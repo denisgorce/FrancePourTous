@@ -4,275 +4,288 @@
     "lesson_id": 3,
     "module_icon": "🎬",
     "lesson_icon": "🏆",
-    "estimated_minutes": 12,
+    "estimated_minutes": 11,
     "difficulty": "intermédiaire",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "Festival de Cannes — Site officiel",
+        "url": "https://www.festival-cannes.com"
+      },
+      {
+        "label": "Académie des Arts et Techniques du Cinéma — Les Césars",
+        "url": "https://www.academie-cinema.org"
+      },
+      {
+        "label": "CNC — Le cinéma français à l'international",
+        "url": "https://www.cnc.fr/cinema/etudes-et-rapports/etudes-sectorielles/exportations"
+      },
+      {
+        "label": "Unifrance — Palmarès et données internationales",
+        "url": "https://www.unifrance.org/festival/1/cannes"
+      }
     ]
   },
   "fr": {
-    "module_title": "Cinéma, BD et Culture Pop",
+    "module_title": "Cinéma & Télévision",
     "lesson_title": "Cannes et les Césars",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : Cannes et les Césars. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "Les deux grandes cérémonies du cinéma français : la vitrine mondiale et le prix national",
+    "intro": "La France a inventé deux des récompenses cinématographiques les plus prestigieuses au monde. La Palme d'Or du Festival de Cannes est l'équivalent du Nobel du cinéma — la reconnaissance la plus convoitée de l'industrie mondiale. Le César est le «Oscar français», reflet des goûts et des débats de la profession et du public français. Ces deux cérémonies sont des moments clés de la vie culturelle française — et souvent des moments politiques, voire des scandales.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**Cannes et les Césars** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "La naissance du Festival de Cannes : un acte politique",
+        "body": "Le Festival de Cannes n'est pas né d'une évidence artistique mais d'un acte **politique**. En 1938, le gouvernement français décide de créer un festival international de cinéma pour contrebalancer la **Mostra de Venise** — qui venait d'attribuer le Grand Prix à des films de propagande fasciste (italienne et allemande). La première édition devait avoir lieu en **septembre 1939** — elle est annulée le lendemain de son ouverture à cause de la déclaration de guerre.\n\nLe festival renaît en **1946**, dans l'euphorie de la Libération. Il se tient à Cannes — ville choisie pour son cadre glamour méditerranéen et son infrastructure hôtelière. La **Palme d'Or** (trophée en or massif représentant une feuille de palmier) est créée en **1955**. Les premières décennies du festival sont marquées par une atmosphère à la fois artistique et mondaine : stars hollywoodiennes sur la Croisette, scandales, affaires, cérémonies de remise de prix où l'on boit du champagne en smokings blancs.\n\nLes **Césars** sont créés en **1976** à l'initiative de Georges Cravenne et de Jack Lang (futur ministre de la Culture) — pour doter la France d'une cérémonie nationale comparable aux Oscars. La statuette, sculptée par **César Baldaccini** (d'où le nom), représente une sculpture abstraite froissée. La première cérémonie se tient à l'Opéra de Paris devant 2 700 professionnels."
       },
       {
-        "theme": "Région",
+        "theme": "Géographie",
         "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
+        "title": "Cannes : la ville transformée par son festival",
+        "body": "Cannes est une ville de **70 000 habitants** qui devient pendant 12 jours en mai la capitale mondiale du cinéma. La transformation est spectaculaire : **30 000 accrédités** (professionnels, journalistes, distributeurs), **4 000 journalistes** du monde entier, **200 000 touristes** et badauds supplémentaires envahissent la ville.\n\nLa **Croisette** — le boulevard longeant la mer sur 1,5 km — est le cœur du festival. Le **Palais des Festivals** (surnommé «le Bunker» pour son architecture brutale, inauguré en 1982) accueille les projections officielles et les cérémonies. Les **marches** du Palais sont le moment le plus photographié du festival — les stars y montent en tenue de soirée sous les flashs des photographes et les acclamations du public massé derrière les barrières. Ces marches sont devenues l'une des images les plus reconnaissables du monde culturel.\n\nLe **marché du film** (MIFA — Marché International du Film et de l'Animation) qui se tient en parallèle du festival est le premier marché mondial de ventes de droits cinématographiques : en une semaine, des milliers de films changent de mains, des accords de coproduction sont signés, des carrières se lancent. Cannes est autant une bourse commerciale qu'une vitrine artistique — cette dualité est l'une des tensions permanentes du festival."
       },
       {
-        "theme": "Politique & Social",
+        "theme": "Politique",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "La Palme d'Or comme acte politique et culturel",
+        "body": "La Palme d'Or n'est jamais seulement un prix cinématographique — c'est aussi un acte **politique et culturel**. Les choix du jury (composé de cinéastes, acteurs et personnalités du monde artistique, présidé par une personnalité internationale) reflètent les tensions du monde culturel et parfois politique.\n\nQuelques Palmes d'Or emblématiques et leurs contextes : **«Apocalypse Now»** de Coppola (1979, ex-æquo avec «Le Tambour» de Schlöndorff) dans le contexte post-Vietnam. **«Elephant»** de Gus Van Sant (2003) — film sur une fusillade dans un lycée américain, Palme controversée. **«L'Enfant»** des frères Dardane (2005) — cinéma social belge. **«Parasite»** de Bong Joon-ho (2019) — premier film coréen palme, premier à remporter ensuite l'Oscar du meilleur film : révolution dans l'histoire du cinéma mondial.\n\nLa France elle-même gagne peu souvent la Palme d'Or à domicile : **«L'Enfant sauvage»** de Truffaut (non), **«La Pianiste»** de Haneke (Grand Prix 2001), **«Titane»** de Julia Ducournau (Palme 2021) — la deuxième femme à remporter la Palme après **Jane Campion** (1993). Le festival a longtemps été critiqué pour sa sous-représentation des femmes et des cinémas du Sud — des efforts ont été faits pour diversifier les jurys et les sélections depuis 2017."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Vie quotidienne",
+        "icon": "🏠",
+        "title": "La cérémonie des Césars : un regard sur l'industrie française",
+        "body": "La **cérémonie des Césars** se tient chaque année en **février**, généralement à la **Salle Pleyel** puis au **Grand Rex** à Paris, en direct sur Canal+. Elle récompense le cinéma français de l'année dans une vingtaine de catégories (meilleur film, réalisateur, acteur, actrice, film étranger, animation...).\n\nLes **Césars d'honneur** remis chaque année à des personnalités du cinéma français ou international sont souvent les moments les plus émouvants : Clint Eastwood, Meryl Streep, Quentin Tarantino ont tous reçu un César d'honneur. La cérémonie est diffusée en direct et attire **2 à 3 millions de téléspectateurs** — chiffre modeste par rapport aux Oscars mais significatif pour la France.\n\nLes Césars sont régulièrement secoués par des **controverses politiques**. La plus grave a eu lieu lors de la **cérémonie 2020** : Roman Polanski, réalisateur accusé de viol, remporte le César du meilleur réalisateur pour «J'accuse». La présidente du jury, Adèle Haenel, quitte la salle en s'écriant «la honte !» devant les caméras — un moment emblématique du mouvement **#MeToo** dans le cinéma français. Les polémiques sur la parité, la diversité et les comportements dans l'industrie du cinéma ont profondément secoué le milieu depuis 2017."
       },
       {
-        "theme": "Culture artistique",
+        "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "title": "Les grandes palmarès et les films qui ont compté",
+        "body": "Certains films primés à Cannes ou aux Césars ont marqué l'histoire culturelle française et mondiale. À **Cannes** : «**Viridiana**» de Luis Buñuel (1961, Palme ex-æquo) — film anticlérical qui provoque un scandale diplomatique avec l'Espagne franquiste. «**M.A.S.H**» de Robert Altman (1970), «**Taxi Driver**» de Scorsese (1976), «**All About My Mother**» d'Almodóvar (1999), «**La pianiste**» de Haneke (2001), «**The Tree of Life**» de Terrence Malick (2011) — autant de films dont la reconnaissance cannoise a consacré la carrière de leurs auteurs.\n\nLes **films français primés aux Oscars** grâce à Cannes sont nombreux : «**Amour**» de Haneke (Palme 2012, Oscar du meilleur film étranger 2013), «**The Artist**» de Hazanavicius (5 Oscars 2012, dont meilleur film — film français en noir et blanc et muet, exploit inédit), «**Parasite**» (Palme 2019, 4 Oscars 2020).\n\nCôté **Césars**, certains palmarès restent dans les mémoires : «**Intouchables**** n'a reçu aucun César malgré son triomphe commercial (12 millions de spectateurs), illustrant la fracture entre le public populaire et l'industrie professionnelle. «**Portrait de la jeune fille en feu**» de Céline Sciamma (2019) reçoit le César du meilleur film — hommage au renouveau du cinéma de femmes en France."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "title": "Cannes, glamour et codes mondains",
+        "body": "Le Festival de Cannes est un événement **glamour** doublé d'une machine économique. L'image des stars sur la Croisette — robes de haute couture, bijoux de joaillerie, yachts amarrés dans le port — est soigneusement orchestrée par les attachées de presse et les agences de communication des marques.\n\nLa **montée des marches** est soumise à un code vestimentaire strict : **tenue de soirée obligatoire** pour les projections officielles. Un homme sans cravate peut se voir refuser l'entrée — ce qui est arrivé à des cinéastes célèbres, créant des polémiques sur le caractère élitiste du festival. Les **femmes en baskets** ont longtemps été refusées — jusqu'à la controverse de 2015 où plusieurs femmes en situation de handicap ont dénoncé l'obligation des talons hauts, provoquant une évolution des règles.\n\n**Les restaurants cannoises** font fortune pendant le festival : les tables de la **Palme d'Or** (restaurant gastronomique du Hôtel Martinez, deux étoiles Michelin) ou de l'**Eden-Roc** (Cap d'Antibes) sont réservées des mois à l'avance. Les fêtes de producteurs et distributeurs dans les villas et yachts sont les vrais lieux de décision économique du festival — là où se nouent les accords de distribution et de coproduction qui ne figureront jamais dans les communiqués officiels."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à Cannes et les Césars :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**Suivre les Césars et Cannes est une façon d'entrer dans la conversation culturelle française.** Chaque année, les palmarès déclenchent des débats passionnés dans les médias et entre amis — sur la légitimité des choix, sur les controverses, sur la qualité des films sélectionnés.\n\n**Pratique** : la liste des nommés aux Césars sort en janvier — c'est le meilleur guide de lecture pour les films français de l'année à voir avant la cérémonie. Les films nommés sont généralement disponibles en salles, en VOD ou sur les plateformes de streaming françaises.\n\n**Sur Cannes** : si vous êtes en France en mai, vous pouvez suivre la sélection et les polémiques dans la presse quotidienne — *Le Monde*, *Libération* et *Les Cahiers du Cinéma* ont des suppléments festival entiers. La sélection officielle de Cannes sort généralement à mi-avril — c'est un événement en soi, commenté pendant des semaines. Et si vous avez la chance d'être sur la Côte d'Azur en mai, il est possible de s'approcher de la Croisette et d'assister aux montées des marches gratuitement depuis les barrières du public — une expérience unique."
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
+        "term": "La Palme d'Or",
+        "definition": "Récompense suprême du Festival de Cannes, décernée au meilleur film de la sélection officielle — trophée en or représentant une feuille de palmier, créé en 1955, l'une des distinctions cinématographiques les plus convoitées au monde."
       },
       {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
+        "term": "Le César",
+        "definition": "Récompense nationale du cinéma français, décernée depuis 1976 par l'Académie des Arts et Techniques du Cinéma — statuette sculptée par César Baldaccini, «Oscar» français remis chaque année en février."
       },
       {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "term": "La Croisette",
+        "definition": "Boulevard longeant la plage à Cannes sur 1,5 km — lieu emblématique du festival, où se trouvent les grands hôtels (Martinez, Carlton, Majestic), le Palais des Festivals et les célèbres «montées des marches»."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "La sélection officielle",
+        "definition": "Liste des films retenus par le comité de sélection du Festival de Cannes pour concourir ou être présentés — comprend la Compétition, Un Certain Regard, et les séances spéciales. Être sélectionné est déjà en soi une consécration."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
+        "term": "Le marché du film (MIFA)",
+        "definition": "Marché international parallèle au festival de Cannes où s'achètent et se vendent les droits de distribution des films — premier marché mondial, des milliers d'accords signés chaque année lors de réunions souvent informelles."
       },
       {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "#MeToo au cinéma français",
+        "definition": "Mouvement de dénonciation des violences sexuelles dans le cinéma, arrivé en France dès 2017 (affaire Weinstein) puis amplifié lors des Césars 2020 (affaire Polanski) — a profondément bouleversé les rapports de pouvoir dans l'industrie."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «Cannes et les Césars» dans la République française ?",
+        "question": "Pourquoi le Festival de Cannes a-t-il été créé en 1938 ?",
         "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
+          "Pour promouvoir le cinéma français à l'international",
+          "Pour contrebalancer la Mostra de Venise qui primait des films de propagande fasciste",
+          "Pour remplacer les Oscars qui excluaient les films européens",
+          "Pour célébrer le 40e anniversaire du cinématographe Lumière"
         ],
         "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
+        "explanation": "Le Festival de Cannes est né d'une décision politique en 1938 : le gouvernement français voulait créer un festival alternatif à la Mostra de Venise, qui venait d'attribuer ses prix à des films de propagande fasciste italienne et nazie. La première édition devait se tenir en septembre 1939 — elle fut annulée dès son ouverture à cause de la déclaration de guerre."
       },
       {
-        "question": "En France, la laïcité signifie que...",
+        "question": "Qui a remporté la Palme d'Or en 2021, devenant la deuxième femme de l'histoire à obtenir ce prix ?",
         "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
+          "Céline Sciamma pour «Portrait de la jeune fille en feu»",
+          "Julia Ducournau pour «Titane»",
+          "Chloé Zhao pour «Nomadland»",
+          "Maren Ade pour «Toni Erdmann»"
         ],
         "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
+        "explanation": "Julia Ducournau a remporté la Palme d'Or 2021 pour «Titane» — film de body horror français radical. Elle est la deuxième femme à recevoir ce prix après Jane Campion (pour «La Leçon de piano» en 1993). Cette Palme a été saluée comme un signal fort du renouveau et de la diversité du cinéma mondial."
       },
       {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
+        "question": "Quand ont lieu les Césars chaque année ?",
         "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "En janvier, avant les Oscars",
+          "En février, diffusés en direct sur Canal+",
+          "En mai, pendant le Festival de Cannes",
+          "En mars, le même soir que les Oscars"
+        ],
+        "correct_index": 1,
+        "explanation": "La cérémonie des Césars se tient chaque année en février, généralement quelques semaines avant les Oscars. Elle est diffusée en direct sur Canal+ et attire 2 à 3 millions de téléspectateurs. Les nommés sont annoncés en janvier, ce qui oriente les regards du public vers les films français de l'année à ne pas manquer."
+      },
+      {
+        "question": "Quel événement marquant s'est produit lors des Césars 2020 ?",
+        "options": [
+          "La cérémonie a été annulée en raison de la pandémie de Covid-19",
+          "L'actrice Adèle Haenel a quitté la salle en protestation contre le César de Roman Polanski",
+          "«Les Misérables» de Ladj Ly a remporté 7 Césars dont celui du meilleur film",
+          "C'est la première fois qu'une femme réalisatrice remportait le César du meilleur film"
+        ],
+        "correct_index": 1,
+        "explanation": "Lors des Césars 2020, Roman Polanski (accusé de viol) remporte le César du meilleur réalisateur pour «J'accuse». L'actrice Adèle Haenel quitte la salle en s'écriant «la honte!» devant les caméras — moment emblématique du mouvement #MeToo dans le cinéma français, qui a depuis profondément bouleversé les discussions sur le pouvoir et les violences dans l'industrie."
+      },
+      {
+        "question": "Quel film a remporté à la fois la Palme d'Or de Cannes et l'Oscar du meilleur film, exploit historique ?",
+        "options": [
+          "«Amour» de Michael Haneke (2012)",
+          "«The Artist» de Michel Hazanavicius (2011)",
+          "«Parasite» de Bong Joon-ho (2019)",
+          "«La Pianiste» de Michael Haneke (2001)"
         ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
-      },
-      {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
-        "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
-        ],
-        "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
-      },
-      {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
-        "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
-        ],
-        "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "«Parasite» du réalisateur coréen Bong Joon-ho a remporté la Palme d'Or à Cannes en 2019, puis 4 Oscars en 2020 dont celui du meilleur film — une première historique pour un film non anglophone. Cet exploit double est inédit dans l'histoire du cinéma et marque une rupture dans la domination des films anglophones aux récompenses internationales."
       }
     ]
   },
   "ru": {
-    "module_title": "Кино, комиксы и поп-культура",
+    "module_title": "Кино и телевидение",
     "lesson_title": "Канны и Сезар",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Канны и Сезар. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_subtitle": "Две главные церемонии французского кино: мировая витрина и национальная премия",
+    "intro": "Франция изобрела две из самых престижных кинонаград в мире. Золотая пальмовая ветвь Каннского кинофестиваля — эквивалент Нобелевской премии в кино, самое вожделенное признание мировой киноиндустрии. «Сезар» — «французский Оскар», отражающий вкусы и дискуссии профессионального сообщества и французской публики. Обе церемонии — ключевые моменты французской культурной жизни, нередко политические и скандальные.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Канны и Сезар** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "Рождение Каннского фестиваля: политический акт",
+        "body": "Каннский фестиваль родился не из художественной необходимости, а из **политического решения**. В 1938 году французское правительство постановило создать международный кинофестиваль, чтобы уравновесить **Венецианскую Мостру** — только что вручившую Гран-при фашистским пропагандистским фильмам (итальянским и немецким). Первое издание планировалось на **сентябрь 1939 года** — его отменили на следующий день после открытия, с объявлением войны.\n\nФестиваль возрождается в **1946 году**, в эйфории Освобождения. Он проходит в Каннах — городе, выбранном за гламурный средиземноморский антураж и развитую гостиничную инфраструктуру. **Золотая пальмовая ветвь** (трофей из массивного золота в форме пальмового листа) учреждена в **1955 году**. Первые десятилетия фестиваля отмечены атмосферой, сочетающей художественность и светскость: голливудские звёзды на Круазетт, скандалы, интриги, церемонии награждения, где пьют шампанское во фраках.\n\n**Сезар** учреждён в **1976 году** по инициативе Жоржа Кравенна и Жака Ланга (будущего министра культуры) — чтобы дать Франции национальную церемонию, сопоставимую с Оскаром. Статуэтка, выполненная скульптором **Сезаром Бальдаччини** (отсюда название), представляет собой абстрактную мятую скульптуру. Первая церемония прошла в Парижской опере в присутствии 2 700 профессионалов."
       },
       {
-        "theme": "Регион",
+        "theme": "География",
         "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
+        "title": "Канны: город, преображённый своим фестивалем",
+        "body": "Канны — город с **70 000 жителями**, который на 12 дней в мае превращается в мировую столицу кино. Преображение разительное: **30 000 аккредитованных** (профессионалы, журналисты, дистрибьюторы), **4 000 журналистов** со всего мира, **200 000 дополнительных туристов** и зевак заполняют город.\n\n**Круазетт** — набережная вдоль моря протяжённостью 1,5 км — сердце фестиваля. **Дворец фестивалей** (прозванный «Бункером» за брутальную архитектуру, открытый в 1982 году) принимает официальные показы и церемонии. **Ступени** Дворца — самый фотографируемый момент фестиваля: звёзды поднимаются по ним в вечерних туалетах под вспышки фотографов и возгласы публики, стоящей за ограждениями. Эти ступени стали одним из самых узнаваемых образов культурного мира.\n\n**Кинорынок** (MIFA — Международный рынок фильмов и анимации), проходящий параллельно фестивалю, — крупнейший мировой рынок прав на фильмы: за одну неделю тысячи фильмов переходят из рук в руки, подписываются соглашения о копродукции, запускаются карьеры. Канны — торговая биржа не меньше, чем художественная витрина, — это двойственность остаётся постоянным источником напряжённости для фестиваля."
       },
       {
-        "theme": "Политика и общество",
+        "theme": "Политика",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Золотая пальмовая ветвь как политический и культурный акт",
+        "body": "Золотая пальмовая ветвь — никогда не просто кинематографическая награда, но и **политический и культурный акт**. Выбор жюри (составленного из кинорежиссёров, актёров и деятелей искусства, под председательством международной известности) отражает напряжённость культурного, а порой и политического мира.\n\nНесколько знаковых Золотых пальмовых ветвей и их контекст: **«Апокалипсис сегодня»** Копполы (1979, ex aequo с «Жестяным барабаном» Шлёндорфа) — постновьетнамский контекст. **«Слон»** Гаса Ван Сента (2003) — фильм о стрельбе в американской школе, спорная Пальма. **«Дитя»** братьев Дарденн (2005) — бельгийское социальное кино. **«Паразиты»** Пон Джун-хо (2019) — первый корейский фильм с Пальмой, первый, получивший затем Оскар за лучший фильм: революция в истории мирового кинематографа.\n\nСама Франция редко побеждает дома: **«Титан»** Жюли Дюкурно (Пальма 2021) — вторая женщина, получившая Пальму после **Джейн Кэмпион** (1993). Фестиваль долгое время критиковали за недостаточное представительство женщин и кинематографий Глобального Юга — с 2017 года предпринимаются усилия по диверсификации жюри и отборки."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Повседневная жизнь",
+        "icon": "🏠",
+        "title": "Церемония Сезар: взгляд на французскую индустрию",
+        "body": "**Церемония Сезар** проходит каждый год в **феврале**, как правило в зале **Плейель**, а затем в **Гран Рекс** в Париже, в прямом эфире на Canal+. Она награждает французское кино года в двадцати с лишним номинациях (лучший фильм, режиссёр, актёр, актриса, иностранный фильм, анимация...).\n\n**Почётные Сезары**, вручаемые ежегодно деятелям французского или международного кино, — нередко самые волнующие моменты: Клинт Иствуд, Мерил Стрип, Квентин Тарантино — все получали почётного Сезара. Церемония транслируется в прямом эфире и собирает **2–3 миллиона телезрителей** — скромная цифра по сравнению с Оскаром, но значимая для Франции.\n\nСезар регулярно сотрясают **политические скандалы**. Самый серьёзный произошёл на **церемонии 2020 года**: Роман Полански, режиссёр, обвиняемый в изнасиловании, получает Сезар лучшего режиссёра за «Я обвиняю». Председатель жюри Адель Энель покидает зал со словами «Позор!» перед камерами — символический момент движения **#MeToo** во французском кино. Дискуссии о паритете, разнообразии и поведении в киноиндустрии с 2017 года глубоко потрясли профессиональную среду."
       },
       {
-        "theme": "Художественная культура",
+        "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "title": "Главные лауреаты и значимые фильмы",
+        "body": "Некоторые фильмы, отмеченные в Каннах или на Сезаре, вошли в историю французской и мировой культуры. В **Каннах**: «**Виридиана**» Луиса Бунюэля (1961, Пальма ex aequo) — антиклерикальный фильм, спровоцировавший дипломатический скандал с франкистской Испанией. «**M.A.S.H**» Олтмена (1970), «**Таксист**» Скорсезе (1976), «**Всё о моей матери**» Альмодовара (1999), «**Пианистка**» Ханеке (2001), «**Древо жизни**» Терренса Малика (2011) — фильмы, каннское признание которых закрепило карьеры их авторов.\n\n**Французские фильмы, получившие Оскара благодаря Каннам**: «**Любовь**» Ханеке (Пальма 2012, Оскар за лучший иностранный фильм 2013), «**Артист**» Азанавичюса (5 Оскаров 2012, в том числе за лучший фильм — французский немой чёрно-белый фильм, беспрецедентный подвиг), «**Паразиты**» (Пальма 2019, 4 Оскара 2020).\n\nНа **Сезаре** некоторые итоги запомнились навсегда: «**1+1**» не получил ни одного Сезара при своём коммерческом триумфе (12 миллионов зрителей), наглядно показав разрыв между народной публикой и профессиональной отраслью. «**Портрет молодой девушки в огне**» Селин Шьяммы (2019) получает Сезар лучшего фильма — дань уважения возрождению женского кино во Франции."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "title": "Канны, гламур и светские коды",
+        "body": "Каннский фестиваль — **гламурное** событие, одновременно являющееся экономической машиной. Образ звёзд на Круазетт — платья от кутюр, ювелирные украшения, яхты в порту — тщательно оркестрируется пресс-агентами и коммуникационными агентствами брендов.\n\n**Подъём по ступеням** подчиняется строгому дресс-коду: **вечерний наряд обязателен** для официальных показов. Мужчина без галстука может быть не допущен — что случалось с известными кинематографистами, порождая споры об элитарности фестиваля. **Женщин в кедах** долгое время не пускали — вплоть до скандала 2015 года, когда несколько женщин с инвалидностью публично выступили против обязательных каблуков, добившись пересмотра правил.\n\n**Каннские рестораны** сколачивают состояние за дни фестиваля: столики ресторана **La Palme d'Or** (ресторан отеля «Мартинес», две звезды Мишлен) или **Eden-Roc** (Кап д'Антиб) бронируются за месяцы. Вечеринки продюсеров и дистрибьюторов на виллах и яхтах — настоящие места принятия экономических решений на фестивале: там заключаются соглашения о дистрибуции и копродукции, которые никогда не попадут в официальные пресс-релизы."
       }
     ],
     "conseil_ami": {
       "title": "Дружеский совет 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Канны и Сезар»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**Следить за Сезаром и Каннами — способ войти во французскую культурную беседу.** Каждый год результаты вызывают страстные споры в СМИ и между друзьями — о легитимности выбора, о скандалах, о качестве отобранных фильмов.\n\n**Практически**: список номинантов на Сезар выходит в январе — это лучший путеводитель по французским фильмам года, которые стоит посмотреть до церемонии. Номинированные фильмы, как правило, доступны в кинотеатрах, в VOD или на французских стриминговых платформах.\n\n**О Каннах**: если вы во Франции в мае, можно следить за отборкой и скандалами в ежедневной прессе — *Le Monde*, *Libération* и *Les Cahiers du Cinéma* выпускают целые фестивальные приложения. Официальная каннская отборка объявляется в середине апреля — это само по себе событие, обсуждаемое неделями. А если вам посчастливится оказаться на Лазурном берегу в мае, можно подойти к Круазетт и бесплатно наблюдать подъём звёзд по ступеням из-за ограждений — уникальный опыт."
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "Золотая пальмовая ветвь / Palme d'Or",
+        "definition": "Высшая награда Каннского кинофестиваля, присуждаемая лучшему фильму официальной программы — золотой трофей в форме пальмового листа, учреждённый в 1955 году, одна из самых вожделенных кинонаград мира."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "Сезар / César",
+        "definition": "Национальная кинонаграда Франции, присуждаемая с 1976 года Академией искусств и технологий кино — статуэтка скульптора Сезара Бальдаччини, «французский Оскар», вручается ежегодно в феврале."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "Круазетт / Croisette",
+        "definition": "Набережная вдоль пляжа в Каннах длиной 1,5 км — символическое место фестиваля с крупными отелями (Мартинес, Карлтон, Маджестик), Дворцом фестивалей и знаменитыми «ступенями»."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "Официальная программа / sélection officielle",
+        "definition": "Список фильмов, отобранных комитетом Каннского фестиваля для участия в конкурсе или показа — включает Основной конкурс, «Особый взгляд» и специальные показы. Попасть в отборку — само по себе признание."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "Кинорынок (MIFA)",
+        "definition": "Международный рынок, проходящий параллельно Каннскому фестивалю, где покупаются и продаются права на дистрибуцию фильмов — крупнейший в мире, тысячи соглашений подписываются ежегодно, нередко в неформальных встречах."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "#MeToo во французском кино",
+        "definition": "Движение за разоблачение сексуального насилия в кино, пришедшее во Францию с 2017 года (дело Вайнштейна) и усилившееся после Сезара 2020 (дело Полански) — коренным образом изменило расстановку сил в отрасли."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Канны и Сезар» во Французской республике?",
+        "question": "Почему Каннский кинофестиваль был создан в 1938 году?",
         "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
+          "Для продвижения французского кино за рубежом",
+          "Чтобы уравновесить Венецианскую Мостру, награждавшую фашистские пропагандистские фильмы",
+          "Чтобы заменить Оскара, исключавшего европейские фильмы",
+          "В честь 40-летия кинематографа Люмьер"
         ],
         "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
+        "explanation": "Каннский фестиваль родился из политического решения в 1938 году: французское правительство хотело создать альтернативу Венецианской Мостре, только что вручившей главные призы итальянскому и нацистскому пропагандистскому кино. Первое издание планировалось на сентябрь 1939 года — его отменили в день открытия с объявлением войны."
       },
       {
-        "question": "Светскость во Франции означает, что...",
+        "question": "Кто получил Золотую пальмовую ветвь в 2021 году, став второй женщиной в истории с этой наградой?",
         "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
+          "Селин Шьямма за «Портрет молодой девушки в огне»",
+          "Жюли Дюкурно за «Титан»",
+          "Хлоя Чжао за «Земля кочевников»",
+          "Марен Аде за «Тони Эрдманн»"
         ],
         "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
+        "explanation": "Жюли Дюкурно получила Золотую пальмовую ветвь 2021 года за «Титан» — радикальный французский боди-хоррор. Она стала второй женщиной с этой наградой после Джейн Кэмпион (за «Пианистку», 1993). Эта Пальма была встречена как мощный сигнал обновления и разнообразия мирового кинематографа."
       },
       {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
+        "question": "Когда ежегодно проходит церемония Сезара?",
         "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "В январе, до Оскара",
+          "В феврале, в прямом эфире на Canal+",
+          "В мае, во время Каннского фестиваля",
+          "В марте, в тот же вечер, что и Оскар"
+        ],
+        "correct_index": 1,
+        "explanation": "Церемония Сезара проходит каждый год в феврале, как правило за несколько недель до Оскара. Она транслируется в прямом эфире на Canal+ и собирает 2–3 миллиона телезрителей. Список номинантов объявляется в январе, что направляет внимание публики на значимые французские фильмы года."
+      },
+      {
+        "question": "Какое знаковое событие произошло на церемонии Сезар 2020 года?",
+        "options": [
+          "Церемония была отменена из-за пандемии Covid-19",
+          "Актриса Адель Энель покинула зал в знак протеста против Сезара Романа Полански",
+          "«Отверженные» Ладжа Ли получили 7 Сезаров, включая за лучший фильм",
+          "Впервые женщина-режиссёр получила Сезар за лучшую режиссуру"
+        ],
+        "correct_index": 1,
+        "explanation": "На Сезаре 2020 Роман Полански (обвиняемый в изнасиловании) получил Сезар лучшего режиссёра за «Я обвиняю». Актриса Адель Энель покинула зал со словами «Позор!» перед камерами — символический момент движения #MeToo во французском кино, с тех пор коренным образом изменившего дискуссию о власти и насилии в отрасли."
+      },
+      {
+        "question": "Какой фильм выиграл и Золотую пальмовую ветвь Канн, и Оскар за лучший фильм — исторический рекорд?",
+        "options": [
+          "«Любовь» Михаэля Ханеке (2012)",
+          "«Артист» Мишеля Азанавичюса (2011)",
+          "«Паразиты» Пон Джун-хо (2019)",
+          "«Пианистка» Михаэля Ханеке (2001)"
         ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
-      },
-      {
-        "question": "Членом-основателем какой международной организации является Франция?",
-        "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
-        ],
-        "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
-      },
-      {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
-        "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
-        ],
-        "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "«Паразиты» корейского режиссёра Пон Джун-хо получили Золотую пальмовую ветвь в Каннах в 2019 году, а затем 4 Оскара в 2020-м, включая за лучший фильм — беспрецедентное первое для неанглоязычного фильма. Этот двойной триумф стал историческим событием, свидетельствующим о разрыве с доминированием англоязычных фильмов на международных наградах."
       }
     ]
   }

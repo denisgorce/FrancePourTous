@@ -4,275 +4,239 @@
     "lesson_id": 3,
     "module_icon": "🥖",
     "lesson_icon": "🍷",
-    "estimated_minutes": 12,
+    "estimated_minutes": 15,
     "difficulty": "intermédiaire",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      { "label": "FranceAgriMer — Viticulture et marchés", "url": "https://www.franceagrimer.fr" },
+      { "label": "CIVB — Conseil Interprofessionnel du Vin de Bordeaux", "url": "https://www.bordeaux.com" },
+      { "label": "BIVB — Bourgogne Vins", "url": "https://www.bourgogne-wines.fr" }
     ]
   },
   "fr": {
     "module_title": "La Gastronomie Française",
     "lesson_title": "La Culture du Vin",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : La Culture du Vin. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "Du terroir à la table : comprendre le vin français",
+    "intro": "La France produit environ 45 millions d'hectolitres de vin par an — 2e ou 3e producteur mondial selon les années. Mais la France n'est pas seulement productrice : elle est la référence mondiale. Ses appellations, ses cépages, sa philosophie du terroir ont défini les standards que le monde entier cherche à imiter. Comprendre la culture du vin en France, c'est comprendre un code social, une géographie et une philosophie du goût qui imprègnent toute la société.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**La Culture du Vin** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "2 700 ans de viticulture française",
+        "body": "La vigne en France a été introduite par les **Grecs** à Marseille vers 600 av. J.-C. Les Romains l'étendirent à toute la Gaule — les vestiges de vignobles romains sont attestés en Bourgogne, dans la vallée du Rhône et en Alsace. Mais c'est à nouveau les **monastères médiévaux** qui structurèrent la viticulture française : les moines de Cîteaux (Bourgogne) cultivèrent le Pinot Noir avec une rigueur scientifique, cartographiant les parcelles et observant les différences de goût selon les emplacements — naissance du concept de **«terroir»**.\n\nLa **Révolution** confisqua les vignobles ecclésiastiques et les dispersa par ventes aux enchères — fragmentant le foncier bourguignon en milliers de petites parcelles que leurs nouveaux propriétaires défendirent jalousement. Ce morcellement explique pourquoi la Bourgogne compte aujourd'hui des milliers de producteurs sur des surfaces ridicules : le Grand Cru **Romanée-Conti** ne fait que 1,8 hectare et produit environ 5 000 bouteilles par an — les plus chères du monde (souvent plus de 10 000 € la bouteille).\n\nLe **système des appellations** (AOC, devenu AOP au niveau européen) fut créé dans les années 1930 après les grandes fraudes viticoles de l'après-guerre : des négociants coupaient les vins chers avec du vin ordinaire, vendant n'importe quoi sous les étiquettes des grands crus. La loi de **1935** crée l'**INAO** (Institut National des Appellations d'Origine) et définit les règles : zone géographique, cépages autorisés, rendements maximaux, méthodes de vinification."
       },
       {
-        "theme": "Région",
+        "theme": "Géographie",
         "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
+        "title": "Les grandes régions viticoles",
+        "body": "La France viticole se découpe en grandes régions aux caractères très distincts :\n\n**Bordeaux** : la région des grands crus rouges (Cabernet Sauvignon, Merlot). Le classement de 1855 hiérarchise les châteaux du Médoc en 5 niveaux. Les noms mythiques : Margaux, Pauillac (Lafite, Latour, Mouton Rothschild), Saint-Émilion, Pomerol (Pétrus). Les blancs liquoreux de **Sauternes** (Château d'Yquem) sont parmi les vins les plus rares du monde.\n\n**Bourgogne** : la région de la complexité et de la rareté. Deux cépages seulement : **Pinot Noir** pour les rouges, **Chardonnay** pour les blancs. La hiérarchie en 4 niveaux : Bourgogne régionale / Villages / Premier Cru / Grand Cru. Les Grands Crus (Chambertin, Montrachet, Romanée-Conti) sont les vins les plus recherchés au monde.\n\n**Champagne** : au nord de Paris, seule région à pouvoir légalement appeler ses vins «Champagne». Méthode champenoise : deuxième fermentation en bouteille créant les bulles. Maisons mythiques : Moët & Chandon, Krug, Dom Pérignon, Veuve Clicquot, Laurent-Perrier.\n\n**Vallée du Rhône** : au nord (Syrah) les vins puissants et poivrés de Hermitage et Côte-Rôtie ; au sud (grenache, syrah, mourvèdre) les Châteauneuf-du-Pape et Gigondas. **Alsace** : vins blancs aromatiques (Riesling, Gewurztraminer, Pinot Gris) dans des bouteilles longilignes, souvent moelleux. **Loire** : de la sécheresse du Muscadet aux Sancerres et Pouilly-Fumé (Sauvignon Blanc), jusqu'aux Vouvray et Chinon."
       },
       {
-        "theme": "Politique & Social",
+        "theme": "Politique",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "Le vin, enjeu économique et diplomatique",
+        "body": "Le vin représente environ **12 milliards d'euros** d'exportations annuelles — c'est le 2e poste d'exportation agroalimentaire de la France après les spiritueux (cognac inclus). Les États-Unis, le Royaume-Uni, l'Allemagne, la Chine et la Belgique sont les principaux marchés d'exportation. La filière emploie directement et indirectement **500 000 personnes** en France.\n\nLe vin est aussi un outil de **diplomatie douce** : lors des dîners d'État à l'Élysée, les vins servis sont choisis avec soin en fonction du pays d'origine du visiteur — un Bordeaux pour un Britannique, un Bourgogne pour un Japonais qui connaît les grands crus. L'offre d'un grand vin français est un geste diplomatique codé. Le président Emmanuel Macron a plusieurs fois suscité des polémiques en choisissant ou non d'apporter du vin français lors de visites officielles à l'étranger.\n\nLa **guerre des vins** avec les pays du Nouveau Monde (Australie, Chili, Californie, Argentine) est permanente. Ces pays produisent des vins techniquement irréprochables à des prix inférieurs — et ont parfois surclassé les Français dans des dégustations à l'aveugle célèbres. Le **«Jugement de Paris»** (1976) fit scandale : des vins californiens de Robert Mondavi surclassèrent des Premiers Crus bordelais et des Grands Crus bourguignons dans une dégustation aveugle organisée par un Britannique à Paris. La France nia les résultats, demanda une revanche — et les Californiens gagnèrent encore."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Vie quotidienne",
+        "icon": "🏠",
+        "title": "Le vin dans la vie quotidienne française",
+        "body": "Consommer du vin en France a profondément changé en deux générations. La France est passée d'une consommation quotidienne massive (les ouvriers buvaient du vin à chaque repas, y compris le déjeuner de travail) à une consommation plus occasionnelle mais plus qualitative. La consommation moyenne est aujourd'hui d'environ **40 litres par habitant et par an** (contre 120 litres dans les années 1960) — un recul considérable, compensé par une montée en gamme.\n\nLe **vin au restaurant** : une carte des vins peut faire peur. Quelques repères. Le «vin de la maison» ou «vin du patron» est la bouteille maison, souvent un vin simple mais honnête, vendue à prix raisonnable. Demander conseil au sommelier ou au serveur («Quel vin me conseillez-vous avec ce plat ?») est parfaitement acceptable et même valorisé — cela montre de l'humilité et de la curiosité, deux qualités appréciées. Ne pas choisir le vin le moins cher de la carte par peur du jugement : les restaurateurs savent que tout le monde a un budget.\n\n**Accords mets-vins de base** : blanc sec avec poissons, fruits de mer, charcuterie légère ; rouge léger (Pinot Noir, Beaujolais) avec volaille, charcuterie, fromages doux ; rouge puissant (Cabernet, Syrah) avec viandes rouges, gibier, fromages forts ; blanc moelleux ou liquoreux (Sauternes, Vouvray demi-sec) avec foie gras, desserts aux fruits. Le Champagne, lui, s'accorde avec presque tout — y compris les chips à l'apéritif, dit-on."
       },
       {
-        "theme": "Culture artistique",
+        "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "title": "Le vin dans la culture française",
+        "body": "Le vin est omniprésent dans la littérature et les arts français. **Baudelaire** consacra des poèmes au vin (*Le Vin des amants*, *L'Âme du vin*). **Zola** décrivit les ravages de l'alcool dans *L'Assommoir* (1877) — mais en distinguant soigneusement le vin (boisson de civilisation) de l'eau-de-vie (boisson de déchéance). **Rabelais** au XVIe siècle avait fait de Bacchus le compagnon de Pantagruel — le vin comme libération de l'esprit.\n\nLe **sommelier** est devenu une figure culturelle : il y a aujourd'hui des concours mondiaux du Meilleur Sommelier du Monde, des écoles spécialisées (l'Institut des Métiers de l'Hôtellerie), et la sommelière française **Paz Levinson** fut l'une des premières femmes à atteindre les plus hauts niveaux internationaux. La **dégustation à l'aveugle** (blind tasting) est un sport intellectuel pratiqué par des milliers de passionnés : reconnaître un cépage, un terroir, un millésime sans voir l'étiquette est considéré comme l'un des exercices sensoriels les plus difficiles au monde.\n\nLe **«vin nature»** (vins sans intrants chimiques, sans soufre ajouté, issus de l'agriculture biologique ou biodynamique) est la grande tendance des 15 dernières années. Des vignerons comme **Marcel Lapierre** (Morgon, Beaujolais) ou **Nicolas Joly** (Coulée de Serrant, Loire) ont posé les bases d'un mouvement qui a conquis les tables des restaurants branchés à Paris et dans les grandes villes du monde. Ces vins, parfois instables, parfois oxydatifs, divisent : pour leurs partisans, ils sont vivants et authentiques ; pour leurs détracteurs, ils sont défectueux et anarchiques."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "title": "Le vocabulaire du vin et les codes sociaux",
+        "body": "Parler de vin en France nécessite quelques bases de vocabulaire pour ne pas se sentir dépassé :\n\n**Le millésime** : l'année de récolte. Un «grand millésime» (2010, 2015, 2016 en Bordeaux) désigne une année climatiquement exceptionnelle qui a produit des vins de grande qualité. Les millésimes se consultent dans des guides (Parker, Revue du Vin de France).\n\n**La robe** : la couleur du vin, observée dans le verre en le tenant à la lumière. Un rouge «grenat» est jeune, un rouge «tuilé» (brun-orangé sur les bords) est vieux. Un blanc «or pâle» est jeune, «doré» est vieux ou élevé en fût.\n\n**Le nez** : les arômes du vin. Arômes primaires (cépage) : fruits rouges pour le Pinot Noir, agrumes pour le Sauvignon, épices pour la Syrah. Arômes secondaires (fermentation) : pain grillé, levure. Arômes tertiaires (élevage et vieillissement) : vanille, cuir, sous-bois, truffe.\n\n**La bouche** : ce qu'on ressent en buvant. La structure tannique (pour les rouges — sensation d'assèchement des gencives), l'acidité (fraîcheur), la longueur en bouche (combien de temps les arômes persistent après avoir avalé).\n\n**Les codes sociaux** : ne jamais tenir son verre par le calice (la boule) — seulement par le pied, pour ne pas réchauffer le vin. Toujours attendre que l'hôte serve avant de boire. Si on vous propose de goûter le vin avant de servir la table (au restaurant), c'est pour vérifier s'il est défectueux (bouchonné), pas pour juger s'il vous plaît — on ne renvoie pas un vin simplement parce qu'il n'est pas à votre goût."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à La Culture du Vin :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**Ne prétendez jamais savoir plus que vous ne savez sur le vin — les Français le détectent immédiatement et c'est plus gênant que d'admettre qu'on apprend.** Dire «Je ne m'y connais pas beaucoup, mais j'aimerais découvrir» est une invitation à la pédagogie et déclenche souvent un enthousiasme généreux chez l'interlocuteur.\n\nEn revanche, quelques gestes à éviter : mettre des glaçons dans son vin rouge (ou blanc autre que vin de soif en été) est perçu comme une hérésie. Commander du ketchup avec son steak dans un restaurant qui sert de bons vins crée un moment de malaise. Et diluer son vin avec de l'eau... est une chose que fait parfois discrètement un Français qui conduit — mais ne s'avouera jamais.\n\nUn point positif : les Français sont sincèrement heureux de partager leur passion pour le vin avec des étrangers curieux. Si vous êtes en Bourgogne ou à Bordeaux, proposez de visiter une cave — les vignerons accueillent volontiers et l'expérience d'une dégustation directement au domaine est inoubliable."
     },
     "glossary": [
-      {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
-      },
-      {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
-      },
-      {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
-      },
-      {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
-      },
-      {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
-      },
-      {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
-      }
+      { "term": "Le terroir", "definition": "Concept clé de la viticulture française : l'ensemble des conditions naturelles (sol, sous-sol, exposition, microclimat) d'une parcelle qui donne à son vin un caractère unique et irréproductible ailleurs." },
+      { "term": "Le millésime", "definition": "L'année de récolte du raisin. La qualité d'un millésime dépend des conditions climatiques de l'année : ensoleillement, pluies, températures. Certains millésimes sont «grands» (2010, 2015), d'autres «difficiles»." },
+      { "term": "L'appellation (AOP/AOC)", "definition": "Délimitation géographique et réglementaire garantissant l'origine et les méthodes de production d'un vin. En France : Bordeaux, Bourgogne, Champagne, Côtes du Rhône, etc. Protège contre les fraudes et imitations." },
+      { "term": "Le sommelier", "definition": "Professionnel spécialisé dans la sélection, le service et l'accord des vins au restaurant. Rôle de conseil et de médiation entre la cave et le client. Concours mondial du Meilleur Sommelier du Monde tous les 3 ans." },
+      { "term": "La dégustation à l'aveugle", "definition": "Exercice consistant à identifier cépage, terroir et millésime d'un vin sans voir l'étiquette. Sport intellectuel pratiqué par les passionnés. Le «Jugement de Paris» (1976) fut la plus célèbre dégustation à l'aveugle de l'histoire." },
+      { "term": "Le vin nature", "definition": "Vin produit sans intrants chimiques, sans soufre ajouté ou en très faible quantité, issu de raisins cultivés en bio ou biodynamie. Tendance majeure depuis 2010, très présente dans les restaurants branchés français." }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «La Culture du Vin» dans la République française ?",
+        "question": "Qu'est-ce que le «terroir» en viticulture française ?",
         "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
+          "Le nom de la coopérative qui produit les vins de la région",
+          "L'ensemble sol, sous-sol, exposition et microclat d'une parcelle qui donne un caractère unique au vin",
+          "La technique de vinification artisanale sans sulfites",
+          "Le label officiel des vins cultivés sans pesticides"
         ],
         "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
+        "explanation": "Le terroir est le concept clé de la viticulture française : l'ensemble des conditions naturelles (nature du sol, orientation, microclimate) d'une parcelle donnée produit un vin irréproductible ailleurs. C'est la raison pour laquelle deux vignes côte à côte en Bourgogne peuvent donner des vins très différents et des appellations distinctes."
       },
       {
-        "question": "En France, la laïcité signifie que...",
+        "question": "Quel scandale de dégustation à l'aveugle en 1976 choqua la France viticole ?",
         "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
+          "Des vins australiens battirent des Champagnes en dégustation organisée à Sydney",
+          "Des vins californiens surclassèrent des Premiers Crus bordelais et Grands Crus bourguignons à Paris",
+          "Un Rioja espagnol fut préféré à un Château Margaux par un jury de sommeliers français",
+          "Des vins chiliens furent vendus illégalement sous des étiquettes de Bourgogne"
         ],
         "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
+        "explanation": "Le «Jugement de Paris» (1976), organisé par le Britannique Steven Spurrier, vit des vins de Californie (Stag's Leap Wine Cellars, Chateau Montelena) surclasser des grands crus bordelais et bourguignons lors d'une dégustation à l'aveugle. Le résultat fut nié puis contesté par les Français, qui demandèrent une revanche — les Californiens gagnèrent à nouveau."
       },
       {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
+        "question": "Comment doit-on tenir son verre à vin en France ?",
         "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Par le calice (la boule) pour bien sentir les arômes dans la paume",
+          "Par le pied ou la tige du verre pour ne pas réchauffer le vin",
+          "À deux mains pour montrer sa déférence envers l'hôte",
+          "En entourant le calice avec les 5 doigts pour faire tourner le vin"
+        ],
+        "correct_index": 1,
+        "explanation": "En France, tenir son verre par le calice (la boule en verre) est une erreur de code : la chaleur de la main réchauffe le vin, notamment les blancs et les champagnes qui se boivent frais. On tient toujours son verre par le pied ou la tige fine. Ce geste simple distingue immédiatement quelqu'un qui connaît les codes de quelqu'un qui les découvre."
+      },
+      {
+        "question": "Qu'est-ce que le «Jugement de Paris» (1976) dans le monde du vin ?",
+        "options": [
+          "Le premier classement officiel des vins de Bordeaux commandé par Napoléon III",
+          "Une dégustation à l'aveugle où des vins californiens battirent des grands crus français",
+          "Le traité franco-américain autorisant l'export des vins de Bordeaux vers les États-Unis",
+          "Le concours annuel organisé à Paris pour élire le meilleur vin du monde"
+        ],
+        "correct_index": 1,
+        "explanation": "Le «Jugement de Paris» est une dégustation à l'aveugle organisée à Paris en 1976 par le Britannique Steven Spurrier. Des vins californiens (Stag's Leap, Chateau Montelena) surclassèrent des Premiers Crus de Bordeaux et des Grands Crus de Bourgogne. Cet événement fut un choc pour la France viticole et marqua la reconnaissance internationale des vins du Nouveau Monde."
+      },
+      {
+        "question": "Qu'est-ce qu'on doit vérifier quand le sommelier vous fait goûter le vin au restaurant ?",
+        "options": [
+          "Si le vin vous plaît et correspond à vos goûts personnels",
+          "Si le prix indiqué sur la carte correspond à ce qui est servi",
+          "Si le vin est défectueux (bouchonné, oxydé) — pas si vous l'aimez",
+          "Si le millésime est bien celui qui est annoncé sur l'étiquette"
         ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
-      },
-      {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
-        "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
-        ],
-        "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
-      },
-      {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
-        "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
-        ],
-        "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "Quand le sommelier vous fait goûter le vin au restaurant, c'est pour vérifier s'il est défectueux : «bouchonné» (goût de liège moisi dû à un mauvais bouchon), oxydé ou vinaigré. On ne renvoie PAS un vin simplement parce qu'il ne correspond pas à ses goûts. Renvoyer un vin non défectueux est perçu comme un abus ou une faute de comportement."
       }
     ]
   },
   "ru": {
     "module_title": "Французская гастрономия",
     "lesson_title": "Культура вина",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Культура вина. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_subtitle": "От терруара до стола: понять французское вино",
+    "intro": "Франция производит около 45 миллионов гектолитров вина в год — 2-й или 3-й производитель мира в зависимости от года. Но Франция не просто производитель: она — мировая точка отсчёта. Её апелласьоны, сорта винограда, философия терруара задали стандарты, которые весь мир пытается имитировать или превзойти. Понять культуру вина во Франции — значит понять социальный код, географию и философию вкуса, пронизывающие всё французское общество.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Культура вина** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "2 700 лет французского виноградарства",
+        "body": "Виноград во Франции завезли **греки** в Массалию (Марсель) около 600 г. до н. э. Римляне распространили виноградарство по всей Галлии — следы римских виноградников обнаружены в Бургундии, долине Роны и Эльзасе. Но именно **средневековые монастыри** структурировали французское виноделие: монахи Сито (Бургундия) возделывали Пино Нуар с научной строгостью, картографируя участки и наблюдая различия во вкусе в зависимости от места — так родился концепт **«терруара»**.\n\n**Революция** конфисковала церковные виноградники и рассеяла их на публичных торгах — раздробив бургундские угодья на тысячи мелких участков, которые новые владельцы яростно охраняли. Это дробление объясняет, почему в Бургундии сегодня тысячи производителей на ничтожных площадях: Гран Крю **«Романэ-Конти»** занимает всего 1,8 гектара и производит около 5 000 бутылок в год — самых дорогих в мире (нередко более 10 000 € за бутылку).\n\nСистема **апелласьонов** (AOC, ставших AOP на европейском уровне) была создана в 1930-х годах после крупных виноторговых фальсификаций послевоенной эпохи: негоцианты разбавляли дорогие вина обычными, продавая что угодно под этикетками великих крю. Закон **1935 года** создал **INAO** (Национальный институт апелласьонов происхождения) и установил правила: географическая зона, разрешённые сорта винограда, максимальная урожайность, методы виноделия."
       },
       {
-        "theme": "Регион",
+        "theme": "География",
         "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
+        "title": "Великие винодельческие регионы",
+        "body": "Виноградная Франция делится на крупные регионы с очень различным характером:\n\n**Бордо**: регион великих красных крю (Каберне Совиньон, Мерло). Классификация 1855 года распределяет шато Медока по 5 уровням. Мифические имена: Марго, Пойяк (Лафит, Латур, Мутон Ротшильд), Сент-Эмильон, Помероль (Петрюс). Белые сладкие вина **Сотерна** (Шато д'Икем) — одни из самых редких в мире.\n\n**Бургундия**: регион сложности и редкости. Лишь два сорта: **Пино Нуар** для красных, **Шардоне** для белых. Четырёхуровневая иерархия: региональная / Деревни / Премьер Крю / Гран Крю. Гран Крю (Шамбертен, Монраше, Романэ-Конти) — самые разыскиваемые вина мира.\n\n**Шампань**: к северу от Парижа — единственный регион, имеющий право называть свои вина «Шампанским». Метод шампенуаз: вторичная ферментация в бутылке создаёт пузырьки. Мифические дома: Моэт и Шандон, Круг, Дом Периньон, Вдова Клико, Лоран-Перье.\n\n**Долина Роны**: на севере (Сира) мощные перечные вина Эрмитажа и Кот-Роти; на юге (гренаш, сира, мурведр) — Шатонёф-дю-Пап и Жигондас. **Эльзас**: ароматные белые (Рислинг, Гевюрцтраминер, Пино Гри) в стройных бутылках, нередко полусладкие. **Луара**: от сухого Мюскаде до Сансер и Пуйи-Фюме (Совиньон Блан), до Вуврэ и Шинона."
       },
       {
-        "theme": "Политика и общество",
+        "theme": "Политика",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Вино — экономический и дипломатический актив",
+        "body": "Вино составляет около **12 миллиардов евро** ежегодного экспорта — 2-я статья агропродовольственного экспорта Франции после крепких спиртных напитков (включая коньяк). Главные экспортные рынки: США, Великобритания, Германия, Китай, Бельгия. Отрасль прямо и косвенно обеспечивает **500 000 рабочих мест**.\n\nВино — ещё и инструмент **мягкой дипломатии**: на государственных ужинах в Елисейском дворце вина подбираются тщательно с учётом страны гостя — Бордо для британца, Бургонь для японца, знающего великие крю. Предложить великое французское вино — кодированный дипломатический жест. Президент Макрон несколько раз вызывал полемику, выбирая или не выбирая французское вино для официальных зарубежных визитов.\n\n**Война вин** с Новым Светом (Австралия, Чили, Калифорния, Аргентина) не стихает. Эти страны производят технически безупречные вина по более низким ценам — и порой обходили французов на знаменитых слепых дегустациях. **«Суд Парижа»** (1976) вызвал скандал: калифорнийские вина Роберта Мондави обошли первые крю Бордо и великие крю Бургундии на слепой дегустации, организованной британцем в Париже. Франция отрицала результаты, потребовала реванша — и калифорнийцы победили снова."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Повседневная жизнь",
+        "icon": "🏠",
+        "title": "Вино в повседневной жизни французов",
+        "body": "Потребление вина во Франции кардинально изменилось за два поколения. Страна перешла от массового ежедневного потребления (рабочие пили вино за каждой трапезой, включая обеденный перерыв) к более редкому, но более качественному. Средний показатель сегодня — около **40 литров на человека в год** (против 120 литров в 1960-х) — значительный спад, компенсированный движением вверх по ценовой лестнице.\n\n**Вино в ресторане**: карта вин может пугать. Несколько ориентиров. «Вино дома» («vin de la maison» или «vin du patron») — домашнее вино заведения, нередко простое, но честное, по доступной цене. Просить совета у сомелье или официанта («Что вы посоветуете к этому блюду?») — совершенно нормально и даже ценится: это демонстрирует скромность и любознательность. Не нужно брать самое дешёвое в карте из страха суждения: в ресторанах понимают, что у всех разный бюджет.\n\n**Базовые сочетания**: сухое белое с рыбой, морепродуктами, лёгкой нарезкой; лёгкое красное (Пино Нуар, Божоле) с птицей, нарезкой, мягкими сырами; мощное красное (Каберне, Сира) с красным мясом, дичью, выдержанными сырами; сладкое белое (Сотерн, Вуврэ деми-сек) с фуа-гра, фруктовыми десертами. Шампанское подходит почти ко всему — в том числе, говорят, к чипсам на аперитиве."
       },
       {
-        "theme": "Художественная культура",
+        "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "title": "Вино во французской культуре",
+        "body": "Вино повсеместно в французской литературе и искусстве. **Бодлер** посвятил вину стихи («Вино влюблённых», «Душа вина»). **Золя** описал опустошение от алкоголя в «Западне» (1877) — тщательно разграничив вино (напиток цивилизации) и водку (напиток деградации). **Рабле** в XVI веке сделал Вакха спутником Пантагрюэля — вино как освобождение духа.\n\n**Сомелье** стал культурной фигурой: сегодня проводятся мировые конкурсы на звание лучшего сомелье мира, работают специализированные школы, а французская сомелье **Паз Левинсон** стала одной из первых женщин, достигших высших международных уровней. **Слепая дегустация** (blind tasting) — интеллектуальный спорт, которым занимаются тысячи увлечённых: распознать сорт, терруар, миллезим, не видя этикетки, считается одним из самых сложных сенсорных упражнений в мире.\n\n**«Натуральное вино»** (без химических добавок, без добавленного сульфита, из органического или биодинамического виноградарства) — главный тренд последних 15 лет. Такие виноделы, как **Марсель Лапьер** (Морго, Божоле) или **Николя Жоли** (Кулэ де Серан, Луара), заложили основы движения, завоевавшего столики модных ресторанов Парижа и мировых столиц. Эти вина, порой нестабильные, порой окисленные, делят мнения: для сторонников — они живые и аутентичные; для противников — дефектные и анархичные."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "title": "Словарь вина и социальные коды",
+        "body": "Говорить о вине во Франции требует нескольких базовых понятий, чтобы не чувствовать себя потерянным:\n\n**Миллезим**: год сбора урожая. «Великий миллезим» (2010, 2015, 2016 для Бордо) — климатически исключительный год, давший вина высокого качества. Миллезимы проверяют по гидам (Паркер, Revue du Vin de France).\n\n**Платье (robe)**: цвет вина, наблюдаемый в бокале на свет. Гранатовый красный — молодой, «черепичный» (буро-оранжевый по краям) — выдержанный. Бледно-золотой белый — молодой, «золотой» — выдержанный или выдержанный в дубе.\n\n**Нос (le nez)**: ароматы вина. Первичные (сорт): красные фрукты для Пино Нуар, цитрусовые для Совиньона, специи для Сира. Вторичные (ферментация): тосты, дрожжи. Третичные (выдержка и старение): ваниль, кожа, подлесок, трюфель.\n\n**Вкус (la bouche)**: ощущения при питье. Танинная структура (для красных — ощущение вяжущей сухости дёсен), кислотность (свежесть), длина послевкусия (как долго ароматы сохраняются после глотка).\n\n**Социальные коды**: никогда не держать бокал за чашу (шар) — только за ножку или стебель, чтобы не нагревать вино. Всегда ждать, пока хозяин нальёт, прежде чем пить. Если сомелье в ресторане предлагает попробовать вино — это для проверки дефекта (пробкового запаха), а не вашего вкуса: не возвращают вино просто потому, что оно не нравится."
       }
     ],
     "conseil_ami": {
-      "title": "Дружеский совет 🤝",
+      "title": "Совет друга 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Культура вина»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**Никогда не притворяйтесь, что знаете о вине больше, чем знаете — французы это мгновенно чувствуют, и это куда более неловко, чем честно признать, что учишься.** Сказать «Я не очень разбираюсь, но хотел бы открыть что-то новое» — приглашение к педагогике, которое нередко вызывает искренний энтузиазм у собеседника.\n\nНесколько жестов, которых стоит избегать: класть лёд в красное вино (или в белое, кроме лёгкого летнего) — ересь. Заказывать кетчуп к стейку в ресторане, где подают хорошие вина, создаёт неловкость. А разбавлять вино водой... это то, что иногда тайно делает за рулём француз — но никогда не признает.\n\nПоложительный момент: французы искренне рады делиться страстью к вину с любопытными иностранцами. Если вы в Бургундии или Бордо — предложите посетить погреб. Виноделы принимают охотно, и дегустация прямо в домене — незабываемый опыт."
     },
     "glossary": [
-      {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
-      },
-      {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
-      },
-      {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
-      },
-      {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
-      },
-      {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
-      },
-      {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
-      }
+      { "term": "Терруар (terroir)", "definition": "Ключевое понятие французского виноделия: совокупность природных условий участка (почва, подпочва, ориентация, микроклимат), дающая вину неповторимый характер, невоспроизводимый в другом месте." },
+      { "term": "Миллезим (millésime)", "definition": "Год сбора урожая. Качество миллезима зависит от климатических условий года: солнечность, дожди, температуры. Одни миллезимы — «великие» (2010, 2015), другие — «сложные»." },
+      { "term": "Апелласьон (AOP/AOC)", "definition": "Географическая и нормативная зона, гарантирующая происхождение и методы производства вина. Во Франции: Бордо, Бургонь, Шампань, Кот-дю-Рон и др. Защищает от фальсификаций и имитаций." },
+      { "term": "Сомелье (sommelier)", "definition": "Ресторанный специалист по подбору, сервировке и гастрономическому сочетанию вин. Консультирует и выступает посредником между погребом и клиентом. Конкурс лучшего сомелье мира — раз в 3 года." },
+      { "term": "Слепая дегустация (dégustation à l'aveugle)", "definition": "Упражнение: определить сорт, терруар и миллезим вина, не видя этикетки. Интеллектуальный спорт увлечённых. «Суд Парижа» (1976) — самая знаменитая слепая дегустация в истории." },
+      { "term": "Натуральное вино (vin nature)", "definition": "Вино без химических добавок, без добавленного или с минимальным сульфитом, из органического или биодинамического виноградарства. Главный тренд с 2010 года, очень популярный в модных французских ресторанах." }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Культура вина» во Французской республике?",
+        "question": "Что такое «терруар» во французском виноделии?",
         "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
+          "Название кооператива, производящего вина региона",
+          "Совокупность почвы, подпочвы, ориентации и микроклимата участка, дающая неповторимый характер вину",
+          "Технология натурального виноделия без сульфитов",
+          "Официальный лейбл вин, выращенных без пестицидов"
         ],
         "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
+        "explanation": "Терруар — ключевое понятие французского виноделия: природные условия конкретного участка (почва, ориентация, микроклимат) производят вино, неповторимое в другом месте. Именно поэтому два соседних виноградника в Бургундии могут давать очень разные вина с разными апелласьонами."
       },
       {
-        "question": "Светскость во Франции означает, что...",
+        "question": "Какой скандал слепой дегустации 1976 года потряс французское виноделие?",
         "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
+          "Австралийские вина обошли шампанское на дегустации в Сиднее",
+          "Калифорнийские вина превзошли первые крю Бордо и гран крю Бургундии в Париже",
+          "Испанская Риоха была предпочтена Шато Марго жюри французских сомелье",
+          "Чилийские вина незаконно продавались под бургундскими этикетками"
         ],
         "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
+        "explanation": "«Суд Парижа» (1976), организованный британцем Стивеном Спурриером, увенчал калифорнийские вина (Stag's Leap Wine Cellars, Chateau Montelena), обошедшие grands crus Бордо и Бургундии на слепой дегустации. Результат отрицался и оспаривался французами, которые потребовали реванша — калифорнийцы победили снова."
       },
       {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
+        "question": "Как правильно держать бокал с вином во Франции?",
         "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "За чашу (шар), чтобы лучше чувствовать ароматы в ладони",
+          "За ножку или стебель бокала, чтобы не нагревать вино",
+          "Двумя руками в знак уважения к хозяину",
+          "Обхватив чашу всеми пятью пальцами, чтобы вращать вино"
+        ],
+        "correct_index": 1,
+        "explanation": "Держать бокал за чашу (стеклянный шар) во Франции — ошибка в этикете: тепло руки нагревает вино, особенно белые и шампанское, которые пьют холодными. Бокал всегда держат за ножку или тонкий стебель. Этот простой жест сразу отличает знающего человека от незнакомого с кодами."
+      },
+      {
+        "question": "Что такое «Суд Парижа» (1976) в мире вина?",
+        "options": [
+          "Первая официальная классификация бордоских вин, заказанная Наполеоном III",
+          "Слепая дегустация, на которой калифорнийские вина обошли великие французские крю",
+          "Франко-американский договор об экспорте бордоских вин в США",
+          "Ежегодный конкурс в Париже на звание лучшего вина мира"
+        ],
+        "correct_index": 1,
+        "explanation": "«Суд Парижа» — слепая дегустация, организованная в Париже в 1976 году британцем Стивеном Спурриером. Калифорнийские вина (Stag's Leap, Chateau Montelena) обошли первые крю Бордо и гран крю Бургундии. Это событие потрясло французское виноделие и ознаменовало международное признание вин Нового Света."
+      },
+      {
+        "question": "Зачем сомелье в ресторане предлагает попробовать вино перед тем, как разлить всем гостям?",
+        "options": [
+          "Чтобы убедиться, что вино соответствует вашим личным вкусам",
+          "Чтобы цена в карте совпадала с тем, что подают",
+          "Чтобы проверить, не испорчено ли вино (пробковый запах, окисление) — а не нравится ли оно вам",
+          "Чтобы убедиться, что миллезим соответствует указанному на этикетке"
         ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
-      },
-      {
-        "question": "Членом-основателем какой международной организации является Франция?",
-        "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
-        ],
-        "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
-      },
-      {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
-        "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
-        ],
-        "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "Когда сомелье предлагает попробовать вино в ресторане, это делается для проверки дефекта: «пробкового запаха» (затхлый запах от плохой пробки), окисления или уксусного скисания. Вино НЕ возвращают только потому, что оно не понравилось. Вернуть исправное вино воспринимается как злоупотребление или нарушение этикета."
       }
     ]
   }

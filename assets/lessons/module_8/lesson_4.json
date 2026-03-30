@@ -4,275 +4,288 @@
     "lesson_id": 4,
     "module_icon": "🎨",
     "lesson_icon": "🎭",
-    "estimated_minutes": 12,
+    "estimated_minutes": 10,
     "difficulty": "intermédiaire",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "Comédie-Française — Histoire et programmation",
+        "url": "https://www.comedie-francaise.fr"
+      },
+      {
+        "label": "Festival d'Avignon — Off et In",
+        "url": "https://www.festival-avignon.com"
+      },
+      {
+        "label": "Opéra national de Paris",
+        "url": "https://www.operadeparis.fr"
+      },
+      {
+        "label": "Centre national de la danse",
+        "url": "https://www.cnd.fr"
+      }
     ]
   },
   "fr": {
     "module_title": "Arts, Lettres et Musique",
     "lesson_title": "Théâtre et Danse",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : Théâtre et Danse. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "De Molière au festival d'Avignon : les arts du corps et de la scène",
+    "intro": "Le théâtre français est l'un des plus riches et des plus vivants d'Europe — avec plus de 400 théâtres subventionnés, le Festival d'Avignon comme vitrine mondiale, et la Comédie-Française comme institution bi-centenaire. La danse, de l'Opéra de Paris au contemporain, révèle une autre France : celle du corps, de la grâce et de la rébellion physique. Ces deux arts, profondément ancrés dans la culture française, méritent qu'on s'y attarde.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**Théâtre et Danse** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "Du théâtre de foire à la Comédie-Française",
+        "body": "Le théâtre français moderne naît au **XVIIe siècle** avec Molière. Jean-Baptiste Poquelin, dit **Molière** (1622–1673), commence sa carrière dans des troupes itinérantes avant d'obtenir la protection de Louis XIV. Il fonde la tradition du théâtre comique français — non pas une comédie légère et anodine, mais une comédie qui attaque les vices et les ridicules de la société avec une férocité masquée de rire : l'hypocrisie religieuse (*Tartuffe*), l'avarice (*L'Avare*), le snobisme (*Le Bourgeois Gentilhomme*), la misanthropie (*Le Misanthrope*).\n\nLa **Comédie-Française** naît en 1680, un an après la mort de Molière — Louis XIV fusionne les troupes rivales de Paris pour créer la première troupe nationale permanente. C'est la doyenne des théâtres du monde occidental, toujours en activité, avec un répertoire de 3 000 pièces et une troupe de comédiens permanents (les «sociétaires»). Salle Richelieu à Paris, elle accueille 500 000 spectateurs par an.\n\nLe **XIXe siècle** voit le théâtre romantique d'**Hugo** (*Hernani*, 1830 — la «Bataille d'Hernani» entre classiques et romantiques est un événement culturel fondateur) et de **Musset**. Le **XXe siècle** révolutionne la scène : **Jean Vilar** crée le **Festival d'Avignon** en 1947 pour démocratiser le théâtre hors de Paris. **Antonin Artaud** théorise le «théâtre de la cruauté» (influence mondiale). **Samuel Beckett** (*En attendant Godot*, 1953) crée le théâtre de l'absurde depuis Paris."
       },
       {
-        "theme": "Région",
-        "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
-      },
-      {
-        "theme": "Politique & Social",
+        "theme": "Cadre légal & textes",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "Le service public du spectacle vivant en France",
+        "body": "La France est le pays au monde qui consacre le plus de fonds publics au **spectacle vivant** (théâtre, danse, opéra, musique vivante) : environ **800 millions €/an** de subventions étatiques, plus les subventions des collectivités locales (régions, départements, communes). Ce soutien massif permet l'existence d'un tissu dense d'institutions culturelles.\n\nL'organisation du spectacle vivant subventionné est structurée :\n— **Les théâtres nationaux** (5 à Paris + Strasbourg) : Comédie-Française, Théâtre National de Chaillot, Théâtre National de la Colline, Odéon-Théâtre de l'Europe, Théâtre National de l'Opéra-Comique\n— **Les Scènes nationales** (environ 80 en province) : structures polyvalentes financées par l'État et les collectivités, couvrant tout le territoire\n— **Les Centres dramatiques nationaux (CDN)** : lieux de création et de diffusion théâtrale dans les grandes villes\n— **Les Centres chorégraphiques nationaux (CCN)** : dédiés à la danse contemporaine, avec résidences d'artistes\n\nLa **intermittence du spectacle** est un régime spécifique d'assurance chômage pour les artistes et techniciens du spectacle vivant et de l'audiovisuel : en contrepartie de la précarité de leur emploi, ils bénéficient de droits à l'assurance chômage calculés sur la base d'heures travaillées (507 heures sur 12 mois pour les artistes). Ce régime, régulièrement menacé, est défendu comme condition d'existence de la création artistique en France."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Démarches pratiques",
+        "icon": "📋",
+        "title": "Le Festival d'Avignon et la scène contemporaine",
+        "body": "Le **Festival d'Avignon** (juillet, 3 semaines) est le plus grand festival de théâtre du monde en nombre de spectacles : **1 500 spectacles** pour le Off (festival libre, sans sélection) et une cinquantaine pour le In (sélection officielle). La ville médiévale devient une gigantesque scène : le Palais des Papes accueille les grandes mises en scène du In, pendant que le Off envahit cours, chapelles, garages et parkings.\n\nComment s'y retrouver : le **Pass Avignon** (~25 €) permet des réductions sur les spectacles du In. Le Off est moins cher (8–15 € en moyenne) et beaucoup plus expérimental — c'est là que naissent les talents de demain. Un conseil : lisez les critiques dans *Télérama* ou *Le Monde* avant de partir, et prévoyez 3 à 5 spectacles par jour — les journées s'organisent autour des créneaux.\n\n**À Paris** : le théâtre est accessible à tous les budgets. La **Comédie-Française** propose des places à partir de **5 € pour les moins de 28 ans** (billets «bouffons» vendus 1h avant le spectacle). Le Théâtre du Châtelet, l'Odéon, le Théâtre de la Bastille, le Théâtre de la Ville sont des scènes majeures avec des politiques tarifaires sociales. Les **Molières** (équivalent des Oscars du théâtre français) récompensent chaque mai les meilleures productions.\n\n**La danse** : l'**Opéra national de Paris** (Ballet de l'Opéra de Paris, fondé en 1661 — le plus ancien ballet du monde en activité) présente une programmation entre répertoire classique et créations contemporaines. Les stages amateurs de danse sont très accessibles dans tous les conservatoires municipaux."
       },
       {
-        "theme": "Culture artistique",
-        "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "theme": "Droits & recours",
+        "icon": "🛡️",
+        "title": "Danse et politique : le corps comme enjeu",
+        "body": "La danse française contemporaine est un terrain politique et social fascinant.\n\n**La danse hip-hop** est l'une des grandes révolutions artistiques françaises des 40 dernières années. Née dans les banlieues des années 1980 avec des compagnies comme **Accrorap** (Kader Attou), le hip-hop français est aujourd'hui reconnu comme art majeur — Kader Attou est directeur du Centre chorégraphique national de La Rochelle, le hip-hop entre dans les conservatoires et sur les scènes nationales. Cette trajectoire illustre comment une forme d'expression née dans les marges peut devenir patrimoine institutionnel.\n\nLa **parité dans les arts du spectacle** est un enjeu majeur : les femmes sont surreprésentées parmi les étudiants en arts du spectacle mais sous-représentées aux postes de direction des grandes institutions (directeurs de théâtre, metteurs en scène programmés). Le mouvement **#MeToo** dans le monde du spectacle français (2017–2020) a révélé des abus systémiques — plusieurs metteurs en scène célèbres ont été mis en cause. Des chartes et commissions ont été créées, mais les changements structurels sont lents.\n\nLa **crise du Covid** a frappé le spectacle vivant de plein fouet (fermeture 9 mois entre 2020 et 2021) et révélé la fragilité économique du secteur. Les intermittents du spectacle ont bénéficié d'une «**année blanche**» — maintien de leurs droits malgré l'impossibilité de travailler. Cette solidarité nationale envers un secteur précaire a été saluée mais aussi critiquée comme preuve de l'importance du «lobbying culturel» à la française."
       },
       {
-        "theme": "Gastronomie & Codes sociaux",
-        "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "theme": "Impact sur la vie quotidienne",
+        "icon": "🏠",
+        "title": "Le théâtre et la danse dans la vie des Français",
+        "body": "La France est l'un des pays où la pratique artistique amateur est la plus développée : **9 millions de Français** pratiquent la danse régulièrement (cours de danse classique, contemporaine, hip-hop, salsa, tango...). Les **conservatoires municipaux** (1 200 sur le territoire) proposent des cours de musique, danse et théâtre à des tarifs modulés selon les revenus — souvent moins de 100 €/trimestre.\n\nLe **théâtre amateur** rassemble plus de **500 000 pratiquants** dans des troupes locales et associatives. Les **MJC** (Maisons des Jeunes et de la Culture) et les **centres sociaux** proposent des ateliers de théâtre accessibles dès 6 ans. Le théâtre en cours de français est une pratique pédagogique répandue — jouer Molière en classe reste un rite de passage scolaire pour beaucoup de Français.\n\nLe **off d'Avignon** attire chaque année des amateurs venus de toute la France — parfois plusieurs jours de voyage pour voir 10 à 15 spectacles. Cette mobilisation autour du spectacle vivant est une caractéristique culturelle française forte. L'**abonnement** à un théâtre ou à une saison culturelle est répandu chez les classes moyennes et supérieures — pratique sociale autant qu'artistique.\n\nLes **danses traditionnelles françaises** (bourrée auvergnate, danse bretonne, farandole provençale) connaissent un regain d'intérêt depuis les années 2010, portées par les milieux ruraux et l'identité régionale — parfois dans un contexte de réappropriation culturelle face à la mondialisation."
+      },
+      {
+        "theme": "Lexique essentiel",
+        "icon": "📖",
+        "title": "Les mots du théâtre et de la danse",
+        "body": "**La Comédie-Française** : plus ancien théâtre national du monde en activité (1680), dépositaire du répertoire classique français. Ses acteurs permanents sont des «sociétaires» — statut unique d'acteur-associé à l'institution.\n\n**Le Festival d'Avignon** : plus grand festival de théâtre du monde (juillet, 3 semaines). Deux volets : le «In» (sélection officielle, 50 spectacles) et le «Off» (festival libre, 1 500 spectacles). Créé par Jean Vilar en 1947.\n\n**L'intermittence du spectacle** : régime spécifique d'assurance chômage pour les artistes et techniciens du spectacle — 507 heures de travail sur 12 mois ouvrent des droits à l'allocation chômage. Régime régulièrement menacé de réforme.\n\n**Les Molières** : équivalent des Oscars pour le théâtre français, remis chaque année en mai. Récompensent les meilleures mises en scène, comédiens, auteurs de la saison écoulée.\n\n**Le Centre chorégraphique national (CCN)** : structure nationale de création et diffusion de la danse contemporaine, avec résidences d'artistes. 19 CCN sur le territoire français.\n\n**Le sociétaire** : acteur membre permanent de la Comédie-Française, élu par ses pairs et lié à l'institution par un statut d'associé — bénéficiant d'une part des bénéfices. Distinction honorifique la plus haute du théâtre français."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à Théâtre et Danse :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**Si vous allez à Avignon en juillet, réservez votre logement 6 mois à l'avance.** La ville de 90 000 habitants accueille 150 000 festivaliers sur 3 semaines — les hôtels et locations se remplissent dès janvier. Un conseil : dormez dans les villages autour (Villeneuve-lès-Avignon, Noves, Barbentane) et venez en vélo ou en voiture.\n\nPour assister à un spectacle à la Comédie-Française sans dépenser une fortune : présentez-vous 1 heure avant le spectacle au guichet et demandez les billets «bouffons» à 5 € réservés aux moins de 28 ans. Ce sont souvent des places au 3e balcon, mais l'acoustique est excellente. Et le mot «bouffon» ne vous intimidera pas : c'est une tradition généreuse de la maison de Molière."
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
+        "term": "La Comédie-Française",
+        "definition": "Plus ancien théâtre national du monde en activité (1680), gardien du répertoire classique français. Ses acteurs permanents sont des «sociétaires» — statut unique d'acteur-associé à l'institution."
       },
       {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
+        "term": "Le Festival d'Avignon",
+        "definition": "Plus grand festival de théâtre du monde (juillet, 3 semaines) : le «In» (50 spectacles officiels) et le «Off» (1 500 spectacles libres). Créé par Jean Vilar en 1947."
       },
       {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "term": "L'intermittence du spectacle",
+        "definition": "Régime spécifique d'assurance chômage pour artistes et techniciens du spectacle : 507 heures travaillées sur 12 mois ouvrent des droits aux allocations chômage."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "Les Molières",
+        "definition": "Équivalent des Oscars pour le théâtre français, remis chaque mai. Récompensent les meilleures mises en scène, comédiens et auteurs de la saison."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
+        "term": "Le CCN (Centre chorégraphique national)",
+        "definition": "Structure nationale de création et diffusion de la danse contemporaine, avec résidences d'artistes. 19 CCN répartis sur le territoire français."
       },
       {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "Le sociétaire",
+        "definition": "Acteur membre permanent de la Comédie-Française, élu par ses pairs et associé à l'institution — la distinction honorifique la plus haute du théâtre français."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «Théâtre et Danse» dans la République française ?",
+        "question": "Quelle institution est considérée comme le plus ancien théâtre national du monde en activité ?",
         "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
-        ],
-        "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
-      },
-      {
-        "question": "En France, la laïcité signifie que...",
-        "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
-        ],
-        "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
-      },
-      {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Le Théâtre du Châtelet",
+          "L'Odéon-Théâtre de l'Europe",
+          "La Comédie-Française (fondée en 1680)",
+          "Le Théâtre National de Chaillot"
         ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
+        "explanation": "La Comédie-Française, fondée en 1680 par Louis XIV (un an après la mort de Molière), est le plus ancien théâtre national du monde encore en activité. Elle conserve un répertoire de 3 000 pièces, une troupe de comédiens permanents (les «sociétaires»), et accueille 500 000 spectateurs par an dans sa salle historique du Palais-Royal."
       },
       {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
+        "question": "Qu'est-ce que l'«intermittence du spectacle» ?",
         "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
-        ],
-        "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
-      },
-      {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
-        "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
+          "Les pauses entre les scènes d'un spectacle",
+          "Un régime spécifique d'assurance chômage pour les artistes et techniciens du spectacle",
+          "La pratique de programmer des spectacles en alternance",
+          "Le titre donné aux comédiens qui jouent de façon irrégulière"
         ],
         "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "L'intermittence est un régime spécifique d'assurance chômage pour les artistes et techniciens du spectacle vivant et de l'audiovisuel : en contrepartie de la précarité inhérente à leurs contrats, ils bénéficient de droits aux allocations chômage après 507 heures de travail sur 12 mois. Ce régime finance en réalité une bonne partie de la création artistique française et est régulièrement menacé de réforme."
+      },
+      {
+        "question": "Qui a créé le Festival d'Avignon en 1947 ?",
+        "options": [
+          "Molière",
+          "Jean Vilar",
+          "Antoine Vitez",
+          "Roger Planchon"
+        ],
+        "correct_index": 1,
+        "explanation": "Jean Vilar (1912–1971) crée le Festival d'Avignon en 1947 avec une vision claire : démocratiser le théâtre en sortant de Paris et en le jouant en plein air dans la cour du Palais des Papes. Son motto : «Le théâtre est un service public.» Il dirigera aussi le TNP (Théâtre National Populaire) de 1951 à 1963, poursuivant cette démocratisation culturelle."
+      },
+      {
+        "question": "Comment le hip-hop français a-t-il évolué depuis les années 1980 ?",
+        "options": [
+          "Il est resté un phénomène marginal cantonné aux banlieues",
+          "Il est devenu un art reconnu : ses représentants dirigent des CCN et entrent dans les conservatoires",
+          "Il a été interdit dans les lieux subventionnés par l'État",
+          "Il a décliné en France au profit du hip-hop américain"
+        ],
+        "correct_index": 1,
+        "explanation": "Né dans les banlieues françaises dans les années 1980, le hip-hop français a connu une trajectoire remarquable : des compagnies comme Accrorap (Kader Attou) ont conquis les scènes nationales. Kader Attou est aujourd'hui directeur du Centre chorégraphique national de La Rochelle. Le hip-hop entre dans les conservatoires municipaux et est programmé dans les plus grandes scènes françaises — exemple de transformation d'une forme marginale en art institutionnel."
+      },
+      {
+        "question": "Combien de Français pratiquent la danse régulièrement ?",
+        "options": [
+          "Environ 500 000",
+          "Environ 2 millions",
+          "Environ 9 millions",
+          "Environ 20 millions"
+        ],
+        "correct_index": 2,
+        "explanation": "Environ 9 millions de Français pratiquent la danse régulièrement — toutes formes confondues : classique, contemporaine, hip-hop, salsa, tango, danses traditionnelles. Les 1 200 conservatoires municipaux proposent des cours à des tarifs modulés selon les revenus, et les MJC et centres sociaux complètent cette offre. La danse est l'une des pratiques artistiques amateur les plus répandues en France."
       }
     ]
   },
   "ru": {
     "module_title": "Искусство, литература и музыка",
     "lesson_title": "Театр и танец",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Театр и танец. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_subtitle": "От Мольера до Авиньонского фестиваля: искусство тела и сцены",
+    "intro": "Французский театр — один из богатейших и живейших в Европе: более 400 субсидированных театров, Авиньонский фестиваль как мировая витрина, «Комеди-Франсез» как двухвековой институт. Танец — от Оперы Парижа до contemporary — открывает другую Францию: телесную, полную грации и физического бунта. Оба искусства, глубоко укоренённые во французской культуре, заслуживают внимательного взгляда.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Театр и танец** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "От ярмарочного театра до «Комеди-Франсез»",
+        "body": "Современный французский театр рождается в **XVII веке** вместе с Мольером. Жан-Батист Поклен, известный как **Мольер** (1622–1673), начинает карьеру в бродячих труппах, прежде чем получает покровительство Людовика XIV. Он основывает традицию французской комедии — не лёгкой и безобидной, а нападающей на пороки и нелепости общества с яростью, скрытой за смехом: религиозное лицемерие (*Тартюф*), скупость (*Скупой*), снобизм (*Мещанин во дворянстве*), мизантропия (*Мизантроп*).\n\n«**Комеди-Франсез**» рождается в 1680 году, год спустя после смерти Мольера — Людовик XIV объединяет соперничающие парижские труппы, создавая первую постоянную национальную труппу. Это старейший действующий театр западного мира с репертуаром из 3 000 пьес и постоянной труппой актёров («пайщиков»). Зал Ришельё в Париже принимает 500 000 зрителей в год.\n\n**XIX век** — романтический театр **Гюго** (*Эрнани*, 1830 — «Битва при Эрнани» между классиками и романтиками) и **Мюссе**. **XX век** революционизирует сцену: **Жан Вилар** создаёт **Авиньонский фестиваль** в 1947 году, чтобы демократизировать театр за пределами Парижа. **Антонен Арто** разрабатывает теорию «театра жестокости» (мировое влияние). **Сэмюэль Беккет** (*В ожидании Годо*, 1953) создаёт театр абсурда в Париже."
       },
       {
-        "theme": "Регион",
-        "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
-      },
-      {
-        "theme": "Политика и общество",
+        "theme": "Правовая база и тексты",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Государственная служба исполнительских искусств во Франции",
+        "body": "Франция — страна, вкладывающая в **живые исполнительские искусства** (театр, танец, опера, живая музыка) наибольший объём государственных средств: около **800 млн €/год** государственных субсидий плюс субсидии местных органов власти. Это массовое финансирование обеспечивает существование плотной сети культурных институтов.\n\nОрганизация субсидируемых исполнительских искусств структурирована:\n— **Национальные театры** (5 в Париже + Страсбург): «Комеди-Франсез», Национальный театр Шайо, Национальный театр Колин, Одеон-Театр Европы, Национальная опера-комик\n— **Национальные сцены** (около 80 в провинции): многопрофильные структуры, финансируемые государством и коллективностями, охватывающие всю территорию\n— **Национальные драматические центры (CDN)**: места создания и показа театральных постановок в крупных городах\n— **Национальные хореографические центры (CCN)**: посвящены современному танцу, предоставляют резидентуры художникам\n\n**«Перемежаемость» в сфере шоу-бизнеса** — специфический режим страхования по безработице для артистов и техников живых и аудиовизуальных шоу: в обмен на нестабильность занятости они пользуются правами на пособие по безработице при условии 507 отработанных часов за 12 месяцев. Этот режим, регулярно находящийся под угрозой реформы, защищается как необходимое условие художественного творчества во Франции."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Практические шаги",
+        "icon": "📋",
+        "title": "Авиньонский фестиваль и современная сцена",
+        "body": "**Авиньонский фестиваль** (июль, 3 недели) — крупнейший театральный фестиваль мира по числу спектаклей: **1 500 спектаклей** в Off (свободный фестиваль, без отбора) и около пятидесяти в In (официальная программа). Средневековый город превращается в гигантскую сцену: Папский дворец принимает крупные постановки In, пока Off захватывает дворы, капеллы, гаражи и парковки.\n\nКак ориентироваться: **пропуск Avignon** (~25 €) даёт скидки на спектакли In. Off дешевле (в среднем 8–15 €) и значительно экспериментальнее — именно здесь рождаются завтрашние таланты. Совет: читайте рецензии в *Télérama* или *Le Monde* заранее и планируйте 3–5 спектаклей в день — дни выстраиваются вокруг временных слотов.\n\n**В Париже** театр доступен для любого бюджета. «**Комеди-Франсез**» предлагает места от **5 € для молодёжи до 28 лет** (билеты «bouffons», продаваемые за 1 час до спектакля). Театр Шатле, Одеон, Театр Бастилии, Театр де ла Виль — крупные сцены с социальной ценовой политикой. **«Мольеры»** (театральный эквивалент «Оскаров») ежегодно вручаются в мае.\n\n**Танец**: **Национальная опера Парижа** (Балет Парижской оперы, основан в 1661 году — старейший в мире действующий балет) представляет программу между классическим репертуаром и современными постановками. Любительские занятия танцем очень доступны во всех муниципальных консерваториях."
       },
       {
-        "theme": "Художественная культура",
-        "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "theme": "Права и средства защиты",
+        "icon": "🛡️",
+        "title": "Танец и политика: тело как предмет споров",
+        "body": "Французский современный танец — захватывающее политическое и социальное пространство.\n\n**Хип-хоп-танец** — одна из крупнейших художественных революций Франции за последние 40 лет. Зародившись в пригородах 1980-х с такими труппами, как **Accrorap** (Кадер Атту), французский хип-хоп сегодня признан крупным искусством — Кадер Атту руководит Национальным хореографическим центром в Ла-Рошели, хип-хоп входит в консерватории и на национальные сцены. Эта траектория показывает, как форма выражения, рождённая на обочине, может стать институциональным достоянием.\n\n**Гендерный баланс в исполнительских искусствах** — важная проблема: женщины преобладают среди студентов сценических искусств, но недопредставлены на руководящих позициях в крупных институтах. Движение **#MeToo** во французском мире зрелищ (2017–2020) обнажило системные злоупотребления — несколько известных режиссёров оказались под следствием. Хартии и комиссии созданы, но структурные изменения происходят медленно.\n\n**Кризис COVID** нанёс сокрушительный удар по исполнительским искусствам (закрытие на 9 месяцев в 2020–2021 годах) и обнажил экономическую хрупкость отрасли. Перемежаемые работники получили «**белый год**» — сохранение прав несмотря на невозможность работать. Эта национальная солидарность с нестабильным сектором была встречена похвалой и критикой одновременно."
       },
       {
-        "theme": "Гастрономия и социальные коды",
-        "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "theme": "Влияние на повседневную жизнь",
+        "icon": "🏠",
+        "title": "Театр и танец в жизни французов",
+        "body": "Франция — одна из стран с наиболее развитыми любительскими художественными практиками: **9 миллионов французов** регулярно занимаются танцем (классическим, современным, хип-хопом, сальсой, танго...). **Муниципальные консерватории** (1 200 по всей стране) предлагают уроки музыки, танца и театра по тарифам, варьирующимся в зависимости от доходов — нередко менее 100 €/квартал.\n\n**Любительский театр** объединяет более **500 000 участников** в местных и ассоциативных труппах. **МЖЦ** (Дома молодёжи и культуры) и социальные центры предлагают театральные мастерские, доступные с 6 лет. Театр на уроках французского — распространённая педагогическая практика: сыграть Мольера в классе остаётся школьным обрядом для многих французов.\n\n**Авиньонский Off** ежегодно привлекает любителей со всей Франции — порой несколько дней пути ради 10–15 спектаклей. Эта мобилизация вокруг живых исполнительских искусств — характерная французская культурная черта. **Абонемент** в театр или на культурный сезон распространён в средних и высших классах — социальная практика не меньше, чем художественная.\n\n**Французские традиционные танцы** (оверньская бурре, бретонские танцы, провансальская фарандола) переживают возрождение интереса с 2010-х годов — в сельской среде и в контексте региональной идентичности, порой как культурное присвоение перед лицом глобализации."
+      },
+      {
+        "theme": "Основной словарь",
+        "icon": "📖",
+        "title": "Слова театра и танца",
+        "body": "**La Comédie-Française / «Комеди-Франсез»**: старейший действующий национальный театр мира (1680), хранитель французского классического репертуара. Постоянные актёры — «пайщики» (sociétaires) — уникальный статус актёра-участника института.\n\n**Le Festival d'Avignon / Авиньонский фестиваль**: крупнейший театральный фестиваль мира (июль, 3 недели). Две части: «In» (50 официальных спектаклей) и «Off» (1 500 свободных). Создан Жаном Виларом в 1947 году.\n\n**L'intermittence du spectacle / «Перемежаемость»**: специфический режим страхования по безработице для артистов и техников зрелищных искусств — 507 отработанных часов за 12 месяцев дают право на пособие. Регулярно под угрозой реформы.\n\n**Les Molières / «Мольеры»**: театральный эквивалент «Оскаров» во Франции, вручаются ежегодно в мае. Отмечают лучшие постановки, актёров и авторов сезона.\n\n**Le CCN (Centre chorégraphique national) / ЦНХ**: национальная структура создания и показа современного танца с резидентурами для художников. 19 ЦНХ по территории Франции.\n\n**Le sociétaire / Пайщик**: постоянный актёр «Комеди-Франсез», избираемый коллегами и связанный с институтом статусом участника — высшее почётное звание французского театра."
       }
     ],
     "conseil_ami": {
       "title": "Дружеский совет 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Театр и танец»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**Если вы едете в Авиньон в июле — бронируйте жильё за 6 месяцев.** Город с 90 000 жителей принимает 150 000 участников фестиваля в течение 3 недель — отели и апартаменты заполняются уже в январе. Совет: ночуйте в окрестных деревнях (Вильнёв-лез-Авиньон, Нов, Барбентан) и приезжайте на велосипеде или машине.\n\nЧтобы побывать на спектакле в «Комеди-Франсез», не тратя целое состояние: подойдите к кассе за 1 час до начала и попросите билеты «bouffons» за 5 € — для молодёжи до 28 лет. Это нередко места на 3-м балконе, но акустика там превосходная. И слово «bouffons» вас не смутит: это щедрая традиция дома Мольера."
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "La Comédie-Française / «Комеди-Франсез»",
+        "definition": "Старейший действующий национальный театр мира (1680), хранитель французского классического репертуара. Постоянные актёры-пайщики (sociétaires) — уникальный статус."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "Le Festival d'Avignon / Авиньонский фестиваль",
+        "definition": "Крупнейший театральный фестиваль мира (июль, 3 недели): «In» (50 официальных спектаклей) и «Off» (1 500 свободных). Создан Жаном Виларом в 1947 году."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "L'intermittence / «Перемежаемость»",
+        "definition": "Специфический режим страхования по безработице для артистов и техников зрелищных искусств: 507 часов работы за 12 месяцев дают право на пособие. Регулярно под угрозой реформы."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "Les Molières / «Мольеры»",
+        "definition": "Театральный эквивалент «Оскаров», вручаемый ежегодно в мае. Отмечает лучшие постановки, актёров и авторов сезона."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "Le CCN / ЦНХ",
+        "definition": "Национальный хореографический центр — структура создания и показа современного танца с резидентурами. 19 ЦНХ по Франции."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "Le sociétaire / Пайщик",
+        "definition": "Постоянный актёр «Комеди-Франсез», избираемый коллегами и связанный с институтом как участник. Высшее почётное звание французского театра."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Театр и танец» во Французской республике?",
+        "question": "Какое учреждение считается старейшим действующим национальным театром мира?",
         "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
-        ],
-        "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
-      },
-      {
-        "question": "Светскость во Франции означает, что...",
-        "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
-        ],
-        "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
-      },
-      {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Театр Шатле",
+          "Одеон-Театр Европы",
+          "«Комеди-Франсез» (основана в 1680 году)",
+          "Национальный театр Шайо"
         ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
+        "explanation": "«Комеди-Франсез», основанная в 1680 году Людовиком XIV (через год после смерти Мольера), — старейший действующий национальный театр мира. Она хранит репертуар из 3 000 пьес, постоянную труппу актёров («пайщиков») и принимает 500 000 зрителей в год в историческом зале в Пале-Руаяль."
       },
       {
-        "question": "Членом-основателем какой международной организации является Франция?",
+        "question": "Что такое «перемежаемость» (intermittence du spectacle)?",
         "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
-        ],
-        "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
-      },
-      {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
-        "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
+          "Паузы между сценами спектакля",
+          "Специфический режим страхования по безработице для артистов и техников зрелищных искусств",
+          "Практика чередования спектаклей в репертуаре",
+          "Название, присваиваемое актёрам, играющим нерегулярно"
         ],
         "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "«Перемежаемость» — специфический режим страхования по безработице для артистов и техников живых и аудиовизуальных зрелищных искусств: в обмен на нестабильность занятости они получают право на пособие по безработице при условии 507 отработанных часов за 12 месяцев. Этот режим фактически финансирует значительную часть французского художественного творчества."
+      },
+      {
+        "question": "Кто создал Авиньонский фестиваль в 1947 году?",
+        "options": [
+          "Мольер",
+          "Жан Вилар",
+          "Антуан Витез",
+          "Роже Планшон"
+        ],
+        "correct_index": 1,
+        "explanation": "Жан Вилар (1912–1971) создал Авиньонский фестиваль в 1947 году с ясной миссией: демократизировать театр за пределами Парижа и играть под открытым небом во дворе Папского дворца. Его девиз: «Театр — это общественная служба». Он также руководил НТН (Народным национальным театром) с 1951 по 1963 год."
+      },
+      {
+        "question": "Как эволюционировал французский хип-хоп-танец с 1980-х годов?",
+        "options": [
+          "Остался маргинальным явлением, ограниченным пригородами",
+          "Стал признанным искусством: его представители руководят ЦНХ и входят в консерватории",
+          "Был запрещён в государственно субсидируемых учреждениях",
+          "Пришёл в упадок под натиском американского хип-хопа"
+        ],
+        "correct_index": 1,
+        "explanation": "Зародившись во французских пригородах в 1980-х, французский хип-хоп прошёл замечательный путь: такие труппы, как Accrorap (Кадер Атту), завоевали национальные сцены. Сегодня Кадер Атту руководит Национальным хореографическим центром в Ла-Рошели. Хип-хоп входит в муниципальные консерватории и программируется на крупнейших французских сценах."
+      },
+      {
+        "question": "Сколько французов регулярно занимаются танцем?",
+        "options": [
+          "Около 500 000",
+          "Около 2 миллионов",
+          "Около 9 миллионов",
+          "Около 20 миллионов"
+        ],
+        "correct_index": 2,
+        "explanation": "Около 9 миллионов французов регулярно занимаются танцем — всех форм: классического, современного, хип-хопа, сальсы, танго, традиционных танцев. 1 200 муниципальных консерваторий предлагают уроки по тарифам, варьирующимся в зависимости от доходов, а МЖЦ и социальные центры дополняют это предложение. Танец — одна из наиболее распространённых любительских художественных практик во Франции."
       }
     ]
   }

@@ -3,276 +3,289 @@
     "module_id": 3,
     "lesson_id": 5,
     "module_icon": "⚖️",
-    "lesson_icon": "👮",
+    "lesson_icon": "🔏",
     "estimated_minutes": 12,
-    "difficulty": "intermédiaire",
+    "difficulty": "avancé",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "Service-public.fr — Vos droits face à la police",
+        "url": "https://www.service-public.fr/particuliers/vosdroits/police-justice"
+      },
+      {
+        "label": "Ministère de la Justice — Organisation judiciaire",
+        "url": "https://www.justice.gouv.fr/organisation-de-la-justice"
+      },
+      {
+        "label": "Défenseur des droits — Ressources citoyennes",
+        "url": "https://www.defenseurdesdroits.fr"
+      },
+      {
+        "label": "Legifrance — Code de procédure pénale",
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006071154"
+      }
     ]
   },
   "fr": {
-    "module_title": "La République au Quotidien",
+    "module_title": "La République et l'État",
     "lesson_title": "Police, Justice et Droits",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : Police, Justice et Droits. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "Comprendre les forces de l'ordre, l'organisation judiciaire et vos droits de citoyen",
+    "intro": "En France, l'État détient le monopole de la force publique et de la justice — et ce monopole est strictement encadré par des droits fondamentaux que tout citoyen ou résident peut invoquer. Comprendre comment fonctionne la police, comment est organisée la justice et quels sont vos droits concrets en cas de contrôle ou de litige est essentiel pour vivre sereinement en France — et éviter les mauvaises surprises dues à des différences culturelles importantes avec d'autres pays.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**Police, Justice et Droits** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "Des lettres de cachet aux droits fondamentaux",
+        "body": "L'histoire des droits face à l'État en France est une longue conquête. Sous l'Ancien Régime, le roi pouvait faire emprisonner n'importe qui sans procès par une **lettre de cachet** — un simple ordre royal scellé. Cette arbitraire totale a été abolie par la **Déclaration des droits de l'homme et du citoyen** du 26 août **1789**, qui proclame : «Nul homme ne peut être accusé, arrêté ni détenu que dans les cas déterminés par la Loi».\n\nLe **Code Napoléon** (Code civil de 1804) et le **Code d'instruction criminelle** (1808) posent les bases du droit moderne. La présomption d'innocence, les droits de la défense, l'interdiction de la torture — ces principes s'inscrivent progressivement dans la législation française au XIXe siècle.\n\nAu XXe siècle, la France adhère à la **Convention européenne des droits de l'homme** (1950) et reconnaît la compétence de la **Cour européenne des droits de l'homme** (CEDH) à Strasbourg en 1974. Depuis lors, tout citoyen ou résident peut saisir la CEDH après épuisement des voies de recours internes — et la France est régulièrement condamnée (notamment pour conditions de détention, durée excessive des procédures, violences policières). Ces condamnations ont progressivement amélioré les droits des justiciables français."
       },
       {
-        "theme": "Région",
+        "theme": "Géographie",
         "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
+        "title": "La police nationale et la gendarmerie : une France à deux vitesses",
+        "body": "La France a la particularité de disposer de **deux forces de police d'État** aux compétences géographiques distinctes :\n\nLa **Police nationale** (160 000 agents, sous l'autorité du ministère de l'Intérieur) couvre les **zones urbaines** — les communes de plus de 20 000 habitants et les agglomérations. Elle comprend la Direction centrale de la Police judiciaire (grande criminalité), la CRS (compagnies républicaines de sécurité, maintien de l'ordre), la DGSI (contre-espionnage), la DGSE (renseignement extérieur).\n\nLa **Gendarmerie nationale** (100 000 gendarmes, sous double tutelle Intérieur/Défense, avec statut militaire) couvre les **zones rurales et péri-urbaines** — les communes de moins de 20 000 habitants et les routes. Les gendarmes logent en caserne avec leur famille, contrairement aux policiers. Les **CRS et gendarmes mobiles** assurent le maintien de l'ordre lors des manifestations et événements sensibles.\n\nLes **polices municipales** (environ 25 000 agents) sont sous l'autorité du maire. Leurs pouvoirs varient selon les communes — certaines polices municipales (Paris, Lyon, Nice) disposent de pouvoirs étendus incluant la verbalisation. La **Police aux Frontières (PAF)** contrôle les frontières et les aéroports."
       },
       {
-        "theme": "Politique & Social",
+        "theme": "Politique",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "L'organisation de la justice française",
+        "body": "La justice française est organisée en **deux ordres** totalement séparés :\n\n**L'ordre judiciaire** (tribunaux ordinaires) traite des litiges entre personnes privées et des affaires pénales. Au bas de la hiérarchie : le **tribunal de proximité** (petits litiges civils), le **tribunal judiciaire** (anciennement TGI, litiges civils importants + correctionnelle pour les délits), la **cour d'assises** (crimes, avec jury populaire). En appel : les **cours d'appel** (35 en France). Au sommet : la **Cour de cassation** qui ne rejuge pas les faits mais vérifie la bonne application du droit.\n\n**L'ordre administratif** traite des litiges entre les citoyens et l'État (contestation d'un permis de construire refusé, recours contre une décision administrative). Au bas : les **tribunaux administratifs** (42 en France). En appel : les **cours administratives d'appel** (9). Au sommet : le **Conseil d'État**, qui est aussi le conseiller juridique du gouvernement.\n\n**Le parquet** (procureurs) représente la société dans les affaires pénales — ce sont eux qui décident de poursuivre ou non. Un **juge d'instruction** peut être nommé pour les affaires complexes et dispose de pouvoirs d'enquête étendus (mis en examen = inculpé, garde à vue étendue). Le système français est **inquisitoire** (le juge enquête activement) plutôt qu'**accusatoire** (comme en common law, où les parties rassemblent les preuves)."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Vie quotidienne",
+        "icon": "🏠",
+        "title": "Vos droits concrets face à la police et à la justice",
+        "body": "**Lors d'un contrôle d'identité** : en France, la police peut contrôler votre identité dans des conditions définies par la loi (zones frontalières, aux abords des gares, dans les transports, en cas de comportement suspect). Vous devez présenter un document d'identité (passeport, carte d'identité, titre de séjour). Vous n'êtes pas obligé de déverrouiller votre téléphone ni de donner vos mots de passe. Un refus de se soumettre au contrôle peut entraîner une **vérification d'identité** (conduit au commissariat pour 4 heures maximum).\n\n**Lors d'une garde à vue** (arrestation) : vous avez le droit d'être informé des faits qui vous sont reprochés, d'être assisté d'un **avocat** dès la première heure (depuis la loi de 2011), de faire prévenir un proche ou votre employeur, d'être examiné par un médecin. La garde à vue dure 24h, renouvelable une fois (48h maximum en principe, 96h pour terrorisme). Vous avez le droit de **garder le silence** — ce droit doit vous être notifié.\n\nEn cas de litige avec l'administration, vous pouvez saisir le **Défenseur des droits** (autorité indépendante créée en 2011) qui instruit les plaintes gratuitement. L'**Aide juridictionnelle** permet aux personnes à revenus modestes d'être assistées gratuitement par un avocat — en 2024, le plafond est d'environ 1 100€/mois de revenus pour l'aide totale."
       },
       {
-        "theme": "Culture artistique",
+        "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "title": "La police et la justice dans la culture française",
+        "body": "La **fiction policière** (*roman policier* ou *polar*) est un genre littéraire et cinématographique majeur en France. De **Georges Simenon** et son commissaire Maigret (un policier humaniste qui comprend plus qu'il n'arrête) aux séries contemporaines (*Engrenages*, *Astrid et Raphaëlle*, *HPI*), la police dans la culture française est souvent ambivalente — mi-protectrice, mi-menaçante.\n\nLes **grandes affaires judiciaires** ont façonné l'histoire politique française : l'**affaire Dreyfus** (1894–1906), officier juif faussement condamné pour trahison, reste le symbole de l'injustice d'État et de la résistance intellectuelle (Zola, «J'accuse !»). L'**affaire Outreau** (2004), où 13 innocents ont été condamnés sur de fausses accusations de pédophilie avant d'être acquittés en appel, a profondément ébranlé la confiance dans le système judiciaire français et conduit à d'importantes réformes de la procédure pénale.\n\nLa **relation Français-police** est historiquement complexe. Les **manifestations** sont un exercice démocratique très pratiqué en France — et les affrontements avec les forces de l'ordre lors de ces manifestations sont fréquents, bien documentés, et font régulièrement débat sur les violences policières. La mort de **Nahel M.**, adolescent tué par un policier à Nanterre en juin **2023**, a déclenché des émeutes nationales d'une violence inédite depuis des décennies."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "title": "Comment interagir avec la police et l'administration française",
+        "body": "**Lors d'un contrôle de police**, le comportement attendu en France est très différent de ce qu'on peut observer dans d'autres pays. Les policiers français sont formés à une certaine distance professionnelle — ni familiers ni particulièrement agressifs en temps normal. La norme est de répondre calmement, de présenter ses documents sans hésitation, et de ne pas discuter l'ordre de contrôle sur le moment. Si vous estimez avoir été contrôlé de façon discriminatoire ou abusive, la voie de recours existe — mais pas dans l'instant.\n\n**Ce que beaucoup de Russes ignorent** : en France, il n'est pas d'usage de glisser de l'argent à un policier pour éviter une contravention. La **corruption de fonctionnaire** est un délit pénal sérieux (jusqu'à 10 ans de prison), et les policiers français sont généralement peu enclins à ce type de pratique — qui serait perçue comme une insulte. Si vous avez reçu une contravention injuste, la bonne pratique est de la **contester par écrit** dans le délai légal (45 jours).\n\n**L'accueil dans les commissariats et préfectures** peut être décevant — les files d'attente sont longues, le personnel parfois débordé. Prendre rendez-vous en ligne (via *rdv.prefpol.interieur.gouv.fr* pour les préfectures) est fortement conseillé. Porter une tenue correcte et avoir tous ses documents préalablement préparés améliore significativement la qualité de l'accueil."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à Police, Justice et Droits :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**En France, connaître ses droits est une forme de protection civique.** Contrairement à d'autres pays où l'ignorance des droits peut être stratégiquement exploitée par les autorités, en France la loi protège ceux qui savent l'invoquer — et les avocats, même commis d'office, sont en général compétents.\n\n**Trois droits fondamentaux à connaître absolument** :\n1. Le droit au **silence** lors d'une garde à vue — vous n'êtes jamais obligé de répondre aux questions de la police sans votre avocat.\n2. Le droit à un **avocat dès la première heure** de garde à vue — si vous n'en avez pas, le Barreau en commet un d'office gratuitement.\n3. Le droit de **saisir le Défenseur des droits** en cas de discrimination ou d'abus — la démarche est gratuite et peut être faite en ligne.\n\n**Pour les étrangers en situation régulière** : en cas de contrôle d'identité, votre titre de séjour en cours de validité suffit. Si vous êtes convoqué en préfecture pour un renouvellement de titre, **arrivez avec tous vos documents en double exemplaire** (originaux + photocopies) et notez le nom de l'agent qui vous reçoit. En cas de problème, l'association **France Terre d'Asile** ou la **CIMADE** (associations d'aide aux étrangers) peuvent vous conseiller gratuitement."
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
+        "term": "La garde à vue",
+        "definition": "Mesure de privation de liberté de courte durée (24h, renouvelable une fois) permettant à la police de retenir une personne soupçonnée d'une infraction pour l'interroger — avec des droits garantis : avocat, médecin, silence."
       },
       {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
+        "term": "La présomption d'innocence",
+        "definition": "Principe fondamental du droit français : toute personne est réputée innocente jusqu'à ce que sa culpabilité soit établie par un tribunal — elle ne peut être traitée comme coupable avant jugement."
       },
       {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "term": "Le Défenseur des droits",
+        "definition": "Autorité indépendante créée en 2011, chargée de défendre les droits des citoyens face aux administrations publiques, de lutter contre les discriminations et de protéger les lanceurs d'alerte — saisine gratuite."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "L'aide juridictionnelle",
+        "definition": "Dispositif permettant aux personnes à revenus modestes d'accéder à un avocat financé totalement ou partiellement par l'État pour se défendre en justice."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
+        "term": "La mise en examen",
+        "definition": "Statut d'une personne formellement soupçonnée par un juge d'instruction d'avoir commis une infraction — l'équivalent de l'inculpation. Ne signifie pas qu'elle est coupable."
       },
       {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "La CEDH",
+        "definition": "Cour Européenne des Droits de l'Homme, siégeant à Strasbourg — juridiction à laquelle tout citoyen peut recourir après épuisement des recours internes si ses droits fondamentaux ont été violés par un État membre du Conseil de l'Europe."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «Police, Justice et Droits» dans la République française ?",
+        "question": "Quelle est la différence géographique principale entre la Police nationale et la Gendarmerie nationale en France ?",
         "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
+          "La Police couvre les zones rurales, la Gendarmerie les villes",
+          "La Police couvre les zones urbaines, la Gendarmerie les zones rurales et péri-urbaines",
+          "Il n'y a pas de différence géographique, elles ont les mêmes zones",
+          "La Police couvre le nord de la France, la Gendarmerie le sud"
         ],
         "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
+        "explanation": "La Police nationale (160 000 agents) couvre les zones urbaines (communes de plus de 20 000 habitants). La Gendarmerie nationale (100 000 gendarmes, statut militaire) couvre les zones rurales et péri-urbaines. Environ 95% du territoire est couvert par la Gendarmerie, mais elle représente une minorité de la population."
       },
       {
-        "question": "En France, la laïcité signifie que...",
+        "question": "Dès quand avez-vous le droit à un avocat lors d'une garde à vue en France ?",
         "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
-        ],
-        "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
-      },
-      {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Uniquement avant le procès",
+          "Après 24h de garde à vue",
+          "Dès la première heure de garde à vue",
+          "Uniquement si vous êtes mis en examen"
         ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
+        "explanation": "Depuis la loi du 14 avril 2011 (transposant une directive européenne), tout gardé à vue a le droit d'être assisté par un avocat dès la première heure. Si la personne n'a pas d'avocat, le Barreau en commet un d'office gratuitement."
       },
       {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
+        "question": "Quelle institution indépendante peut être saisie gratuitement en cas de discrimination ou d'abus administratif en France ?",
         "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
+          "Le Conseil d'État",
+          "La Cour européenne des droits de l'homme",
+          "Le Défenseur des droits",
+          "Le Conseil constitutionnel"
         ],
         "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
+        "explanation": "Le Défenseur des droits (créé en 2011) est une autorité indépendante chargée de défendre les droits des citoyens face aux administrations, de lutter contre les discriminations, et de protéger les lanceurs d'alerte. Sa saisine est gratuite et peut se faire en ligne ou par courrier."
       },
       {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
+        "question": "Qu'est-ce que l'ordre administratif de la justice en France ?",
         "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
+          "La juridiction qui juge les crimes graves",
+          "L'ordre judiciaire qui gère les litiges entre personnes privées",
+          "La juridiction qui juge les litiges entre les citoyens et l'État",
+          "Le tribunal compétent pour les affaires fiscales uniquement"
         ],
-        "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "correct_index": 2,
+        "explanation": "L'ordre administratif (tribunaux administratifs, cours administratives d'appel, Conseil d'État) est compétent pour les litiges entre les citoyens et les institutions de l'État : refus de permis, décisions administratives abusives, responsabilité de l'État... Il est totalement séparé de l'ordre judiciaire (litiges entre personnes privées, affaires pénales)."
+      },
+      {
+        "question": "Quelle est la durée maximale d'une garde à vue ordinaire en France ?",
+        "options": [
+          "12 heures",
+          "24 heures",
+          "48 heures",
+          "72 heures"
+        ],
+        "correct_index": 2,
+        "explanation": "Une garde à vue ordinaire dure 24 heures, renouvelable une fois sur autorisation du procureur — soit 48 heures au maximum pour une affaire ordinaire. Pour les affaires de terrorisme ou de criminalité organisée, ce délai peut être prolongé jusqu'à 96 heures (4 jours), voire plus dans des cas exceptionnels."
       }
     ]
   },
   "ru": {
-    "module_title": "Республика в повседневной жизни",
+    "module_title": "Республика и государство",
     "lesson_title": "Полиция, правосудие и права",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Полиция, правосудие и права. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_subtitle": "Как работают силовые структуры, как устроена юстиция и каковы ваши права",
+    "intro": "Во Франции государство обладает монополией на публичное принуждение и правосудие — и эта монополия строго ограничена фундаментальными правами, которые может invoquer любой гражданин или житель. Понять, как работает полиция, как организована юстиция и каковы ваши конкретные права при досмотре или споре, необходимо для спокойной жизни во Франции — и чтобы избежать неприятных сюрпризов, обусловленных важными культурными различиями с другими странами.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Полиция, правосудие и права** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "От «lettre de cachet» до основных прав",
+        "body": "История прав граждан перед лицом государства во Франции — это долгое завоевание. При Старом режиме король мог заключить любого в тюрьму без суда с помощью **lettre de cachet** — простого запечатанного королевского приказа. Этот произвол был упразднён **Декларацией прав человека и гражданина** от 26 августа **1789 года**, провозгласившей: «Никто не может быть обвинён, арестован или задержан иначе, как в случаях, определённых Законом».\n\n**Наполеоновский кодекс** (Гражданский кодекс 1804 года) и **Кодекс уголовного судопроизводства** (1808) закладывают основы современного права. Презумпция невиновности, права защиты, запрет пыток — эти принципы постепенно закрепляются в французском законодательстве XIX века.\n\nВ XX веке Франция присоединяется к **Европейской конвенции о защите прав человека** (1950) и в 1974 году признаёт юрисдикцию **Европейского суда по правам человека** (ЕСПЧ) в Страсбурге. С тех пор любой гражданин или житель может обратиться в ЕСПЧ после исчерпания внутренних средств защиты — и Франция регулярно проигрывает дела (в частности, об условиях содержания под стражей, чрезмерно длительных процедурах, полицейском насилии). Эти решения постепенно улучшили права французских тяжущихся сторон."
       },
       {
-        "theme": "Регион",
+        "theme": "География",
         "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
+        "title": "Национальная полиция и жандармерия: Франция с двумя разными режимами",
+        "body": "У Франции есть особенность — **два государственных полицейских органа** с разными географическими полномочиями:\n\n**Национальная полиция** (160 000 сотрудников, под управлением МВД) охватывает **городские зоны** — коммуны с населением более 20 000 жителей и агломерации. Включает Центральное управление уголовной полиции (тяжкая преступность), CRS (республиканские роты безопасности, охрана порядка), DGSI (контрразведка), DGSE (внешняя разведка).\n\n**Национальная жандармерия** (100 000 жандармов, двойное подчинение МВД/Министерству обороны, военный статус) охватывает **сельские и пригородные зоны** — коммуны с населением менее 20 000 жителей и дороги. Жандармы живут в казармах с семьями, в отличие от полицейских. **CRS и мобильная жандармерия** обеспечивают охрану порядка на демонстрациях и при чрезвычайных событиях.\n\n**Муниципальная полиция** (около 25 000 сотрудников) подчиняется мэру. Её полномочия варьируются в зависимости от коммуны — некоторые силы (Париж, Лион, Ницца) наделены широкими полномочиями, включая выписывание штрафов. **Пограничная полиция (PAF)** контролирует границы и аэропорты."
       },
       {
-        "theme": "Политика и общество",
+        "theme": "Политика",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Организация французского правосудия",
+        "body": "Французское правосудие организовано в **два полностью разделённых порядка**:\n\n**Судебный порядок** (обычные суды) рассматривает споры между частными лицами и уголовные дела. Снизу вверх: **суд малых исков** (мелкие гражданские споры), **судебный трибунал** (бывший суд большой инстанции — крупные гражданские споры + исправительный суд для правонарушений), **суд присяжных** (тяжкие преступления, с участием народных заседателей). В апелляции: **апелляционные суды** (35 во Франции). На вершине: **Кассационный суд**, не пересматривающий факты, но проверяющий правильность применения права.\n\n**Административный порядок** рассматривает споры между гражданами и государством (оспаривание отказа в разрешении на строительство, обжалование административных решений). Снизу вверх: **административные трибуналы** (42 во Франции), **административные апелляционные суды** (9). На вершине: **Государственный совет**, также являющийся юридическим советником правительства.\n\n**Прокуратура** представляет общество в уголовных делах — именно прокуроры решают, возбуждать преследование или нет. По сложным делам может быть назначен **следственный судья** с широкими следственными полномочиями (mis en examen = предъявление обвинения, расширенная задержание). Французская система **инквизиционная** (судья активно ведёт расследование), в отличие от **обвинительной** (как в общем праве, где стороны собирают доказательства)."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Повседневная жизнь",
+        "icon": "🏠",
+        "title": "Ваши конкретные права при контакте с полицией и юстицией",
+        "body": "**При проверке личности**: во Франции полиция может проверить вашу личность в условиях, определённых законом (приграничные зоны, вокзалы, транспорт, при подозрительном поведении). Вы обязаны предъявить удостоверяющий документ (паспорт, удостоверение личности, вид на жительство). Вас нельзя принудить разблокировать телефон или сообщить пароли. Отказ пройти проверку может повлечь **установление личности** (доставка в отделение на срок до 4 часов).\n\n**При задержании** (garde à vue): вы имеете право быть уведомлены о предъявляемых обвинениях, с **первого часа** воспользоваться услугами **адвоката** (с 2011 года), уведомить близкого или работодателя, быть осмотрен врачом. Задержание длится 24 часа, возобновляемых один раз (максимум 48 часов в общем случае, 96 часов по делам о терроризме). Вы имеете право **хранить молчание** — об этом праве вас обязаны уведомить.\n\nПри споре с администрацией вы можете обратиться к **Защитнику прав** (независимый орган, созданный в 2011 году), бесплатно рассматривающему жалобы. **Юридическая помощь** позволяет лицам с невысокими доходами пользоваться бесплатной помощью адвоката — в 2024 году порог для полной помощи составляет около 1 100 €/месяц."
       },
       {
-        "theme": "Художественная культура",
+        "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "title": "Полиция и правосудие во французской культуре",
+        "body": "**Детектив** (роман policier или «полар») — крупный литературный и кинематографический жанр во Франции. От **Жоржа Сименона** и его комиссара Мегрэ (гуманистического сыщика, стремящегося понять, а не только арестовать) до современных сериалов (*Engrenages*, *Astrid et Raphaëlle*, *HPI*) — полиция во французской культуре нередко амбивалентна: и защитница, и угроза одновременно.\n\n**Громкие судебные дела** сформировали французскую политическую историю: **дело Дрейфуса** (1894–1906) — еврейский офицер, ложно осуждённый за государственную измену, — стало символом государственной несправедливости и интеллектуального сопротивления (Золя, «Я обвиняю!»). **Дело Утро** (2004), когда 13 невиновных были осуждены за ложные обвинения в педофилии и оправданы в апелляции, глубоко потрясло доверие к французской судебной системе и повлекло важные реформы уголовного судопроизводства.\n\n**Отношения французов с полицией** исторически сложны. **Демонстрации** — широко практикуемый во Франции демократический инструмент, и столкновения с силовыми структурами на этих акциях часты, хорошо задокументированы и регулярно становятся предметом дискуссий о полицейском насилии. Гибель **Наэля М.**, подростка, застреленного полицейским в Нантере в июне **2023 года**, спровоцировала национальные беспорядки, невиданные по масштабу несколько десятилетий."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "title": "Как общаться с французской полицией и администрацией",
+        "body": "**При полицейском контроле** ожидаемое поведение во Франции сильно отличается от того, что можно наблюдать в других странах. Французские полицейские обучены профессиональной дистанции — ни фамильярности, ни особой агрессии в штатных ситуациях. Норма — спокойно ответить, без колебаний предъявить документы и не оспаривать порядок проверки на месте. Если вы считаете, что контроль носил дискриминационный или незаконный характер — существует механизм обжалования, но не в момент проверки.\n\n**Что многие россияне не знают**: во Франции не принято «договариваться» с полицейским, чтобы избежать штрафа. **Подкуп государственного служащего** — серьёзное уголовное преступление (до 10 лет лишения свободы), и французские полицейские в целом не расположены к подобной практике, которую воспримут как оскорбление. Если вы получили несправедливый штраф, правильный путь — **оспорить его в письменной форме** в установленный срок (45 дней).\n\n**Приём в полицейских участках и префектурах** может разочаровать — очереди длинные, персонал порой перегружен. Записаться онлайн (через *rdv.prefpol.interieur.gouv.fr* для префектур) настоятельно рекомендуется. Опрятный вид и заблаговременно подготовленные документы значительно улучшают качество приёма."
       }
     ],
     "conseil_ami": {
       "title": "Дружеский совет 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Полиция, правосудие и права»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**Во Франции знать свои права — форма гражданской защиты.** В отличие от ряда стран, где незнание прав может стратегически использоваться властями, во Франции закон защищает тех, кто умеет на него ссылаться, — а адвокаты, в том числе назначенные по долгу службы, как правило, компетентны.\n\n**Три основных права, которые нужно знать обязательно**:\n1. Право на **молчание** при задержании — вы никогда не обязаны отвечать на вопросы полиции без своего адвоката.\n2. Право на **адвоката с первого часа** задержания — если у вас его нет, Коллегия адвокатов назначит его бесплатно.\n3. Право **обратиться к Защитнику прав** при дискриминации или злоупотреблении — процедура бесплатная, доступна онлайн.\n\n**Для иностранцев с законным статусом**: при проверке личности действительный вид на жительство достаточен. Если вас вызывают в префектуру для продления вида — **приходите со всеми документами в двух экземплярах** (оригиналы + ксерокопии) и запишите имя принявшего вас сотрудника. В случае проблем ассоциации **France Terre d'Asile** или **CIMADE** (помощь иностранцам) могут бесплатно вас проконсультировать."
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "Задержание / garde à vue",
+        "definition": "Кратковременная мера лишения свободы (24 часа, возобновляемые один раз), позволяющая полиции задержать подозреваемого для допроса — с гарантированными правами: адвокат, врач, право молчания."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "Презумпция невиновности",
+        "definition": "Фундаментальный принцип французского права: любое лицо считается невиновным до тех пор, пока его вина не будет установлена судом — с ним нельзя обращаться как с виновным до вынесения приговора."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "Защитник прав / Défenseur des droits",
+        "definition": "Независимый орган, созданный в 2011 году, защищающий права граждан перед государственными органами, борющийся с дискриминацией и защищающий информаторов — обращение бесплатное."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "Юридическая помощь / aide juridictionnelle",
+        "definition": "Механизм, позволяющий лицам с невысокими доходами пользоваться услугами адвоката, полностью или частично оплачиваемого государством, для защиты своих интересов в суде."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "Предъявление обвинения / mise en examen",
+        "definition": "Статус лица, формально подозреваемого следственным судьёй в совершении преступления — аналог обвинительного заключения. Не означает виновности."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "ЕСПЧ / CEDH",
+        "definition": "Европейский суд по правам человека, заседающий в Страсбурге — юрисдикция, в которую любой гражданин может обратиться после исчерпания внутренних средств защиты, если его основные права были нарушены государством — членом Совета Европы."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Полиция, правосудие и права» во Французской республике?",
+        "question": "В чём главное географическое различие между Национальной полицией и Национальной жандармерией Франции?",
         "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
+          "Полиция охватывает сельские районы, жандармерия — города",
+          "Полиция охватывает городские зоны, жандармерия — сельские и пригородные",
+          "Нет географического различия — у них одинаковые зоны ответственности",
+          "Полиция охватывает север Франции, жандармерия — юг"
         ],
         "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
+        "explanation": "Национальная полиция (160 000 сотрудников) охватывает городские зоны (коммуны с населением свыше 20 000 жителей). Национальная жандармерия (100 000 жандармов, военный статус) охватывает сельские и пригородные зоны. Примерно 95% территории приходится на жандармерию, хотя это меньшинство населения."
       },
       {
-        "question": "Светскость во Франции означает, что...",
+        "question": "С какого момента вы имеете право на адвоката при задержании во Франции?",
         "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
-        ],
-        "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
-      },
-      {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "Только перед судебным процессом",
+          "По истечении 24 часов задержания",
+          "С первого часа задержания",
+          "Только при предъявлении обвинения"
         ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
+        "explanation": "С принятием закона от 14 апреля 2011 года (транспонирующего европейскую директиву) каждый задержанный имеет право на помощь адвоката с первого часа. Если у лица нет адвоката, Коллегия адвокатов назначает его бесплатно."
       },
       {
-        "question": "Членом-основателем какой международной организации является Франция?",
+        "question": "В какой независимый орган можно бесплатно обратиться при дискриминации или административном злоупотреблении во Франции?",
         "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
+          "Государственный совет",
+          "Европейский суд по правам человека",
+          "Защитник прав",
+          "Конституционный совет"
         ],
         "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
+        "explanation": "Защитник прав (создан в 2011 году) — независимый орган, защищающий права граждан перед администрацией, борющийся с дискриминацией и защищающий информаторов. Обращение бесплатное, доступно онлайн или по почте."
       },
       {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
+        "question": "Что такое административный порядок правосудия во Франции?",
         "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
+          "Юрисдикция, рассматривающая тяжкие преступления",
+          "Судебный порядок, ведущий гражданские споры между частными лицами",
+          "Юрисдикция, рассматривающая споры между гражданами и государством",
+          "Суд, компетентный исключительно по налоговым делам"
         ],
-        "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "correct_index": 2,
+        "explanation": "Административный порядок (административные трибуналы, административные апелляционные суды, Государственный совет) компетентен по спорам между гражданами и государственными институтами: отказ в разрешении, неправомерные административные решения, ответственность государства... Он полностью отделён от судебного порядка (споры между частными лицами, уголовные дела)."
+      },
+      {
+        "question": "Какова максимальная продолжительность обычного задержания во Франции?",
+        "options": [
+          "12 часов",
+          "24 часа",
+          "48 часов",
+          "72 часа"
+        ],
+        "correct_index": 2,
+        "explanation": "Обычное задержание длится 24 часа, возобновляемые один раз с разрешения прокурора — максимум 48 часов по рядовому делу. По делам о терроризме или организованной преступности срок может быть продлён до 96 часов (4 суток), а в исключительных случаях — и дольше."
       }
     ]
   }

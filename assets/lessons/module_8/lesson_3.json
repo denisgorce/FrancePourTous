@@ -3,276 +3,289 @@
     "module_id": 8,
     "lesson_id": 3,
     "module_icon": "🎨",
-    "lesson_icon": "📖",
-    "estimated_minutes": 12,
+    "lesson_icon": "📚",
+    "estimated_minutes": 10,
     "difficulty": "intermédiaire",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "BnF — Bibliothèque nationale de France, ressources littéraires",
+        "url": "https://www.bnf.fr/fr/litterature-francaise"
+      },
+      {
+        "label": "Académie française — Les Immortels",
+        "url": "https://www.academie-francaise.fr/les-immortels"
+      },
+      {
+        "label": "Nobel Prize — Lauréats français de littérature",
+        "url": "https://www.nobelprize.org/prizes/literature/"
+      },
+      {
+        "label": "Gallimard — Histoire de l'édition française",
+        "url": "https://www.gallimard.fr/Catalogue"
+      }
     ]
   },
   "fr": {
     "module_title": "Arts, Lettres et Musique",
     "lesson_title": "Les Grands Auteurs Français",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : Les Grands Auteurs Français. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "Molière, Hugo, Proust, Camus : la littérature française qui a changé le monde",
+    "intro": "La France compte 16 prix Nobel de littérature — plus que tout autre pays. De Molière à Proust, de Voltaire à Simone de Beauvoir, ses écrivains n'ont pas seulement produit de la belle littérature : ils ont pensé le monde, inventé des formes nouvelles, défendu des idées qui ont traversé les frontières et les siècles. Comprendre ces auteurs, c'est comprendre pourquoi les Français accordent une place si particulière à l'écrit, au débat d'idées et à l'intellectuel engagé.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**Les Grands Auteurs Français** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "Du XVIIe au XIXe siècle : les fondateurs",
+        "body": "Le **XVIIe siècle** est l'âge d'or de la littérature classique française. **Molière** (1622–1673) invente la comédie moderne : ses pièces (*L'Avare*, *Le Misanthrope*, *Tartuffe*, *Le Bourgeois Gentilhomme*) épinglent les ridicules de la société avec une intelligence qui reste intacte. Il joue devant Louis XIV, qui le protège malgré les censures de l'Église — *Tartuffe*, satire de l'hypocrisie religieuse, est interdit deux ans. **Racine** (*Phèdre*, *Andromaque*) et **La Fontaine** (*Fables*) complètent ce siècle d'exception.\n\nLe **XVIIIe siècle des Lumières** est celui de **Voltaire** (1694–1778) — pamphlétaire, philosophe, auteur de *Candide* (1759), il incarne l'intellectuel engagé contre l'intolérance religieuse et l'injustice. **Rousseau** (*Du Contrat Social*, *Émile*) pense la démocratie et l'éducation. **Diderot** et **d'Alembert** dirigent l'*Encyclopédie* — 17 volumes réunissant le savoir humain au nom de la raison.\n\nLe **XIXe siècle** est gigantesque. **Victor Hugo** (1802–1885) domine tout : poète (*Les Contemplations*), romancier (*Notre-Dame de Paris*, *Les Misérables*, *Les Travailleurs de la mer*), dramaturge (*Hernani*), homme politique (exilé sous Napoléon III, il revient en triomphe à la chute de l'Empire). **Balzac** (*La Comédie humaine*, 90 romans) dresse le tableau complet de la société française. **Flaubert** (*Madame Bovary*, 1857) invente le style indirect libre et la modernité romanesque. **Zola** crée le naturalisme et mène le combat de l'affaire Dreyfus (*J'accuse !*, 1898)."
       },
       {
-        "theme": "Région",
-        "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
-      },
-      {
-        "theme": "Politique & Social",
+        "theme": "Cadre légal & textes",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "L'édition française : marché, prix littéraires et droits d'auteur",
+        "body": "La France est le **5e marché mondial du livre** (environ 5 milliards € de chiffre d'affaires annuel). L'industrie éditoriale est dominée par quelques grands groupes : **Hachette Livre** (Lagardère), **Editis** (Bolloré), **Gallimard** (indépendant, fondé en 1911 — emblème de la littérature française), **Le Seuil**, **Actes Sud** (Arles — soutien aux littératures étrangères).\n\nLa **loi Lang sur le prix unique du livre** (1981) est une exception française : elle interdit aux libraires de vendre un livre avec plus de 5% de remise sur le prix éditeur. Cette loi, controversée économiquement, a permis de maintenir un réseau dense de librairies indépendantes (3 500 en France) face à Amazon et la grande distribution. Elle est considérée comme un modèle par de nombreux pays.\n\nLes **prix littéraires français** sont parmi les plus suivis au monde. Le **Goncourt** (créé en 1903) est le plus prestigieux — son jury de 10 membres se réunit au restaurant Drouant à Paris chaque novembre. Gagner le Goncourt garantit des ventes de 300 000 à 500 000 exemplaires supplémentaires. Autres prix majeurs : le **Renaudot**, le **Femina** (jury 100% féminin), le **Médicis**, l'**Interallié**. La «rentrée littéraire» de septembre voit paraître 500 à 600 romans en quelques semaines — phénomène unique au monde.\n\nLe **droit d'auteur** en France dure 70 ans après la mort de l'auteur — l'une des durées les plus longues au monde. La **SCELF** et la **SOFIA** gèrent les droits collectifs des auteurs. La rémunération des auteurs français reste néanmoins précaire : 80% des auteurs gagnent moins que le SMIC avec leur plume."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Démarches pratiques",
+        "icon": "📋",
+        "title": "Lire la littérature française : par où commencer ?",
+        "body": "**Pour les débutants en littérature française** — cinq œuvres fondamentales accessibles :\n— **Voltaire, *Candide*** (1759, ~120 pages) : conte philosophique ironique sur l'optimisme naïf — moderne, drôle, encore totalement actuel\n— **Maupassant, *Boule de Suif*** (1880, nouvelle) : chef-d'œuvre de la nouvelle naturaliste, portrait de la lâcheté sociale sous occupation prussienne\n— **Albert Camus, *L'Étranger*** (1942, ~180 pages) : roman court, style épuré, la question du sens de la vie posée avec une force saisissante\n— **Boris Vian, *L'Écume des jours*** (1947) : roman poétique surréaliste sur l'amour et la mort — culte chez les adolescents français\n— **Marguerite Duras, *L'Amant*** (1984, Prix Goncourt) : récit autobiographique sur l'Indochine coloniale, le désir et la mémoire\n\n**Pour aller plus loin :** Proust (*À la recherche du temps perdu* — 7 volumes, 4 000 pages), Flaubert (*Madame Bovary*), Zola (*Germinal*, portrait de la mine au XIXe siècle), Simone de Beauvoir (*Le Deuxième Sexe*, essai fondateur du féminisme), Frantz Fanon (*Les Damnés de la Terre*, pensée anticoloniale).\n\n**Les bibliothèques françaises** sont accessibles gratuitement sur présentation d'un justificatif de domicile. La **Bibliothèque nationale de France** (BnF) à Paris propose des espaces de lecture publique. **Gallica** (gallica.bnf.fr) est la bibliothèque numérique gratuite de la BnF — 8 millions de documents numérisés : livres, journaux, photos, cartes, partitions."
       },
       {
-        "theme": "Culture artistique",
-        "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "theme": "Droits & recours",
+        "icon": "🛡️",
+        "title": "L'intellectuel engagé : une tradition française",
+        "body": "La France a inventé le concept d'**intellectuel engagé** — l'écrivain qui prend position publiquement sur les affaires de son temps, au nom de valeurs universelles. Cette tradition naît avec l'affaire Dreyfus et le «**J'accuse !**» de Zola (*L'Aurore*, 13 janvier 1898) — lettre ouverte au Président de la République dénonçant l'antisémitisme de l'armée. Zola est condamné, doit s'exiler, mais l'opinion bascule.\n\n**Jean-Paul Sartre** (1905–1980) incarne l'intellectuel engagé du XXe siècle : il refuse le prix Nobel de littérature (1964) au nom de l'indépendance intellectuelle, signe le **Manifeste des 121** contre la guerre d'Algérie, vend *La Cause du peuple* à la criée pour protéger ses rédacteurs. Simone de Beauvoir fonde le féminisme moderne avec *Le Deuxième Sexe* (1949). **Albert Camus** assume une position plus nuancée — il dialogue avec l'absurde plutôt qu'il ne milite, mais son engagement dans la Résistance est total.\n\nAujourd'hui, la tradition de l'intellectuel engagé est vivace mais controversée. Des figures comme **Annie Ernaux** (Prix Nobel 2022, ancienne militante syndicale), **Édouard Louis** (auteur de récits autobiographiques sur la misère sociale) ou **Virginie Despentes** (*Vernon Subutex*, trilogie) prolongent cette tradition — quand d'autres intellectuels (Alain Finkielkraut, Michel Houellebecq) incarnent un scepticisme conservateur très médiatisé."
       },
       {
-        "theme": "Gastronomie & Codes sociaux",
-        "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "theme": "Impact sur la vie quotidienne",
+        "icon": "🏠",
+        "title": "La place du livre dans la société française",
+        "body": "Les Français lisent : 69% lisent au moins un livre par an, et 16% lisent plus de 20 livres. La **librairie indépendante** reste un lieu social important dans les villes moyennes et les quartiers parisiens — acheter un livre en librairie plutôt que sur Amazon est souvent un geste militant assumé.\n\nLa **rentrée littéraire** de septembre est un phénomène culturel unique : 500 à 600 romans paraissent en quelques semaines, les émissions littéraires (*La Grande Librairie* sur France 5, *Masques et Plumes* sur France Inter) rythment les débats. Les critiques littéraires des grands quotidiens (*Le Monde des Livres*, *Le Figaro littéraire*, *Libération*) conservent une influence réelle sur les ventes.\n\nL'**Académie française** (fondée par Richelieu en 1635) reste une institution symboliquement puissante : ses **40 Immortels** élus à vie veillent sur la langue française, publient le dictionnaire officiel et décernent des prix littéraires. Ses prises de position sur les néologismes anglais (*courriel* pour email, *moteur de recherche* pour search engine) sont souvent tournées en dérision — mais l'institution survit à tous les régimes et à toutes les modes.\n\n**La lecture numérique** progresse lentement en France (17% des lecteurs) — moins vite qu'ailleurs, peut-être parce que la librairie physique reste un lieu de sociabilité valorisé culturellement. **Kindle** est moins populaire en France qu'au Royaume-Uni ou aux États-Unis. En revanche, les **podcasts littéraires** et les **bookstagram/booktok** francophones connaissent un essor remarquable chez les jeunes."
+      },
+      {
+        "theme": "Lexique essentiel",
+        "icon": "📖",
+        "title": "Les mots de la littérature française",
+        "body": "**Le Prix Goncourt** : prix littéraire le plus prestigieux de France, décerné chaque novembre par un jury de 10 membres au restaurant Drouant. Garantit des ventes de 300 000 à 500 000 exemplaires. Doté symboliquement de 10 €.\n\n**La loi Lang (prix unique du livre)** : loi de 1981 interdisant de vendre un livre avec plus de 5% de remise — protège les librairies indépendantes face à la grande distribution et Amazon.\n\n**L'Académie française** : institution fondée en 1635 par Richelieu, composée de 40 membres élus à vie («Immortels»), chargée de veiller sur la langue française et publiant le dictionnaire officiel.\n\n**La rentrée littéraire** : phénomène éditorial unique : 500 à 600 romans paraissent chaque septembre en France, générant une intense activité critique, médiatique et commerciale.\n\n**Gallica** : bibliothèque numérique gratuite de la BnF (gallica.bnf.fr) — 8 millions de documents numérisés : livres anciens, journaux, photos, manuscrits, partitions musicales.\n\n**L'intellectuel engagé** : tradition française (née avec l'affaire Dreyfus) de l'écrivain qui prend position publiquement sur les questions politiques et sociales au nom de valeurs universelles."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à Les Grands Auteurs Français :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**Connaître quelques auteurs français est une clé d'intégration sociale puissante.** Les Français sont très flattés quand un étranger cite Camus, Molière ou Proust — même vaguement. Inutile d'avoir tout lu : avoir une opinion sur *L'Étranger* («j'ai trouvé le style glacial mais fascinant») ou *Les Misérables* («j'ai vu la comédie musicale mais le livre est encore mieux») ouvre des conversations.\n\nSi vous cherchez une librairie francophone hors de Paris : cherchez une **librairie indépendante labellisée «Librairie indépendante»** — elles proposent souvent des conseils personnalisés et des sélections thématiques que les grandes surfaces culturelles ne font pas. Et la plateforme **Lire en commun** (lirecommun.fr) permet de rejoindre des clubs de lecture en ligne ou en présentiel dans toute la France."
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
+        "term": "Le Prix Goncourt",
+        "definition": "Prix littéraire français le plus prestigieux, décerné chaque novembre à un roman par un jury de 10 membres. Doté de 10 € symboliques, mais garantit des ventes de 300 000 à 500 000 exemplaires."
       },
       {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
+        "term": "La loi Lang",
+        "definition": "Loi de 1981 sur le prix unique du livre : interdit de vendre un livre avec plus de 5% de remise. Protège les librairies indépendantes face à Amazon et à la grande distribution."
       },
       {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "term": "L'Académie française",
+        "definition": "Institution fondée en 1635 par Richelieu, 40 membres élus à vie («Immortels»), veillant sur la langue française et publiant le dictionnaire officiel."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "La rentrée littéraire",
+        "definition": "Phénomène éditorial unique : 500 à 600 romans paraissent chaque septembre en France, accompagnés d'une intense activité critique, médiatique et commerciale."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
+        "term": "Gallica",
+        "definition": "Bibliothèque numérique gratuite de la BnF (gallica.bnf.fr) — 8 millions de documents numérisés : livres, journaux, photos, manuscrits, partitions."
       },
       {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "L'intellectuel engagé",
+        "definition": "Tradition française (née avec l'affaire Dreyfus/Zola) de l'écrivain prenant position publiquement sur les questions politiques et sociales au nom de valeurs universelles."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «Les Grands Auteurs Français» dans la République française ?",
+        "question": "Combien de prix Nobel de littérature la France a-t-elle remportés ?",
         "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
-        ],
-        "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
-      },
-      {
-        "question": "En France, la laïcité signifie que...",
-        "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
-        ],
-        "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
-      },
-      {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "6",
+          "10",
+          "16",
+          "22"
         ],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
+        "explanation": "La France compte 16 prix Nobel de littérature — plus que tout autre pays au monde. Parmi les lauréats : Sully Prudhomme (1901, 1er Nobel de littérature), Anatole France, Romain Rolland, André Gide, François Mauriac, Albert Camus (1957), Jean-Paul Sartre (1964, refusé), Samuel Beckett, Claude Simon, Patrick Modiano (2014), Annie Ernaux (2022)."
       },
       {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
+        "question": "Qu'est-ce que la loi Lang sur le prix unique du livre (1981) ?",
         "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
-        ],
-        "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
-      },
-      {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
-        "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
+          "Elle nationalise les grandes maisons d'édition",
+          "Elle interdit de vendre un livre avec plus de 5% de remise, protégeant les librairies indépendantes",
+          "Elle oblige les éditeurs à publier des auteurs français",
+          "Elle fixe un prix maximum pour les livres scolaires"
         ],
         "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "La loi du 10 août 1981 (dite loi Lang, du nom du ministre de la Culture Jack Lang) instaure le prix unique du livre en France : les libraires ne peuvent vendre un livre qu'avec un maximum de 5% de remise sur le prix éditeur. Cette loi a permis de maintenir un réseau dense de 3 500 librairies indépendantes face à Amazon et aux grandes surfaces. Elle est considérée comme un modèle de politique culturelle dans de nombreux pays."
+      },
+      {
+        "question": "Qui écrit «J'accuse !» pour défendre Dreyfus en 1898 ?",
+        "options": [
+          "Victor Hugo",
+          "Émile Zola",
+          "Guy de Maupassant",
+          "Marcel Proust"
+        ],
+        "correct_index": 1,
+        "explanation": "Émile Zola publie «J'accuse !» le 13 janvier 1898 dans le journal L'Aurore — une lettre ouverte au Président Félix Faure dénonçant l'antisémitisme de l'armée dans l'affaire Dreyfus. Zola est condamné pour diffamation et doit s'exiler en Angleterre pendant un an. Mais sa prise de position fait basculer l'opinion publique et accélère la révision du procès. «J'accuse !» est devenu le symbole de l'engagement de l'écrivain dans la vie politique."
+      },
+      {
+        "question": "Qu'est-ce que la «rentrée littéraire» en France ?",
+        "options": [
+          "La cérémonie de remise des prix Goncourt en novembre",
+          "La publication de 500 à 600 romans chaque septembre, phénomène éditorial unique au monde",
+          "La rentrée des élèves dans les écoles littéraires",
+          "Le congrès annuel des libraires français"
+        ],
+        "correct_index": 1,
+        "explanation": "La rentrée littéraire désigne le phénomène éditorial unique de la publication simultanée de 500 à 600 romans nouveaux chaque mois de septembre en France. Ce concentré de publications génère une intense activité critique (émissions littéraires, articles de presse) et commerciale (lancement de la course aux prix Goncourt, Renaudot, Femina...). Ce phénomène est sans équivalent dans le monde editorial."
+      },
+      {
+        "question": "Quelle est la particularité de l'Académie française parmi les institutions culturelles françaises ?",
+        "options": [
+          "Elle décerne le Prix Goncourt chaque année",
+          "Elle est composée de 40 membres élus à vie, surnommés «les Immortels», veillant sur la langue française",
+          "Elle gère le budget du ministère de la Culture",
+          "Elle publie une liste annuelle des livres recommandés aux lycéens"
+        ],
+        "correct_index": 1,
+        "explanation": "L'Académie française, fondée en 1635 par le cardinal de Richelieu, est composée de 40 membres élus à vie et surnommés «les Immortels». Elle est chargée de rédiger et de publier le Dictionnaire officiel de la langue française (9e édition en cours), de décerner des prix littéraires et de veiller à la bonne évolution de la langue — notamment en proposant des équivalents français aux anglicismes envahissants."
       }
     ]
   },
   "ru": {
     "module_title": "Искусство, литература и музыка",
-    "lesson_title": "Великие французские авторы",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Великие французские авторы. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_title": "Великие французские писатели",
+    "lesson_subtitle": "Мольер, Гюго, Пруст, Камю: французская литература, изменившая мир",
+    "intro": "Франция насчитывает 16 Нобелевских премий по литературе — больше, чем любая другая страна. От Мольера до Пруста, от Вольтера до Симоны де Бовуар, её писатели не просто создавали прекрасную литературу: они осмысляли мир, изобретали новые формы, отстаивали идеи, преодолевшие границы и столетия. Понять этих авторов — значит понять, почему французы придают столь особое место письменному слову, дискуссии об идеях и ангажированному интеллектуалу.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Великие французские авторы** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "От XVII до XIX века: основоположники",
+        "body": "**XVII век** — золотой век французской классической литературы. **Мольер** (1622–1673) создаёт современную комедию: его пьесы (*Скупой*, *Мизантроп*, *Тартюф*, *Мещанин во дворянстве*) пригвождают общественные нелепости с интеллектом, не утратившим остроты. Он играет перед Людовиком XIV, который его защищает вопреки цензурам Церкви — *Тартюф*, сатира на религиозное лицемерие, запрещён на два года. **Расин** (*Федра*, *Андромаха*) и **Лафонтен** (*Басни*) дополняют этот исключительный век.\n\n**XVIII век Просвещения** — эпоха **Вольтера** (1694–1778): памфлетиста, философа, автора *Кандида* (1759), воплощающего ангажированного интеллектуала в борьбе с религиозной нетерпимостью и несправедливостью. **Руссо** (*Об общественном договоре*, *Эмиль*) осмысляет демократию и образование. **Дидро** и **д'Аламбер** руководят *Энциклопедией* — 17 томов, объединяющих человеческое знание во имя разума.\n\n**XIX век** огромен. **Виктор Гюго** (1802–1885) доминирует над всем: поэт (*Созерцания*), романист (*Собор Парижской Богоматери*, *Отверженные*, *Труженики моря*), драматург (*Эрнани*), политик (изгнанный при Наполеоне III, он возвращается в триумфе). **Бальзак** (*Человеческая комедия*, 90 романов) создаёт полный портрет французского общества. **Флобер** (*Мадам Бовари*, 1857) изобретает несобственно-прямую речь и современность романа. **Золя** создаёт натурализм и ведёт борьбу в деле Дрейфуса (*Я обвиняю!*, 1898)."
       },
       {
-        "theme": "Регион",
-        "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
-      },
-      {
-        "theme": "Политика и общество",
+        "theme": "Правовая база и тексты",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Французское книгоиздание: рынок, литературные премии и авторские права",
+        "body": "Франция — **5-й мировой рынок книги** (около 5 млрд € ежегодного оборота). Издательскую отрасль доминируют несколько крупных групп: **Hachette Livre** (Lagardère), **Editis** (Болоре), **Gallimard** (независимый, основан в 1911 году — символ французской литературы), **Le Seuil**, **Actes Sud** (Арль — поддержка иностранных литератур).\n\n**Закон Ланга о единой цене книги** (1981) — французская исключительность: он запрещает продавать книгу со скидкой более 5% от издательской цены. Этот экономически спорный закон позволил сохранить плотную сеть независимых книжных магазинов (3 500 во Франции) перед лицом Amazon и крупных дистрибьюторов. Он считается образцом во многих странах.\n\n**Французские литературные премии** — одни из самых отслеживаемых в мире. **Гонкур** (основан в 1903 году) — наиболее престижный: жюри из 10 человек собирается в ресторане Дрюан в Париже каждый ноябрь. Получить Гонкур — значит обеспечить дополнительные продажи в 300 000–500 000 экземпляров. Другие крупные премии: **Ренодо**, **Фемина** (жюри 100% женское), **Медисис**, **Интералье**. «Литературное начало осени» в сентябре — 500–600 романов за несколько недель: явление, уникальное в мире.\n\n**Авторское право** во Франции действует 70 лет после смерти автора — один из самых длительных сроков в мире. Вознаграждение французских авторов тем не менее остаётся нестабильным: 80% авторов зарабатывают на литературе меньше СМИК."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Практические шаги",
+        "icon": "📋",
+        "title": "Читать французскую литературу: с чего начать?",
+        "body": "**Для начинающих знакомство с французской литературой** — пять фундаментальных доступных произведений:\n— **Вольтер, *Кандид*** (1759, ~120 страниц): иронический философский рассказ о наивном оптимизме — современный, смешной, актуальный по сей день\n— **Мопассан, *Пышка*** (1880, рассказ): шедевр натуралистической прозы, портрет социальной трусости в условиях прусской оккупации\n— **Альбер Камю, *Посторонний*** (1942, ~180 страниц): короткий роман, выверенный стиль, вопрос о смысле жизни с ошеломляющей силой\n— **Борис Виан, *Пена дней*** (1947): поэтический сюрреалистический роман о любви и смерти — культовый для французских подростков\n— **Маргерит Дюрас, *Любовник*** (1984, Гонкур): автобиографический рассказ о колониальном Индокитае, желании и памяти\n\n**Для углублённого чтения**: Пруст (*В поисках утраченного времени* — 7 томов, 4 000 страниц), Флобер (*Мадам Бовари*), Золя (*Жерминаль*, портрет шахты XIX века), Симона де Бовуар (*Второй пол*, основополагающее феминистское эссе), Франц Фанон (*Проклятьем заклеймённые*, антиколониальная мысль).\n\n**Французские библиотеки** бесплатны при предъявлении подтверждения места жительства. **Gallica** (gallica.bnf.fr) — бесплатная цифровая библиотека Национальной библиотеки Франции: 8 млн оцифрованных документов (книги, газеты, фото, карты, партитуры)."
       },
       {
-        "theme": "Художественная культура",
-        "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "theme": "Права и средства защиты",
+        "icon": "🛡️",
+        "title": "Ангажированный интеллектуал: французская традиция",
+        "body": "Франция изобрела понятие **ангажированного интеллектуала** — писателя, публично занимающего позицию по современным вопросам во имя универсальных ценностей. Эта традиция рождается вместе с делом Дрейфуса и «**Я обвиняю!**» Золя (*L'Aurore*, 13 января 1898) — открытым письмом Президенту Республики, разоблачающим антисемитизм армии. Золя осуждён и вынужден эмигрировать, но общественное мнение переворачивается.\n\n**Жан-Поль Сартр** (1905–1980) воплощает ангажированного интеллектуала XX века: он отказывается от Нобелевской премии (1964) во имя интеллектуальной независимости, подписывает **Манифест 121** против алжирской войны. **Симона де Бовуар** основывает современный феминизм *Вторым полом* (1949). **Альбер Камю** занимает более взвешенную позицию — он ведёт диалог с абсурдом, а не митингует, но его участие в Сопротивлении безоговорочно.\n\nСегодня традиция ангажированного интеллектуала жива, но противоречива. Такие фигуры, как **Анни Эрно** (Нобелевская премия 2022, бывшая профсоюзная активистка), **Эдуар Луи** (автор автобиографических рассказов о социальной нищете) или **Виржини Депант** (*Вернон Субютекс*, трилогия), продолжают эту традицию — тогда как другие интеллектуалы (Ален Финкелькраут, Мишель Уэльбек) воплощают широко освещаемый консервативный скептицизм."
       },
       {
-        "theme": "Гастрономия и социальные коды",
-        "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "theme": "Влияние на повседневную жизнь",
+        "icon": "🏠",
+        "title": "Место книги во французском обществе",
+        "body": "Французы читают: 69% читают не менее одной книги в год, а 16% — более 20 книг. **Независимый книжный магазин** остаётся важным социальным пространством в средних городах и парижских кварталах — покупать книгу в книжном, а не на Amazon, нередко является осознанным культурным жестом.\n\n«**Литературное начало осени**» в сентябре — уникальный культурный феномен: 500–600 романов выходят за несколько недель, литературные программы (*La Grande Librairie* на France 5, *Masques et Plumes* на France Inter) задают ритм дискуссиям. Литературные критики крупных ежедневных изданий (*Le Monde des Livres*, *Le Figaro littéraire*, *Libération*) сохраняют реальное влияние на продажи.\n\n**Французская академия** (основана Ришельё в 1635 году) остаётся символически мощным институтом: её **40 Бессмертных**, избранных пожизненно, следят за французским языком, публикуют официальный словарь и присуждают литературные премии. Её позиции по английским неологизмам (*courriel* вместо email, *moteur de recherche* вместо search engine) нередко высмеиваются — но институт переживает все режимы и все моды.\n\n**Цифровое чтение** медленно растёт во Франции (17% читателей) — медленнее, чем в других странах, возможно потому, что физический книжный магазин остаётся культурно ценимым местом социализации. Зато **литературные подкасты** и **bookstagram/booktok** на французском языке стремительно набирают популярность среди молодёжи."
+      },
+      {
+        "theme": "Основной словарь",
+        "icon": "📖",
+        "title": "Слова французской литературы",
+        "body": "**Le Prix Goncourt / Гонкур**: наиболее престижная французская литературная премия, ежегодно присуждаемая в ноябре жюри из 10 человек. Номинально составляет 10 €, но гарантирует дополнительные продажи в 300 000–500 000 экземпляров.\n\n**La loi Lang / Закон Ланга**: закон 1981 года о единой цене книги — запрещает продавать книгу со скидкой более 5%. Защищает независимые книжные магазины от Amazon и крупных дистрибьюторов.\n\n**L'Académie française / Французская академия**: основана в 1635 году Ришельё, 40 пожизненных членов («Бессмертные»), следящих за французским языком и публикующих официальный словарь.\n\n**La rentrée littéraire / Литературная осень**: уникальный издательский феномен: 500–600 романов выходят каждый сентябрь во Франции, сопровождаясь интенсивной критической, медийной и коммерческой активностью.\n\n**Gallica**: бесплатная цифровая библиотека Национальной библиотеки Франции (gallica.bnf.fr) — 8 млн оцифрованных документов: книги, газеты, фото, рукописи, партитуры.\n\n**L'intellectuel engagé / Ангажированный интеллектуал**: французская традиция (рождённая с делом Дрейфуса/Золя) — писатель, публично занимающий позицию по политическим и социальным вопросам во имя универсальных ценностей."
       }
     ],
     "conseil_ami": {
       "title": "Дружеский совет 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Великие французские авторы»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**Знание нескольких французских авторов — мощный ключ к социальной интеграции.** Французы очень польщены, когда иностранец цитирует Камю, Мольера или Пруста — пусть и приблизительно. Читать всё необязательно: иметь мнение о *Постороннем* («я нашёл стиль холодным, но захватывающим») или *Отверженных* («видел мюзикл, но книга ещё лучше») открывает разговоры.\n\nЕсли ищете книжный магазин за пределами Парижа — ищите **независимый книжный с маркировкой «Librairie indépendante»**: там нередко предлагают персонализированные советы и тематические подборки, которых нет в крупных книжных сетях. А платформа **Lire en commun** позволяет присоединиться к книжным клубам — онлайн или очно — по всей Франции."
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "Le Prix Goncourt / Гонкур",
+        "definition": "Наиболее престижная французская литературная премия, присуждаемая ежегодно в ноябре. Символически 10 €, но гарантирует 300 000–500 000 дополнительных продаж."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "La loi Lang / Закон Ланга",
+        "definition": "Закон 1981 года о единой цене книги: запрещает продавать книгу со скидкой более 5%. Защищает 3 500 независимых книжных магазинов от Amazon и крупных дистрибьюторов."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "L'Académie française / Французская академия",
+        "definition": "Основана в 1635 году Ришельё, 40 пожизненных членов («Бессмертные»), следящих за французским языком и публикующих официальный словарь."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "La rentrée littéraire / Литературная осень",
+        "definition": "Уникальный издательский феномен: 500–600 романов выходят каждый сентябрь, сопровождаясь интенсивной критической и коммерческой активностью."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "Gallica",
+        "definition": "Бесплатная цифровая библиотека Национальной библиотеки Франции (gallica.bnf.fr) — 8 млн оцифрованных документов: книги, газеты, фото, рукописи, партитуры."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "L'intellectuel engagé / Ангажированный интеллектуал",
+        "definition": "Французская традиция (рождённая с делом Дрейфуса/Золя): писатель, публично занимающий позицию по политическим и социальным вопросам во имя универсальных ценностей."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Великие французские авторы» во Французской республике?",
+        "question": "Сколько Нобелевских премий по литературе получила Франция?",
         "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
-        ],
-        "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
-      },
-      {
-        "question": "Светскость во Франции означает, что...",
-        "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
-        ],
-        "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
-      },
-      {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
+          "6",
+          "10",
+          "16",
+          "22"
         ],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
+        "explanation": "Франция насчитывает 16 Нобелевских премий по литературе — больше, чем любая другая страна мира. Среди лауреатов: Сюлли-Прюдом (1901, 1-й Нобель по литературе), Анатоль Франс, Ромен Роллан, Андре Жид, Франсуа Мориак, Альбер Камю (1957), Жан-Поль Сартр (1964, отказался), Самюэль Беккет, Клод Симон, Патрик Модиано (2014), Анни Эрно (2022)."
       },
       {
-        "question": "Членом-основателем какой международной организации является Франция?",
+        "question": "Что такое закон Ланга о единой цене книги (1981)?",
         "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
-        ],
-        "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
-      },
-      {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
-        "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
+          "Он национализирует крупные издательские дома",
+          "Он запрещает продавать книгу со скидкой более 5%, защищая независимые книжные",
+          "Он обязывает издателей публиковать французских авторов",
+          "Он устанавливает максимальную цену на школьные учебники"
         ],
         "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "Закон от 10 августа 1981 года (закон Ланга, по имени министра культуры Жака Ланга) устанавливает единую цену книги во Франции: продавать книгу можно не более чем с 5% скидкой от издательской цены. Закон позволил сохранить сеть из 3 500 независимых книжных магазинов перед лицом Amazon. Он считается образцом культурной политики во многих странах."
+      },
+      {
+        "question": "Кто написал «Я обвиняю!» в защиту Дрейфуса в 1898 году?",
+        "options": [
+          "Виктор Гюго",
+          "Эмиль Золя",
+          "Ги де Мопассан",
+          "Марсель Пруст"
+        ],
+        "correct_index": 1,
+        "explanation": "Эмиль Золя опубликовал «Я обвиняю!» 13 января 1898 года в газете «L'Aurore» — открытое письмо президенту Феликсу Фору, разоблачающее антисемитизм армии в деле Дрейфуса. Золя осуждён за клевету и вынужден эмигрировать в Англию на год. Его выступление перевернуло общественное мнение. «Я обвиняю!» стал символом общественного ангажемента писателя."
+      },
+      {
+        "question": "Что такое «литературная осень» (rentrée littéraire) во Франции?",
+        "options": [
+          "Церемония вручения Гонкура в ноябре",
+          "Выход 500–600 романов каждый сентябрь — уникальный в мире издательский феномен",
+          "Начало учебного года в литературных школах",
+          "Ежегодный съезд французских книготорговцев"
+        ],
+        "correct_index": 1,
+        "explanation": "Литературная осень — уникальный феномен одновременного выхода 500–600 новых романов каждый сентябрь во Франции. Этот концентрат публикаций порождает интенсивную критическую активность (литературные программы, статьи) и коммерческую (старт гонки за Гонкур, Ренодо, Фемина...). Явление не имеет аналогов в мировой издательской практике."
+      },
+      {
+        "question": "Какова особенность Французской академии среди французских культурных институтов?",
+        "options": [
+          "Она ежегодно присуждает Гонкур",
+          "Состоит из 40 пожизненно избранных членов — «Бессмертных», следящих за французским языком",
+          "Управляет бюджетом Министерства культуры",
+          "Ежегодно публикует список книг, рекомендованных лицеистам"
+        ],
+        "correct_index": 1,
+        "explanation": "Французская академия, основанная в 1635 году кардиналом Ришельё, состоит из 40 пожизненно избранных членов, называемых «Бессмертными». Она занимается составлением и изданием официального Словаря французского языка (9-е издание в работе), присуждением литературных премий и наблюдением за развитием языка — в том числе предлагая французские эквиваленты нашествующих англицизмов."
       }
     ]
   }

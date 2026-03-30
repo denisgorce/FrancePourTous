@@ -4,275 +4,258 @@
     "lesson_id": 2,
     "module_icon": "⚖️",
     "lesson_icon": "🗳️",
-    "estimated_minutes": 12,
+    "estimated_minutes": 11,
     "difficulty": "intermédiaire",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "Vie publique — Le système électoral français",
+        "url": "https://www.vie-publique.fr/fiches/elections-françaises"
+      },
+      {
+        "label": "Service-public.fr — S'inscrire sur les listes électorales",
+        "url": "https://www.service-public.fr/particuliers/vosdroits/F1961"
+      },
+      {
+        "label": "Conseil constitutionnel — Les élections en France",
+        "url": "https://www.conseil-constitutionnel.fr/les-elections-en-france"
+      },
+      {
+        "label": "INSEE — Participation électorale",
+        "url": "https://www.insee.fr/fr/statistiques/participation-electorale"
+      }
     ]
   },
   "fr": {
-    "module_title": "La République au Quotidien",
+    "module_title": "La République et l'État",
     "lesson_title": "Voter et Élire en France",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : Voter et Élire en France. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "Le suffrage universel, les scrutins et la culture électorale française",
+    "intro": "Voter est un droit fondamental en France — et un acte profondément culturel. Le dimanche des élections, les Français se rendent en masse dans leurs bureaux de vote, glissent une enveloppe dans l'urne, et le soir, se réunissent devant les écrans pour suivre les résultats. Cette ritualité démocratique, héritée de la Révolution, continue de structurer la vie politique française, même si l'abstention progresse et que le paysage politique se fragmente depuis les années 2010.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**Voter et Élire en France** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "Du suffrage censitaire au suffrage universel",
+        "body": "Le **suffrage universel masculin** est proclamé en France en **1848** — les hommes adultes peuvent tous voter, sans condition de fortune ou d'instruction, pour la première fois dans l'histoire du monde moderne. C'est une révolution considérable : en 1789, seuls les hommes payant l'impôt votaient (suffrage censitaire).\n\nLes **femmes** n'obtiennent le droit de vote qu'en **1944** — par ordonnance du général de Gaulle, plus tard que dans la plupart des démocraties (1928 en Royaume-Uni, 1920 aux États-Unis). La France républicaine, souvent présentée comme pionnière des libertés, est paradoxalement l'un des derniers pays d'Europe occidentale à accorder le vote aux femmes — en partie parce que les républicains craignaient que les femmes, sous influence cléricale, votent à droite.\n\nL'**abaissement du droit de vote à 18 ans** intervient en **1974** sous Valéry Giscard d'Estaing. Des débats récurrents proposent de l'abaisser à 16 ans — sans succès pour l'instant. Le vote est un **droit**, non une obligation en France : l'abstention est légale, contrairement à la Belgique ou à l'Australie où voter est obligatoire."
       },
       {
-        "theme": "Région",
+        "theme": "Géographie",
         "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
+        "title": "Le découpage électoral et ses enjeux",
+        "body": "La France est découpée en **577 circonscriptions législatives** — chacune élisant un député à l'Assemblée nationale. Ce découpage est régulièrement révisé pour tenir compte des évolutions démographiques, mais il est souvent accusé de **gerrymandering** (découpage favorable au parti au pouvoir). La dernière révision importante date de **1986**.\n\nLe vote se déroule le **dimanche** — tradition républicaine qui remonte à la IIIe République et qui vise à maximiser la participation en donnant un jour de repos. En France, il n'y a pas de vote par correspondance généralisé ni de vote électronique en présentiel — on vote avec un bulletin papier glissé dans une enveloppe, introduite dans une urne transparente. Ce rituel physique est jalousement maintenu comme garant de la transparence.\n\nLes **Français de l'étranger** (environ 1,5 million d'inscrits) constituent une **11e circonscription** pour les élections législatives, avec 11 circonscriptions d'expatriés. Ils peuvent voter dans les consulats ou par procuration. La **procuration** (donner son vote à un proche) est très utilisée — environ 10% des votes à la présidentielle sont des procurations."
       },
       {
-        "theme": "Politique & Social",
+        "theme": "Politique",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "Le calendrier électoral et les scrutins",
+        "body": "La France organise de très nombreuses élections, ce qui peut sembler écrasant. Voici le panorama :\n\n**Élection présidentielle** : tous les 5 ans, au suffrage universel direct, **deux tours**. Si aucun candidat n'obtient la majorité absolue au 1er tour (ce qui est toujours le cas), les deux premiers s'affrontent au 2e tour. La présidentielle est l'élection-reine : en 2022, près de 74% des inscrits ont voté au 1er tour.\n\n**Élections législatives** : tous les 5 ans (quelques semaines après la présidentielle), pour élire les 577 députés. Scrutin uninominal majoritaire **à deux tours** : un candidat doit obtenir la majorité absolue des suffrages exprimés ET plus de 25% des inscrits pour passer au 1er tour. Sinon, les candidats ayant obtenu plus de 12,5% des inscrits accèdent au 2e tour.\n\n**Élections sénatoriales** : tous les 3 ans (par moitié), au suffrage indirect.\n\n**Élections municipales** : tous les 6 ans, pour élire les conseils municipaux (et le maire). Dans les communes de plus de 1 000 habitants, scrutin de liste à deux tours.\n\n**Élections européennes** : tous les 5 ans, à la proportionnelle — le seul scrutin français à représentation proportionnelle, ce qui donne une image plus fidèle du paysage politique.\n\n**Référendum** : le Président peut en convoquer un sur proposition du gouvernement ou du Parlement — utilisé de façon stratégique (de Gaulle en a fait son arme favorite ; il a démissionné après avoir perdu celui de 1969)."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Vie quotidienne",
+        "icon": "🏠",
+        "title": "S'inscrire et voter : le parcours du citoyen",
+        "body": "Pour voter en France, il faut être **citoyen français** (ou citoyen européen pour les élections municipales et européennes) et être **inscrit sur les listes électorales** de sa commune. L'inscription est en théorie automatique à 18 ans, mais en pratique il faut souvent la confirmer. On peut s'inscrire jusqu'au **6e vendredi avant l'élection** (délai raccourci récemment).\n\nLe jour du vote, on se rend au **bureau de vote** de son quartier muni de sa **carte d'identité ou de son passeport** et de sa **carte électorale** (mais cette dernière n'est plus obligatoire depuis 2017). On prend les différents bulletins (un par candidat ou liste, posés sur une table), on entre dans l'**isoloir** (cabine de vote), on glisse son bulletin choisi dans l'enveloppe, puis on introduit l'enveloppe dans l'urne après avoir dit «A voté» au président du bureau — une formule rituelle.\n\nLes **sondages de sortie des urnes** sont interdits avant 20h le soir du scrutin — pour ne pas influencer les électeurs des DOM-TOM qui votent avec décalage horaire. À 20h pile, les chaînes révèlent simultanément les projections — c'est le grand moment de la soirée électorale française, souvent suivi par des millions de téléspectateurs."
       },
       {
-        "theme": "Culture artistique",
+        "theme": "Culture & Arts",
         "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "title": "La culture politique française : partis, clivages et médias",
+        "body": "Le paysage politique français a été profondément reconfiguré depuis **2017** et l'émergence d'**Emmanuel Macron** et de son mouvement *En Marche* (devenu *Renaissance*). L'ancien clivage **gauche/droite** s'est fragmenté en plusieurs blocs : la gauche (NUPES, puis NFP), le centre (Renaissance, MoDem), la droite classique (LR, en déclin), et le **Rassemblement National** (RN, ex-Front National) qui est devenu le premier parti de France en voix aux élections législatives de 2024.\n\nLa **presse écrite** française a une longue tradition d'engagement politique : *Le Monde* (centre-gauche), *Le Figaro* (droite), *Libération* (gauche), *L'Humanité* (communiste, en déclin). La **radio** reste un média politique majeur : France Inter, BFM Radio, Europe 1 jouent un rôle crucial dans la formation de l'opinion. Les **chaînes d'information en continu** (BFMTV, CNews, LCI) ont transformé le débat politique en spectacle permanent, selon le modèle américain.\n\nL'**abstention** est devenu le premier «parti» de France : aux législatives de 2022, plus de 52% des inscrits ne se sont pas déplacés — un record historique. Cette désaffection, particulièrement marquée chez les jeunes et les milieux populaires, reflète une crise de représentation profonde."
       },
       {
         "theme": "Gastronomie & Codes sociaux",
         "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "title": "La soirée électorale : un rituel national",
+        "body": "Le **dimanche soir d'élection** est un moment rituel de la vie française. Les familles et amis se réunissent devant la télévision dès 20h pour regarder les projections. Les chaînes sortent leurs plus grands journalistes, leurs infographies en 3D, leurs «datavisualisations» — une surenchère audiovisuelle qui contraste avec le dépouillement artisanal dans les bureaux de vote.\n\nLe **dépouillement** est public : après la fermeture des bureaux (20h en général, 18h dans certaines communes rurales), les assesseurs ouvrent les enveloppes, lisent à voix haute chaque bulletin, et deux scrutateurs comptent. Chaque parti peut envoyer un **délégué** pour surveiller les opérations. Ce dépouillement transparent et participatif — souvent effectué par des bénévoles citoyens — est considéré comme l'un des garants de l'intégrité électorale.\n\n**Code social** : en France, il n'est pas impoli de demander à quelqu'un pour qui il a voté — contrairement à la culture anglo-saxonne où cela est très intrusif. Mais la réponse peut être évasive («J'ai voté dans le bon sens» ou «C'est secret»), car le **secret du vote** est un principe constitutionnel. Débattre des choix électoraux au dîner est normal, voire attendu. Cependant, si la conversation devient tendue, un hôte avisé changera de sujet — et proposera du fromage."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à Voter et Élire en France :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**En France, les sujets politique et religion sont les deux sujets les plus sensibles à table** — mais pour des raisons inverses. La politique, on en parle beaucoup et passionnément, mais on peut blesser facilement si on défend la «mauvaise» position dans la «mauvaise» compagnie. La religion, on en parle peu car la laïcité impose une certaine retenue dans l'espace public.\n\n**Ce que les Russes doivent savoir** : le **Rassemblement National** (RN, extrême droite) est souvent perçu en Russie comme un parti «pro-russe» car il a historiquement eu des liens avec Moscou et des positions favorables à Poutine. En France, cette association est un sujet très sensible — évoquer la proximité RN/Russie devant certains interlocuteurs peut créer une réaction forte, quel que soit le sens dans lequel vous l'exprimez.\n\n**Pratique** : si vous résidez en France avec un titre de séjour, vous ne pouvez pas voter aux élections françaises. Mais si vous avez la nationalité d'un pays de l'UE (hors France), vous pouvez voter aux élections **municipales** et **européennes** en France. Si vous obtenez la naturalisation française, vous pourrez voter à toutes les élections — et c'est souvent vécu comme un moment fort par les nouveaux citoyens."
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
+        "term": "Le suffrage universel",
+        "definition": "Droit de vote accordé à tous les citoyens adultes sans condition de fortune, de sexe ou d'instruction — en France depuis 1848 pour les hommes, 1944 pour les femmes."
       },
       {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
+        "term": "L'isoloir",
+        "definition": "Cabine fermée dans les bureaux de vote garantissant le secret du vote — son utilisation est obligatoire en France depuis 1913."
       },
       {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "term": "La procuration",
+        "definition": "Mécanisme permettant à un électeur de déléguer son vote à un proche inscrit dans la même commune — très utilisé en France (10% des votes à la présidentielle)."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "Le Rassemblement National (RN)",
+        "definition": "Parti d'extrême droite fondé en 1972 sous le nom de Front National par Jean-Marie Le Pen, dirigé depuis 2011 par Marine Le Pen puis Jordan Bardella — devenu premier parti de France en voix en 2024."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
+        "term": "L'abstention",
+        "definition": "Non-participation à un scrutin — en hausse structurelle en France, dépassant 50% aux législatives de 2022, symptôme d'une crise de représentation politique."
       },
       {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "Le scrutin uninominal majoritaire à deux tours",
+        "definition": "Mode de scrutin français pour la présidentielle et les législatives : si aucun candidat n'atteint la majorité absolue au 1er tour, les deux (ou plus) mieux placés s'affrontent au 2e tour."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «Voter et Élire en France» dans la République française ?",
-        "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
-        ],
-        "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
-      },
-      {
-        "question": "En France, la laïcité signifie que...",
-        "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
-        ],
-        "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
-      },
-      {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
-        ],
+        "question": "En quelle année les femmes françaises ont-elles obtenu le droit de vote ?",
+        "options": ["1918", "1936", "1944", "1958"],
         "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
+        "explanation": "Les femmes françaises ont obtenu le droit de vote par ordonnance du général de Gaulle en 1944, et ont voté pour la première fois aux élections municipales d'avril 1945. La France est paradoxalement l'un des derniers pays d'Europe occidentale à avoir accordé ce droit aux femmes."
       },
       {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
-        "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
-        ],
+        "question": "Quel est l'âge minimum pour voter en France ?",
+        "options": ["16 ans", "17 ans", "18 ans", "21 ans"],
         "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
+        "explanation": "Le droit de vote à 18 ans a été instauré en 1974 sous Valéry Giscard d'Estaing (contre 21 ans auparavant). Des débats existent pour l'abaisser à 16 ans, mais aucune réforme n'a abouti à ce jour."
       },
       {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
+        "question": "À quelle heure les projections électorales sont-elles diffusées le soir des scrutins en France ?",
+        "options": ["18h", "19h", "20h", "21h"],
+        "correct_index": 2,
+        "explanation": "Les sondages de sortie des urnes et projections sont diffusés à 20h précises en France — au moment où les derniers bureaux de vote ferment. Cette règle vise à ne pas influencer les électeurs qui votent encore, notamment dans les DOM-TOM où il y a un décalage horaire."
+      },
+      {
+        "question": "Qu'est-ce qu'une procuration de vote ?",
         "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
+          "Un bulletin de vote envoyé par courrier",
+          "La délégation de son vote à un proche inscrit dans la même commune",
+          "Un vote électronique sécurisé depuis son domicile",
+          "Un vote anticipé dans les mairies avant le jour du scrutin"
         ],
         "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "La procuration permet à un électeur empêché de voter de mandater un autre électeur inscrit dans la même commune pour voter à sa place. Environ 10% des votes à la présidentielle se font par procuration en France."
+      },
+      {
+        "question": "Quel est le mode de scrutin utilisé pour les élections législatives en France ?",
+        "options": [
+          "La représentation proportionnelle à un tour",
+          "Le scrutin uninominal majoritaire à deux tours",
+          "Le vote préférentiel (classement des candidats)",
+          "Le scrutin de liste à la proportionnelle"
+        ],
+        "correct_index": 1,
+        "explanation": "Les législatives françaises utilisent le scrutin uninominal majoritaire à deux tours : un seul candidat par circonscription est élu. Si personne n'obtient la majorité absolue + 25% des inscrits au 1er tour, les candidats ayant dépassé 12,5% des inscrits accèdent au 2e tour."
       }
     ]
   },
   "ru": {
-    "module_title": "Республика в повседневной жизни",
+    "module_title": "Республика и государство",
     "lesson_title": "Голосование и выборы во Франции",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Голосование и выборы во Франции. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_subtitle": "Всеобщее избирательное право, выборы и французская электоральная культура",
+    "intro": "Голосование во Франции — фундаментальное право и глубоко культурный акт. В воскресенье в день выборов французы массово идут на избирательные участки, опускают конверт в урну, а вечером собираются у экранов следить за результатами. Этот демократический ритуал, унаследованный от Революции, по-прежнему структурирует французскую политическую жизнь — даже если абсентеизм растёт, а политический ландшафт дробится с 2010-х годов.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Голосование и выборы во Франции** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "От цензового избирательного права до всеобщего",
+        "body": "**Всеобщее мужское избирательное право** провозглашено во Франции в **1848 году** — все взрослые мужчины получают право голоса без имущественного ценза или образовательного ценза, впервые в истории современного мира. Это колоссальная революция: в 1789 году голосовали только мужчины, платившие налоги (цензовое избирательное право).\n\n**Женщины** получают право голоса лишь в **1944 году** — указом генерала де Голля, позже, чем в большинстве демократий (1928 — Великобритания, 1920 — США). Республиканская Франция, нередко представляемая первопроходцем свобод, парадоксально оказалась одной из последних стран Западной Европы, предоставивших женщинам право голоса — отчасти потому, что республиканцы опасались клерикального влияния на женщин и их голосования вправо.\n\n**Снижение избирательного возраста до 18 лет** произошло в **1974 году** при Валери Жискар д'Эстене (ранее — 21 год). Периодически звучат предложения снизить его до 16 лет — пока безуспешно. Голосование во Франции — **право**, а не обязанность: абсентеизм законен, в отличие от Бельгии или Австралии, где явка обязательна."
       },
       {
-        "theme": "Регион",
+        "theme": "География",
         "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
+        "title": "Избирательное деление и его ставки",
+        "body": "Франция разделена на **577 законодательных избирательных округов** — каждый избирает одного депутата в Национальное собрание. Эта нарезка регулярно пересматривается с учётом демографических изменений, но нередко обвиняется в **джерримандеринге** (нарезке в интересах правящей партии). Последний значительный пересмотр относится к **1986 году**.\n\nГолосование проходит в **воскресенье** — республиканская традиция, восходящая к III Республике и призванная максимизировать явку, предоставляя выходной день. Во Франции нет всеобщего голосования по почте и электронного голосования на участках: голосуют бумажным бюллетенем в конверте, опускаемом в прозрачную урну. Этот физический ритуал ревностно сохраняется как гарантия прозрачности.\n\n**Французы за рубежом** (около 1,5 млн зарегистрированных) составляют **11-й избирательный округ** для законодательных выборов — 11 зарубежных округов. Они голосуют в консульствах или по доверенности. **Доверенность** (передача своего голоса близкому человеку) широко используется — около 10% голосов на президентских выборах приходится на неё."
       },
       {
-        "theme": "Политика и общество",
+        "theme": "Политика",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Электоральный календарь и виды выборов",
+        "body": "Франция проводит очень много выборов, что может показаться перегруженным. Вот обзор:\n\n**Президентские выборы**: каждые 5 лет, прямым всеобщим голосованием в **два тура**. Если ни один кандидат не получает абсолютного большинства в 1-м туре (что всегда так), два лучших встречаются во 2-м туре. Президентские выборы — главные: в 2022 году около 74% зарегистрированных проголосовали в 1-м туре.\n\n**Законодательные выборы**: каждые 5 лет (через несколько недель после президентских) — избирают 577 депутатов. Мажоритарная одномандатная система **в два тура**: кандидат должен получить абсолютное большинство поданных голосов И более 25% зарегистрированных, чтобы пройти в 1-м туре. Иначе — во 2-й тур выходят кандидаты, набравшие более 12,5% зарегистрированных.\n\n**Сенатские выборы**: каждые 3 года (по половине состава), косвенным голосованием.\n\n**Муниципальные выборы**: каждые 6 лет — избирают муниципальные советы (и мэра). В коммунах с населением свыше 1 000 жителей — списочное голосование в два тура.\n\n**Европейские выборы**: каждые 5 лет, пропорциональное голосование — единственные французские выборы с пропорциональным представительством, дающие более точную картину политического ландшафта.\n\n**Референдум**: Президент вправе объявить его по предложению правительства или Парламента — используется стратегически (де Голль сделал его своим излюбленным оружием и ушёл в отставку, проиграв референдум 1969 года)."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Повседневная жизнь",
+        "icon": "🏠",
+        "title": "Регистрация и голосование: путь гражданина",
+        "body": "Чтобы голосовать во Франции, необходимо быть **французским гражданином** (или гражданином ЕС — для муниципальных и европейских выборов) и быть **внесённым в избирательные списки** своей коммуны. Регистрация теоретически происходит автоматически в 18 лет, но на практике нередко требует подтверждения. Зарегистрироваться можно вплоть до **6-й пятницы перед выборами** (недавно сокращённый срок).\n\nВ день голосования отправляются на **избирательный участок** своего квартала с **удостоверением личности или паспортом** и **избирательной карточкой** (последняя уже необязательна с 2017 года). Берут различные бюллетени (по одному на кандидата или список, разложенные на столе), заходят в **кабину для голосования**, вкладывают выбранный бюллетень в конверт, затем опускают конверт в урну, произнеся «A voté» («Проголосовал») председателю участка — ритуальная формула.\n\n**Экзит-поллы** запрещены до 20:00 вечера в день голосования — чтобы не влиять на голосующих в заморских территориях с учётом разницы часовых поясов. Ровно в 20:00 каналы одновременно публикуют прогнозы — главный момент французского избирательного вечера, за которым следят миллионы телезрителей."
       },
       {
-        "theme": "Художественная культура",
+        "theme": "Культура и искусство",
         "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "title": "Французская политическая культура: партии, расколы и СМИ",
+        "body": "Политический ландшафт Франции был глубоко перекроен с **2017 года** и выдвижением **Эммануэля Макрона** и его движения *En Marche* (ставшего *Renaissance*). Прежнее деление **левые/правые** раздробилось на несколько блоков: левые (НУПС, затем НФП), центр (Renaissance, MoDem), классические правые (LR, в упадке) и **Национальное объединение** (NR, бывший Национальный фронт), ставшее в 2024 году первой партией Франции по числу голосов на законодательных выборах.\n\n**Печатная пресса** Франции имеет долгую традицию политической ангажированности: *Le Monde* (центр-левые), *Le Figaro* (правые), *Libération* (левые), *L'Humanité* (коммунистическая, в упадке). **Радио** остаётся важным политическим медиа: France Inter, BFM Radio, Europe 1 играют ключевую роль в формировании общественного мнения. **Непрерывные новостные каналы** (BFMTV, CNews, LCI) превратили политическую дискуссию в постоянное зрелище по американскому образцу.\n\n**Абсентеизм** стал первой «партией» Франции: на законодательных выборах 2022 года более 52% зарегистрированных не пришли голосовать — исторический рекорд. Это отчуждение, особенно выраженное среди молодёжи и народных слоёв, отражает глубокий кризис представительства."
       },
       {
         "theme": "Гастрономия и социальные коды",
         "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "title": "Избирательный вечер: национальный ритуал",
+        "body": "**Воскресный вечер в день выборов** — ритуальный момент французской жизни. Семьи и друзья собираются у телевизора с 20:00, чтобы смотреть прогнозы. Каналы выставляют своих лучших журналистов, трёхмерные инфографики, «дата-визуализации» — аудиовизуальная гонка, контрастирующая с кустарным подсчётом голосов на участках.\n\n**Подсчёт голосов** открыт для публики: после закрытия участков (как правило, 20:00, 18:00 в некоторых сельских коммунах) секретари вскрывают конверты, каждый бюллетень зачитывается вслух, и два счётчика ведут подсчёт. Каждая партия вправе направить **наблюдателя** следить за процессом. Этот прозрачный и гражданский подсчёт — нередко осуществляемый волонтёрами-гражданами — считается одной из гарантий избирательной честности.\n\n**Социальный код**: во Франции спрашивать, за кого проголосовал человек, не считается грубостью — в отличие от англосаксонской культуры, где это очень навязчиво. Однако ответ может быть уклончивым («Я проголосовал правильно» или «Это тайна»), поскольку **тайна голосования** является конституционным принципом. Обсуждать электоральный выбор за ужином нормально и даже ожидаемо. Если беседа накаляется, мудрый хозяин сменит тему — и предложит сыр."
       }
     ],
     "conseil_ami": {
       "title": "Дружеский совет 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Голосование и выборы во Франции»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**Во Франции политика и религия — две самые чувствительные темы за столом**, но по разным причинам. О политике говорят много и страстно, но легко обидеть, отстаивая «неправильную» позицию в «неправильной» компании. О религии говорят мало: светскость требует определённой сдержанности в публичном пространстве.\n\n**Что нужно знать русским**: **Национальное объединение** (NR, крайние правые) нередко воспринимается в России как «пророссийская» партия — она исторически имела связи с Москвой и занимала позиции, благоприятные по отношению к Путину. Во Франции эта ассоциация — очень болезненная тема: упоминание близости NR/Россия перед некоторыми собеседниками может вызвать сильную реакцию в любую сторону.\n\n**Практически**: если вы живёте во Франции с видом на жительство, вы не можете голосовать на французских выборах. Но если у вас гражданство страны ЕС (не Франции), вы вправе голосовать на **муниципальных** и **европейских** выборах во Франции. При получении французского гражданства вы получите право голоса на всех выборах — и это нередко переживается новыми гражданами как важный момент."
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "Всеобщее избирательное право / suffrage universel",
+        "definition": "Право голоса, предоставленное всем взрослым гражданам без имущественного, полового или образовательного ценза — во Франции с 1848 года для мужчин, с 1944 для женщин."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "Кабина для голосования / isoloir",
+        "definition": "Закрытая кабина на избирательном участке, гарантирующая тайну голосования — её использование обязательно во Франции с 1913 года."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "Доверенность / procuration",
+        "definition": "Механизм, позволяющий избирателю делегировать свой голос близкому человеку, зарегистрированному в той же коммуне — широко используется во Франции (10% голосов на президентских выборах)."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "Национальное объединение (NR) / Rassemblement National",
+        "definition": "Партия крайних правых, основанная в 1972 году под названием Национальный фронт Жан-Мари Ле Пеном, с 2011 года возглавляемая Марин Ле Пен, затем Жорданом Барделла — стала первой по числу голосов во Франции в 2024 году."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "Абсентеизм / abstention",
+        "definition": "Неучастие в голосовании — структурно растёт во Франции, превысив 50% на законодательных выборах 2022 года, симптом глубокого кризиса политического представительства."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "Мажоритарная система в два тура",
+        "definition": "Французский избирательный метод на президентских и законодательных выборах: если никто не получает абсолютного большинства в 1-м туре, два или более лучших кандидата встречаются во 2-м туре."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Голосование и выборы во Франции» во Французской республике?",
-        "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
-        ],
-        "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
-      },
-      {
-        "question": "Светскость во Франции означает, что...",
-        "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
-        ],
-        "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
-      },
-      {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
-        "options": [
-          "17",
-          "18",
-          "15",
-          "112"
-        ],
+        "question": "В каком году французские женщины получили право голоса?",
+        "options": ["1918", "1936", "1944", "1958"],
         "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
+        "explanation": "Французские женщины получили право голоса по указу генерала де Голля в 1944 году и впервые проголосовали на муниципальных выборах в апреле 1945 года. Парадоксально, но Франция стала одной из последних стран Западной Европы, предоставивших женщинам это право."
       },
       {
-        "question": "Членом-основателем какой международной организации является Франция?",
-        "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
-        ],
+        "question": "С какого возраста можно голосовать во Франции?",
+        "options": ["16 лет", "17 лет", "18 лет", "21 год"],
         "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
+        "explanation": "Право голоса с 18 лет было введено в 1974 году при Валери Жискар д'Эстене (ранее — 21 год). Периодически звучат предложения снизить его до 16 лет, но ни одна реформа пока не прошла."
       },
       {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
+        "question": "В котором часу в день выборов публикуются избирательные прогнозы?",
+        "options": ["18:00", "19:00", "20:00", "21:00"],
+        "correct_index": 2,
+        "explanation": "Экзит-поллы и прогнозы публикуются ровно в 20:00 — когда закрываются последние избирательные участки. Это правило призвано не влиять на ещё голосующих, в том числе в заморских территориях с учётом разницы часовых поясов."
+      },
+      {
+        "question": "Что такое доверенность на голосование?",
         "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
+          "Бюллетень, отправленный почтой",
+          "Передача своего голоса близкому, зарегистрированному в той же коммуне",
+          "Электронное голосование с защищённым доступом из дома",
+          "Досрочное голосование в мэриях до дня выборов"
         ],
         "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "Доверенность позволяет избирателю, лишённому возможности явиться, уполномочить другого зарегистрированного в той же коммуне избирателя проголосовать вместо него. Около 10% голосов на президентских выборах во Франции приходится на доверенности."
+      },
+      {
+        "question": "Какая избирательная система применяется на законодательных выборах во Франции?",
+        "options": [
+          "Пропорциональное представительство в один тур",
+          "Мажоритарная одномандатная система в два тура",
+          "Преференциальное голосование (ранжирование кандидатов)",
+          "Пропорциональное списочное голосование"
+        ],
+        "correct_index": 1,
+        "explanation": "Французские законодательные выборы проводятся по мажоритарной одномандатной системе в два тура: от каждого округа избирается один депутат. Если никто не получает абсолютного большинства + 25% зарегистрированных в 1-м туре, во 2-й выходят кандидаты, набравшие более 12,5% зарегистрированных."
       }
     ]
   }

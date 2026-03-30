@@ -4,275 +4,288 @@
     "lesson_id": 5,
     "module_icon": "🎨",
     "lesson_icon": "🎵",
-    "estimated_minutes": 12,
+    "estimated_minutes": 10,
     "difficulty": "intermédiaire",
     "sources": [
-      "vie-publique.fr",
-      "service-public.fr",
-      "culture.gouv.fr"
+      {
+        "label": "INA — Archives de la chanson française",
+        "url": "https://www.ina.fr/musique"
+      },
+      {
+        "label": "Centre national de la musique (CNM)",
+        "url": "https://cnm.fr"
+      },
+      {
+        "label": "Philharmonie de Paris — Musée de la musique",
+        "url": "https://philharmoniedeparis.fr/fr/musee"
+      },
+      {
+        "label": "SACEM — Société des auteurs compositeurs",
+        "url": "https://www.sacem.fr"
+      }
     ]
   },
   "fr": {
     "module_title": "Arts, Lettres et Musique",
     "lesson_title": "La Chanson Française",
-    "lesson_subtitle": "Contenu en cours de rédaction",
-    "intro": "Cette leçon explore en profondeur le thème : La Chanson Française. Elle couvre les six dimensions essentielles pour comprendre la France et réussir votre intégration.",
+    "lesson_subtitle": "De Piaf à Stromae : un siècle de mots mis en musique",
+    "intro": "La chanson française est un art à part entière — pas de la musique populaire au sens méprisant du terme, mais une tradition qui met des mots d'une qualité littéraire rare sur des mélodies mémorables. Édith Piaf, Jacques Brel, Georges Brassens, Barbara, Serge Gainsbourg, Alain Souchon, Renaud, MC Solaar, Stromae, Christine and the Queens : chaque génération produit ses voix singulières, qui parlent de l'amour, de la politique, de la société, de la mort — avec une franchise et une poésie que peu de cultures musicales rivalisent.",
     "sections": [
       {
         "theme": "Histoire",
         "icon": "📜",
-        "title": "Contexte historique",
-        "body": "**La Chanson Française** s'inscrit dans une longue tradition française. Pour comprendre la France d'aujourd'hui, il faut connaître ses racines historiques.\n\nDe la Révolution de 1789 aux lois de la IIIe République, les grandes dates ont façonné les pratiques actuelles. La devise **Liberté, Égalité, Fraternité** guide toujours les choix collectifs.\n\nAujourd'hui, ces héritages se lisent dans les institutions, les comportements sociaux et la culture quotidienne."
+        "title": "Du café-concert à la Nouvelle Scène française",
+        "body": "La chanson française moderne naît au **XIXe siècle** dans les **cafés-concerts** et les **cabarets** parisiens — le Chat Noir (Montmartre, 1881), les Folies Bergère, le Moulin Rouge. Aristide Bruant (immortalisé par les affiches de Toulouse-Lautrec) chante la misère des faubourgs avec une verdeur argotique. Ce terreau populaire et poétique est la source de tout.\n\nLes années 1930–1950 sont l'âge d'or : **Édith Piaf** (1915–1963) incarne la chanson française dans le monde entier — *La Vie en rose*, *Non, je ne regrette rien*, *L'Hymne à l'amour*. Sa voix puissante, sa vie tragique (orpheline, rue, boxeur, Résistance, accidents) font d'elle un mythe universel. **Charles Trenet** (*La Mer*, *Douce France*) invente la chanson poétique moderne. **Maurice Chevalier** conquiert Hollywood.\n\n**La génération des «poètes»** des années 1950–1970 est peut-être la plus emblématique : **Georges Brassens** (1921–1981) — poète anarchiste doux, guitare et moustache, *Le Gorille*, *Les Copains d'abord*, *Mourir pour des idées* ; **Jacques Brel** (1929–1978, belge mais parisien d'adoption) — volcanique, charnel, *Ne me quitte pas*, *Amsterdam*, *La Chanson des vieux amants* ; **Barbara** (1930–1997) — la «Dame noire», piano noir, *Dis, quand reviendras-tu ?*, *Nantes*, *L'Aigle noir* ; **Léo Ferré** — poète anarchiste radical, mit en musique Apollinaire, Rimbaud, Verlaine.\n\nLes années 1980–2000 voient le rock français (Téléphone, Noir Désir), la techno (Daft Punk — les Français les plus influents du monde musical mondial, 1993–2021), et le rap français naître en banlieue (NTM, IAM, MC Solaar). Le XXIe siècle : **Stromae** (belge) révolutionne la chanson en français mondialement, **Christine and the Queens** réinvente le genre féminin, **Angèle**, **Grand Corps Malade** (slam), **Eddy de Pretto**."
       },
       {
-        "theme": "Région",
-        "icon": "🗺️",
-        "title": "Particularités régionales",
-        "body": "La France n'est pas homogène. Chaque région apporte sa couleur à ce thème.\n\n**Paris** concentre les institutions nationales, mais la **province** a ses propres usages. La **Bretagne**, la **Provence**, l'**Alsace** ou la **Normandie** ont chacune une identité forte.\n\nCette diversité régionale est une richesse — les Français en sont fiers et aiment l'afficher."
-      },
-      {
-        "theme": "Politique & Social",
+        "theme": "Cadre légal & textes",
         "icon": "⚖️",
-        "title": "Le cadre légal et républicain",
-        "body": "En France, la loi encadre précisément ce domaine. La **Constitution de 1958** et les lois organiques définissent les droits et obligations de chacun.\n\nLe principe de **laïcité** (loi 1905) s'applique : l'État est neutre, les croyances restent dans la sphère privée. Dans l'espace public, les règles communes s'imposent à tous.\n\n**Service-public.fr** est votre référence officielle pour toutes les démarches liées à ce thème."
+        "title": "Les quotas radio et la protection de la chanson française",
+        "body": "La France est le seul pays au monde à imposer des **quotas de diffusion** de musique francophone à la radio. La **loi du 1er février 1994** (dite loi Pelchat) exige que les radios privées diffusent au minimum **40% de chansons francophones** dans leurs programmes musicaux — dont la moitié doivent être des «nouvelles productions» ou des «nouveaux talents». Cette loi, controversée, vise à protéger la chanson française face à la domination anglo-saxonne.\n\nLa **SACEM** (Société des Auteurs, Compositeurs et Éditeurs de Musique, fondée en 1851) gère les droits d'auteur des créateurs musicaux français et francophones. Elle perçoit des redevances auprès des radios, des lieux publics (bars, restaurants, magasins) et des plateformes de streaming (Spotify, Deezer) pour les redistribuer aux auteurs-compositeurs. Les auteurs-compositeurs doivent s'y affilier pour percevoir leurs droits.\n\nLe **Centre National de la Musique** (CNM, créé en 2020) est l'équivalent du CNC pour la musique : il soutient financièrement la création, la production, la diffusion et l'export de la musique française — notamment face aux plateformes de streaming qui redistribuent très peu aux artistes indépendants. Le **Pass Culture** (300 €/an pour les 15–18 ans) peut être utilisé pour acheter des concerts, disques et cours de musique."
       },
       {
-        "theme": "Économie & Vie quotidienne",
-        "icon": "💼",
-        "title": "Impact sur la vie de tous les jours",
-        "body": "Ce thème touche directement votre quotidien en France. Pour s'y repérer, quelques repères pratiques :\n\n• La **Sécurité Sociale** (créée en 1945) protège tous les résidents légaux\n• Le **SMIC** garantit un salaire minimum (~1 766 € brut/mois en 2024)\n• 5 semaines de **congés payés** annuels sont un droit légal\n• Urgences : SAMU **15** · Police **17** · Pompiers **18** · Europe **112**"
+        "theme": "Démarches pratiques",
+        "icon": "📋",
+        "title": "Écouter, voir et comprendre la chanson française",
+        "body": "**Cinq albums incontournables pour comprendre la chanson française :**\n— **Georges Brassens, «La Mauvaise Réputation»** (1952) : l'essence du Brassens — anarchiste, tendre, drôle, avec des textes d'une précision poétique exceptionnelle\n— **Jacques Brel, «Enregistrement public à l'Olympia»** (1964) : Brel en concert — la chair, l'énergie, la tragédie en direct\n— **Barbara, «Göttingen»** (1965) : chanson pacifiste franco-allemande, piano et voix nue, une des plus belles de la langue française\n— **Gainsbourg, «Histoire de Melody Nelson»** (1971) : album conceptuel rock/chanson, arrangements de Jean-Claude Vannier, un chef-d'œuvre absolu\n— **Stromae, «Racine carrée»** (2013) : l'album qui a révolutionné la chanson francophone mondiale — *Papaoutai*, *Formidable*, *Carmen*\n\n**Concerts et festivals** : l'**Olympia** (Paris, salle mythique inaugurée en 1893, capacité 2 000 places) reste le temple de la chanson française. Les **Francofolies de La Rochelle** (juillet) sont le plus grand festival de chanson francophone au monde. Les **Victoires de la Musique** (remises chaque mars) sont les Molières de la musique — très suivies.\n\n**Pour les non-francophones** : la chanson française est une excellente façon d'améliorer le français — les paroles sont claires, la prosodie épouse la langue naturellement. Cherchez les paroles sur **Genius.fr** ou **Paroles.net**. Des chaînes YouTube comme «Français Authentique» utilisent la chanson pour enseigner la langue."
       },
       {
-        "theme": "Culture artistique",
-        "icon": "🎨",
-        "title": "Expressions artistiques et culturelles",
-        "body": "La France investit massivement dans la culture : 1% du budget national lui est consacré. Ce thème nourrit une riche production artistique.\n\nLe **Louvre**, le musée **d'Orsay** et le **Centre Pompidou** conservent les chefs-d'œuvre liés à cette thématique. Les films de la **Nouvelle Vague** (Godard, Truffaut) et la **chanson française** (Piaf, Brel, Gainsbourg) en portent l'empreinte.\n\nLes musées nationaux sont **gratuits** pour les moins de 26 ans résidents européens."
+        "theme": "Droits & recours",
+        "icon": "🛡️",
+        "title": "Le rap français et les débats sur la liberté d'expression",
+        "body": "Le **rap français** est devenu le premier genre musical en France par les ventes — dépassant la chanson traditionnelle et le rock. Des artistes comme **Nekfeu**, **Orelsan**, **PNL**, **SCH**, **Booba**, **Jul** dominent les charts. Le rap français se distingue du rap américain par l'importance accordée aux textes — les rappeurs français sont souvent considérés comme les héritiers de la tradition de la chanson à texte.\n\nMais le rap français est aussi au cœur de **controverses sur la liberté d'expression**. Des procès pour incitation à la haine, apologie du terrorisme ou violence contre les femmes ont visé plusieurs artistes. La ligne de partage entre art provoquant et propos délictueux est l'objet de débats récurrents — les défenseurs des artistes invoquant la liberté d'expression, les plaignants soulignant la banalisation de propos violents ou discriminatoires.\n\nLa **question du genre** dans la musique française a évolué : longtemps dominée par les hommes, la scène française voit émerger des artistes féminines puissantes — **Angèle** (Belgique, millions de streams), **Christine and the Queens** (trans, pop expérimentale, succès mondial), **Aya Nakamura** (artiste francophone la plus streamée au monde en 2023, d'origine malienne, controversée lors de la cérémonie d'ouverture des JO Paris 2024). Ces succès révèlent une France musicale plus diverse et plus ouverte qu'elle ne l'a jamais été."
       },
       {
-        "theme": "Gastronomie & Codes sociaux",
-        "icon": "🥖",
-        "title": "À table et dans la vie sociale",
-        "body": "La gastronomie française (classée **UNESCO** depuis 2010) est indissociable de ce thème. Le repas est un acte social, pas seulement nutritif.\n\n**Codes à retenir pour un russophone :**\n• Dire **«Bonjour»** en entrant partout — toujours\n• Ne pas parler de salaire ou d'argent en société\n• Le **quart d'heure de politesse** : arriver 15 min après l'heure prévue chez quelqu'un\n• Le pain se pose sur la table, pas dans l'assiette"
+        "theme": "Impact sur la vie quotidienne",
+        "icon": "🏠",
+        "title": "La musique dans la vie quotidienne des Français",
+        "body": "Les Français écoutent de la musique principalement via le **streaming** : Spotify, Deezer (plateforme française fondée en 2007, pionnière du streaming mondial), YouTube Music. La vente de disques physiques a chuté de 90% depuis 2000, mais le **vinyle** connaît un renouveau spectaculaire — les jeunes achètent des platines et des disques de leurs artistes préférés.\n\nLes **festivals** sont un moment de vie sociale intense : **Rock en Seine** (Paris, août), **Solidays** (Paris, juin — contre le SIDA), **Vieilles Charrues** (Bretagne, juillet — 70 000 personnes/jour), **Hellfest** (Loire-Atlantique, métal — 60 000/jour), **Jazz à Juan** (Antibes, juillet). Ces festivals sont autant des rituels sociaux que des événements musicaux — on y campe, on y mange ensemble, on y fait des rencontres.\n\nLa **pratique musicale amateur** est très répandue : 8 millions de Français pratiquent un instrument. Les **conservatoires municipaux** proposent des cours pour tous les âges, à des tarifs accessibles. La culture du **karaoké** est moins développée qu'en Asie ou au Royaume-Uni — les Français préfèrent chanter entre amis, autour d'une guitare, sur des chansons de Brassens ou de Renaud.\n\nLa **chanson française est enseignée à l'école** : des textes de Prévert, Brel, Barbara figurent dans les manuels de français et sont analysés comme des œuvres littéraires. Certains textes de chansons passent même aux épreuves du baccalauréat. Cette reconnaissance académique est une spécificité française — peu de pays traitent leur chanson populaire comme de la littérature."
+      },
+      {
+        "theme": "Lexique essentiel",
+        "icon": "📖",
+        "title": "Les mots de la chanson et de la musique française",
+        "body": "**La chanson à texte** : genre musical français valorisant la qualité littéraire des paroles sur la virtuosité musicale — tradition de Brel, Brassens, Barbara, Ferré, aujourd'hui prolongée par certains rappeurs.\n\n**Les quotas radio** : obligation légale (loi de 1994) pour les radios privées françaises de diffuser au minimum 40% de chansons francophones. Protègent la chanson française face à la domination anglo-saxonne.\n\n**La SACEM** : Société des Auteurs, Compositeurs et Éditeurs de Musique (fondée 1851) — collecte et redistribue les droits d'auteur musicaux auprès des radios, lieux publics et plateformes de streaming.\n\n**L'Olympia** : salle de concert mythique parisienne (1893, 2 000 places), temple de la chanson française. «Passer à l'Olympia» est la consécration pour un artiste français.\n\n**Les Victoires de la Musique** : équivalent musical des Molières et des Césars — cérémonie annuelle (mars) récompensant les meilleurs artistes et albums de l'année.\n\n**Deezer** : plateforme française de streaming musical fondée en 2007, pionnière mondiale du secteur — concurrente de Spotify, présente dans 180 pays."
       }
     ],
     "conseil_ami": {
       "title": "Le Conseil d'Ami 🤝",
       "icon": "💡",
-      "content": "**Un code invisible lié à La Chanson Française :**\n\nEn France, l'apparence de la spontanéité cache souvent des règles très codifiées. Là où un Russe serait direct et pragmatique, un Français va souvent «envelopper» sa demande dans des formules de politesse.\n\nPar exemple, ne jamais commencer par le fond d'une demande : toujours d'abord «Comment allez-vous ?», un échange de civilités, *puis* la vraie demande. Cette danse sociale n'est pas une perte de temps pour les Français — c'est le respect de l'autre en tant que personne."
+      "content": "**Écouter de la chanson française est l'un des meilleurs moyens d'améliorer son français — et d'entrer dans la culture.** Commencez par Brel (*Ne me quitte pas* — une des plus belles chansons de la langue française, accessible même sans parfaitement comprendre les mots) et Piaf (*La Vie en rose*). Écoutez plusieurs fois avec les paroles sous les yeux.\n\nUne astuce culturelle : si vous voulez faire plaisir à un Français cultivé de 50 ans et plus, mentionnez Brassens ou Barbara — ces artistes déclenchent souvent une nostalgie très émotionnelle et une longue conversation. Si vous préférez les jeunes Français, parlez de Stromae, Angèle ou Orelsan — vous serez instantanément perçu comme quelqu'un de curieux et ouvert."
     },
     "glossary": [
       {
-        "term": "La République",
-        "definition": "Régime politique où les élus gouvernent au nom du peuple."
+        "term": "La chanson à texte",
+        "definition": "Genre musical français valorisant la qualité littéraire des paroles — tradition de Brel, Brassens, Barbara, Ferré, prolongée aujourd'hui par certains rappeurs."
       },
       {
-        "term": "La laïcité",
-        "definition": "Séparation de l'Église et de l'État (loi de 1905)."
+        "term": "Les quotas radio",
+        "definition": "Obligation légale (loi 1994) pour les radios privées françaises de diffuser au moins 40% de chansons francophones — protection de la chanson française face à la domination anglo-saxonne."
       },
       {
-        "term": "Le SMIC",
-        "definition": "Salaire Minimum Interprofessionnel de Croissance."
+        "term": "La SACEM",
+        "definition": "Société des Auteurs, Compositeurs et Éditeurs de Musique (fondée 1851) — collecte et redistribue les droits d'auteur musicaux aux créateurs via radios, lieux publics et streaming."
       },
       {
-        "term": "La Carte Vitale",
-        "definition": "Carte électronique d'assurance maladie."
+        "term": "L'Olympia",
+        "definition": "Salle de concert mythique parisienne (1893, 2 000 places) — temple de la chanson française. «Passer à l'Olympia» est la consécration pour un artiste."
       },
       {
-        "term": "Le quart d'heure de politesse",
-        "definition": "Usage consistant à arriver 15 minutes après l'heure chez un particulier."
+        "term": "Les Victoires de la Musique",
+        "definition": "Cérémonie annuelle (mars) récompensant les meilleurs artistes et albums français de l'année — équivalent musical des Molières et des Césars."
       },
       {
-        "term": "Le patrimoine",
-        "definition": "L'ensemble des biens culturels, naturels et historiques transmis."
+        "term": "Deezer",
+        "definition": "Plateforme française de streaming musical pionnière (fondée 2007) — concurrente de Spotify, présente dans 180 pays. L'une des rares grandes tech françaises du secteur culturel."
       }
     ],
     "quiz": [
       {
-        "question": "Quel est le principe fondamental encadrant «La Chanson Française» dans la République française ?",
+        "question": "Quelle loi impose aux radios françaises de diffuser au minimum 40% de chansons francophones ?",
         "options": [
-          "La monarchie constitutionnelle",
-          "La Liberté, l'Égalité, la Fraternité",
-          "La loi du marché",
-          "La tradition religieuse"
+          "La loi Lang sur le prix unique du livre (1981)",
+          "La loi Pelchat sur les quotas radio (1994)",
+          "La loi sur l'exception culturelle (2005)",
+          "La loi sur la liberté de la presse (1881)"
         ],
         "correct_index": 1,
-        "explanation": "La devise Liberté, Égalité, Fraternité guide tous les aspects de la société française depuis la Révolution de 1789."
+        "explanation": "La loi du 1er février 1994 (dite loi Pelchat, du nom du sénateur qui l'a portée) impose aux radios privées françaises de consacrer au moins 40% de leurs diffusions musicales à des chansons d'expression française — dont la moitié en nouvelles productions ou nouveaux talents. Cette loi vise à protéger la création musicale francophone face à la domination commerciale des musiques anglophones."
       },
       {
-        "question": "En France, la laïcité signifie que...",
+        "question": "Quel artiste a révolutionné la chanson francophone mondiale avec l'album «Racine carrée» en 2013 ?",
         "options": [
-          "La religion catholique est officielle",
-          "L'État est strictement séparé des religions depuis 1905",
-          "La religion est interdite",
-          "L'État finance toutes les religions"
+          "Renaud",
+          "Stromae",
+          "MC Solaar",
+          "Grand Corps Malade"
         ],
         "correct_index": 1,
-        "explanation": "La laïcité (loi 1905) sépare strictement l'État et les religions. Chacun est libre de croire ou non dans sa vie privée."
+        "explanation": "Stromae (Paul Van Haver, né en 1985 à Bruxelles de père rwandais et mère belge) révolutionne la chanson francophone avec «Racine carrée» (2013) : Papaoutai (sur l'absence du père), Formidable (ivre dans la rue), Carmen (critique des réseaux sociaux via Bizet). L'album est certifié platine dans 10 pays et fait de Stromae l'artiste francophone le plus internationalement reconnu de sa génération."
       },
       {
-        "question": "Quel est le numéro du SAMU (urgences médicales) en France ?",
+        "question": "Que gère la SACEM ?",
         "options": [
-          "17",
-          "18",
-          "15",
-          "112"
-        ],
-        "correct_index": 2,
-        "explanation": "Le 15 est le numéro du SAMU. Le 17 est la police, le 18 les pompiers, le 112 l'urgence européenne."
-      },
-      {
-        "question": "À quelle organisation internationale appartient la France comme membre fondateur ?",
-        "options": [
-          "L'OTAN uniquement",
-          "L'ONU uniquement",
-          "L'Union Européenne et l'ONU",
-          "La Ligue Arabe"
-        ],
-        "correct_index": 2,
-        "explanation": "La France est membre fondatrice de l'UE (traité de Rome 1957) et membre permanent du Conseil de sécurité de l'ONU."
-      },
-      {
-        "question": "Qu'est-ce que le «quart d'heure de politesse» en France ?",
-        "options": [
-          "Un rituel de 15 minutes avant chaque repas",
-          "L'usage d'arriver 15 min après l'heure prévue chez un particulier",
-          "Une pause légale dans le travail",
-          "La durée du café d'accueil"
+          "Les subventions aux radios publiques",
+          "Les droits d'auteur des créateurs musicaux, collectés auprès des radios et plateformes de streaming",
+          "La programmation de l'Olympia",
+          "Les quotas de diffusion musicale à la télévision"
         ],
         "correct_index": 1,
-        "explanation": "En France, arriver exactement à l'heure chez quelqu'un peut être perçu comme «trop précis» — on attend 10-15 minutes. À ne pas confondre avec un rendez-vous professionnel où la ponctualité est attendue."
+        "explanation": "La SACEM (Société des Auteurs, Compositeurs et Éditeurs de Musique, fondée en 1851) collecte les droits d'auteur auprès de toutes les entités qui utilisent de la musique : radios, télévisions, lieux publics (bars, restaurants, boutiques), plateformes de streaming (Spotify, Deezer), cinémas... Elle redistribue ensuite ces droits aux auteurs-compositeurs affiliés, proportionnellement à l'utilisation de leurs œuvres."
+      },
+      {
+        "question": "Pourquoi Édith Piaf est-elle considérée comme un mythe universel ?",
+        "options": [
+          "Car elle était la première femme à chanter en français",
+          "Car sa voix puissante et sa vie tragique (orpheline, rue, amours dramatiques) en font un symbole universel",
+          "Car elle a inventé le genre de la chanson à texte",
+          "Car elle a été la première artiste française à se produire aux États-Unis"
+        ],
+        "correct_index": 1,
+        "explanation": "Édith Piaf (1915–1963) est un mythe universel pour la combinaison de sa voix extraordinairement puissante et émouvante et d'une vie tragique : abandonnée à la naissance, enfance dans la rue, découverte dans un cabaret, amours dramatiques (mort de Marcel Cerdan), accidents de voiture, addictions... Ses chansons (La Vie en rose, Non je ne regrette rien, L'Hymne à l'amour) sont parmi les plus connues au monde."
+      },
+      {
+        "question": "Quelle est la particularité du traitement de la chanson française dans le système éducatif ?",
+        "options": [
+          "Elle est interdite à l'école au nom de la laïcité",
+          "Des textes de chansons (Brel, Barbara, Prévert) sont étudiés comme œuvres littéraires et peuvent figurer au baccalauréat",
+          "Elle n'est enseignée que dans les conservatoires de musique",
+          "Elle est remplacée par la musique classique dans les programmes officiels"
+        ],
+        "correct_index": 1,
+        "explanation": "La chanson française est traitée dans le système éducatif français comme une forme d'expression littéraire à part entière : des textes de Jacques Brel, Barbara, Georges Brassens, Jacques Prévert figurent dans les manuels de français et sont analysés comme des poèmes. Certains textes passent même aux épreuves du baccalauréat de français. Cette reconnaissance académique est une spécificité française — peu de pays traitent leur chanson populaire comme de la littérature."
       }
     ]
   },
   "ru": {
     "module_title": "Искусство, литература и музыка",
-    "lesson_title": "Французская песня",
-    "lesson_subtitle": "Содержание готовится",
-    "intro": "Этот урок углублённо изучает тему: Французская песня. Он охватывает шесть ключевых аспектов для понимания Франции и успешной интеграции.",
+    "lesson_title": "Французская шансон",
+    "lesson_subtitle": "От Пиаф до Стромэ: век слов, положенных на музыку",
+    "intro": "Французская шансон — самостоятельное искусство, а не «популярная музыка» в снисходительном смысле слова. Это традиция, ставящая слова редкого литературного качества на запоминающиеся мелодии. Эдит Пиаф, Жак Брель, Жорж Брассанс, Барбара, Серж Генсбур,Ален Сушон, Рено, MC Solaar, Стромэ, Christine and the Queens — каждое поколение рождает своих неповторимых голосов, говорящих о любви, политике, обществе, смерти с такой откровенностью и поэзией, которой мало что может соперничать в мировой музыкальной культуре.",
     "sections": [
       {
         "theme": "История",
         "icon": "📜",
-        "title": "Исторический контекст",
-        "body": "**Французская песня** уходит корнями в долгую французскую традицию. Чтобы понять сегодняшнюю Францию, нужно знать её историческое прошлое.\n\nОт Революции 1789 года до законов Третьей республики — ключевые даты сформировали нынешние практики. Девиз **«Свобода, Равенство, Братство»** по-прежнему направляет коллективные решения.\n\nСегодня это наследие прослеживается в институтах, социальных практиках и повседневной культуре."
+        "title": "От кафе-концерта к новой французской сцене",
+        "body": "Современная французская шансон рождается в **XIX веке** в **кафе-концертах** и **кабаре** Парижа — «Ша Нуар» (Монмартр, 1881), «Фоли-Бержер», «Мулен Руж». Аристид Брюан (увековеченный на плакатах Тулуз-Лотрека) поёт о нищете предместий с жаргонной колкостью. Этот народный и поэтический питательный слой — источник всего.\n\nГоды 1930–1950 — золотой век: **Эдит Пиаф** (1915–1963) воплощает французскую шансон для всего мира — *La Vie en rose*, *Non, je ne regrette rien*, *L'Hymne à l'amour*. Её мощный голос, трагическая судьба (сирота, улица, боксёр, Сопротивление, аварии) делают её универсальным мифом. **Шарль Трене** (*La Mer*, *Douce France*) изобретает современную поэтическую шансон. **Морис Шевалье** покоряет Голливуд.\n\n**Поколение «поэтов»** 1950–1970-х — возможно, самое знаковое: **Жорж Брассанс** (1921–1981) — мягкий поэт-анархист с гитарой и усами (*Le Gorille*, *Les Copains d'abord*, *Mourir pour des idées*); **Жак Брель** (1929–1978, бельгиец, ставший парижанином) — вулканический, плотский (*Ne me quitte pas*, *Amsterdam*, *La Chanson des vieux amants*); **Барбара** (1930–1997) — «Чёрная дама», чёрный рояль (*Dis, quand reviendras-tu?*, *Nantes*, *L'Aigle noir*); **Лео Ферре** — радикальный поэт-анархист, положивший на музыку Аполлинера, Рембо, Верлена.\n\nГоды 1980–2000 — французский рок (Téléphone, Noir Désir), техно (Daft Punk — самые влиятельные французы в мировой музыке), французский рэп из пригородов (NTM, IAM, MC Solaar). XXI век: **Стромэ** (бельгиец) революционизирует франкоязычную шансон в мире, **Christine and the Queens** переосмысляет женский жанр, **Анжель**, **Grand Corps Malade** (слэм), **Эдди де Прэтто**."
       },
       {
-        "theme": "Регион",
-        "icon": "🗺️",
-        "title": "Региональные особенности",
-        "body": "Франция неоднородна. Каждый регион вносит свой цвет в эту тему.\n\n**Париж** концентрирует национальные институты, но у **провинции** свои обычаи. **Бретань**, **Прованс**, **Эльзас** или **Нормандия** — каждый регион имеет сильную идентичность.\n\nЭто региональное многообразие — настоящее богатство, которым французы гордятся."
-      },
-      {
-        "theme": "Политика и общество",
+        "theme": "Правовая база и тексты",
         "icon": "⚖️",
-        "title": "Правовая и республиканская база",
-        "body": "Во Франции закон точно регулирует эту сферу. **Конституция 1958 года** и органические законы определяют права и обязанности каждого.\n\nПрименяется принцип **светскости** (закон 1905 г.): государство нейтрально, убеждения остаются в частной сфере. В публичном пространстве общие правила обязательны для всех.\n\n**Service-public.fr** — ваш официальный справочник по всем административным процедурам."
+        "title": "Радиоквоты и защита французской шансон",
+        "body": "Франция — единственная страна в мире, обязывающая радиостанции соблюдать **квоты трансляции** франкоязычной музыки. **Закон от 1 февраля 1994 года** (закон Пелша) требует, чтобы частные радиостанции транслировали не менее **40% франкоязычных песен** в музыкальных программах, из которых половина должна быть «новыми произведениями» или «новыми именами». Этот спорный закон защищает французскую шансон от англосаксонского доминирования.\n\n**SACEM** (Общество авторов, композиторов и музыкальных издателей, основана в 1851 году) управляет авторскими правами французских и франкоязычных музыкальных творцов. Она взимает отчисления с радиостанций, общественных мест (бары, рестораны, магазины) и стриминговых платформ (Spotify, Deezer) для распределения между авторами-композиторами. Авторы-композиторы должны вступить в SACEM для получения своих прав.\n\n**Национальный центр музыки** (CNM, создан в 2020 году) — аналог CNC для музыки: финансирует создание, производство, распространение и экспорт французской музыки, особенно перед лицом стриминговых платформ, перераспределяющих очень мало независимым исполнителям. **Культурный пропуск** (300 €/год для 15–18-летних) можно использовать для покупки билетов на концерты, пластинок и уроков музыки."
       },
       {
-        "theme": "Экономика и быт",
-        "icon": "💼",
-        "title": "Влияние на повседневную жизнь",
-        "body": "Эта тема напрямую затрагивает вашу повседневность во Франции. Несколько практических ориентиров:\n\n• **Sécurité Sociale** (с 1945 г.) защищает всех законных жителей\n• **SMIC** гарантирует минимальную зарплату (~1 766 € брутто/месяц в 2024 г.)\n• 5 недель **оплачиваемого отпуска** — законное право\n• Экстренные службы: SAMU **15** · Полиция **17** · Пожарные **18** · Европейский **112**"
+        "theme": "Практические шаги",
+        "icon": "📋",
+        "title": "Слушать, видеть и понимать французскую шансон",
+        "body": "**Пять обязательных альбомов для понимания французской шансон:**\n— **Жорж Брассанс, «La Mauvaise Réputation»** (1952): квинтэссенция Брассанса — анархист, нежный, смешной, с текстами исключительной поэтической точности\n— **Жак Брель, «Enregistrement public à l'Olympia»** (1964): Брель в концерте — плоть, энергия, трагедия в прямом эфире\n— **Барбара, «Göttingen»** (1965): франко-германская пацифистская песня, рояль и обнажённый голос — одна из красивейших на французском языке\n— **Генсбур, «Histoire de Melody Nelson»** (1971): концептуальный рок/шансон-альбом, аранжировки Жан-Клода Ванье — абсолютный шедевр\n— **Стромэ, «Racine carrée»** (2013): альбом, революционизировавший мировую франкоязычную шансон — *Papaoutai*, *Formidable*, *Carmen*\n\n**Концерты и фестивали**: **Олимпия** (Париж, легендарный зал 1893 года, 2 000 мест) остаётся храмом французской шансон. **Francofolies de La Rochelle** (июль) — крупнейший в мире фестиваль франкоязычной шансон. **Victoires de la Musique** (ежегодно в марте) — «Мольеры» музыки.\n\n**Для нефранкофонов**: французская шансон — отличный способ улучшить французский: слова ясны, просодия естественно следует языку. Ищите тексты на **Genius.fr** или **Paroles.net**."
       },
       {
-        "theme": "Художественная культура",
-        "icon": "🎨",
-        "title": "Художественное и культурное выражение",
-        "body": "Франция щедро инвестирует в культуру: ей посвящён 1% государственного бюджета. Эта тема питает богатое художественное творчество.\n\n**Лувр**, музей **Орсе** и **Центр Помпиду** хранят шедевры, связанные с этой тематикой. Фильмы **Новой волны** (Годар, Трюффо) и **французская песня** (Пиаф, Брель, Генсбур) несут её отпечаток.\n\nНациональные музеи **бесплатны** для молодёжи до 26 лет из стран ЕС."
+        "theme": "Права и средства защиты",
+        "icon": "🛡️",
+        "title": "Французский рэп и споры о свободе слова",
+        "body": "**Французский рэп** стал в стране первым музыкальным жанром по продажам — обогнав традиционную шансон и рок. Такие исполнители, как **Некфэ**, **Орельсан**, **PNL**, **SCH**, **Буба**, **Жюль**, доминируют в чартах. Французский рэп отличается от американского важностью, придаваемой текстам: французских рэперов нередко считают наследниками традиции шансон à texte.\n\nНо французский рэп также в центре **споров о свободе слова**. Ряд исполнителей становились фигурантами процессов за разжигание ненависти, оправдание терроризма или насилие в отношении женщин. Граница между провокационным искусством и преступными высказываниями — предмет регулярных дискуссий: защитники исполнителей апеллируют к свободе выражения, истцы — к нормализации насилия и дискриминации.\n\n**Гендерный вопрос** в французской музыке изменился: долгое время доминируемая мужчинами, французская сцена видит рождение мощных женских исполнительниц — **Анжель** (Бельгия, миллионы стримов), **Christine and the Queens** (трансгендер, экспериментальная поп, мировой успех), **Айя Накамура** (наиболее прослушиваемый в мире франкоязычный исполнитель в 2023 году, малийского происхождения, вызвавший споры на церемонии открытия Парижской Олимпиады 2024). Эти успехи открывают более разнообразную и открытую Францию, чем прежде."
       },
       {
-        "theme": "Гастрономия и социальные коды",
-        "icon": "🥖",
-        "title": "За столом и в социальной жизни",
-        "body": "Французская гастрономия (в реестре **ЮНЕСКО** с 2010 г.) неотделима от этой темы. Трапеза — социальный акт, а не просто питание.\n\n**Коды для русскоязычного:**\n• Говорить **«Bonjour»** везде при входе — всегда\n• Не говорить о зарплате и деньгах в обществе\n• **Quart d'heure de politesse**: приходить в гости на 15 мин позже условленного\n• Хлеб кладут на стол, а не в тарелку"
+        "theme": "Влияние на повседневную жизнь",
+        "icon": "🏠",
+        "title": "Музыка в повседневной жизни французов",
+        "body": "Французы слушают музыку преимущественно через **стриминг**: Spotify, Deezer (французская платформа, основана в 2007 году, пионер стриминга в мире), YouTube Music. Продажи физических дисков упали на 90% с 2000 года, но **винил** переживает впечатляющее возрождение — молодёжь покупает проигрыватели и пластинки любимых исполнителей.\n\n**Фестивали** — момент интенсивной социальной жизни: **Rock en Seine** (Париж, август), **Solidays** (Париж, июнь — против СПИДа), **Vieilles Charrues** (Бретань, июль — 70 000 человек/день), **Hellfest** (Луара-Атлантика, метал — 60 000/день), **Jazz à Juan** (Антиб, июль). Эти фестивали — социальные ритуалы не меньше, чем музыкальные события: живут в палатках, едят вместе, заводят знакомства.\n\n**Любительская музыкальная практика** очень распространена: 8 млн французов играют на инструменте. **Муниципальные консерватории** предлагают занятия для всех возрастов по доступным тарифам. Культура **карaoке** менее развита, чем в Азии или Великобритании, — французы предпочитают петь в компании друзей, с гитарой, песни Брассанса или Рено.\n\n**Французская шансон преподаётся в школе**: тексты Превера, Бреля, Барбары присутствуют в учебниках французского и анализируются как литературные произведения. Некоторые тексты песен фигурируют даже на экзаменах бакалавриата. Это академическое признание — французская исключительность: немногие страны обращаются со своей популярной песней как с литературой."
+      },
+      {
+        "theme": "Основной словарь",
+        "icon": "📖",
+        "title": "Слова французской шансон и музыки",
+        "body": "**La chanson à texte / Шансон à texte**: французский музыкальный жанр, ставящий литературное качество текста выше музыкальной виртуозности — традиция Бреля, Брассанса, Барбары, Ферре, продолжаемая сегодня некоторыми рэперами.\n\n**Les quotas radio / Радиоквоты**: законодательное обязательство (закон 1994 года) для французских частных радиостанций транслировать не менее 40% франкоязычных песен — защита французской шансон от англосаксонского доминирования.\n\n**La SACEM**: Общество авторов, композиторов и музыкальных издателей (основана в 1851 году) — собирает и перераспределяет музыкальные авторские права творцам через радиостанции, общественные места и стриминговые платформы.\n\n**L'Olympia / Олимпия**: легендарный парижский концертный зал (1893, 2 000 мест) — храм французской шансон. «Выйти на сцену Олимпии» — признание для артиста.\n\n**Les Victoires de la Musique / «Виктуар де ла Мюзик»**: ежегодная церемония (март), отмечающая лучших артистов и альбомы года — музыкальный эквивалент «Мольеров» и «Сезаров».\n\n**Deezer**: французская пионерская стриминговая платформа (основана в 2007 году) — конкурент Spotify, присутствующий в 180 странах. Одна из редких крупных французских технологических компаний в культурном секторе."
       }
     ],
     "conseil_ami": {
       "title": "Дружеский совет 🤝",
       "icon": "💡",
-      "content": "**Невидимый код, связанный с темой «Французская песня»:**\n\nВо Франции видимость спонтанности часто скрывает строго закодированные правила. Там, где русский будет прямым и практичным, французу нужно сначала «обернуть» просьбу в формулы вежливости.\n\nНапример, никогда не начинать разговор сразу с сути: сначала «Как дела?», обмен любезностями — и только потом настоящая просьба. Для французов этот социальный ритуал — не потеря времени, а уважение к другому человеку как личности."
+      "content": "**Слушать французскую шансон — один из лучших способов улучшить французский и войти в культуру.** Начните с Бреля (*Ne me quitte pas* — одна из красивейших песен на французском языке, доступная даже без полного понимания слов) и Пиаф (*La Vie en rose*). Слушайте несколько раз с текстом перед глазами.\n\nКультурный совет: если хотите произвести впечатление на образованного французского человека старше 50 лет — упомяните Брассанса или Барбару: эти исполнители нередко вызывают очень эмоциональную ностальгию и длинный разговор. Если предпочитаете молодых французов — говорите о Стромэ, Анжель или Орельсане: вас мгновенно воспримут как любопытного и открытого человека."
     },
     "glossary": [
       {
-        "term": "La République / Республика",
-        "definition": "Политический строй, при котором избранные руководят от имени народа."
+        "term": "La chanson à texte / Шансон à texte",
+        "definition": "Французский музыкальный жанр, ставящий литературное качество текста во главу угла — традиция Бреля, Брассанса, Барбары, продолжаемая некоторыми рэперами."
       },
       {
-        "term": "La laïcité / Светскость",
-        "definition": "Разделение церкви и государства (закон 1905 года)."
+        "term": "Les quotas radio / Радиоквоты",
+        "definition": "Законодательное обязательство (закон 1994): французские частные радиостанции должны транслировать не менее 40% франкоязычных песен — защита от англосаксонского доминирования."
       },
       {
-        "term": "Le SMIC / СМИК",
-        "definition": "Национальная минимальная межотраслевая зарплата."
+        "term": "La SACEM",
+        "definition": "Общество авторов, композиторов и издателей (основана 1851) — собирает и перераспределяет музыкальные авторские права через радиостанции, общественные места и стриминговые платформы."
       },
       {
-        "term": "La Carte Vitale / Карт Виталь",
-        "definition": "Электронная карта медицинского страхования."
+        "term": "L'Olympia / Олимпия",
+        "definition": "Легендарный парижский концертный зал (1893, 2 000 мест) — храм французской шансон. «Выйти на сцену Олимпии» — признание для артиста."
       },
       {
-        "term": "Le quart d'heure de politesse / Четверть часа вежливости",
-        "definition": "Обычай приходить в гости на 15 минут позже условленного времени."
+        "term": "Les Victoires de la Musique / «Виктуар де ла Мюзик»",
+        "definition": "Ежегодная церемония (март), отмечающая лучших артистов и альбомы года — музыкальный эквивалент «Мольеров» и «Сезаров»."
       },
       {
-        "term": "Le patrimoine / Наследие",
-        "definition": "Совокупность культурных, природных и исторических ценностей."
+        "term": "Deezer",
+        "definition": "Французская пионерская стриминговая платформа (основана 2007) — конкурент Spotify в 180 странах. Одна из редких крупных французских технологических компаний в культурном секторе."
       }
     ],
     "quiz": [
       {
-        "question": "Какой основополагающий принцип регулирует тему «Французская песня» во Французской республике?",
+        "question": "Какой закон обязывает французские радиостанции транслировать не менее 40% франкоязычных песен?",
         "options": [
-          "Конституционная монархия",
-          "Свобода, Равенство, Братство",
-          "Закон рынка",
-          "Религиозная традиция"
+          "Закон Ланга о единой цене книги (1981)",
+          "Закон Пелша о радиоквотах (1994)",
+          "Закон об исключении культуры (2005)",
+          "Закон о свободе печати (1881)"
         ],
         "correct_index": 1,
-        "explanation": "Девиз «Свобода, Равенство, Братство» направляет все аспекты французского общества со времён Революции 1789 года."
+        "explanation": "Закон от 1 февраля 1994 года (закон Пелша, по имени продвигавшего его сенатора) обязывает частные французские радиостанции не менее 40% музыкального эфира отдавать французскоязычным песням, из которых половина должна быть «новыми произведениями» или «новыми именами». Цель — защита франкоязычного музыкального творчества от коммерческого доминирования англоязычной музыки."
       },
       {
-        "question": "Светскость во Франции означает, что...",
+        "question": "Какой исполнитель революционизировал мировую франкоязычную шансон альбомом «Racine carrée» в 2013 году?",
         "options": [
-          "Католицизм — официальная религия",
-          "Государство строго отделено от религий с 1905 года",
-          "Религия запрещена",
-          "Государство финансирует все религии"
+          "Рено",
+          "Стромэ",
+          "MC Solaar",
+          "Grand Corps Malade"
         ],
         "correct_index": 1,
-        "explanation": "Светскость (закон 1905 г.) строго разделяет государство и религии. Каждый свободен верить или не верить в частной жизни."
+        "explanation": "Стромэ (Поль ван Хавер, род. 1985 в Брюсселе, отец-руандец, мать-бельгийка) революционизировал франкоязычную шансон альбомом «Racine carrée» (2013): Papaoutai (об отсутствии отца), Formidable (пьяный на улице), Carmen (критика соцсетей через Бизе). Альбом получил платиновые сертификаты в 10 странах и сделал Стромэ наиболее международно признанным франкоязычным артистом своего поколения."
       },
       {
-        "question": "Какой номер скорой медицинской помощи (SAMU) во Франции?",
+        "question": "Чем занимается SACEM?",
         "options": [
-          "17",
-          "18",
-          "15",
-          "112"
-        ],
-        "correct_index": 2,
-        "explanation": "15 — номер SAMU. 17 — полиция, 18 — пожарные, 112 — единый европейский номер."
-      },
-      {
-        "question": "Членом-основателем какой международной организации является Франция?",
-        "options": [
-          "Только НАТО",
-          "Только ООН",
-          "Европейский союз и ООН",
-          "Лига арабских государств"
-        ],
-        "correct_index": 2,
-        "explanation": "Франция — страна-основатель ЕС (Римский договор 1957) и постоянный член Совета Безопасности ООН."
-      },
-      {
-        "question": "Что такое «quart d'heure de politesse» во Франции?",
-        "options": [
-          "Ритуал 15 минут перед едой",
-          "Обычай приходить в гости на 15 мин позже условленного",
-          "Законный перерыв на работе",
-          "Время для утреннего кофе"
+          "Управляет субсидиями государственному радиовещанию",
+          "Собирает авторские права музыкальных творцов с радиостанций и стриминговых платформ и распределяет их среди авторов",
+          "Программирует выступления на Олимпии",
+          "Устанавливает квоты музыкального вещания на телевидении"
         ],
         "correct_index": 1,
-        "explanation": "Во Франции прийти точно вовремя в гости может быть воспринято как «слишком педантично» — принято опаздывать на 10-15 минут. Но на деловую встречу это не распространяется — там нужна точность."
+        "explanation": "SACEM (основана в 1851 году) собирает авторские права со всех, кто использует музыку: радиостанции, телевидение, общественные места (бары, рестораны, магазины), стриминговые платформы (Spotify, Deezer), кинотеатры... Затем она перераспределяет эти права аффилированным авторам-композиторам пропорционально использованию их произведений."
+      },
+      {
+        "question": "Почему Эдит Пиаф считается универсальным мифом?",
+        "options": [
+          "Она была первой женщиной, певшей по-французски",
+          "Её мощный голос и трагическая судьба (сирота, улица, драматические любови) сделали её универсальным символом",
+          "Она изобрела жанр шансон à texte",
+          "Она была первым французским исполнителем, выступившим в США"
+        ],
+        "correct_index": 1,
+        "explanation": "Эдит Пиаф (1915–1963) — универсальный миф благодаря сочетанию исключительно мощного и трогательного голоса с трагической судьбой: брошенная при рождении, детство на улице, открытие в кабаре, драматические романы (гибель Марселя Сердана), автомобильные аварии, зависимости... Её песни (*La Vie en rose*, *Non je ne regrette rien*, *L'Hymne à l'amour*) — одни из самых известных в мире."
+      },
+      {
+        "question": "В чём особенность отношения к французской шансон в системе образования?",
+        "options": [
+          "Она запрещена в школе во имя светскости",
+          "Тексты песен (Бреля, Барбары, Превера) изучаются как литературные произведения и могут фигурировать на бакалавриате",
+          "Она преподаётся только в музыкальных консерваториях",
+          "В официальных программах она заменена классической музыкой"
+        ],
+        "correct_index": 1,
+        "explanation": "Во французской образовательной системе шансон трактуется как полноправная форма литературного выражения: тексты Жака Бреля, Барбары, Жоржа Брассанса, Жака Превера присутствуют в учебниках французского и анализируются как стихотворения. Некоторые тексты даже фигурируют на экзаменах бакалавриата. Это академическое признание — французская исключительность: немногие страны обращаются со своей популярной песней как с литературой."
       }
     ]
   }
